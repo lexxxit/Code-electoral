@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1966-12-30
+Version Consolidée au 1969-05-11
 
 # Partie législative
 
@@ -896,19 +896,6 @@ Les listes sont déposées au secrétariat de la mairie, communiquées et publi�
 	  - Code électoral - art. R13 (M)
 
 
-###### Article L22
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°69-419 du 10 mai 1969, v. init.
-
-
 ###### Article L23
 
 L'électeur qui a été l'objet d'une radiation d'office de la part des commissions administratives désignées à l'article L. 17
@@ -936,19 +923,6 @@ observations.
 	**Cite**:
 
 	  - Code électoral - art. L17
-
-
-###### Article L24
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°69-419 du 10 mai 1969, v. init.
 
 
 ###### Article L28
@@ -1833,6 +1807,54 @@ tour de scrutin.
 	  - Loi n°2016-1048 du 1er août 2016 - art. 8
 
 
+###### Article L57-1
+
+Des machines à voter peuvent être utilisées dans les bureaux de vote des communes de plus de 30 000 habitants figurant sur
+une liste qui sera fixée par décret en Conseil d'État.
+
+Les machines à voter doivent être d'un modèle agréé par arrêté du ministre de l'Intérieur et satisfaire aux conditions
+suivantes :
+
+- comporter un dispositif qui soustrait l'électeur aux regards pendant le vote ;
+
+- permettre l'enregistrement d'un vote blanc ;
+
+- ne pas permettre l'enregistrement de plus d'un seul suffrage par électeur ;
+
+- totaliser le nombre des votants sur un compteur qui peut être lu pendant les opérations de vote ;
+
+- totaliser les suffrages obtenus par chaque liste ou chaque candidat ainsi que les votes blancs, sur des compteurs qui ne
+peuvent être lus qu'après la clôture du scrutin ;
+
+- ne pouvoir être utilisées qu'à l'aide de deux clefs différentes, de telle manière que, pendant la durée du scrutin, l'une
+reste entre les mains du président du bureau de vote et l'autre entre les mains de l'assesseur tiré au sort parmi l'ensemble
+des assesseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°69-419 1969-05-10 art. 6 JORF 11 mai 1969
+
+	**Cité par**:
+
+	  - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Code électoral - art. L313 (V)
+	  - Code électoral - art. L562 (M)
+	  - Code électoral - art. R56 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-238 du 18 mars 2004
+	  - TXT_SOURCE: Décret n°2004-238 du 18 mars 2004 - art. 3 (V)
+
+
 ###### Article L58
 
 Dans chaque salle de scrutin les candidats ou les mandataires de chaque liste peuvent faire déposer des bulletins de vote sur
@@ -2289,6 +2311,33 @@ soit à la mairie.
 	**Modifié par**:
 
 	  - Loi n°69-419 1969-05-10 art. 14 JORF 11 mai 1969
+
+
+###### Article L69
+
+Les frais de fourniture des enveloppes, ceux qu'entraîne l'aménagement spécial prévu à l'article L. 62, ainsi que les
+dépenses résultant de l'acquisition, de la location et de l'entretien des machines à voter sont à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°69-419 1969-05-10 art. 15 JORF 11 mai 1969
+
+	**Cité par**:
+
+	  - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
+	  - Décret n°92-770 du 6 août 1992 - art. 3 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code électoral - art. L316 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L62 (V)
 
 
 ###### Article L70
@@ -5270,6 +5319,34 @@ l'ordonnance du 6 janvier 1945.
 	  - Ordonnance 1945-01-06
 
 
+###### Article L205
+
+Tout conseiller général qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
+d'inéligibilité prévus par les articles L. 195, L. 199 et L. 200 ou se trouve frappé de l'une des incapacités qui font perdre
+la qualité d'électeur, est déclaré démissionnaire par le conseil général soit d'office, soit sur la réclamation de tout
+électeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°69-419 1969-05-10 art. 18 JORF 11 mai 1969
+
+	**Cite**:
+
+	  - Code électoral - art. L195 (M)
+	  - Code électoral - art. L199 (M)
+	  - Code électoral - art. L200 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. L221 (VT)
+
+
 #### Chapitre IV : Incompatibilités
 
 ###### Article L206
@@ -5380,6 +5457,53 @@ soit sur la réclamation de tout électeur.
 	**Anciens textes**:
 
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 18 (Ab)
+
+
+#### Chapitre IV bis : Déclarations de candidature
+
+###### Article L210-1
+
+Tout candidat à l'élection au conseil général doit obligatoirement souscrire une déclaration de candidature dans les
+conditions prévues par le règlement d'administration publique visé à l'article L. 217.
+
+Nul ne peut être candidat au deuxième tour s'il ne s'est présenté au premier tour et s'il n'a obtenu un nombre de suffrages
+au moins égal à 10 % du nombre des électeurs inscrits.
+
+Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu après celui-ci le plus grand nombre de
+suffrages au premier tour peut se maintenir au second.
+
+Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
+premier tour peuvent se maintenir au second.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°69-419 1969-05-10 art. 19 JORF 11 mai 1969
+
+	**Modifié par**:
+
+	  - Loi n°76-665 1976-07-19 art. 2 JORF 30 juillet 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+
+	**Cité par**:
+
+	  - Code électoral - art. L208 (VD)
+	  - Code électoral - art. L221 (VD)
+	  - Code électoral - art. L328 (M)
+	  - Code électoral - art. L328-4 (M)
+	  - Code électoral - art. R109-1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L217 (M)
 
 
 #### Chapitre V : Propagande
