@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1985-01-26
+Version Consolidée au 1985-06-14
 
 # Partie législative
 
@@ -9583,119 +9583,46 @@ Les dispositions des articles L. 106 à L. 110 et L. 113 à L. 117 sont applicab
 	  - Code électoral - art. L113 (V)
 
 
-## Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon
+## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 ###### Article L328
 
-Les articles L. 191, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles L. 191, L. 192, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral l191, l192, l193, l210-1, l213, l221
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code électoral - art. L191 (V)
-	  - Code électoral - art. L193 (V)
-	  - Code électoral - art. L210-1 (M)
-	  - Code électoral - art. L213 (Ab)
-	  - Code électoral - art. L221 (M)
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 JUIN 1985
+	  - Loi n°85-595 du 11 juin 1985 - art. 45 () JORF 14 JUIN 1985
+
+	**Transféré par**:
+
+	  - Loi n°86-958 1986-08-13 art. 1 JORF 14 août 1986
 
 	**Nouveaux textes**:
 
 	  - Code électoral - art. L328-4 (Ab)
+	  - Code électoral - art. L328-4 (M)
 
 
 ###### Article L329
 
-Le conseil général de Saint-Pierre-et-Miquelon est composé de quatorze membres. Le département est divisé en deux
-circonscriptions électorales et les sièges sont répartis de la manière suivante : Saint-Pierre : onze sièges ; Miquelon-
-Langlade :
+Le conseil général de Saint-Pierre-et-Miquelon est composé de dix-neuf membres. La collectivité territoriale est divisée en
+deux circonscriptions électorales et les sièges sont répartis de la manière suivante : Saint-Pierre : quinze sièges ;
+Miquelon-Langlade :quatre sièges.
 
-trois sièges.
+Les conseillers généraux sont élus pour six ans ; ils sont rééligibles.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°82-104 1982-01-29 art. 1 JORF 30 JANVIER 1982
-
-
-###### Article L331
-
-Les élections se font au scrutin de liste majoritaire à deux tours. Au premier tour de scrutin, nul n'est élu s'il n'a
-réuni :
-
-la majorité absolue des suffrages exprimés;
-
-un nombre de suffrages au moins égal au quart des électeurs inscrits.
-
-Au second tour, l'élection a lieu à la majorité relative quel que soit le nombre de votants. Si plusieurs candidats
-obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
-
-Le panachage est autorisé. Les bulletins sont valables bien qu'ils portent plus ou moins de noms qu'il n'y a de conseillers à
-élire. Les derniers noms inscrits au-delà du nombre ne sont pas comptés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-	**Cité par**:
-
-	  - Code électoral - art. L332 (Ab)
-	  - Code électoral - art. L332-1 (M)
-
-
-###### Article L332
-
-Toute liste fait l'objet d'une déclaration collective revêtue de la signature de tous les candidats. Elle est déposée et
-enregistrée à la préfecture au plus tard le quinzième jour précédant le premier tour de scrutin .
-
-A défaut de signature, une procuration du candidat doit être produite. Il est donné au déposant un reçu provisoire de
-déclaration. Le récépissé définitif est délivré dans les trois jours.
-
-La déclaration doit mentionner :
-
-1° les nom, prénoms, date et lieu de naissance des candidats;
-
-2° la circonscription électorale dans laquelle la liste se présente;
-
-3° le titre de la liste. Plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre.
-
-Chaque liste doit comporter un nombre de noms de candidats égal à celui des sièges attribués à la circonscription
-correspondante.
-
-Nul ne peut être candidat sur plusieurs listes ni dans plus d'une circonscription.
-
-Après le dépôt de la liste aucun retrait de candidature n'est admis.
-
-En cas de décès de l'un des candidats, ses colistiers doivent le remplacer immédiatement par un nouveau candidat au rang qui
-leur convient. Cette nouvelle candidature fait l'objet d'une déclaration complémentaire soumise aux règles prévues ci-dessus.
-
-Aucune liste constituée en violation des alinéas précédents ou des dispositions du présent livre ne sera enregistrée. Les
-bulletins obtenus par une liste non enregistrée sont nuls.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-
-###### Article L334
-
-En cas de vacance par décès, démission ou pour toute autre cause, il sera procédé à des élections partielles dans un délai de
-trois mois à compter de la vacance.
-
-Toutefois, dans les six mois qui précèdent le renouvellement du conseil général, il n'est pas pourvu aux vacances.
+Les élections ont lieu au mois de mars. Les collèges électoraux sont convoqués le même jour que dans les départements.
 
 **Liens relatifs à cet article**
 
@@ -9705,16 +9632,9 @@ Toutefois, dans les six mois qui précèdent le renouvellement du conseil géné
 
 	**Modifié par**:
 
-	  - Loi n°69-419 1969-05-10 art. 20 JORF 11 mai 1969
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+	  - Loi n°85-595 du 11 juin 1985 - art. 45 () JORF 14 juin 1985
 
-	**Cité par**:
-
-	  - Code électoral - art. L328-4 (Ab)
-	  - Code électoral - art. L333-4 (Ab)
-	  - Code électoral - art. R174-1 (Ab)
-
-
-## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 ###### Article L330
 
@@ -9729,6 +9649,244 @@ A Saint-Pierre-et-Miquelon, le conseil général est renouvelé intégralement t
 	**Modifié par**:
 
 	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+
+###### Article L331
+
+Les conseillers généraux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats que
+de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, sous réserve de
+l'application des dispositions prévues au troisième alinéa de l'article L. 331-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L331-2 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. L332 (Ab)
+	  - Code électoral - art. L332-1 (M)
+
+
+###### Article L331-1
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre
+de sièges égal à la moitié du nombre des sièges à pourvoir, arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus
+de quatre sièges à pourvoir et à l'entier inférieur lorsqu'il y a moins de quatre sièges à pourvoir. Cette attribution
+opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la
+plus forte moyenne, sous réserve de l'application des dispositions du troisième alinéa ci-après.
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un deuxième tour.
+Il est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal à la moitié du nombre des sièges à pourvoir,
+arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus de quatre sièges à pourvoir et à l'entier inférieur
+lorsqu'il y a moins de quatre sièges à pourvoir. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges
+sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges
+sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous
+réserve de l'application des dispositions du troisième alinéa ci-après.
+
+Les listes qui n'ont pas obtenu au moins cinq pour cent de suffrages exprimés ne sont pas admises à répartition des sièges.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L331-2 (M)
+
+
+###### Article L331-2
+
+Nul ne peut être candidat [*conditions*] dans plus d'une circonscription électorale, ni sur plus d'une liste.
+
+Une déclaration de candidature est obligatoire pour chaque tour de scrutin.
+
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à dix
+pour cent du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des
+candidats ayant figuré au premier tour sur d'autres listes, sous réserve que celles-ci ne se présentent pas au second tour et
+qu'elles aient obtenu au premier tour au moins cinq pour cent des suffrages exprimés. En cas de modification de la
+composition d'une liste, l'ordre de présentation des candidats peut également être modifié.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une liste. Le choix
+de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture par la personne ayant eu la qualité de
+responsable de la liste constituée par ces candidats au premier tour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L331 (Ab)
+	  - Code électoral - art. L331-1 (Ab)
+	  - Code électoral - art. L331-2 (Ab)
+	  - Code électoral - art. L332 (Ab)
+	  - Code électoral - art. L332-1 (M)
+
+
+###### Article L332
+
+La déclaration de candidature résulte du dépôt à la préfecture d'une liste répondant aux conditions fixées aux articles L.
+331 et L. 331-2. Il en est délivré récépissé.
+
+Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
+candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
+personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
+second tour. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y
+figurent. La liste déposée indique expressément.
+
+1° Le titre de la liste présentée;
+
+2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
+
+Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
+compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
+signature.
+
+Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
+procèdent à aucune modification de leur composition au second tour.
+
+Est interdit l'enregistrement de la déclaration de candidature d'une liste constituée en violation des dispositions des
+articles L. 331, L. 331-2 et du présent article.
+
+Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L331 (M)
+	  - Code électoral - art. L331-2 (M)
+
+
+###### Article L332-1
+
+Les déclarations de candidatures doivent être déposées au plus tard [*délai*].
+
+- pour le premier tour, le deuxième vendredi qui précède le jour du scrutin, à vingt-quatre heures ;
+
+- pour le second tour, le mardi qui suit le premier tour, à vingt-quatre heures.
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
+
+Les retraits des listes complètes qui interviennent avant l'expiration des délais prévus à l'alinéa premier du présent
+article pour le dépôt des déclarations de candidatures sont enregistrés ; ils comportent la signature de la majorité des
+candidats de la liste.
+
+Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L331 (M)
+	  - Code électoral - art. L331-2 (M)
+
+
+###### Article L333
+
+Dans les quarante-huit heures qui suivent la déclaration de candidature, le mandataire de chaque liste doit justifier avoir
+versé entre les mains d'un comptable départemental du Trésor un cautionnement de 50 F candidature, pour pouvoir bénéficier
+des dispositions de l'article L. 216.
+
+Le cautionnement est remboursé aux listes qui ont recueilli au moins 5 % des suffrages exprimés dans la circonscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L216 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. L328-4 (Ab)
+
+
+###### Article L334
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller général élu sur
+cette liste dont le siège devient vacant pour quelque cause que ce soit. La constatation, par la juridiction administrative,
+de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection que du ou des élus inéligibles. La
+juridiction saisie proclame en conséquence l'élection du ou des suivants de liste.
+
+Lorsque les dispositions de l'alinéa précédent ne peuvent plus être appliquées, il est procédé au renouvellement du conseil
+général dans les deux mois de la dernière vacance, si le conseil général a perdu le tiers de ses membres.
+
+Toutefois, dans l'année qui précède le renouvellement du conseil général, les dispositions prévues à l'alinéa précédent ne
+peuvent être appliquées qu'au cas où le conseil général a perdu la moitié de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L328-4 (Ab)
+	  - Code électoral - art. L333-4 (Ab)
+	  - Code électoral - art. R174-1 (Ab)
 
 
 # Partie réglementaire
