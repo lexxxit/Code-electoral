@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2001-12-26
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -2710,13 +2710,16 @@ scrutin plurinominal, à une association à laquelle un ou plusieurs candidats a
 ###### Article L52-8
 
 Les dons consentis par une personne physique dûment identifiée pour le financement de la campagne d'un ou plusieurs candidats
-lors des mêmes élections ne peuvent excéder 30 000 F.
+lors des mêmes élections ne peuvent excéder 4 600 euros.
 
 Les personnes morales, à l'exception des partis ou groupements politiques, ne peuvent participer au financement de la
 campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des
 biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués.
 
-Tout don de plus de 1 000 F consenti à un candidat en vue de sa campagne doit être versé par chèque.
+Tout don de plus de 150 euros consenti à un candidat en vue de sa campagne doit être versé par chèque.
+
+Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du montant des dépenses autorisées lorsque ce
+montant est égal ou supérieur à 15 000 euros en application de l'article L. 52-11.
 
 Aucun candidat ne peut recevoir, directement ou indirectement, pour quelque dépense que ce soit, des contributions ou aides
 matérielles d'un Etat étranger ou d'une personne morale de droit étranger.
@@ -2747,18 +2750,14 @@ d'autres mentions que celles propres à permettre le versement du don.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
-
 	**Modifié par**:
 
-	  - Loi n°95-65 du 19 janvier 1995 - art. 4 () JORF 21 janvier 1995
+	  - Ordonnance 2000-916 2000-09-19 annexe II JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
 	  - Code électoral - art. L52-1 (M)
+	  - Code électoral - art. L52-11 (M)
 
 
 ###### Article L52-9
@@ -2794,8 +2793,8 @@ mandataire et reproduire les dispositions de l'article précédent.
 
 L'association de financement électorale ou le mandataire financier délivre au donateur un reçu dont un décret en Conseil
 d'Etat fixe les conditions d'établissement et d'utilisation. Ce décret détermine également les modalités selon lesquelles les
-reçus délivrés pour les dons d'un montant égal ou inférieur à 20 000 F consentis par les personnes physiques ne mentionnent
-pas le nom du ou des candidats bénéficiaires ou la dénomination de la liste bénéficiaire.
+reçus délivrés pour les dons d'un montant égal ou inférieur à 3 000 euros consentis par les personnes physiques ne
+mentionnent pas le nom du ou des candidats bénéficiaires ou la dénomination de la liste bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -2803,9 +2802,9 @@ pas le nom du ou des candidats bénéficiaires ou la dénomination de la liste b
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Ordonnance 2000-916 2000-09-19 annexe II JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -2814,129 +2813,262 @@ pas le nom du ou des candidats bénéficiaires ou la dénomination de la liste b
 
 ###### Article L52-11
 
-Pour les élections auxquelles l'article L. 52-4 est applicable, il est institué un plafond des dépenses électorales, autres
-que les dépenses de propagande directement prises en charge par l'Etat, exposées par chaque candidat ou chaque liste de
-candidats, ou pour leur compte, au cours de la période mentionnée au même article.
+Pour les élections auxquelles l'article L. 52-4 est applicable, il est institué un plafond des dépenses électorales (1),
+autres que les dépenses de propagande directement prises en charge par l'Etat, exposées par chaque candidat ou chaque liste
+de candidats, ou pour leur compte, au cours de la période mentionnée au même article. 
 
 Le montant du plafond est déterminé en fonction du nombre d'habitants de la circonscription d'élection, conformément au
-tableau ci-après :
+tableau ci-après : 
 
-- PLAFOND PAR HABITANT DES DEPENSES ELECTORALES :
+<table>
+  <tbody>
+    <tr>
+      <td width="123" rowspan="3">
 
-- FRACTION DE LA POPULATION de la circonscription :
+Fraction de la population de la circonscription : 
 
-- N'excédant pas 15 000 habitants :
+</td>
+      <td width="491" colspan="4">
 
-Election des conseillers municipaux :
+Plafond par habitant des de penses électorales (en euros) : 
 
-- Listes présentes au premier tour : 8.
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="246">
 
-- Listes présentes au second tour : 11.
+Election des conseillers municipaux : 
 
-Election des conseillers :
+</td>
+      <td width="123" rowspan="2">
 
-- généraux : 4,2.
+Election des conseillers généraux 
 
-- régionaux : 3,5.
+</td>
+      <td width="123" rowspan="2">
 
-- FRACTION DE LA POPULATION de la circonscription :
+Election des conseillers régionaux 
 
-- De 15 001 à 30 000 habitants : 
+</td>
+    </tr>
+    <tr>
+      <td width="123">
 
-Election des conseillers municipaux :
+Listes présentes au premier tour 
 
-- Listes présentes au premier tour : 7.
+</td>
+      <td width="123">
 
-- Listes présentes au second tour : 10.
+Listes présentes au second tour 
 
-Election des conseillers :
+</td>
+    </tr>
+    <tr>
+      <td width="123">
 
-- généraux : 3,5
+N'excédant pas 15 000 habitants : 
 
-- régionaux : 3,5.
+</td>
+      <td width="123">
 
-- FRACTION DE LA POPULATION de la circonscription :
+1, 22 
 
-- De 30 001 à 60 000 habitants :
+</td>
+      <td width="123">
 
-Election des conseillers municipaux :
+1, 68 
 
-- Listes présentes au premier tour : 6.
+</td>
+      <td width="123">
 
-- Listes présentes au second tour : 8.
+0, 64 
 
-Election des conseillers :
+</td>
+      <td width="123">
 
-- généraux : 2,8.
+0, 53 
 
-- régionaux : 3,5.
+</td>
+    </tr>
+    <tr>
+      <td width="123">
 
-- FRACTION DE LA POPULATION de la circonscription :
+De 15 001 à 30 000 habitants : 
 
-- De 60 001 à 100 000 habitants : 
+</td>
+      <td width="123">
 
-Election des conseillers municipaux :
+1, 07 
 
-- Listes présentes au premier tour : 5,5.
+</td>
+      <td width="123">
 
-- Listes présentes au second tour : 7,5.
+1, 52 
 
-Election des conseillers :
+</td>
+      <td width="123">
 
-- généraux : 2.
+0, 53 
 
-- régionaux : 3,5.
+</td>
+      <td width="123">
 
-- FRACTION DE LA POPULATION de la circonscription :
+0, 53 
 
-- De 100 001 à 150 000 habitants : 
+</td>
+    </tr>
+    <tr>
+      <td width="123">
 
-Election des conseillers municipaux :
+De 30 001 à 60 000 habitants : 
 
-- Listes présentes au premier tour : 5.
+</td>
+      <td width="123">
 
-- Listes présentes au second tour : 7.
+0, 91 
 
-Election des conseillers :
+</td>
+      <td width="123">
 
-- régionaux : 2,5.
+1, 22 
 
-- FRACTION DE LA POPULATION de la circonscription :
+</td>
+      <td width="123">
 
-- De 150 001 à 250 000 habitants : 
+0, 43 
 
-Election des conseillers municipaux :
+</td>
+      <td width="123">
 
-- Listes présentes au premier tour : 4,5.
+0, 53 
 
-- Listes présentes au second tour : 5,5.
+</td>
+    </tr>
+    <tr>
+      <td width="123">
 
-Election des conseillers :
+De 60 001 à 100 000 habitants : 
 
-- régionaux : 2.
+</td>
+      <td width="123">
 
-- FRACTION DE LA POPULATION de la circonscription :
+0, 84 
 
-- Excédant 250 000 habitants :
+</td>
+      <td width="123">
 
-Election des conseillers municipaux :
+1, 14 
 
-- Listes présentes au premier tour : 3,5.
+</td>
+      <td width="123">
 
-- Listes présentes au second tour : 5.
+0, 30 
 
-Election des conseillers :
+</td>
+      <td width="123">
 
-- régionaux : 1,5.
+0, 53 
 
-Le plafond des dépenses pour l'élection des députés est de 250 000 F par candidat. Il est majoré de 1 F par habitant de la
-circonscription.
+</td>
+    </tr>
+    <tr>
+      <td width="123">
+
+De 100 001 à 150 000 habitants : 
+
+</td>
+      <td width="123">
+
+0, 76 
+
+</td>
+      <td width="123">
+
+1, 07
+
+</td>
+      <td width="123">
+
+-
+
+</td>
+      <td width="123">
+
+0, 38 
+
+</td>
+    </tr>
+    <tr>
+      <td width="123">
+
+De 150 001 à 250 000 habitants : 
+
+</td>
+      <td width="123">
+
+0, 69 
+
+</td>
+      <td width="123">
+
+0, 84
+
+</td>
+      <td width="123">
+
+-
+
+</td>
+      <td width="123">
+
+0, 30 
+
+</td>
+    </tr>
+    <tr>
+      <td width="123">
+
+Excédant 250 000 habitants : 
+
+</td>
+      <td width="123">
+
+0, 53 
+
+</td>
+      <td width="123">
+
+0, 76
+
+</td>
+      <td width="123">
+
+-
+
+</td>
+      <td width="123">
+
+0, 23 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Le plafond des dépenses pour l'élection des députés est de 38 000 euros par candidat. Il est majoré de 0, 15 euro par
+habitant de la circonscription. 
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de
-Corse.
+Corse. 
 
 Ces plafonds sont actualisés tous les trois ans par décret, en fonction de l'indice du coût de la vie de l'Institut national
 de la statistique et des études économiques.
+
+**Nota:**
+
+(1) : Décret 2009-1730 du 30 décembre 2009 art. 1 : Le montant du plafond des dépenses électorales est multiplié par le
+coefficient de 1,23 pour les élections auxquelles les dispositions de l'article L. 52-11 du code électoral sont applicables,
+à l'exception de celles des députés et des représentants au Parlement européen.
 
 **Liens relatifs à cet article**
 
@@ -2989,11 +3121,11 @@ de la statistique et des études économiques.
 
 	**Modifié par**:
 
-	  - Loi n°95-65 du 19 janvier 1995 - art. 5 ()
+	  - Ordonnance 2000-916 2000-09-19 annexe II JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code électoral - art. L52-4 (M)
+	  - Code électoral - art. L52-4 (V)
 
 
 ###### Article L52-11-1
@@ -4433,7 +4565,7 @@ présent article sont fixées par décret en Conseil d'Etat.
 
 Toute personne qui se sera fait inscrire sur la liste électorale sous de faux noms ou de fausses qualités ou aura, en se
 faisant inscrire, dissimulé une incapacité prévue par la loi, ou aura réclamé et obtenu une inscription sur deux ou plusieurs
-listes, sera punie d'un emprisonnement d'un an et d'une amende de 100 000 F.
+listes, sera punie d'un emprisonnement d'un an et d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -4474,7 +4606,7 @@ listes, sera punie d'un emprisonnement d'un an et d'une amende de 100 000 F.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L87
@@ -4514,7 +4646,7 @@ punie des peines portées à l'article L. 113.
 Ceux qui, à l'aide de déclarations frauduleuses ou de faux certificats, se seront fait inscrire ou auront tenté de se faire
 inscrire indûment sur une liste électorale, ceux qui, à l'aide des mêmes moyens, auront fait inscrire ou rayer, tenté de
 faire inscrire ou rayer indûment un citoyen, et les complices de ces délits, seront passibles d'un emprisonnement d'un an et
-d'une amende de 100 000 F.
+d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -4539,15 +4671,13 @@ d'une amende de 100 000 F.
 
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 21 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L88-1
 
 Toute personne qui aura sciemment fait acte de candidature sous de faux noms ou de fausses qualités ou aura sciemment
-dissimulé une incapacité prévue par la loi sera punie d'un emprisonnement d'un an et d'une amende de 100 000 F.
+dissimulé une incapacité prévue par la loi sera punie d'un emprisonnement d'un an et d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -4555,9 +4685,9 @@ dissimulé une incapacité prévue par la loi sera punie d'un emprisonnement d'u
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 18 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -4572,7 +4702,7 @@ dissimulé une incapacité prévue par la loi sera punie d'un emprisonnement d'u
 
 ###### Article L89
 
-Toute infraction aux dispositions de l'article L. 49 et L. 52-2 sera punie d'une amende de 25 000 F sans préjudice de la
+Toute infraction aux dispositions de l'article L. 49 et L. 52-2 sera punie d'une amende de 3 750 euros sans préjudice de la
 confiscation des bulletins et autres documents distribués ou diffusés par tout moyen.
 
 **Liens relatifs à cet article**
@@ -4583,28 +4713,28 @@ confiscation des bulletins et autres documents distribués ou diffusés par tout
 
 	**Modifié par**:
 
-	  - Loi n°85-1317 1985-12-13 art. 22 JORF 14 Décembre 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L49 (M)
-	  - Code électoral - art. L52-2 (M)
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L49 (V)
 
+	**Cite**:
+
+	  - Code électoral - art. L49 (V)
+	  - Code électoral - art. L52-2 (V)
+
 
 ###### Article L90
 
-Sera passible d'une amende de 60 000 F :
+Sera passible d'une amende de 9 000 euros :
 
-- Tout candidat qui utilisera ou permettra d'utiliser son panneau d'affichage dans un but autre que la présentation et la
+- tout candidat qui utilisera ou permettra d'utiliser son panneau d'affichage dans un but autre que la présentation et la
 défense de sa candidature et de son programme, pour son remerciement ou son désistement ;
 
-- Tout candidat qui cédera à un tiers son emplacement d'affichage.
+- tout candidat qui cédera à un tiers son emplacement d'affichage. 
 
-Il sera en outre redevable des pénalités afférentes à l'affichage sans timbre.
+Il sera en outre redevable des pénalités afférentes à l'affichage sans timbre. 
 
 L'amende prévue à l'alinéa 1 du présent article sera également applicable à toute personne qui aura contrevenu aux
 dispositions du dernier alinéa de l'article L. 51.
@@ -4617,34 +4747,30 @@ dispositions du dernier alinéa de l'article L. 51.
 
 	**Modifié par**:
 
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. R611-94 (Ab)
 
-	**Cite**:
-
-	  - Code électoral - art. L51 (M)
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L51 (V)
 
+	**Cite**:
+
+	  - Code électoral - art. L51 (VT)
+
 
 ###### Article L90-1
 
-Toute infraction aux dispositions de l'article L. 52-1 sera punie d'une amende de 500 000 F.
+Toute infraction aux dispositions de l'article L. 52-1 sera punie d'une amende de 75 000 euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°66-1022 1966-12-29 art. 3 JORF 30 décembre 1966
 
 	**Cité par**:
 
@@ -4652,17 +4778,21 @@ Toute infraction aux dispositions de l'article L. 52-1 sera punie d'une amende d
 	  - Loi n°77-808 du 19 juillet 1977 - art. 12 (M)
 	  - Loi n°86-1067 du 30 septembre 1986 - art. 14 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Cite**:
 
-	  - Code électoral - art. L52-1 (M)
+	  - Code électoral - art. L52-1 (V)
 
 
 ###### Article L91
 
 Celui qui, déchu du droit de voter, soit par suite d'une condamnation judiciaire, soit par suite d'une faillite non suivie de
 réhabilitation, aura voté, soit en vertu d'une inscription sur les listes antérieures à sa déchéance, soit en vertu d'une
-inscription postérieure, mais opérée sans sa participation, sera puni d'un emprisonnement de trois mois et d'une amende de 50
-000 F.
+inscription postérieure, mais opérée sans sa participation, sera puni d'un emprisonnement de trois mois et d'une amende de 7
+500 euros.
 
 **Liens relatifs à cet article**
 
@@ -4672,7 +4802,7 @@ inscription postérieure, mais opérée sans sa participation, sera puni d'un em
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -4686,7 +4816,7 @@ inscription postérieure, mais opérée sans sa participation, sera puni d'un em
 
 Quiconque aura substitué ou imité volontairement une signature sur la liste d'émargement ou aura voté soit en vertu d'une
 inscription obtenue dans les deux premiers cas prévus par l'article L. 86, soit en prenant faussement les nom et qualités
-d'un électeur inscrit, sera puni d'un emprisonnement de six mois à deux ans, et d'une amende de 2000 F à 100 000 F.
+d'un électeur inscrit, sera puni d'un emprisonnement de six mois à deux ans, et d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -4713,12 +4843,11 @@ d'un électeur inscrit, sera puni d'un emprisonnement de six mois à deux ans, e
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 19 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code électoral - art. L86 (M)
+	  - Code électoral - art. L86 (V)
 
 
 ###### Article L93
@@ -4756,7 +4885,7 @@ Sera puni de la même peine tout citoyen qui aura profité d'une inscription mul
 
 Quiconque étant chargé, dans un scrutin, de recevoir, compter ou dépouiller les bulletins contenant les suffrages des
 citoyens, aura soustrait, ajouté ou altéré des bulletins, ou lu un nom autre que celui inscrit, sera puni d'un emprisonnement
-de cinq ans et d'une amende de 2000 F à 150 000 F.
+de cinq ans et d'une amende de 22 500 euros.
 
 **Liens relatifs à cet article**
 
@@ -4778,7 +4907,7 @@ de cinq ans et d'une amende de 2000 F à 150 000 F.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L95
@@ -4810,7 +4939,7 @@ un nom autre que celui qui lui était désigné.
 
 ###### Article L96
 
-En cas d'infraction à l'article L. 61 la peine sera d'un emprisonnement de trois mois et d'une amende de 50 000 F si les
+En cas d'infraction à l'article L. 61 la peine sera d'un emprisonnement de trois mois et d'une amende de 7 500 euros si les
 armes étaient cachées.
 
 **Liens relatifs à cet article**
@@ -4821,7 +4950,7 @@ armes étaient cachées.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
@@ -4836,7 +4965,7 @@ armes étaient cachées.
 
 Ceux qui, à l'aide de fausses nouvelles, bruits calomnieux ou autres manoeuvres frauduleuses, auront surpris ou détourné des
 suffrages, déterminé un ou plusieurs électeurs à s'abstenir de voter, seront punis d'un emprisonnement d'un an et d'une
-amende de 100 000 F.
+amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -4863,14 +4992,14 @@ amende de 100 000 F.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L98
 
 Lorsque, par attroupements, clameurs ou démonstrations menaçantes, on aura troublé les opérations d'un collège électoral,
 porté atteinte à l'exercice du droit électoral ou à la liberté du vote, les coupables seront punis d'un emprisonnement de
-deux ans et d'une amende de 100 000 F.
+deux ans et d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -4880,13 +5009,13 @@ deux ans et d'une amende de 100 000 F.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L99
 
 Toute irruption dans un collège électoral consommée ou tentée avec violence en vue d'empêcher un choix sera punie d'un
-emprisonnement de cinq ans et d'une amende de 150 000 F.
+emprisonnement de cinq ans et d'une amende de 22 500 euros.
 
 **Liens relatifs à cet article**
 
@@ -4896,7 +5025,7 @@ emprisonnement de cinq ans et d'une amende de 150 000 F.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L100
@@ -4930,8 +5059,8 @@ exécuté, soit dans toute la République, soit dans un ou plusieurs départemen
 
 Les membres d'un collège électoral qui, pendant la réunion, se seront rendus coupables d'outrages ou de violences, soit
 envers le bureau, soit envers l'un de ses membres, ou qui, par voies de fait ou menaces, auront retardé ou empêché les
-opérations électorales, seront punis d'un emprisonnement d'un an et d'une amende de 100 000 F. Si le scrutin a été violé,
-l'emprisonnement sera de cinq ans, et l'amende de 150 000 F.
+opérations électorales, seront punis d'un emprisonnement d'un an et d'une amende de 15 000 euros. Si le scrutin a été violé,
+l'emprisonnement sera de cinq ans, et l'amende de 22 500 euros.
 
 **Liens relatifs à cet article**
 
@@ -4941,7 +5070,7 @@ l'emprisonnement sera de cinq ans, et l'amende de 150 000 F.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -4951,7 +5080,7 @@ l'emprisonnement sera de cinq ans, et l'amende de 150 000 F.
 ###### Article L103
 
 L'enlèvement de l'urne contenant les suffrages émis et non encore dépouillés sera puni d'un emprisonnement de cinq ans, et
-d'une amende de 150 000 F.
+d'une amende de 22 500 euros.
 
 Si cet enlèvement a été effectué en réunion et avec violence, la peine sera de dix ans d'emprisonnement.
 
@@ -4981,7 +5110,7 @@ Si cet enlèvement a été effectué en réunion et avec violence, la peine sera
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L104
@@ -5027,7 +5156,7 @@ Quiconque, par des dons ou libéralités en argent ou en nature, par des promess
 publics ou privés ou d'autres avantages particuliers, faits en vue d'influencer le vote d'un ou de plusieurs électeurs aura
 obtenu ou tenté d'obtenir leur suffrage, soit directement, soit par l'entremise d'un tiers, quiconque, par les mêmes moyens,
 aura déterminé ou tenté de déterminer un ou plusieurs d'entre eux à s'abstenir, sera puni de deux ans d'emprisonnement et
-d'une amende de 100 000 F.
+d'une amende de 15 000 euros.
 
 Seront punis des mêmes peines ceux qui auront agréé ou sollicité les mêmes dons, libéralités ou promesses.
 
@@ -5063,7 +5192,7 @@ Seront punis des mêmes peines ceux qui auront agréé ou sollicité les mêmes 
 
 	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L107
@@ -5071,7 +5200,7 @@ Seront punis des mêmes peines ceux qui auront agréé ou sollicité les mêmes 
 Ceux qui, soit par voies de fait, violences ou menaces contre un électeur, soit en lui faisant craindre de perdre son emploi
 ou d'exposer à un dommage sa personne, sa famille ou sa fortune, l'auront déterminé ou auront tenté de le déterminer à
 s'abstenir de voter, ou auront influencé ou tenté d'influencer son vote, seront punis d'un emprisonnement de deux ans et
-d'une amende de 100 000 F.
+d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -5096,14 +5225,14 @@ d'une amende de 100 000 F.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L108
 
 Quiconque, en vue d'influencer le vote d'un collège électoral ou d'une fraction de ce collège, aura fait des dons ou
 libéralités, des promesses de libéralités ou de faveurs administratives, soit à une commune, soit à une collectivité
-quelconque de citoyens, sera puni d'un emprisonnement de deux ans et d'une amende de 100 000 F.
+quelconque de citoyens, sera puni d'un emprisonnement de deux ans et d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -5133,7 +5262,7 @@ quelconque de citoyens, sera puni d'un emprisonnement de deux ans et d'une amend
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L109
@@ -5215,7 +5344,7 @@ commission administrative ou municipale, soit dans un bureau de vote ou dans les
 sous-préfectures, avant, pendant ou après un scrutin, aura, par inobservation volontaire de la loi ou des arrêtés
 préfectoraux, ou par tous autres actes frauduleux, violé ou tenté de violer le secret du vote, porté atteinte ou tenté de
 porter atteinte à sa sincérité, empêché ou tenté d'empêcher les opérations du scrutin, ou qui en aura changé ou tenté de
-changer le résultat, sera puni d'une amende de 100 000 F et d'un emprisonnement d'un an ou de l'une de ces deux peines
+changer le résultat, sera puni d'une amende de 15 000 euros et d'un emprisonnement d'un an ou de l'une de ces deux peines
 seulement.
 
 Si le coupable est fonctionnaire de l'ordre administratif ou judiciaire, agent ou préposé du Gouvernement ou d'une
@@ -5281,42 +5410,44 @@ double.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 20 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 21 () JORF 4 janvier 1989
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L113-1
 
-I. - Sera puni d'une amende de 25 000 F et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, tout
-candidat en cas de scrutin uninominal, ou tout candidat tête de liste en cas de scrutin de liste, qui :
+I.-Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, tout
+candidat en cas de scrutin uninominal, ou tout candidat tête de liste en cas de scrutin de liste, qui : 
 
 1° Aura, en vue de financer une campagne électorale, recueilli des fonds en violation des prescriptions de l'article L.
-52-4 ;
+52-4 ; 
 
-2° Aura accepté des fonds en violation des dispositions de l'article L. 52-8 ou L. 308-1 ;
+2° Aura accepté des fonds en violation des dispositions de l'article L. 52-8 ou L. 308-1 ; 
 
-3° Aura dépassé le plafond des dépenses électorales fixé en application de l'article L. 52-11 ;
+3° Aura dépassé le plafond des dépenses électorales fixé en application de l'article L. 52-11 ; 
 
-4° N'aura pas respecté les formalités d'établissement du compte de campagne prévues par les articles L. 52-12 et L. 52-13 ;
+4° N'aura pas respecté les formalités d'établissement du compte de campagne prévues par les articles L. 52-12 et L. 52-13 ; 
 
-5° Aura fait état, dans le compte de campagne ou dans ses annexes, d'éléments comptables sciemment minorés ;
+5° Aura fait état, dans le compte de campagne ou dans ses annexes, d'éléments comptables sciemment minorés ; 
 
 6° Aura bénéficié, sur sa demande ou avec son accord exprès, d'affichages ou de publicité commerciale ne respectant pas les
-dispositions des articles L. 51 et L. 52-1 ;
+dispositions des articles L. 51 et L. 52-1 ; 
 
 7° Aura bénéficié, sur sa demande ou avec son accord exprès, de la diffusion auprès du public d'un numéro d'appel
-téléphonique ou télématique gratuit.
+téléphonique ou télématique gratuit. 
 
-II. - Sera puni d'une amende de 25 000 F et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, quiconque
-aura, en vue d'une campagne électorale, accordé un don en violation des dispositions de l'article L. 52-8.
+II.-Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, quiconque
+aura, en vue d'une campagne électorale, accordé un don en violation des dispositions de l'article L. 52-8. 
 
 Lorsque le donateur sera une personne morale, les dispositions de l'alinéa ci-dessus seront applicables à ses dirigeants de
-droit ou de fait.
+droit ou de fait. 
 
-III. - Sera puni d'une amende de 25 000 F et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, quiconque
-aura, pour le compte d'un candidat ou d'un candidat tête de liste, sans agir sur sa demande, ou sans avoir recueilli son
-accord exprès, effectué une dépense de la nature de celles prévues à l'article L. 52-12.
+III.-Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement,
+quiconque aura, pour le compte d'un candidat ou d'un candidat tête de liste, sans agir sur sa demande, ou sans avoir
+recueilli son accord exprès, effectué une dépense de la nature de celles prévues à l'article L. 52-12.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -5324,13 +5455,13 @@ accord exprès, effectué une dépense de la nature de celles prévues à l'arti
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 1 () JORF 11 juillet 2000
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -5345,13 +5476,13 @@ accord exprès, effectué une dépense de la nature de celles prévues à l'arti
 
 	**Cite**:
 
-	  - Code électoral - art. L51 (M)
-	  - Code électoral - art. L52-1 (M)
-	  - Code électoral - art. L52-11 (M)
-	  - Code électoral - art. L52-12 (M)
-	  - Code électoral - art. L52-13 (V)
-	  - Code électoral - art. L52-4 (M)
-	  - Code électoral - art. L52-8 (M)
+	  - Code électoral - art. L308-1 (V)
+	  - Code électoral - art. L51 (VT)
+	  - Code électoral - art. L52-1 (V)
+	  - Code électoral - art. L52-11 (VT)
+	  - Code électoral - art. L52-12 (VT)
+	  - Code électoral - art. L52-4 (VT)
+	  - Code électoral - art. L52-8 (V)
 
 
 ###### Article L114
@@ -6614,11 +6745,11 @@ véhicule et dirigées contre une personne morale de droit public.
 Il est interdit à tout député de faire ou de laisser figurer son nom suivi de l'indication de sa qualité dans toute publicité
 relative à une entreprise financière, industrielle ou commerciale.
 
-Seront punis d'un emprisonnement de six mois et d'une amende de 25 000 F ou de l'une de ces deux peines seulement les
+Seront punis d'un emprisonnement de six mois et d'une amende de 3 750 euros ou de l'une de ces deux peines seulement les
 fondateurs, les directeurs ou gérants de sociétés ou d'établissements à objet commercial, industriel ou financier qui auront
 fait ou laissé figurer le nom d'un député avec mention de sa qualité dans toute publicité faite dans l'intérêt de
 l'entreprise qu'ils dirigent ou qu'ils se proposent de fonder. En cas de récidive, les peines ci-dessus prévues pourront être
-portées à un an d'emprisonnement et 50 000 F d'amende.
+portées à un an d'emprisonnement et 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -6633,7 +6764,7 @@ portées à un an d'emprisonnement et 50 000 F d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article LO151
@@ -7211,7 +7342,7 @@ compte des délais d'acheminement et des différences d'heures.
 
 ###### Article L168
 
-Sera puni d'une amende de 25 000 F et d'un emprisonnement de trois mois ou de l'une de ces deux peines seulement quiconque
+Sera puni d'une amende de 3 750 euros et d'un emprisonnement de trois mois ou de l'une de ces deux peines seulement quiconque
 aura enfreint les dispositions des articles L. 158, alinéas 2 et 3, et L. 164 à L. 167.
 
 **Liens relatifs à cet article**
@@ -7222,15 +7353,12 @@ aura enfreint les dispositions des articles L. 158, alinéas 2 et 3, et L. 164 �
 
 	**Modifié par**:
 
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code électoral - art. L158 (M)
+	  - Code électoral - art. L158 (Ab)
 	  - Code électoral - art. L164 (V)
-	  - Code électoral - art. L165 (M)
-	  - Code électoral - art. L166 (M)
-	  - Code électoral - art. L167 (M)
 
 
 ###### Article L169
@@ -7272,8 +7400,8 @@ ou saisis.
 
 ###### Article L171
 
-Seront punis d'une amende de 60 000 F, le candidat contrevenant aux dispositions du premier alinéa de l'article L. 156, et
-d'une amende de 30 000 F toute personne qui agira en violation de l'article L. 169.
+Seront punis d'une amende de 9 000 euros, le candidat contrevenant aux dispositions du premier alinéa de l'article L. 156, et
+d'une amende de 4 500 euros toute personne qui agira en violation de l'article L. 169.
 
 **Liens relatifs à cet article**
 
@@ -7283,11 +7411,11 @@ d'une amende de 30 000 F toute personne qui agira en violation de l'article L. 1
 
 	**Modifié par**:
 
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code électoral - art. L156 (M)
+	  - Code électoral - art. L156 (V)
 	  - Code électoral - art. L169 (V)
 
 
@@ -8618,9 +8746,9 @@ des dépôts et consignations par les candidats en application de l'article L. 2
 
 ###### Article L215
 
-Sera puni d'une amende de 25 000 F et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement :
+Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement : 
 
-1° Quiconque enfreindra les dispositions de l'article L. 211 ;
+1° Quiconque enfreindra les dispositions de l'article L. 211 ; 
 
 2° Quiconque se servira de la franchise pour adresser aux électeurs tous autres documents que ceux envoyés par les
 commissions de propagande.
@@ -8631,16 +8759,19 @@ commissions de propagande.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
-
 	**Cité par**:
 
 	  - Loi n°82-214 du 2 mars 1982 - art. 21 (Ab)
 	  - Code électoral - art. L356 (V)
 	  - Code électoral - art. L558-28 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L211 (V)
 
 
 ###### Article L216
@@ -9086,7 +9217,7 @@ c) Qu'il n'est pas déchu du droit de vote dans l'Etat dont il est ressortissant
 
 ###### Article LO227-5
 
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende :
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende :
 
 a) Le fait de s'être fait inscrire sur la liste électorale complémentaire sous une fausse résidence, sous de faux noms ou de
 fausses qualités, ou d'avoir dissimulé, en se faisant inscrire, une incapacité électorale dans l'Etat dont on est
@@ -9107,9 +9238,9 @@ des mêmes moyens, une autre personne.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-404 du 25 mai 1998 - art. 1 ()
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -9745,7 +9876,7 @@ candidats en application de l'article L. 244.
 
 ###### Article L246
 
-Sera puni d'une amende de 25 000 F et d'un emprisonnement de six mois, ou de l'une de ces deux peines seulement, quiconque
+Sera puni d'une amende de 3 750 euros et d'un emprisonnement de six mois, ou de l'une de ces deux peines seulement, quiconque
 enfreindra les dispositions de l'article L. 240.
 
 **Liens relatifs à cet article**
@@ -9756,8 +9887,7 @@ enfreindra les dispositions de l'article L. 240.
 
 	**Modifié par**:
 
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -12200,8 +12330,8 @@ mandat.
 
 ###### Article L318
 
-Tout membre du collège électoral qui, sans cause légitime, n'aura pas pris part au scrutin, sera condamné à une amende de 30
-F par le tribunal de grande instance du chef-lieu, sur les réquisitions du ministère public.
+Tout membre du collège électoral qui, sans cause légitime, n'aura pas pris part au scrutin, sera condamné à une amende de 4,5
+euros par le tribunal de grande instance du chef-lieu, sur les réquisitions du ministère public.
 
 La même peine peut être appliquée dans les mêmes conditions au délégué suppléant qui, dûment averti en temps utile, n'aura
 pas pris part aux opérations de vote.
@@ -12211,6 +12341,10 @@ pas pris part aux opérations de vote.
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -17397,6 +17531,26 @@ de la déclaration de candidature si celle-ci est conforme aux prescriptions en 
 	  - Loi n°2000-641 du 10 juillet 2000 - art. 21 () JORF 11 juillet 2000
 
 
+###### Article L447
+
+Pour l'application de l'article L. 318 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna,
+l'amende de 4,5 Euros est fixée à 545 francs CFP.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+
 ###### Article L448
 
 Les députés et les membres des assemblées de province, les membres de l'assemblée de la Polynésie française ou les membres de
@@ -19647,9 +19801,9 @@ La souche et le reçu mentionnent le montant et la date du versement ainsi que l
 donateur. Le reçu est signé par le donateur.
 
 Le reçu ne comporte le nom et l'adresse du mandataire prévu au premier alinéa de l'article L. 52-4 que lorsque le montant du
-don excède 20 000 F. "
+don excède 3 000 euros.
 
-" La Commission nationale des comptes de campagne et des financements politiques peut mettre en cause la validité du reçu
+La Commission nationale des comptes de campagne et des financements politiques peut mettre en cause la validité du reçu
 délivré par le mandataire et enregistré par elle si elle constate, lors du contrôle du compte de campagne, une irrégularité
 au regard des dispositions des articles L. 52-4 à L. 52-13 et L. 52-16.
 
@@ -19668,7 +19822,7 @@ au regard des dispositions des articles L. 52-4 à L. 52-13 et L. 52-16.
 
 	**Modifié par**:
 
-	  - Décret n°97-673 du 31 mai 1997 - art. 1 ()
+	  - Décret n°2001-183 du 22 février 2001 - art. 1 ()
 
 	**Cité par**:
 
