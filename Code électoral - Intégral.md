@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1973-07-12
+Version Consolidée au 1974-07-07
 
 # Partie législative
 
@@ -51,19 +51,6 @@ n'étant dans aucun cas d'incapacité prévu par la loi.
 
 	  - Loi n°70-596 du 9 juillet 1970 - art. 3 () JORF 10 juillet 1970
 	  - Loi n°74-631 du 5 juillet 1974 - art. 2 () JORF 7 juillet 1974
-
-
-###### Article L3
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°74-631 du 5 juillet 1974 - art. 3
 
 
 ###### Article L4
