@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1983-07-01
+Version Consolidée au 1983-12-09
 
 # Partie législative
 
@@ -51,28 +51,6 @@ n'étant dans aucun cas d'incapacité prévu par la loi.
 
 	  - Loi n°70-596 du 9 juillet 1970 - art. 3 () JORF 10 juillet 1970
 	  - Loi n°74-631 du 5 juillet 1974 - art. 2 () JORF 7 juillet 1974
-
-
-###### Article L4
-
-Les conditions d'électorat des femmes ayant acquis la nationalité française par mariage sont fixées par l'article 41 du code
-de la nationalité française.
-
-Les conditions d'électorat des étrangers naturalisés sont fixées par les articles 81, 82 et 83 dudit code (1).
-
-**Nota:**
-
-(1) Cet article est implicitement abrogé par la loi 73-42 du 9 janvier 1973 complétant le code de la nationalité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-556 1992-06-25 art. 1
 
 
 ###### Article L5
@@ -6248,31 +6226,6 @@ française.
 	  - Code de la nationalité 81, 82, 83
 
 
-###### Article L198
-
-Les conditions d'éligibilité des femmes ayant acquis la nationalité française par mariage sont fixées à l'article 41 du code
-de la nationalité française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Loi n°82-214 du 2 mars 1982 - art. 7 (Ab)
-	  - Code électoral - art. L233 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-556 1992-06-25 art. 1
-
-	**Cite**:
-
-	  - Code de la nationalité française. - art. 41 (Ab)
-
-
 ###### Article L199
 
 Sont inéligibles les personnes désignées aux articles L. 5, L. 6 et L. 7 et celles privées de leur droit d'éligibilité par
@@ -7198,7 +7151,11 @@ comprises dans le ressort où, dotés d'un commandement territorial, ils ont exe
 
 ###### Article L233
 
-Les dispositions des articles L. 197 à L. 199 et L. 201 à L. 203 sont applicables.
+Les dispositions des articles L. 199 et L. 201 à L. 203 sont applicables.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -7206,14 +7163,18 @@ Les dispositions des articles L. 197 à L. 199 et L. 201 à L. 203 sont applicab
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Loi n°83-1046 1983-12-08 art. 4 JORF 9 DECEMBRE 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-556 1992-06-25 art. 1
+
 	**Cite**:
 
-	  - Code électoral - art. L197 (M)
-	  - Code électoral - art. L198 (Ab)
-	  - Code électoral - art. L199 (M)
+	  - Code électoral - art. L199 (VT)
 	  - Code électoral - art. L201 (Ab)
-	  - Code électoral - art. L202 (M)
-	  - Code électoral - art. L203 (V)
 
 
 ###### Article L235
