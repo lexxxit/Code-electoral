@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2000-07-08
+Version Consolidée au 2000-07-11
 
 # Partie législative
 
@@ -5285,7 +5285,7 @@ candidat en cas de scrutin uninominal, ou tout candidat tête de liste en cas de
 1° Aura, en vue de financer une campagne électorale, recueilli des fonds en violation des prescriptions de l'article L.
 52-4 ;
 
-2° Aura accepté des fonds en violation des dispositions de l'article L. 52-8 ;
+2° Aura accepté des fonds en violation des dispositions de l'article L. 52-8 ou L. 308-1 ;
 
 3° Aura dépassé le plafond des dépenses électorales fixé en application de l'article L. 52-11 ;
 
@@ -5315,9 +5315,13 @@ accord exprès, effectué une dépense de la nature de celles prévues à l'arti
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 5 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 1 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
 
 	**Cité par**:
 
@@ -5335,9 +5339,10 @@ accord exprès, effectué une dépense de la nature de celles prévues à l'arti
 	  - Code électoral - art. L51 (M)
 	  - Code électoral - art. L52-1 (M)
 	  - Code électoral - art. L52-11 (M)
+	  - Code électoral - art. L52-12 (M)
+	  - Code électoral - art. L52-13 (V)
 	  - Code électoral - art. L52-4 (M)
 	  - Code électoral - art. L52-8 (M)
-	  - Code électoral L51, L52-1, L52-4, L52-8, L52-11, L52-12 et L52-13
 
 
 ###### Article L114
@@ -11123,7 +11128,7 @@ Les conseils municipaux élisent dans les communes de moins de 9 000 habitants :
 
 - quinze délégués pour les conseils municipaux de vingt-sept et vingt-neuf membres.
 
-Dans le cas où le conseil municipal est constitué par application des articles L2113-6 et L2113-7 du code général des
+Dans le cas où le conseil municipal est constitué par application des articles L. 2113-6 et L. 2113-7 du code général des
 collectivités territoriales relatif aux fusions de communes, le nombre de délégués est égal à celui auquel les anciennes
 communes auraient eu droit avant la fusion.
 
@@ -11132,11 +11137,6 @@ communes auraient eu droit avant la fusion.
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°71-588 du 16 juillet 1971 - art. 17 () JORF 18 juillet 1971
-	  - Loi n°82-974 1982-11-19 art. 17 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
 
 	**Cité par**:
 
@@ -11147,6 +11147,14 @@ communes auraient eu droit avant la fusion.
 	  - Code électoral - art. L439-1 (V)
 	  - Code électoral - art. L439-2 (V)
 	  - Code électoral - art. R*136 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 2 () JORF 11 juillet 2000
 
 	**Cite**:
 
@@ -11176,8 +11184,9 @@ raison de 1 pour 1000 habitants en sus de 30 000.
 
 ###### Article L286
 
-Le nombre des suppléants est de trois quand le nombre des titulaires est égal ou inférieur à cinq. Il est augmenté de deux
-par cinq titulaires ou fraction de cinq.
+Le nombre des suppléants est de trois quand le nombre des titulaires est égal ou inférieur à cinq. Il est augmenté de un par
+cinq titulaires ou fraction de cinq. Dans les communes visées au chapitre II du titre IV du livre Ier du présent code, les
+suppléants sont élus au sein du conseil municipal.
 
 **Liens relatifs à cet article**
 
@@ -11185,11 +11194,19 @@ par cinq titulaires ou fraction de cinq.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 3 () JORF 11 juillet 2000
+
 
 ###### Article L287
 
-Le choix des conseils municipaux ne peut porter ni sur un député, ni sur un conseiller régional, ni sur un conseiller à
-l'Assemblée de Corse, ni sur un conseiller général.
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux ne peuvent être
+désignés délégués, élus ou de droit, par les conseils municipaux dans lesquels ils siègent.
 
 Au cas où un député, un conseiller régional, un conseiller à l'Assemblée de Corse ou un conseiller général serait délégué de
 droit comme conseiller municipal, un remplaçant lui est désigné par le maire sur sa présentation.
@@ -11203,10 +11220,11 @@ droit comme conseiller municipal, un remplaçant lui est désigné par le maire 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
 
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 13 () JORF 14 mai 1991
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 4 () JORF 11 juillet 2000
 
 	**Cité par**:
 
@@ -11215,10 +11233,20 @@ droit comme conseiller municipal, un remplaçant lui est désigné par le maire 
 
 ###### Article L288
 
-Dans les communes élisant quinze délégués ou moins, l'élection des délégués et celle des suppléants ont lieu séparément dans
-les conditions prévues à l'article L2121-20 du code général des collectivités territoriales.
+Dans les communes visées au chapitre II du titre IV du livre Ier du présent code, l'élection des délégués et celle des
+suppléants se déroulent séparément dans les conditions suivantes. Le vote a lieu au scrutin secret majoritaire à deux tours.
+Nul n'est élu délégué ou suppléant au premier tour s'il n'a réuni la majorité absolue des suffrages exprimés. Au second tour,
+la majorité relative suffit. En cas d'égalité des suffrages, le candidat le plus âgé est élu.
 
-L'ordre des suppléants est déterminé par le nombre de voix obtenues; à égalité de voix la préséance appartient au plus âgé.
+Les candidats peuvent se présenter soit isolément, soit sur une liste qui peut ne pas être complète. Les adjonctions et les
+suppressions de noms sont autorisées.
+
+Un conseiller municipal empêché d'assister à la séance au cours de laquelle sont élus les délégués et les suppléants peut
+donner à un autre conseiller municipal de son choix pouvoir écrit de voter en son nom. Un même conseiller ne peut être
+porteur que d'un seul pouvoir qui est toujours révocable.
+
+L'ordre des suppléants est déterminé par le nombre de voix obtenues. En cas d'égalité de suffrages, la préséance appartient
+au plus âgé.
 
 **Liens relatifs à cet article**
 
@@ -11226,38 +11254,53 @@ L'ordre des suppléants est déterminé par le nombre de voix obtenues; à égal
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Cite**:
+	**Liens**:
 
-	  - Code général des collectivités territoriales - art. L2121-20 (V)
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 5 () JORF 11 juillet 2000
 
 
 ###### Article L289
 
-L'élection des suppléants dans les communes de 9000 habitants et plus et dans les communes de la Seine, ainsi que l'élection
-des délégués et des suppléants dans les communes de plus de 30000 habitants ont lieu sur la même liste suivant le système de
-la représentation proportionnelle avec application de la règle du plus fort reste, sans panachage ni vote préférentiel; les
-listes peuvent comprendre moins de noms qu'il n'y a de sièges de délégués et de suppléants à pourvoir.
+Dans les communes visées aux chapitres III et IV du titre IV du livre Ier du présent code, l'élection des délégués et des
+suppléants a lieu sur la même liste suivant le système de la représentation proportionnelle avec application de la règle de
+la plus forte moyenne, sans panachage ni vote préférentiel. Les listes peuvent comprendre un nombre de noms inférieur au
+nombre de sièges de délégués et de suppléants à pourvoir.
 
 Chaque conseiller municipal ou groupe de conseillers municipaux peut présenter une liste de candidats aux fonctions de
 délégués et de suppléants.
 
-L'ordre des suppléants résulte de leur rang de présentation. En cas de refus ou d'empêchement d'un délégué, c'est le
-suppléant de la même liste venant immédiatement après le dernier délégué élu de la liste qui est appelé à le remplacer.
+L'ordre des suppléants résulte de leur rang de présentation.
 
-Le vote par procuration est admis pour les députés et conseillers généraux, pour des cas exceptionnels, qui sont fixés par
-décret en Conseil d'État.
+En cas de refus ou d'empêchement d'un délégué, c'est le suppléant de la même liste venant immédiatement après le dernier
+délégué élu de la liste qui est appelé à le remplacer.
+
+Un conseiller municipal empêché d'assister à la séance au cours de laquelle sont élus les délégués et les suppléants peut
+donner à un autre conseiller municipal de son choix pouvoir écrit de voter en son nom. Un même conseiller municipal ne peut
+être porteur que d'un seul pouvoir qui est toujours révocable.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 6 () JORF 11 juillet 2000
 
 
 ###### Article L290
 
 Dans les communes où les fonctions du conseil municipal sont remplies par une délégation spéciale instituée en vertu de
-l'article L2121-35 et L2121-36 du code général des collectivités territoriales, les délégués et suppléants sont nommés par
+l'article L. 2121-35 et L. 2121-36 du code général des collectivités territoriales, les délégués et suppléants sont élus par
 l'ancien conseil convoqué à cet effet par le président de la délégation spéciale.
 
 **Liens relatifs à cet article**
@@ -11265,6 +11308,14 @@ l'ancien conseil convoqué à cet effet par le président de la délégation sp�
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 7 () JORF 11 juillet 2000
 
 	**Cité par**:
 
@@ -11276,15 +11327,23 @@ l'ancien conseil convoqué à cet effet par le président de la délégation sp�
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2121-35 (V)
-	  - Code général des collectivités territoriales - art. L2121-36 (V)
 
 
 ###### Article L290-1
 
-Dans le cas de création de commune associée par application des dispositions de la législation sur les fusions de communes,
-la commune associée conserve un nombre de délégués égal à celui auquel elle aurait eu droit si la fusion n'avait pas été
-prononcée. Les délégués de la commune associée sont élus par le conseil municipal parmi les électeurs de la section
-électorale correspondante ou, à défaut, parmi les électeurs qui y sont domiciliés.
+Les communes associées, créées en application des dispositions de l'article L. 2113-11 du code général des collectivités
+territoriales, conservent un nombre de délégués égal à celui auquel elles auraient eu droit en l'absence de fusion. Ces
+délégués sont désignés par le conseil municipal de la commune issue de la fusion parmi les conseillers municipaux élus dans
+la section électorale correspondante ou parmi les électeurs de cette section dans les conditions fixées au présent titre.
+Néanmoins lorsqu'il existe un conseil consultatif, les délégués de la commune associée sont désignés en son sein. Lorsque le
+nombre de délégués de la commune associée est supérieur à l'effectif du conseil consultatif, les membres de ce conseil sont
+délégués de droit, les autres délégués étant élus parmi les électeurs de la commune associée.
+
+**Nota:**
+
+Conformément à l'article 24 VIII de la loi n° 2010-1563 du 16 décembre 2010, les références aux articles du chapitre III du
+titre Ier du livre Ier de la deuxième partie du code général des collectivités territoriales, mentionnées à l'article L.
+290-1 du code électoral visent ces dispositions dans leur rédaction antérieure à ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -11292,9 +11351,17 @@ prononcée. Les délégués de la commune associée sont élus par le conseil mu
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°71-588 du 16 juillet 1971 - art. 17 () JORF 18 juillet 1971
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 8 () JORF 11 juillet 2000
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2113-11 (V)
 
 
 ###### Article L291
@@ -11491,12 +11558,12 @@ vue de l'établissement du tableau des électeurs sénatoriaux mentionné à l'a
 
 ###### Article L294
 
-Dans les départements qui ont droit à quatre sièges de sénateurs ou moins, l'élection a lieu au scrutin majoritaire à deux
+Dans les départements qui ont droit à deux sièges de sénateurs ou moins, l'élection a lieu au scrutin majoritaire à deux
 tours.
 
 Nul n'est élu sénateur au premier tour du scrutin s'il n'a réuni :
 
-1° La majorité absolue des suffrages exprimés;
+1° La majorité absolue des suffrages exprimés ;
 
 2° Un nombre de voix égal au quart des électeurs inscrits.
 
@@ -11508,19 +11575,29 @@ Au second tour de scrutin, la majorité relative suffit. En cas d'égalité des 
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 9 () JORF 11 juillet 2000
+
 
 ###### Article L295
 
-Dans les départements qui ont droit à cinq sièges de sénateurs ou plus, l'élection a lieu à la représentation proportionnelle
-suivant la règle de la plus forte moyenne, sans panachage ni vote préférentiel (1).
+Dans les départements qui ont droit à trois sièges de sénateurs ou plus, l'élection a lieu à la représentation
+proportionnelle suivant la règle de la plus forte moyenne, sans panachage ni vote préférentiel.
 
 Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre de présentation.
 
 **Nota:**
 
-(1) : En application de l'article 3 de la loi n° 66-504 du 12 juillet 1966, "par dérogation aux dispositions de l'article L.
-294, est maintenu pour les départements nouveaux de l'Essonne, du Val-d'Oise et des Yvelines le mode d'attribution de sièges
-de l'ancien département de Seine-et-Oise, tel qu'il est déterminé à l'article L. 295 du code électoral".
+(1) NOTA :
+
+En application de l'article 3 de la loi n° 66-504 du 12 juillet 1966, "par dérogation aux dispositions de l'article L. 294,
+est maintenu pour les départements nouveaux de l'Essonne, du Val-d'Oise et des Yvelines le mode d'attribution de sièges de
+l'ancien département de Seine-et-Oise, tel qu'il est déterminé à l'article L. 295 du code électoral".
 
 **Liens relatifs à cet article**
 
@@ -11533,6 +11610,14 @@ de l'ancien département de Seine-et-Oise, tel qu'il est déterminé à l'articl
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 10 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
 
 
 #### Chapitre II : Conditions d'éligibilité et inéligibilités
@@ -11660,9 +11745,9 @@ intervenant à échéance normale des conseils et assemblées auxquels elles s'a
 
 ###### Article L300
 
-Dans les départements où les élections ont lieu à la représentation proportionnelle, la liste des candidats doit comporter
-autant de noms qu'il y a de sièges à pourvoir. Sur chacune des listes, l'écart entre le nombre des candidats de chaque sexe
-ne peut être supérieur à un. Chaque liste est composée alternativement d'un candidat de chaque sexe.
+Dans les départements où les élections ont lieu à la représentation proportionnelle, chaque liste de candidats doit comporter
+deux noms de plus qu'il y a de sièges à pourvoir. Sur chacune des listes, l'écart entre le nombre des candidats de chaque
+sexe ne peut être supérieur à un. Chaque liste est composée alternativement d'un candidat de chaque sexe.
 
 Outre les renseignements mentionnés à l'article L. 298, la déclaration doit indiquer le titre de la liste et l'ordre de
 présentation des candidats.
@@ -11676,7 +11761,7 @@ le remplacer jusqu'à la veille de l'ouverture du scrutin par un nouveau candida
 
 **Nota:**
 
-Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+Loi n° 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
 intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
@@ -11693,7 +11778,11 @@ intervenant à échéance normale des conseils et assemblées auxquels elles s'a
 
 	**Modifié par**:
 
-	  - Loi n°2000-493 du 6 juin 2000 - art. 3 ()
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 11 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
 
 	**Cite**:
 
@@ -11703,7 +11792,7 @@ intervenant à échéance normale des conseils et assemblées auxquels elles s'a
 ###### Article L301
 
 Les déclarations de candidatures doivent, pour le premier tour, être déposées en double exemplaire à la préfecture au plus
-tard huit jours avant celui de l'ouverture du scrutin.
+tard à 18 heures le deuxième vendredi qui précède le scrutin.
 
 Il est donné au déposant un reçu provisoire de déclaration. Un récépissé définitif est délivré dans les quatre jours du dépôt
 de la déclaration de candidature si celle-ci est conforme aux prescriptions des lois en vigueur.
@@ -11713,6 +11802,14 @@ de la déclaration de candidature si celle-ci est conforme aux prescriptions des
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 12 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
 
 	**Cité par**:
 
@@ -11747,15 +11844,23 @@ constitutionnel saisi de l'élection.
 
 ###### Article L305
 
-Toute candidature présentée entre le premier et le second tour de scrutin dans les départements où s'applique le scrutin
-majoritaire doit faire l'objet d'une déclaration conforme aux dispositions des articles L. 298 et L. 299. Cette candidature
-ne donne pas lieu à enregistrement.
+Dans les départements où s'applique le scrutin majoritaire, tout candidat en vue du second tour doit déposer à la préfecture,
+une demi-heure au moins avant l'heure fixée pour l'ouverture du scrutin, une déclaration conforme aux dispositions des
+articles L. 298 et L. 299. Il est immédiatement délivré récépissé de cette déclaration.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 13 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
 
 	**Cite**:
 
@@ -11782,8 +11887,8 @@ Les dispositions de l'article LO. 160 sont applicables.
 
 ###### Article L306
 
-Des réunions électorales pour l'élection des sénateurs peuvent être tenues à partir de la publication du décret de
-convocation des électeurs.
+Des réunions électorales pour l'élection des sénateurs peuvent être tenues au cours des six semaines qui précèdent le jour du
+scrutin.
 
 Les membres du collège électoral de la circonscription et leurs suppléants, ainsi que les candidats et leurs remplaçants,
 peuvent seuls assister à ces réunions.
@@ -11793,6 +11898,18 @@ peuvent seuls assister à ces réunions.
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 14 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 19
 
 	**Cité par**:
 
@@ -11845,6 +11962,36 @@ au moins 10 % des suffrages exprimés.
 	  - Code électoral - art. R160 (V)
 
 
+###### Article L308-1
+
+Les dispositions des deuxième et cinquième alinéas de l'article L. 52-8 s'appliquent aux candidats aux élections
+sénatoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 1 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Cité par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 30 (V)
+	  - Code électoral - art. L113-1 (VD)
+	  - Code électoral - art. L439-1 A (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-8 (M)
+
+
 #### Chapitre VI : Opérations préparatoires au scrutin
 
 ###### Article L309
@@ -11871,14 +12018,22 @@ Le décret portant convocation des électeurs fixe les heures d'ouverture et de 
 
 ###### Article L311
 
-Les élections des sénateurs ont lieu le septième dimanche qui suit la publication du décret convoquant les électeurs
-sénatoriaux.
+Les élections des sénateurs ont lieu au plus tôt le septième dimanche qui suit la publication du décret convoquant les
+électeurs sénatoriaux.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 15 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
 
 
 #### Chapitre VII : Opérations de vote
@@ -11945,6 +12100,39 @@ Les isoloirs ne doivent pas être placés de façon à dissimuler au public les 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+
+###### Article L314-1
+
+Pendant toute la durée des opérations électorales, une copie du tableau des électeurs sénatoriaux mentionné à l'article L.
+292, certifiée par le préfet, reste déposée sur la table du bureau de vote. Cette copie constitue la liste d'émargement.
+
+Le vote de chaque électeur est constaté par sa signature apposée à l'encre en face de son nom sur la liste d'émargement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°59-260 du 4 février 1959 - art. 22 (Ab)
+	  - Loi n°2013-659 du 22 juillet 2013 - art. 51 (V)
+	  - Code électoral - art. R164 (V)
+	  - Code électoral - art. R165 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 16 () JORF 11 juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L292 (V)
 
 
 ###### Article L315
@@ -12756,6 +12944,40 @@ de la série C mentionnée à l'article L.O. 276 du présent code.
 	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
 
 
+###### Article L334-3-1
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 290, il y a lieu de lire : " de l'article L. 121-5 du code des
+communes applicable localement " au lieu de : " des articles L. 2121-35 et L. 2121-36 du code général des collectivités
+territoriales ".
+
+Le dernier alinéa de l'article L. 284 du présent code n'est pas applicable à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 18 () JORF 11 juillet 2000
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L284 (M)
+	  - Code électoral - art. L290 (M)
+	  - Code général des collectivités territoriales - art. L2121-35 (V)
+	  - Code général des collectivités territoriales - art. L2121-36 (V)
+
+
 ###### Article LO334-2
 
 La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée au Sénat par un sénateur [*nombre*].
@@ -12775,11 +12997,9 @@ du sénateur de Saint-Pierre-et-Miquelon.
 	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
 
 
-### Titre Ier : Dispositions applicables à la collectivité territoriale de Saint-Pierre-et-Miquelon
-
 #### Chapitre VI : Conditions d'application
 
-###### Article L334-3-1
+###### Article L334-3-2
 
 Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
 
@@ -12787,15 +13007,15 @@ Les modalités d'application du présent titre sont fixées par décret en Conse
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
 
 	**Créé par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
-
-	**Cité par**:
-
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 30 (V)
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 18 () JORF 11 juillet 2000
 
 
 ### Titre II : Dispositions particulières à Mayotte
@@ -13334,6 +13554,40 @@ l'article LO 276 du code électoral.
 	**Cite**:
 
 	  - Code électoral - art. L280 (M)
+
+
+###### Article L334-15-1
+
+Pour l'application à Mayotte des articles L. 284 (dernier alinéa) et L. 290, il y a lieu de lire :
+
+1° " des articles L. 112-6 et L. 112-7 du code des communes applicable localement " au lieu de : " des articles L. 2113-6 et
+L. 2113-7 du code général des collectivités territoriales " ;
+
+2° " de l'article L. 121-5 du code des communes applicable localement " au lieu de : " des articles L. 2121-35 et L. 2121-36
+du code général des collectivités territoriales ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Créé par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 19 () JORF 11 juillet 2000
+
+	**Cite**:
+
+	  - Code électoral - art. L284 (M)
+	  - Code électoral - art. L290 (M)
+	  - Code général des collectivités territoriales - art. L2113-6 (M)
+	  - Code général des collectivités territoriales - art. L2113-7 (M)
+	  - Code général des collectivités territoriales - art. L2121-35 (V)
+	  - Code général des collectivités territoriales - art. L2121-36 (V)
 
 
 ###### Article L334-16
@@ -16699,8 +16953,9 @@ Faute par le tribunal administratif d'avoir statué dans ce délai, le récépis
 
 ###### Article L439
 
-Les dispositions du titre III et des chapitres Ier à VII du titre IV du livre II, et celles des articles L. 385 à L. 387,
-sont applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+Les dispositions du titre III et des chapitres Ier à VII du titre IV du livre II, à l'exception de l'article L. 301, ainsi
+que celles des articles L. 385 à L. 387, sont applicables à l'élection des sénateurs en Polynésie française, en Nouvelle-
+Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -16708,9 +16963,13 @@ sont applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polyn�
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 20 () JORF 11 juillet 2000
 
 	**Cité par**:
 
@@ -16719,7 +16978,68 @@ sont applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polyn�
 
 	**Cite**:
 
-	  - Code électoral L385 à L387
+	  - Code électoral - art. L301 (M)
+	  - Code électoral L301, L385 à L387
+
+
+###### Article L439-1
+
+Pour l'application en Polynésie française des articles L. 284 (dernier alinéa) et L. 290, il y a lieu de lire : 
+
+1° " des articles L. 112-6 et L. 112-7 du code des communes applicable localement " au lieu de : " des articles L. 2113-6 et
+L. 2113-7 du code général des collectivités territoriales " ; 
+
+2° " L'article L. 121-5 du code des communes applicable localement " au lieu de : " des articles L. 2121-35 et L. 2121-36 du
+code général des collectivités territoriales ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Créé par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 21 () JORF 11 juillet 2000
+
+	**Cite**:
+
+	  - Code électoral - art. L284 (VT)
+	  - Code électoral - art. L290 (V)
+
+
+###### Article L439-2
+
+Pour l'application en Nouvelle-Calédonie des articles L. 284 (dernier alinéa) et L. 290, il y a lieu de lire : 
+
+1° " des articles L. 112-6 et L. 112-7 du code des communes de la Nouvelle-Calédonie " au lieu de : " des articles L. 2113-6
+et L. 2113-7 du code général des collectivités territoriales " ; 
+
+2° " l'article L. 121-5 du code des communes de la Nouvelle-Calédonie " au lieu de : " des articles L. 2121-35 et L. 2121-36
+du code général des collectivités territoriales ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Créé par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 21 () JORF 11 juillet 2000
+
+	**Cite**:
+
+	  - Code électoral - art. L284 (VT)
+	  - Code électoral - art. L290 (V)
 
 
 ###### Article L440
@@ -16875,19 +17195,19 @@ En Nouvelle-Calédonie et en Polynésie française, le choix par les conseils mu
 un député, ni sur un membre d'une assemblée de province en Nouvelle-Calédonie, ni sur un membre de l'assemblée de la
 Polynésie française.
 
-Dans le cas où un député ou un membre d'une assemblée de province en Nouvelle-Calédonie ou un membre de l'assemblée de la
-Polynésie française serait délégué de droit d'un conseil municipal, un remplaçant lui est désigné sur sa présentation par le
-maire de la commune.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 23 (V) JORF 11 juillet 2000
 
 	**Cité par**:
 
@@ -16896,8 +17216,11 @@ maire de la commune.
 
 ###### Article L446
 
-Les déclarations de candidatures doivent, pour le premier tour, être déposées en double exemplaire, au plus tard huit jours
-avant la date du scrutin.
+Les déclarations de candidature doivent, pour le premier tour, être déposées en double exemplaire auprès des services du
+représentant de l'Etat au plus tard à dix-huit heures le deuxième vendredi qui précède le scrutin.
+
+Il est donné au déposant un reçu provisoire de déclaration. Un récépissé définitif est délivré dans les quatre jours du dépôt
+de la déclaration de candidature si celle-ci est conforme aux prescriptions en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -16905,9 +17228,13 @@ avant la date du scrutin.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-641 du 10 juillet 2000 - art. 21 () JORF 11 juillet 2000
 
 
 ###### Article L448
