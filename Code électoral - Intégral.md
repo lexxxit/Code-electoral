@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1969-07-26
+Version Consolidée au 1971-07-18
 
 # Partie législative
 
@@ -6462,6 +6462,24 @@ l'ancien conseil convoqué à cet effet par le président de la délégation sp�
 
 	  - Code général des collectivités territoriales - art. L2121-35 (V)
 	  - Code général des collectivités territoriales - art. L2121-36 (V)
+
+
+###### Article L290-1
+
+Dans le cas de création de commune associée par application des dispositions de la législation sur les fusions de communes,
+la commune associée conserve un nombre de délégués égal à celui auquel elle aurait eu droit si la fusion n'avait pas été
+prononcée. Les délégués de la commune associée sont élus par le conseil municipal parmi les électeurs de la section
+électorale correspondante ou, à défaut, parmi les électeurs qui y sont domiciliés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°71-588 du 16 juillet 1971 - art. 17 () JORF 18 juillet 1971
 
 
 ###### Article L291
