@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1988-03-12
+Version Consolidée au 1988-07-21
 
 # Partie législative
 
@@ -1348,9 +1348,12 @@ rappel de classe ou démobilisés après la clôture des délais d'inscription, 
 leur retour à la vie civile;
 
 3° les Français et Françaises remplissant la condition d'âge exigée pour être électeur, après la clôture des délais
-d'inscription.
+d'inscription;
 
-4° Les Français et Françaises qui ont été naturalisées aprés la clôture des délais d'inscription.
+4° les Français et Françaises qui ont été naturalisées aprés la clôture des délais d'inscription;
+
+5° les Français et les Françaises ayant recouvré l'exercice du droit de vote dont ils avaient été privés par l'effet d'une
+décision de justice.
 
 **Liens relatifs à cet article**
 
@@ -1399,7 +1402,7 @@ d'inscription.
 
 	**Modifié par**:
 
-	  - Loi n°86-825 du 11 juillet 1986 - art. 9 () JORF 12 juillet 1986
+	  - Loi n°88-828 du 20 juillet 1988 - art. 28 () JORF 21 juillet 1988
 
 
 ###### Article L31
