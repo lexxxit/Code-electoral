@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1985-06-14
+Version Consolidée au 1985-07-11
 
 # Partie législative
 
@@ -4238,13 +4238,17 @@ l'élection partielle consécutive à cette annulation.
 
 ###### Article LO119
 
-Le nombre des députés à l'Assemblée nationale est de 491 pour les départements.
+Le nombre de députés à l'Assemblée nationale élus dans les départements est de 570.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-688 1985-07-10 art. 1 JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -4293,24 +4297,36 @@ de l'Assemblée nationale.
 
 ###### Article L123
 
-Les députés sont élus au scrutin uninominal majoritaire à deux tours.
+Les députés sont élus, dans les départements, au scrutin de liste à la représentation proportionnelle à la plus forte
+moyenne, sans panachage ni vote préférentiel. Le département forme une circonscription.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 1 () JORF 11 JUILLET 1985
 
 
 ###### Article L124
 
-Le vote a lieu par circonscription.
+Seules sont admises à la répartition des sièges les listes ayant obtenu au moins 5 % des suffrages exprimés. Les sièges sont
+attribués aux candidats d'après l'ordre de présentation sur chaque liste. Si plusieurs listes ont la même moyenne pour
+l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité
+de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être proclamés élus.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 1 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -4320,13 +4336,20 @@ Le vote a lieu par circonscription.
 
 ###### Article L125
 
-Les circonscriptions sont déterminées conformément au tableau n° 1 annexé au présent code [non reproduit].
+Les sièges des députés élus dans les départements sont répartis conformément au tableau n° 1 annexé au présent code.
+
+La révision de la répartition des sièges a lieu au cours de la première session ordinaire du Parlement qui suit la
+publication des résultats du recensement général de la population.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 1 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -4440,31 +4463,6 @@ lesquelles ils exercent ou ont exercé leurs fonctions depuis moins d'un an.
 	  - Code électoral - art. R**215 (V)
 
 
-###### Article LO132
-
-Les maires et les maires-adjoints de Paris sont inéligibles dans les circonscriptions dans lesquelles ils exercent ou ont
-exercé leurs fonctions depuis moins d'un an.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Loi n°83-499 du 17 juin 1983 - art. 2 (V)
-	  - Code électoral - art. LO328 (V)
-	  - Code électoral - art. LO394-2 (V)
-	  - Code électoral - art. LO477-1 (V)
-	  - Code électoral - art. LO504-1 (V)
-	  - Code électoral - art. LO533 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°85-688 1985-07-10 art. 6 JORF 11 JUILLET 1985
-
-
 ###### Article LO133
 
 Ne peuvent être élus dans toute circonscription comprise dans le ressort dans lequel ils exercent ou dans lequel ils ont
@@ -4551,7 +4549,7 @@ l'Assemblée nationale.
 
 Ainsi qu'il est dit à l'alinéa 2 de l'article 2 de l'ordonnance n° 58-1099 du 17 novembre 1958 portant loi organique pour
 l'application de l'article 23 de la Constitution, quiconque a été appelé à remplacer dans les conditions prévues à l'article
-L. O. 176 un député nommé membre du Gouvernement ne peut, lors de l'élection suivante, faire acte de candidature contre lui.
+L.O. 176-1 un député nommé membre du Gouvernement ne peut, lors de l'élection suivante, faire acte de candidature contre lui.
 
 **Liens relatifs à cet article**
 
@@ -4559,11 +4557,15 @@ L. O. 176 un député nommé membre du Gouvernement ne peut, lors de l'élection
 
 	  - CONSTITUTION 1958-10-04 ART. 23
 	  - Ordonnance 58-1099 1958-11-17 ART. 2 AL. 2
-	  - Code électoral - art. LO176 (M)
+	  - Code électoral - art. LO176-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-688 1985-07-10 art. 2 JORF 11 JUILLET 1985
 
 
 ###### Article LO136
@@ -4588,33 +4590,6 @@ juridiction qui a prononcé la condamnation.
 
 
 #### Chapitre IV : Incompatibilités
-
-###### Article L141
-
-Ainsi qu'il est dit à l'article 70 de la loi du 10 août 1871 relative aux conseils généraux, les fonctions de membres de la
-commission départementale (1) sont incompatibles avec le mandat de député.
-
-**Nota:**
-
-(1) NOTA : La commission départementale n'existe plus dans la nouvelle organisation du département fixée par la loi n° 82-213
-du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions.
-
-Les fonctions et interventions de l'ancienne commission sont assurées par le bureau du conseil général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°1871-08-10 ART. 70
-
-	**Abrogé par**:
-
-	  - Loi n°85-690 du 10 juillet 1985 - art. 15 () JORF 11 JUILLET 1985
-
 
 ###### Article LO137
 
@@ -5032,14 +5007,17 @@ L'incompatibilité ne prend pas effet si le Gouvernement est démissionnaire ava
 
 ###### Article L154
 
-Les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leurs nom, prénoms, date et lieu de
-naissance, domicile et profession.
+Les candidats sont tenus de faire une déclaration de candidature.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 2 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5052,19 +5030,30 @@ naissance, domicile et profession.
 
 ###### Article L155
 
-Cette déclaration doit également indiquer les nom, prénoms, date et lieu de naissance, domicile et profession de la personne
-appelée à remplacer le candidat élu en cas de vacance du siège. Elle doit être accompagnée de l'acceptation écrite du
-remplaçant ; celui-ci doit remplir les conditions d'éligibilité exigées des candidats.
+La déclaration de candidature résulte du dépôt à la préfecture d'une liste comprenant un nombre de candidats égal au nombre
+de sièges à pourvoir augmenté de deux.
 
-Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de candidatures.
+Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
+établi par ce candidat.
 
-Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
+La liste déposée comporte la signature de chacun des candidats. Elle indique expressément :
+
+1° Le titre de la liste;
+
+2° Les nom, prénoms, date et lieu de naissance, domicile et profession de chacun des candidats.
+
+La déclaration de candidature peut comporter l'indication d'un emblème que les candidats choisissent pour qu'il soit imprimé
+sur leur bulletin de vote.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 3 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5078,16 +5067,20 @@ Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
 
 ###### Article L156
 
-Nul ne peut être candidat dans plus d'une circonscription.
+Nul ne peut être candidat dans plus d'une circonscription électorale ni sur plus d'une liste.
 
-Si le candidat fait, contrairement aux prescriptions du présent article, acte de candidature dans plusieurs circonscriptions,
-sa candidature n'est pas enregistrée.
+Est nul et non avenu l'enregistrement de listes portant le nom d'une ou plusieurs personnes ayant fait acte de candidature
+dans une autre circonscription ou figurant sur une autre liste de candidats.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 4 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5120,18 +5113,22 @@ Il est donné au déposant un reçu provisoire de déclaration.
 
 ###### Article L158
 
-Chaque candidat doit verser entre les mains du trésorier-payeur général, agissant en qualité de préposé de la caisse des
-dépôts et consignations, un cautionnement de 1 000 F.
+Le candidat tête de liste ou son mandataire verse entre les mains du trésorier-payeur général, agissant en qualité de préposé
+de la caisse des dépôts et consignations, un cautionnement de 1 000 F par siège à pourvoir.
 
-Le cautionnement est remboursé aux candidats qui ont obtenu à l'un des deux tours 5 % des suffrages exprimés.
+Le cautionnement est remboursé aux listes qui ont obtenu au moins 5 p. 100 [*pourcentage minimum*] des suffrages exprimés.
 
-Sont prescrits et acquis au Trésor public les cautionnements non réclamés dans le délai d'un an à dater de leur dépôt.
+Sont prescrits et acquis au Trésor public les cautionnements non réclamés dans le délai d'un an à compter de leur dépôt.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 5 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5180,26 +5177,10 @@ Le récépissé définitif n'est délivré que si la candidature est conforme au
 
 ###### Article L162
 
-Les déclarations de candidatures pour le second tour de scrutin doivent être déposées avant le mardi minuit qui suit le
-premier tour.
+Les retraits de liste sont autorisés pendant la période prévue au premier alinéa de l'article L. 157 du présent code ; ils
+prennent la forme d'une déclaration signée du candidat tête de liste et contresignée par la majorité des membres de la liste.
 
-Toutefois si, par suite d'un cas de force majeure, le recensement des votes n'a pu être effectué dans le délai prévu à
-l'article L.175, les déclarations seront reçues jusqu'au mercredi minuit.
-
-Sous réserve des dispositions de l'article L. 163, nul ne peut être candidat au deuxième tour s'il ne s'est présenté au
-premier tour et s'il n'a obtenu un nombre de suffrages au moins égal à 12,5 % du nombre des électeurs inscrits.
-
-Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu après celui-ci le plus grand nombre de
-suffrages au premier tour peut se maintenir au second.
-
-Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
-premier tour peuvent se maintenir au second.
-
-Un candidat ne peut présenter pour le second tour de scrutin un remplaçant autre que celui qu'il avait désigné dans sa
-déclaration de candidature lors du premier tour.
-
-Les dispositions de l'article L. 159 sont applicables aux déclarations de candidatures pour le second tour de scrutin. Dans
-ce cas, le tribunal administratif statue dans un délai de vingt-quatre heures.
+Les retraits individuels de candidature ne sont pas autorisés.
 
 **Liens relatifs à cet article**
 
@@ -5209,33 +5190,40 @@ ce cas, le tribunal administratif statue dans un délai de vingt-quatre heures.
 
 	**Modifié par**:
 
-	  - Loi n°66-1022 1966-12-29 art. 4 JORF 30 décembre 1966
-	  - Loi n°76-665 1976-07-19 art. 1er JORF 20 juillet 1976
-
-	**Cite**:
-
-	  - Code électoral - art. L159 (V)
-	  - Code électoral - art. L163 (M)
-	  - Code électoral - art. L175 (M)
+	  - Loi n°85-690 du 10 juillet 1985 - art. 6 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
 	  - Code électoral - art. L178-1 (M)
 	  - Code électoral - art. R*100 (M)
 
+	**Cite**:
+
+	  - Code électoral L157 AL. 1
+
 
 ###### Article L163
 
-Lorsqu'un candidat décède postérieurement à l'expiration du délai prévu pour le dépôt des déclarations de candidatures, son
-remplaçant devient candidat et peut désigner un nouveau remplaçant.
+En cas de décès d'un candidat postérieurement à l'expiration du délai prévu à l'article L. 157, il est procédé à la mise à
+jour de la liste par le dépôt en préfecture, en double exemplaire, dans les trois jours suivant le décès, d'une déclaration
+complémentaire signée du candidat tête de liste et d'un candidat nouveau appelé à compléter la liste au dernier rang.
 
-Lorsqu'un remplaçant décède pendant la même période, le candidat peut désigner un nouveau remplaçant.
+Toutefois, par dérogation aux dispositions de l'alinéa précedent, demeurent valables sans modification les listes portant le
+nom d'un candidat décédé posterieurement au huitième jour précédant le scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 7 () JORF 11 JUILLET 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L157 (M)
 
 	**Cité par**:
 
@@ -5297,12 +5285,12 @@ Les dispositions de l'article L. 51 sont applicables à partir du même jour.
 
 ###### Article L165
 
-Un décret en Conseil d'État fixe le nombre et les dimensions des affiches que chaque candidat peut faire apposer sur les
-emplacements prévus à l'article L. 51 ainsi que le nombre et les dimensions des circulaires et bulletins de vote qu'il peut
-faire imprimer et envoyer aux électeurs.
+Un décret en Conseil d'État fixe le nombre et les dimensions des affiches que chaque liste peut faire apposer sur les
+emplacements prévus à l'article L. 51 ainsi que le nombre et la dimension des circulaires et bulletins de vote que chaque
+liste peut faire imprimer et envoyer aux électeurs.
 
-Sous réserve des dispositions de l'article L. 163 le bulletin de vote doit comporter le nom du candidat et celui du
-remplaçant.
+Le bulletin de vote comporte le titre de la liste, les noms de tous les candidats de la liste, classés dans un ordre conforme
+à celui de la déclaration de candidature et, éventuellement, un emblème imprimé choisi par les candidats.
 
 L'impression et l'utilisation, sous quelque forme que ce soit, de tout autre circulaire, affiche ou bulletin et de tout tract
 sont interdites.
@@ -5313,10 +5301,9 @@ sont interdites.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code électoral - art. L163 (M)
-	  - Code électoral - art. L51 (M)
+	  - Loi n°85-690 du 10 juillet 1985 - art. 8 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5326,6 +5313,10 @@ sont interdites.
 	  - Code électoral - art. L558-28 (V)
 	  - Code électoral - art. R*104 (M)
 
+	**Cite**:
+
+	  - Code électoral - art. L51 (M)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral R26 A R30 ET R103
@@ -5334,17 +5325,20 @@ sont interdites.
 ###### Article L166
 
 Vingt jours avant la date des élections, il est institué pour chaque circonscription une commission chargée d'assurer l'envoi
-et la distribution de tous les documents de propagande électorale.
+et la distribution de tous les documents de propagande électorale. La composition et les conditions de fonctionnement de
+cette commission sont fixées par un décret en Conseil d'État.
 
-La composition et les conditions de fonctionnement de cette commission sont fixées par un décret en Conseil d'État.
-
-Les candidats désignent un mandataire qui participe aux travaux de cette commission avec voix consultative.
+Chaque candidat tête de liste ou son mandataire participe, avec voix consultative, aux travaux de cette commission.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 9 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5364,14 +5358,18 @@ Les candidats désignent un mandataire qui participe aux travaux de cette commis
 L'État prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 166
 ainsi que celles qui résultent de leur fonctionnement.
 
-En outre, il est remboursé aux candidats ayant obtenu au moins 5 % des suffrages exprimés le coût du papier, l'impression des
-bulletins de vote, affiches, circulaires ainsi que les frais d'affichage.
+En outre, il est remboursé aux listes ayant obtenu au moins 5 % des suffrages exprimés le coût du papier, l'impression des
+bulletins de vote, affiches, circulaires, ainsi que les frais d'affichage.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 10 () JORF 11 juillet 1985
 
 	**Cite**:
 
@@ -5390,12 +5388,12 @@ bulletins de vote, affiches, circulaires ainsi que les frais d'affichage.
 
 ###### Article L167-1
 
-I. - Les partis et groupements peuvent utiliser les antennes de la radiodiffusion-télévision française pour leur campagne en
-vue des élections législatives. Chaque émission est diffusée simultanément par les sociétés nationales de télévision et de
-radiodiffusion.
+I. - Les partis et groupements peuvent utiliser les antennes du service public de radiodiffusion et de télévision pour leur
+campagne en vue des élections législatives. Chaque émission est diffusée simultanément par les sociétés nationales de
+télévision et de radiodiffusion.
 
-II. - Pour le premier tour de scrutin, une durée d'émission de trois heures est mise à la disposition des partis et
-groupements représentés par des groupes parlementaires de l'Assemblée nationale.
+II. - Une durée d'émission de trois heures est mise à la disposition des partis et groupements représentés par des groupes
+parlementaires de l'Assemblée nationale.
 
 Cette durée est divisée en deux séries égales, l'une étant affectée aux groupes qui appartiennent à la majorité, l'autre à
 ceux qui ne lui appartiennent pas.
@@ -5405,45 +5403,24 @@ entre les présidents des groupes intéressés. A défaut d'accord amiable, la r
 bureau de l'Assemblée nationale sortante, en tenant compte notamment de l'importance respective de ces groupes ; pour cette
 délibération, le bureau est complété par les présidents de groupe.
 
-Les émissions précédant le deuxième tour de scrutin ont une durée d'une heure trente : elles sont réparties entre les mêmes
-partis et groupements et selon les mêmes proportions.
+III. - Tout parti ou groupement présentant des listes dans vingt circonscriptions au moins a accès aux antennes du service
+public de radiodiffusion et de télévision, pour une durée de sept minutes, dès lors qu'aucun de ses candidats n'appartient à
+l'un des groupements ou partis bénéficiant d'émissions au titre du paragraphe II.
 
-III. - Tout parti ou groupement présentant au premier tour de scrutin soixante-quinze candidats au moins a accès aux antennes
-de la radiodiffusion-télévision française pour une durée de sept minutes au premier tour et de cinq minutes au second, dès
-lors qu'aucun de ses candidats n'appartient à l'un des groupements ou partis bénéficiant d'émissions au titre du paragraphe
-II.
+L'habilitation est donnée à ces partis ou groupements dans des conditions fixées par décret.
 
-L'habilitation est donnée à ces partis ou groupements dans des conditions qui seront fixées par décret.
+IV. - Les conditions de production, de programmation et de diffusion des émissions sont fixées, après consultation des
+conseils d'administration des sociétés nationales de télévision et de radiodiffusion, par la Haute Autorité de la
+communication audiovisuelle.
 
-IV. - Les horaires des émissions et les modalités de leur réalisation sont fixés, après consultation des conseils
-d'administration des sociétés nationales de télévision et de radiodiffusion par une commission composée ainsi qu'il suit :
-
-- un président de section au Conseil d'État ou un conseiller d'État, président ;
-
-- un conseiller à la Cour de cassation ;
-
-- un conseiller maître à la Cour des comptes.
-
-Les membres de la commission, qui peuvent être soit en activité, soit à la retraite, sont désignés respectivement par
-l'assemblée générale du Conseil d'État, l'assemblée générale de la Cour de cassation, la chambre du conseil de la Cour des
-comptes.
-
-V. - En ce qui concerne les émissions destinées à être reçues hors métropole, la commission tient compte des délais
-d'acheminement et des différences d'heures.
+V. - En ce qui concerne les émissions destinées à être reçues hors métropole, la Haute Autorité de la communication
+audiovisuelle tient compte des délais d'acheminement et des différences d'heures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°66-1022 1966-12-29 art. 5 JORF 30 décembre 1966
-
-	**Modifié par**:
-
-	  - Loi n°77-1446 1977-12-28 art. 1 JORF 29 décembre 1977
 
 	**Cité par**:
 
@@ -5452,6 +5429,10 @@ d'acheminement et des différences d'heures.
 	  - Décret n°78-21 du 9 janvier 1978 - art. 4 (M)
 	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 20 (V)
 	  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 11 () JORF 11 JUILLET 1985
 
 
 ###### Article L168
@@ -5571,14 +5552,18 @@ Les élections ont lieu le cinquième dimanche qui suit la publication du décre
 
 ###### Article L174
 
-Les voix données au candidat qui a fait acte de candidature dans plusieurs circonscriptions sont considérées comme nulles et
-le candidat ne peut être élu dans aucune circonscription.
+Les voix données aux listes comprenant un candidat qui a fait acte de candidature sur plusieurs listes sont considérées comme
+nulles; ces listes ne peuvent obtenir aucun siège.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 12 () JORF 11 JUILLET 1985
 
 	**Liens**:
 
@@ -5588,7 +5573,7 @@ le candidat ne peut être élu dans aucune circonscription.
 ###### Article L175
 
 Le recensement général des votes est effectué, pour toute circonscription électorale, au chef-lieu du département, le lundi
-qui suit le scrutin, en présence des représentants des candidats, par une commission dont la composition et le fonctionnement
+qui suit le scrutin, en présence des représentants des listes, par une commission dont la composition et le fonctionnement
 sont précisés par un décret en Conseil d'État.
 
 **Liens relatifs à cet article**
@@ -5596,6 +5581,10 @@ sont précisés par un décret en Conseil d'État.
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 13 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5610,11 +5599,49 @@ sont précisés par un décret en Conseil d'État.
 
 #### Chapitre IX : Remplacement des députés
 
+###### Article L178-1
+
+Les élections partielles prévues à l'article L.O. 178 ont lieu selon les règles fixées pour les renouvellements normaux.
+
+Néanmoins, dans tous les cas où la vacance porte sur un seul siège, il y est pourvu par une élection au scrutin uninominal
+majoritaire à deux tours dans le cadre du département. Dans ces cas, les articles L. 124, L. 155, L. 158, L. 162, L. 163, L.
+165, L. 166 et L. 175 ne sont pas applicables à l'élection partielle, qui est régie par les dispositions de articles L. 126,
+L. 154, L. 1 155, L. 158, L. 162, L. 163, L. 165 à L. 167 et L. 175 du présent code dans leur rédaction antérieure à la loi
+n° 85-690 du 10 juillet 1985 et qui sont maintenues en vigueur et annexées au présent code à ce seul effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°85-690 1985-07-10
+	  - Code électoral - art. L124 (M)
+	  - Code électoral - art. L126 (V)
+	  - Code électoral - art. L154 (M)
+	  - Code électoral - art. L155 (M)
+	  - Code électoral - art. L158 (M)
+	  - Code électoral - art. L162 (M)
+	  - Code électoral - art. L163 (M)
+	  - Code électoral - art. L165 (M)
+	  - Code électoral - art. L166 (M)
+	  - Code électoral - art. L167 (M)
+	  - Code électoral - art. L175 (M)
+	  - Code électoral - art. LO178 (M)
+
+	**Créé par**:
+
+	  - Loi n°85-690 du 10 juillet 1985 - art. 14 () JORF 11 JUILLET 1985
+
+
 ###### Article LO176
 
-Les députés dont le siège devient vacant pour cause de décès, d'acceptation de fonctions gouvernementales ou de membre du
-Conseil constitutionnel ou de prolongation au-delà de six mois d'une mission temporaire conférée par le gouvernement sont
-remplacés jusqu'au renouvellement de l'Assemblée nationale par les personnes élues en même temps qu'eux à cet effet.
+Lorsque les députés sont élus au scrutin de liste, chaque liste comprend un nombre de candidats égal au nombre des sièges à
+pourvoir augmenté de deux. Les candidats venant sur une liste immédiatement après le dernier candidat élu sont appelés à
+remplacer, jusqu'au renouvellement de l'Assemblée nationale, les députés élus sur cette liste dont le siège deviendrait
+vacant pour quelque cause que ce soit.
 
 **Liens relatifs à cet article**
 
@@ -5628,6 +5655,39 @@ remplacés jusqu'au renouvellement de l'Assemblée nationale par les personnes �
 	  - Code électoral - art. LO135 (V)
 	  - Code électoral - art. LO178 (VD)
 	  - Code électoral - art. R103 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-688 1985-07-10 art. 3 JORF 11 juillet 1985
+
+
+###### Article LO176-1
+
+Les députés élus au scrutin uninominal dont le siège devient vacant pour cause de décès, d'acceptation de fonctions
+gouvernementales [*durée*] ou de membre du Conseil constitutionnel ou de prolongation au-delà du délai de six mois d'une
+mission temporaire confiée par le Gouvernement sont remplacés jusqu'au renouvellement de l'Assemblée nationale par les
+personnes élues en même temps qu'eux à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°77-729 du 7 juillet 1977 - art. 24 (M)
+	  - Code électoral - art. LO135 (V)
+	  - Code électoral - art. LO178 (V)
+	  - Code électoral - art. R103 (V)
+
+	**Créé par**:
+
+	  - Loi n°85-688 1985-07-10 art. 4 JORF 11 JUILLET 1985
+
+	**Abrogé par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
 
 
 ###### Article LO177
@@ -5655,11 +5715,11 @@ mandat de député sont prises dans le mois qui suit l'expiration du délai pré
 
 ###### Article LO178
 
-En cas d'annulation des opérations électorales d'une circonscription, dans les cas de vacance autres que ceux visés à
-l'article L. O. 176 ou lorsque les dispositions de l'article L. O. 176 ne peuvent plus être appliquées, il est procédé à des
-élections partielles dans un délai de trois mois.
+En cas d'annulation des opérations électorales d'une circonscription, dans les cas de vacance autres que ceux qui sont
+mentionnés à l'article L.O. 176-1 ou lorsque les dispositions des articles L.O. 176 et L.O. 176-1 ne peuvent plus être
+appliquées, il est procédé à des élections partielles dans un délai de trois mois.
 
-Il n'est toutefois procédé à aucune élection partielle dans les douze mois qui précèdent l'expiration des pouvoirs de
+Toutefois, il n'est procédé à aucune élection partielle dans les douze mois qui précèdent l'expiration des pouvoirs de
 l'Assemblée nationale.
 
 **Liens relatifs à cet article**
@@ -5667,6 +5727,10 @@ l'Assemblée nationale.
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-688 1985-07-10 art. 5 JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5676,6 +5740,7 @@ l'Assemblée nationale.
 	**Cite**:
 
 	  - Code électoral - art. LO176 (M)
+	  - Code électoral - art. LO176-1 (V)
 
 
 #### Chapitre X : Contentieux
@@ -6383,7 +6448,11 @@ la qualité d'électeur, est déclaré démissionnaire par le conseil général 
 ###### Article L206
 
 Le mandat de conseiller général est incompatible, dans toute la France, avec les fonctions énumérées à l'article L. 46 et aux
-1°, 3° et 6° de l'article L. 195.
+1° et 6° de l'article L. 195.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -6391,9 +6460,13 @@ Le mandat de conseiller général est incompatible, dans toute la France, avec l
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 2 () JORF 11 JUILLET 1985
+
 	**Cite**:
 
-	  - Code électoral - art. L195 (M)
+	  - Code électoral - art. L195 (VT)
 	  - Code électoral - art. L46 (V)
 
 	**Cité par**:
@@ -8607,9 +8680,11 @@ Les sénateurs sont élus dans chaque département par un collège électoral co
 
 1° des députés;
 
-2° des conseillers généraux;
+2° des conseillers régionaux élus dans le département;
 
-3° des délégués des conseils municipaux ou des suppléants de ces délégués.
+3° des conseillers généraux;
+
+4° des délégués des conseils municipaux ou des suppléants de ces délégués.
 
 **Liens relatifs à cet article**
 
@@ -8628,11 +8703,15 @@ Les sénateurs sont élus dans chaque département par un collège électoral co
 	  - Code électoral - art. L556 (V)
 	  - Code électoral - art. L557 (V)
 
+	**Modifié par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 3 () JORF 11 JUILLET 1985
+
 
 ###### Article L281
 
-Les députés et les conseillers généraux qui ont été proclamés par les commissions de recensement sont inscrits sur la liste
-des électeurs sénatoriaux et prennent part au vote même si leur élection est contestée.
+Les députés, les conseillers régionaux  et les conseillers généraux qui ont été proclamés par les commissions de recensement
+sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote même si leur élection est contestée.
 
 **Liens relatifs à cet article**
 
@@ -8640,14 +8719,18 @@ des électeurs sénatoriaux et prennent part au vote même si leur élection est
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 4 () JORF 11 JUILLET 1985
+
 
 ###### Article L282
 
-Dans le cas où, dans un même collège, un conseiller général est député ou conseiller régional, un remplaçant lui est désigné,
-sur sa présentation, par le président du conseil général.
+Dans le cas où un conseiller général  est député ou conseiller régional, un remplaçant lui est désigné, sur sa présentation,
+par le président du conseil général.
 
-Dans le cas où, dans un même collège, un conseiller régional est député, un remplaçant lui est désigné, sur sa présentation
-par le président du conseil régional.
+Dans le cas où un conseiller régional  est député, un remplaçant lui est désigné, sur sa présentation par le président du
+conseil régional.
 
 **Liens relatifs à cet article**
 
@@ -8662,9 +8745,9 @@ par le président du conseil régional.
 	  - Code électoral - art. R*148-2 (Ab)
 	  - Code électoral - art. R130-1 (VT)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°85-692 1985-07-10art. 11 et art. 10
+	  - Loi n°85-692 du 10 juillet 1985 - art. 5 () JORF 11 JUILLET 1985
 
 
 ### Titre III : Désignation des délégués des conseils municipaux
@@ -8764,16 +8847,21 @@ par cinq titulaires ou fraction de cinq.
 
 ###### Article L287
 
-Le choix des conseils municipaux ne peut porter ni sur un député, ni sur un conseiller général.
+Le choix des conseils municipaux ne peut porter ni sur un député, ni sur un conseiller régional, ni sur un conseiller
+général.
 
-Au cas où un député ou un conseiller général serait délégué de droit comme conseiller municipal, un remplaçant lui est
-désigné par le maire sur sa présentation.
+Au cas où un député, un conseiller régional  ou un conseiller général serait délégué de droit comme conseiller municipal, un
+remplaçant lui est désigné par le maire sur sa présentation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 6 () JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -9887,6 +9975,813 @@ peuvent être appliquées qu'au cas où le conseil général a perdu la moitié 
 	  - Code électoral - art. L328-4 (Ab)
 	  - Code électoral - art. L333-4 (Ab)
 	  - Code électoral - art. R174-1 (Ab)
+
+
+## Livre IV : Election des conseillers régionaux
+
+###### Article L335
+
+Les conseillers régionaux et les membres de l'assemblée de Corse sont élus dans les conditions fixées par les dispositions du
+titre I du livre 1er du présent code et par celles du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral LIVRE I, TITRE I
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+
+### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers
+
+###### Article L336
+
+Les conseillers régionaux sont élus pour six ans ; ils sont rééligibles.
+
+Les conseils régionaux se renouvellent intégralement.
+
+Les élections ont lieu au mois de mars.
+
+Dans toutes les régions, les collèges électoraux sont convoqués le même jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Loi n°2010-145 du 16 février 2010 - art. 2 (Ab)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 47 (M)
+	  - Code général des collectivités territoriales - art. L4132-1 (V)
+
+
+###### Article L337
+
+L'effectif des conseils régionaux et la répartition des sièges à pourvoir entre les départements de chaque région sont fixés
+conformément au tableau n° 7 annexé au présent code.
+
+La révision du nombre des conseillers régionaux a lieu au cours de la première session ordinaire du Parlement qui suit la
+publication des résultats du recensement général de la population.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral annexe tableau n°7
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+
+### Chapitre II : Mode de scrutin
+
+###### Article L338
+
+Les conseillers régionaux sont élus dans chaque département au scrutin de liste, à la représentation proportionnelle à la
+plus forte moyenne, sans panachage ni vote préférentiel.
+
+Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste. Toutefois, les listes qui n'ont pas
+obtenu un nombre de voix au moins égal à 5 % des suffrages exprimés ne sont pas admises à répartition des sièges.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L338-1 (VD)
+	  - Code électoral - art. L347 (V)
+	  - Code électoral - art. L366 (V)
+
+
+### Chapitre III : Conditions d'éligibilité et inéligibilités
+
+###### Article L339
+
+Nul ne peut être élu conseiller régional s'il n'est pas âgé de vingt et un ans révolus.
+
+Sont éligibles au conseil régional tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y être
+inscrits avant le jour de l'élection, qui sont domiciliés dans la région ou ceux qui, sans y être domiciliés, y sont inscrits
+au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait l'élection, ou jusfifient qu'ils
+devaient y être inscrits à ce jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L350 (V)
+	  - Code électoral - art. L351 (V)
+	  - Code électoral - art. L367 (V)
+	  - Code électoral - art. L372 (V)
+
+
+###### Article L340
+
+Ne sont pas éligibles :
+
+1° Les personnes titulaires d'une des fonctions énumérées aux articles L. 195 et L. 196 lorsque cette fonction s'exerce sur
+tout ou partie du territoire de la région ;
+
+2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et affectés au secrétariat général pour les
+affaires régionales en qualité de secrétaire général ou de chargé de mission.
+
+Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller régional s'ils n'exerçait le
+même mandat antérieurement à sa nomination.
+
+Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L195 (M)
+	  - Code électoral - art. L196 (V)
+	  - Code électoral L195, L196, L199 à L203
+
+	**Cité par**:
+
+	  - Code électoral - art. L341 (V)
+	  - Code électoral - art. L350 (M)
+	  - Code électoral - art. L351 (M)
+	  - Code électoral - art. L372 (M)
+	  - Code électoral - art. L558-11 (V)
+
+
+###### Article L341
+
+Tout conseiller régional qui, pour une cause survenue postérieurement à son élection, se trouve dans un cas d'inéligibilité
+prévu à l'article précédent ou se trouve frappé d'une des incapacités qui font perdre la qualité d'électeur, est déclaré
+démissionnaire d'office par arrêté du représentant de l'Etat dans la région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L340 (M)
+
+
+### Chapitre IV : Incompatibilités
+
+###### Article L342
+
+Le mandat de conseiller régional es incompatible, dans toute la France, avec les fonctions énumérées à l'article L. 46 et aux
+1° et 6° de l'article L. 195.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 11 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. L344 (V)
+	  - Code électoral - art. L368 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. L46 (V)
+	  - Code électoral L195 1° et 6°
+
+
+###### Article L343
+
+Le mandat de conseiller régional est incompatible avec les fonctions d'agent salarié de la région.
+
+La même incompatibilité existe à l'égard des entrepreneurs des services régionaux ainsi qu'à l'égard des agents salariés des
+établissements publics et agences créés par les régions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°83-597 du 7 juillet 1983 - art. 8 (Ab)
+	  - Loi n°2009-1572 du 17 décembre 2009 - art. 21 (V)
+	  - Code de commerce - art. L711-17 (V)
+	  - Code général des collectivités territoriales - art. L1524-5 (V)
+	  - Code général des collectivités territoriales - art. L1862-1 (V)
+	  - Code électoral - art. L344 (M)
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 11 (V)
+
+
+###### Article L344
+
+Tout conseiller régional qui, au moment de son élection, est placé dans l'une des situations prévues aux articles L. 342 et
+L. 343 dispose d'un délai d'un mois à partir de la date à laquelle son élection est devenue définitive pour démissionner de
+son mandat ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Il fait connaître son option par écrit au
+représentant de l'Etat dans la région, qui en informe le président du conseil régional. A défaut d'option dans le délai
+imparti, il est réputé démissionnaire de son mandat ; cette démission est constatée par arrêté du représentant de l'Etat dans
+la région.
+
+Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
+A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
+conseiller régional est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat dans la région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 11 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L342 (M)
+	  - Code électoral - art. L343 (M)
+
+
+###### Article L345
+
+Nul ne peut être membre de plusieurs conseils régionaux.
+
+A défaut de leur avoir fait connaître son option dans les trois jours de son élection, le conseiller régional élu dans
+plusieurs régions est déclaré démissionnaire de ses mandats par arrêtés des représentants de l'Etat dans les régions où il a
+été élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 11 (V)
+
+
+### Chapitre V : Déclarations de candidature.
+
+###### Article L346
+
+Une déclaration de candidature est obligatoire pour chaque liste de candidats.
+
+Elle résulte du dépôt à la préfecture d'une liste comprenant autant de candidats qu'il y a de sièges à pourvoir dans le
+département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L347 (V)
+	  - Code électoral - art. L350 (V)
+
+
+###### Article L347
+
+La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
+porteur d'un mandat écrit établi par ce candidat.
+
+Elle comporte la signature de chaque candidat et indique expressément :
+
+1° Le titre de la liste ;
+
+2° Les noms, prénoms, date et lieu de naissance, domicile et profession de chaque candidat.
+
+La déclaration de candidature peut comporter l'indication d'un emblème que les candidats choisissent pour qu'il soit imprimé
+sur leur bulletin de vote.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L350 (V)
+	  - Code électoral - art. L372 (V)
+
+
+###### Article L348
+
+Nul ne peut être candidat sur plus d'une liste.
+
+Est nul et non avenu l'enregistrement de listes portant le nom d'une ou plusieurs personnes figurant sur une autre liste de
+candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L347 (V)
+	  - Code électoral - art. L351 (V)
+	  - Code électoral - art. L372 (M)
+
+
+###### Article L349
+
+Le candidat tête de liste ou son mandataire verse entre les mains du trésorier-payeur-général du département, agissant en
+qualité de préposé de la Caisse des dépôts et consignations, un cautionnement [*montant*] de 500 F par siège à pourvoir.
+
+Le récépissé de versement du cautionnement est joint à la déclaration de candidature.
+
+Le cautionnement est remboursé aux listes ayant obtenu au moins 5 % de suffrages exprimés [*pourcentage minimum*].
+
+Sont prescrits et acquis au Trésor public les cautionnements, non réclamés dans le délai d'un an à dater de leur dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
+	  - Code électoral - art. L371 (Ab)
+	  - Code électoral - art. L372 (M)
+
+
+###### Article L350
+
+Les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du scrutin, à midi. Il en
+est donné récépissé provisoire.
+
+Elles sont enregistrées si les conditions prévues aux articles L. 339, L. 340 et L. 346 à L. 349 sont remplies. Le refus
+d'enregistrement est motivé.
+
+Un récépissé définitif est délivré par le représentant de l'Etat dans le département, après enregistrement, au plus tard le
+quatrième vendredi qui précède le jour du scrutin, à midi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L339 (M)
+	  - Code électoral - art. L340 (M)
+	  - Code électoral L346 à L349
+
+	**Cité par**:
+
+	  - Code électoral - art. L372 (M)
+
+
+###### Article L351
+
+Le candidat placé en tête de liste, ou son mandataire, dispose d'un délai de quarante-huit heures pour contester le refus
+d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
+peut être contestée qu'à l'occasion d'un recours contre l'élection.
+
+Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions des articles L. 339, L. 340 ou L. 348, la
+liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal administratif
+confirmant le refus    Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif,
+saisi par le candidat tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Décret n°88-291 du 28 mars 1988 - art. 27 (Ab)
+	  - Code électoral - art. L372 (V)
+	  - Code électoral - art. R184 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L339 (M)
+	  - Code électoral - art. L340 (M)
+	  - Code électoral - art. L348 (M)
+
+
+###### Article L352
+
+Aucun retrait de candidat n'est accepté après le dépôt de la liste.
+
+Il n'est pas pourvu au remplacement d'un candidat décédé après ce dépôt.
+
+Les listes complètes peuvent être retirées au plus tard le quatrième samedi précédant le scrutin à midi. La déclaration de
+retrait est signée par la majorité des candidats de la liste. Le cautionnement est remboursé sur présentation de l'accusé de
+réception de la déclaration de retrait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L372 (M)
+
+
+### Chapitre VI : Propagande
+
+###### Article L353
+
+La campagne électorale est ouverte à partir du deuxième lundi qui précède le jour du scrutin et prend fin le samedi précédant
+le scrutin, à minuit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°61-814 du 29 juillet 1961 - art. 13-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+
+###### Article L354
+
+Dans chaque département, une commission de propagande, dont la composition et le fonctionnement sont fixés par décret en
+Conseil d'Etat, est chargée d'assurer l'envoi et la distribution des documents de propagande électorale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°61-814 du 29 juillet 1961 - art. 13-9 (Ab)
+	  - Loi n°88-82 du 22 janvier 1988 - art. 134 (Ab)
+	  - Décret n°2000-36 du 12 janvier 2000 - art. 8 (Ab)
+	  - Code électoral - art. L355 (V)
+	  - Code électoral - art. R185 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+
+###### Article L355
+
+L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 354
+ainsi que celles qui résultent de leur fonctionnement.
+
+Sont remboursés aux listes ayant obtenu au moins 5 % des suffrages exprimés : le coût du papier, l'impression des bulletins
+de vote, affiches, circulaires et les frais d'affichage. Un décret en Conseil d'Etat détermine la nature et le nombre des
+bulletins, affiches et circulaires dont le coût est remboursé ; il détermine également le montant des frais d'affichage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L354 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. L377 (V)
+
+
+###### Article L356
+
+Les articles L. 165, L. 211 et L. 215 sont applicables à l'élection des conseillers régionaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cite**:
+
+	  - Code électoral - art. L165 (M)
+	  - Code électoral - art. L211 (V)
+	  - Code électoral - art. L215 (M)
+
+
+### Chapitre VII : Opérations préparatoires au scrutin
+
+###### Article L357
+
+Les collèges électoraux sont convoqués par décret publié au moins cinq semaines avant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Décret n°2015-939 du 30 juillet 2015 (V)
+
+
+### Chapitre VIII : Opérations de vote
+
+###### Article L358
+
+Les voix données aux listes comprenant un candidat qui a fait acte de candidature sur plusieurs listes sont considérées comme
+nulles ; ces listes ne peuvent obtenir aucun siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L379 (VD)
+
+
+###### Article L359
+
+Le recensement général des votes est effectué, pour chaque département, au chef-lieu du département, le lundi qui suit le
+scrutin, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés par
+un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Loi n°88-82 du 22 janvier 1988 - art. 134 (Ab)
+	  - Décret n°88-267 du 22 mars 1988 - art. 8 (Ab)
+	  - Décret n°89-290 du 9 mai 1989 - art. 9 (Ab)
+	  - Code électoral - art. R188 (V)
+	  - Code électoral - art. R189 (VD)
+
+
+### Chapitre IX : Remplacement des conseillers régionaux
+
+###### Article L360
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller régional élu sur
+cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Le représentant de l'Etat dans la région notifie le nom de ce remplaçant au président du conseil régional.
+
+Le mandat de la personne ayant remplacé un conseiller régional dont le siège était devenu vacant expire lors du
+renouvellement du conseil régional qui suit son entrée en fonction.
+
+Lorsque les dispositions du premier alinéa du présent article ne peuvent être appliquées, le siège demeure vacant jusqu'au
+prochain renouvellement du conseil régional. Toutefois, si le tiers des sièges de conseillers régionaux élus dans un
+département vient à être vacant par suite du décès de leurs titulaires, il est procédé au renouvellement intégral des
+conseillers régionaux élus dans ce département dans les trois mois qui suivent la dernière vacance pour cause de décès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code électoral - art. L361 (V)
+	  - Code électoral - art. L380 (M)
+	  - Code électoral - art. L381 (VD)
+	  - Code électoral - art. L46-1 (MMN)
+
+
+### Chapitre X : Contentieux
+
+###### Article L361
+
+Les élections au conseil régional peuvent être contestées dans les dix jours suivant la proclamation des résultats pour tout
+candidat ou tout électeur du département devant le Conseil d'Etat statuant au contentieux.
+
+Le même droit est ouvert au représentant de l'Etat dans le département s'il estime que les conditions et les formes
+légalement prescrites n'ont pas été respectées.
+
+L'éligibilité d'un candidat devenu conseiller régional par application des dispositions du premier alinéa de l'article L. 360
+peut être contestée dans le délai de dix jours à compter de la date à laquelle ce candidat a remplacé le conseiller régional
+dont le siège est devenu vacant.
+
+La constatation par le Conseil d'Etat de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection
+que du ou des élus inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L311-3 (V)
+	  - Code électoral - art. L381 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. L360 (M)
+
+
+###### Article L362
+
+Le conseiller régional dont l'élection est contestée reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la
+réclamation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+
+###### Article L363
+
+En cas d'annulation de l'ensemble des opérations électorales dans un département, il est procédé à de nouvelles élections
+dans ce département dans un délai de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+
+### Chapitre XI : Conditions d'applications
+
+###### Article L364
+
+Des décrets en Conseil d'Etat détermineront les conditions d'application du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Cité par**:
+
+	  - Loi n°2010-145 du 16 février 2010 - art. 2 (Ab)
+	  - Décret n°2015-939 du 30 juillet 2015 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
+	  - Code général des collectivités territoriales - art. L4422-2 (V)
 
 
 # Partie réglementaire
@@ -15929,6 +16824,111 @@ Ces dispositions ne s'appliquent pas aux électeurs de droit qui reçoivent au t
 
 
 # Annexes
+
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).
+
+###### Article Annexe tableau n° 1 bis
+
+<table>
+  <tbody>
+    <tr>
+      <td width="325">
+
+Territoires
+
+</td>
+      <td width="325">
+
+Composition
+
+</td>
+    </tr>
+    <tr>
+      <td width="325">
+
+Nouvelle-Calédonie
+
+</td>
+      <td width="325">
+
+</td>
+    </tr>
+    <tr>
+      <td width="325">
+
+1re circonscription
+
+</td>
+      <td width="325">
+
+Communes de L'Ile des Pins, Lifou, Maré, Nouméa, Ouvéa.
+
+</td>
+    </tr>
+    <tr>
+      <td width="325" valign="top">
+
+2e circonscription
+
+</td>
+      <td width="325">
+
+Communes de Belep, Bouloupari, Bourail, Canala, Dumbéa, Farino, Hienghène, Houaïlou, Kaala-Gomen, Koné, Kouaoua, Koumac, La
+Foa, Moindou, Le Mont-Dore, Ouégoa, Païta, Poindimié, Ponérihouen, Pouebo, Pouembout, Poum, Poya, Sarraméa, Thio, Touho, Voh,
+Yaté.
+
+</td>
+    </tr>
+    <tr>
+      <td width="325">
+
+Polynésie française
+
+</td>
+      <td width="325">
+    </td></tr>
+    <tr>
+      <td valign="top" width="325">
+
+1re circonscription
+
+</td>
+      <td width="325">
+
+Communes de Bora-Bora, Faaa, Huahine, Maupiti, Moorea-Maiao, Paea, Papeete, Punaiua, Raivavae, Rapa, Rimatara, Rurutu, Tahaa,
+Taputapuatei, Tubuaa, Tumaraa, Uturoa.
+
+</td>
+    </tr>
+    <tr>
+      <td width="325" valign="top">
+
+2e circonscription
+
+</td>
+      <td width="325">
+
+Communes de : Anaa, Arue, Arutua, Fakarava, Fangatau, Fatu Hiva, Gambier, Hao, Hikueru, Hitiaa O Te Ra, Hiva Oa, Mahina,
+Makemo, Manihi, Napuka, Nuku Hiva, Nukutavake, Papara, Pirae, Puka-Puka, Rangiroa, Reao, Tahuata, Taiarapu-Est, Taiarapu-
+Ouest, Takaroa, Tatakoto, Teva-I-Uta, Tureia, Ua-Huka, Ua-Pou.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+
+	**Modifié par**:
+
+	  - Loi n°98-730 1998-08-20 art. 3 IV JORF 22 août 1998
+	  - Loi n°99-210 1977-03-19 art. 28 12° JORF 21 mars 1999
+	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
+
 
 ## Tableau des secteurs pour l'élection des membres du conseil de Paris
 
