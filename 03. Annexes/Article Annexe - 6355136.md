@@ -76,6 +76,10 @@ Nord
 
 Dunkerque.
 
+Fort-Mardyck.
+
+Saint-Pol-sur-Mer.
+
 Oise
 
 Beauvais.
@@ -148,4 +152,8 @@ Versailles.
 
 	**Modifié par**:
 
-	  - Décret n°2004-454 du 27 mai 2004 - art. 1 () JORF 29 mai 2004
+	  - Décret n°2004-901 du 30 août 2004 - art. 1 () JORF 1er septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006

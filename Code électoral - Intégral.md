@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-09-01
 
 # Partie législative
 
@@ -15742,35 +15742,30 @@ généraux "  ;
 
 Pour l'application des dispositions du présent code dans les îles Wallis et Futuna, il y a lieu de lire :
 
-1° "territoire" au lieu de : "département" ;
+1° " territoire "  au lieu de :  " département "  ;
 
-2° "administrateur supérieur" au lieu de : "préfet", de :
+2°  " administrateur supérieur "  au lieu de :  " préfet " , de :  " sous-préfet "  et de :  " Institut national de la
+statistique et des études économiques "  ;
 
-"sous-préfet" et de : "Institut national de la statistique et des études économiques" ;
+3°  " secrétaire général "  au lieu de :  " secrétaire général de préfecture "  ;
 
-3° "secrétaire général" au lieu de : "secrétaire général de préfecture" ;
+4°  " services de l'administrateur supérieur "  au lieu de :  " préfecture "  ;
 
-4° "services de l'administrateur supérieur" au lieu de :
+5°  " membre de l'assemblée territoriale "  au lieu de :  " conseiller général "  ;
 
-"préfecture" ;
+6°  " tribunal de première instance "  au lieu de :  " tribunal d'instance "  ;
 
-5° "membre de l'assemblée territoriale" au lieu de : "conseiller général" ;
+7°  " circonscription territoriale "  au lieu de :  " commune "  ;
 
-6° "tribunal de première instance" au lieu de : "tribunal d'instance" ;
+8°  " chef de circonscription "  au lieu de :  " maire "  ou de :  " autorité municipale "  ;
 
-7° "circonscription territoriale" au lieu de : "commune" ;
+9°  " siège de circonscription territoriale "  au lieu de :  " conseil municipal "  ;
 
-8° "chef de circonscription" au lieu de : "maire" ou de :
+10°  " village "  au lieu de :  " bureau de vote "  ;
 
-"autorité municipale" ;
+11°  " archives du territoire "  au lieu de :  " archives départementales "  ;
 
-9° "siège de circonscription territoriale" au lieu de : "conseil municipal" ;
-
-10° "village" au lieu de : "bureau de vote" ;
-
-11° "archives du territoire" au lieu de : "archives départementales" ;
-
-12° "conseil du contentieux administratif" au lieu de : "tribunal administratif".
+12° (Abrogé).
 
 **Liens relatifs à cet article**
 
@@ -15784,9 +15779,9 @@ Pour l'application des dispositions du présent code dans les îles Wallis et Fu
 	  - Ordonnance n°2003-923 du 26 septembre 2003 - art. 6 (V)
 	  - Code électoral - art. L558-46 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
+	  - Ordonnance 2003-923 2003-09-26 art. 6 4° JORF 27 septembre 2003 en vigueur le 1er septembre 2004
 
 
 ###### Article L388
@@ -17319,15 +17314,15 @@ les trois jours du dépôt de la déclaration, après que celle-ci a été enreg
 ###### Article L420
 
 Le candidat placé en tête de liste, ou son mandataire, dispose d'un délai de quarante-huit heures pour contester le refus
-d'enregistrement devant le conseil du contentieux administratif, qui statue dans les trois jours. La décision du conseil du
-contentieux administratif ne peut être contestée qu'à l'occasion d'un recours contre l'élection.
+d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
+peut être contestée qu'à l'occasion d'un recours contre l'élection.
 
 Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités, ou par la
 présence d'un candidat sur plusieurs listes ou dans plus d'une circonscription, la liste dispose, pour se compléter, de
-quarante-huit heures à compter de ce refus ou de la décision du conseil du contentieux administratif confirmant le refus.
+quarante-huit heures à compter de ce refus ou de la décision du tribunal administratif confirmant le refus.
 
-Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le conseil du contentieux administratif, saisi par
-le candidat tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
+Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -17335,9 +17330,9 @@ le candidat tête de liste ou son mandataire, n'a pas statué dans le délai pr�
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Ordonnance n°2003-923 du 26 septembre 2003 - art. 5 (V) JORF 27 septembre 2003 en vigueur le 1er septembre 2004
 
 
 ###### Article L421
@@ -24018,8 +24013,7 @@ maire, qui précise le lieu de la réunion ainsi que son heure, si elle n'a pas 
 Nul ne peut être nommé délégué, suppléant ou remplaçant s'il ne jouit de ses droits civiques et politiques.
 
 Seuls peuvent être élus délégués ou suppléants d'un conseil municipal les conseillers municipaux et les électeurs inscrits
-sur la liste électorale de la commune intéressée. Toutefois, dans les communes de moins de 3 500 habitants, seuls les
-conseillers municipaux peuvent être élus suppléants.
+sur la liste électorale de la commune intéressée.
 
 **Liens relatifs à cet article**
 
@@ -24029,7 +24023,7 @@ conseillers municipaux peuvent être élus suppléants.
 
 	**Modifié par**:
 
-	  - Décret n°2001-284 du 2 avril 2001 - art. 3 ()
+	  - Décret n°2004-900 du 30 août 2004 - art. 2 () JORF 1er septembre 2004
 
 
 ###### Article R*133
@@ -24608,8 +24602,8 @@ ou suppléants, sous une même enveloppe fermée qui sera déposée à la poste 
 accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats ;
 
 d) de mettre en place au lieu de l'élection et avant l'ouverture du scrutin les bulletins de vote de chaque candidat ou liste
-de candidats, en nombre au moins égal au nombre des membres du collège électoral ; la surveillance des bulletins est assurée
-par un employé désigné par la commission ;
+de candidats, en nombre au moins égal au nombre des membres du collège électoral, sauf dans les départements où il est fait
+utilisation d'une machine à voter; la surveillance des bulletins est assurée par un employé désigné par la commission ;
 
 e) dans les départements où fonctionne le scrutin majoritaire, de mettre en place pour le deuxième tour de scrutin un nombre
 de bulletins en blanc correspondant au nombre d'électeurs inscrits et au nombre de candidats en présence.
@@ -24620,10 +24614,6 @@ de bulletins en blanc correspondant au nombre d'électeurs inscrits et au nombre
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Décret n°97-503 du 21 mai 1997 - art. 2 ()
-
 	**Cité par**:
 
 	  - Décret n°2002-105 du 25 janvier 2002 - art. 13 (V)
@@ -24631,6 +24621,10 @@ de bulletins en blanc correspondant au nombre d'électeurs inscrits et au nombre
 	  - Code électoral - art. R160 (V)
 	  - Code électoral - art. R161 (V)
 	  - Code électoral - art. R277 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-900 du 30 août 2004 - art. 3 () JORF 1er septembre 2004
 
 
 ###### Article R*158
@@ -24812,9 +24806,9 @@ En cas d'empêchement, le premier président de la cour d'appel désignera des s
 
 ###### Article R*164
 
-Le tableau des électeurs sénatoriaux, établi par ordre alphabétique, constitue la liste d'émargement mentionnée à l'article
-L. 314-1. Cette liste est divisée, selon le même ordre, par le préfet, au plus tard la veille du scrutin, en sections de vote
-comprenant au moins cent électeurs.
+La liste des électeurs du département constitue la liste d'émargement mentionnée à l'article L. 314-1. Cette liste est
+divisée, selon le même ordre, par le préfet, au plus tard la veille du scrutin, en sections de vote comprenant au moins cent
+électeurs.
 
 Dès la clôture du scrutin, la liste d'émargement est signée par tous les membres du bureau du collège électoral composé comme
 il est dit à l'article R. 163. Il est aussitôt procédé au dénombrement des émargements.
@@ -24827,7 +24821,7 @@ il est dit à l'article R. 163. Il est aussitôt procédé au dénombrement des 
 
 	**Modifié par**:
 
-	  - Décret n°2001-284 du 2 avril 2001 - art. 9 ()
+	  - Décret n°2004-900 du 30 août 2004 - art. 4 () JORF 1er septembre 2004
 
 	**Cite**:
 
@@ -24838,6 +24832,48 @@ il est dit à l'article R. 163. Il est aussitôt procédé au dénombrement des 
 
 	  - Code électoral - art. R162 (V)
 	  - Code électoral - art. R271 (V)
+
+
+###### Article R*164-1
+
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux qui souhaitent
+exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant de l'Etat
+dans le département à qui elle doit parvenir, à peine d'irrecevabilité, quarante-huit heures au moins avant le début du
+scrutin.
+
+Cette demande doit préciser la nature de l'empêchement majeur invoqué par le mandant, au regard des dispositions des a et c
+de l'article L. 71.
+
+La procuration jointe à la demande est rédigée sur papier libre et revêtue de la signature de l'intéressé. Elle ne peut être
+établie qu'au profit d'un membre du collège électoral du département.
+
+Le représentant de l'Etat dans le département avise immédiatement le mandant dont la procuration n'est pas valable.
+
+Le représentant de l'Etat dans le département transmet les demandes valables au président du bureau du collège électoral.
+Mention en est faite sur la liste des électeurs sénatoriaux du département. Le mandataire n'est admis à voter que s'il
+présente un mandat de procuration régulièrement établi et signé par le mandant.
+
+La procuration est irrévocable. Cependant, dans le cas où le mandant se présente personnellement pour participer au scrutin,
+la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà été utilisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2004-900 du 30 août 2004 - art. 5 () JORF 1er septembre 2004
+
+	**Cite**:
+
+	  - Code électoral - art. L71 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R271 (V)
+	  - Code électoral - art. R272 (V)
 
 
 ###### Article R*165
@@ -24896,12 +24932,11 @@ Le bureau statue sur toutes les difficultés et contestations qui peuvent s'éle
 
 ###### Article R*167
 
-Les enveloppes électorales sont fournies par l'administration préfectorale.
+Les enveloppes électorales sont fournies par l'administration préfectorale en nombre égal à celui des électeurs inscrits,
+sauf dans les départements où il est fait utilisation d'une machine à voter.
 
 Elles sont opaques, non gommées, frappées du timbre à date des préfectures, et de type uniforme pour chaque collège
 électoral.
-
-Elles sont envoyées, cinq jours au moins avant l'élection, en nombre égal à celui des électeurs inscrits.
 
 **Liens relatifs à cet article**
 
@@ -24911,7 +24946,7 @@ Elles sont envoyées, cinq jours au moins avant l'élection, en nombre égal à 
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°2004-900 du 30 août 2004 - art. 6 () JORF 1er septembre 2004
 
 	**Cité par**:
 
@@ -25704,12 +25739,12 @@ L'élection des conseillers généraux de Mayotte est régie par les disposition
 	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 
-#### Chapitre V : Dispositions applicables à l'élection du sénateur de Mayotte
+#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte
 
 ###### Article R179
 
-Les dispositions du titre III bis du livre II du présent code (partie Réglementaire) ne sont pas applicables à l'élection du
-sénateur de Mayotte.
+Les dispositions du titre III bis du livre II du présent code (partie Réglementaire) ne sont pas applicables à l'élection des
+sénateurs de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -25719,7 +25754,11 @@ sénateur de Mayotte.
 
 	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+	  - Décret n°2004-900 du 30 août 2004 - art. 7 () JORF 1er septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 
 ###### Article R179-1
@@ -25744,7 +25783,11 @@ conseillers généraux les plus âgés présents à l'ouverture du scrutin et no
 
 	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+	  - Décret n°2004-900 du 30 août 2004 - art. 7 () JORF 1er septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 	**Cite**:
 
@@ -28557,10 +28600,10 @@ Les résultats des scrutins sont publiés au Journal officiel de la Polynésie f
 ###### Article R271
 
 Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction en vigueur à
-la date du décret n° 2002-105 du 25 janvier 2002, les dispositions suivantes du livre II du code électoral (partie
+la date du décret n° 2004-900 du 30 août 2004, les dispositions suivantes du livre II du code électoral (partie
 Réglementaire) :
 
-1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164 et R. 169 ;
+1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164, R. 164-1 et R. 169 ;
 
 2° Chapitres Ier et IV à VII du titre IV ;
 
@@ -28574,16 +28617,18 @@ Réglementaire) :
 
 	**Cite**:
 
-	  - Décret n°2002-105 2002-01-25
+	  - Décret n°2004-900 2004-08-30
 	  - Code électoral - art. R*130-1 (M)
 	  - Code électoral - art. R*150 (M)
 	  - Code électoral - art. R*151 (M)
 	  - Code électoral - art. R*164 (M)
+	  - Code électoral - art. R*164-1 (M)
 	  - Code électoral - art. R*169 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-900 2004-08-30 art. 8 I, II JORF 1er septembre 2004
+	  - Décret n°2004-900 du 30 août 2004 - art. 8 () JORF 1er septembre 2004
 
 	**Cité par**:
 
@@ -28594,7 +28639,7 @@ Réglementaire) :
 ###### Article R272
 
 Sont applicables à l'élection des sénateurs dans les îles Wallis et Futuna, dans leur rédaction en vigueur à la date du
-décret n° 2002-105 du 25 janvier 2002, les dispositions suivantes du livre II du code électoral (partie réglementaire) :
+décret n° 2004-900 du 30 août 2004, les dispositions suivantes du livre II du code électoral (partie réglementaire) :
 
 1° Chapitres Ier et IV à VII du titre IV, à l'exception de l'article R. 154 ;
 
@@ -28608,12 +28653,12 @@ décret n° 2002-105 du 25 janvier 2002, les dispositions suivantes du livre II 
 
 	**Cite**:
 
-	  - Décret n°2002-105 2002-01-25
+	  - Décret n°2004-900 2004-08-30
 	  - Code électoral - art. R*154 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-900 du 30 août 2004 - art. 8 () JORF 1er septembre 2004
 
 	**Cité par**:
 
@@ -28838,22 +28883,22 @@ cinq de ces enveloppes.
 
 Conformément à l'article L. 448, les députés, les membres des assemblées de province en Nouvelle-Calédonie, les membres de
 l'assemblée de la Polynésie française ou les membres de l'assemblée territoriale des îles Wallis et Futuna qui peuvent
-exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant de l'Etat.
+exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant de l'Etat. 
 
-Cette demande doit préciser que l'intéressé sera, le jour de l'élection, absent du territoire.
+Cette demande doit préciser que l'intéressé sera, le jour de l'élection, absent du territoire. 
 
-Elle est immédiatement enregistrée par le représentant de l'Etat.
+Elle est immédiatement enregistrée par le représentant de l'Etat. 
 
 La procuration jointe à la demande est rédigée sur papier non timbré et revêtue de la signature de l'intéressé. Elle ne peut
-être établie qu'au profit d'un membre du collège électoral auquel appartient le mandant.
+être établie qu'au profit d'un membre du collège électoral auquel appartient le mandant. 
 
-Le représentant de l'Etat avise immédiatement le ou les mandants dont la procuration n'est pas valable.
+Le représentant de l'Etat avise immédiatement le ou les mandants dont la procuration n'est pas valable. 
 
-Le représentant de l'Etat transmet les demandes valables au président du bureau de vote.
+Le représentant de l'Etat transmet les demandes valables au président du bureau de vote. 
 
-Mention en est faite immédiatement au tableau des électeurs sénatoriaux.
+Mention en est faite immédiatement sur la liste des électeurs sénatoriaux. 
 
-Le mandataire n'est admis à voter que s'il présente la procuration.
+Le mandataire n'est admis à voter que s'il présente la procuration. 
 
 La procuration est irrévocable. Cependant, dans le cas où le mandant se présente personnellement pour participer au scrutin,
 la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà été utilisée.
@@ -28864,9 +28909,9 @@ la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà ét�
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-900 2004-08-30 art. 9 JORF 1er septembre 2004
 
 	**Cite**:
 
@@ -35852,6 +35897,10 @@ Nord
 
 Dunkerque.
 
+Fort-Mardyck.
+
+Saint-Pol-sur-Mer.
+
 Oise
 
 Beauvais.
@@ -35924,7 +35973,11 @@ Versailles.
 
 	**Modifié par**:
 
-	  - Décret n°2004-454 du 27 mai 2004 - art. 1 () JORF 29 mai 2004
+	  - Décret n°2004-901 du 30 août 2004 - art. 1 () JORF 1er septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
 
 
 ## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).
