@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1990-05-11
+Version Consolidée au 1990-09-01
 
 # Partie législative
 
@@ -2016,6 +2016,32 @@ circulaires des candidats.
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
+###### Article L50-1
+
+Pendant les trois mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est
+acquise, aucun numéro d'appel téléphonique ou télématique gratuit ne peut être porté à la connaissance du public par un
+candidat, une liste de candidats ou à leur profit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 4 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Loi n°2003-486 du 10 juin 2003 - art. 5 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (VD)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+	  - Code général des collectivités territoriales - art. LO1112-9 (V)
+
+
 ###### Article L51
 
 Pendant la durée de la période électorale, dans chaque commune, des emplacements spéciaux sont réservés par l'autorité
@@ -2023,8 +2049,9 @@ municipale pour l'apposition des affiches électorales.
 
 Dans chacun de ces emplacements, une surface égale est attribuée à chaque candidat ou à chaque liste de candidats.
 
-Tout affichage relatif à l'élection, même par affiches timbrées, est interdit en dehors de cet emplacement ou sur
-l'emplacement réservé aux autres candidats.
+Pendant les trois mois  précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci
+est acquise, tout affichage relatif à l'élection, même par affiches timbrées, est interdit en dehors de cet emplacement ou
+sur l'emplacement réservé aux autres candidats.
 
 **Liens relatifs à cet article**
 
@@ -2060,6 +2087,10 @@ l'emplacement réservé aux autres candidats.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 2 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L90 (M)
@@ -2088,8 +2119,13 @@ prises pour leur exécution, le préfet doit en assurer immédiatement l'applica
 
 ###### Article L52-1
 
-Pendant la durée de la campagne électorale, est également interdite l'utilisation, à des fins de propagande électorale de
-tout procédé de publicité commerciale par la voie de la presse ou par tout moyen de communication audiovisuelle.
+Pendant les trois mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est
+acquise, l'utilisation à des fins de propagande électorale de tout procédé de publicité commerciale par la voie de la presse
+ou par tout moyen de communication audiovisuelle est interdite.
+
+A compter du premier jour du sixième mois précédant le mois au cours duquel il doit être procédé à des élections générales,
+aucune campagne de promotion publicitaire des réalisations ou de la gestion d'une collectivité ne peut être organisée sur le
+territoire des collectivités intéressées par le scrutin.
 
 **Liens relatifs à cet article**
 
@@ -2119,7 +2155,7 @@ tout procédé de publicité commerciale par la voie de la presse ou par tout mo
 
 	**Modifié par**:
 
-	  - Loi n°85-1317 1985-12-13 art. 22 II JORF 14 Décembre 1985
+	  - Loi n°90-55 du 15 janvier 1990 - art. 3 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
 
 
 ###### Article L52-2
@@ -2181,6 +2217,564 @@ Chaque candidat ou liste de candidats peut faire imprimer un emblème sur ses bu
 
 #### Chapitre V bis : Financement et plafonnement des dépenses électorales
 
+###### Article L52-4
+
+Pendant l'année précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où l'élection a été
+acquise, un candidat à cette élection ne peut avoir recueilli des fonds en vue du financement de sa campagne que par
+l'intermédiaire d'un mandataire nommément désigné par lui, qui est soit une association de financement électorale, soit une
+personne physique dénommée "le mandataire financier".
+
+Lorsque le candidat a décidé de recourir à une association de financement électorale ou à un mandataire financier, il ne peut
+régler les dépenses occasionnées par sa campagne électorale que par leur intermédiaire, à l'exception du montant du
+cautionnement éventuel et des dépenses prises en charge par un parti ou groupement politique.
+
+En cas d'élection anticipée ou partielle, ces dispositions ne sont applicables qu'à compter de l'événement qui rend cette
+élection nécessaire.
+
+Les dispositions du présent article ne sont pas applicables à l'élection des conseillers généraux dans les cantons de moins
+de 9 000 habitants et à l'élection des conseillers municipaux dans les communes de moins de 9 000 habitants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 9-1 (Ab)
+	  - Décret n°64-231 du 14 mars 1964 - art. 9-2 (Ab)
+	  - Loi n°66-537 du 24 juillet 1966 - art. 168 (M)
+	  - Loi n°96-89 du 6 février 1996 - art. 3 (V)
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 21-1 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 12 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 10-1 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 11 (V)
+	  - Loi n°2007-1720 du 7 décembre 2007 - art. 5 (V)
+	  - Loi n°2016-506 du 25 avril 2016 - art. 6
+	  - Décret n°2016-1819 du 22 décembre 2016 - art. 1
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis (M)
+	  - Code général des impôts, CGI. - art. 200 (V)
+	  - Code électoral - art. L113-1 (VD)
+	  - Code électoral - art. L330-6-1 (V)
+	  - Code électoral - art. L52-11 (VD)
+	  - Code électoral - art. L52-11-1 (V)
+	  - Code électoral - art. L52-12 (VD)
+	  - Code électoral - art. L52-15 (VD)
+	  - Code électoral - art. L52-18 (Ab)
+	  - Code électoral - art. L52-5 (V)
+	  - Code électoral - art. L52-6 (V)
+	  - Code électoral - art. R39-1 (V)
+	  - Code électoral - art. R39-2 (M)
+	  - Loi n°94-590 du 15 juillet 1994 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+
+###### Article L52-5
+
+L'association de financement électorale doit être déclarée selon les modalités prévues par l'article 5 de la loi du 1er
+juillet 1901 relative au contrat d'association. La déclaration doit être accompagnée de l'accord écrit du candidat.
+
+L'association de financement électorale est tenue d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses
+opérations financières. Les comptes de l'association sont annexés au compte de campagne du candidat qu'elle a soutenu ou au
+compte de campagne du candidat tête de liste lorsque le candidat qu'elle a soutenu figure sur cette liste.
+
+L'association ne peut recueillir de fonds que pendant la période prévue à l'article L. 52-4.
+
+Elle est dissoute de plein droit trois mois après le dépôt du compte de campagne du candidat qu'elle soutient. Avant
+l'expiration de ce délai, elle est tenue de se prononcer sur la dévolution de son actif net. Celui-ci doit être attribué soit
+à une autre association de financement électorale, soit à une association de financement d'un parti politique, soit à un ou
+plusieurs établissements reconnus d'utilité publique. A défaut de décision de dévolution dans les conditions et délais prévus
+ci-dessus, à la demande du préfet du département dans lequel est situé le siège de l'association de financement électorale,
+le procureur de la République saisit le président du tribunal de grande instance, qui détermine le ou les établissements
+reconnus d'utilité publique attributaires de l'actif net. Il en va de même dans le cas où la dévolution n'est pas acceptée.
+
+Si le candidat soutenu par l'association de financement électorale n'a pas déposé sa candidature, l'association est dissoute
+de plein droit à l'expiration du délai de dépôt des candidatures. La dévolution de l'actif net, sur laquelle l'association
+doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans les conditions prévues à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VD)
+	  - Décret n°64-231 du 14 mars 1964 - art. 9-1 (Ab)
+	  - Loi n°77-729 du 7 juillet 1977 - art. 10 (V)
+	  - Loi n°96-300 du 10 avril 1996 - art. 1 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 11 (V)
+	  - Décret n°2012-220 du 16 février 2012 (V)
+	  - Code de la sécurité sociale. - art. L133-5-6 (VD)
+	  - Code du travail - art. L1272-1 (VT)
+	  - Code du travail - art. L128-1 (VT)
+	  - Code électoral - art. L154 (V)
+	  - Code électoral - art. L210-1 (VD)
+	  - Code électoral - art. L224-15 (VD)
+	  - Code électoral - art. L265 (V)
+	  - Code électoral - art. L330-7 (V)
+	  - Code électoral - art. L347 (V)
+	  - Code électoral - art. L370 (VD)
+	  - Code électoral - art. L52-4 (V)
+	  - Code électoral - art. R39-1-B (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Loi n°1901-07-01 art. 5
+
+
+###### Article L52-6
+
+Le candidat déclare par écrit à la préfecture de son domicile le nom du mandataire financier qu'il choisit. La déclaration
+doit être accompagnée de l'accord exprès du mandataire désigné.
+
+Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses opérations
+financières. L'intitulé du compte précise que le titulaire agit en qualité de mandataire financier du candidat, nommément
+désigné. Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a désigné ou au compte de campagne du
+candidat tête de liste lorsque le candidat qui l'a désigné figure sur cette liste.
+
+Le mandataire financier ne peut recueillir de fonds que pendant la période prévue à l'article L. 52-4.
+
+Les fonctions du mandataire financier cessent de plein droit trois mois après le dépôt du compte de campagne du candidat qui
+l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les délais légaux, à l'expiration du délai de dépôt
+des candidatures.
+
+Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif apparaît,
+il est dévolu, sur décision du candidat, soit à une association de financement électorale, soit à une association de
+financement d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de
+dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du département dans lequel est domicilié le
+candidat, le procureur de la République saisit le président du tribunal de grande instance qui détermine le ou les
+établissements reconnus d'utilité publique attributaires de l'actif net. Il en va de même lorsque la dévolution n'est pas
+acceptée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VD)
+	  - Décret n°64-231 du 14 mars 1964 - art. 9-1 (Ab)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 11 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 12-1 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code électoral - art. L330-7 (V)
+	  - Code électoral - art. R39-1-A (VD)
+	  - Code électoral - art. R39-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral - art. L52-4 (M)
+
+
+###### Article L52-7
+
+Pour une même élection, un candidat ne peut recourir en même temps à une association de financement électorale et à un
+mandataire financier.
+
+Il peut toutefois recourir successivement à deux ou plusieurs intermédiaires. Dans cette hypothèse, le candidat doit mettre
+fin aux fonctions du mandataire ou retirer son accord à l'association de financement électorale dans les mêmes formes que la
+désignation ou l'attribution de l'accord. Le compte bancaire ou postal unique est bloqué jusqu'au moment où le candidat
+désigne un nouveau mandataire financier ou donne son accord à une nouvelle association de financement électorale. Chaque
+association ou chaque mandataire financier, sauf le cas de décès de ce dernier, établit le compte de sa gestion.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque le candidat a donné son accord, dans le cadre d'un
+scrutin plurinominal, à une association à laquelle un ou plusieurs candidats avaient déjà donné leur accord.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 9-1 (Ab)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+
+###### Article L52-8
+
+Les dons consentis par des personnes dûment identifiées pour le financement de la campagne d'un candidat ou de plusieurs
+candidats lors d'une même élection ne peuvent excéder [*montant*] 30 000 F s'ils émanent d'une personne physique et 10 p. 100
+du plafond des dépenses électorales dans la limite de 500 000 F s'ils émanent d'une personne morale autre qu'un parti ou
+groupement politique.
+
+Tout don de plus de 1 000 F consenti à un candidat en vue de sa campagne doit être versé par chèque.
+
+Le montant global des dons en espèces faits au candidat ne peut excéder 20 p. 100 du montant des dépenses autorisées lorsque
+ce montant est égal ou supérieur à 100 000 F en application de l'article L. 52-11.
+
+Les personnes morales de droit public, les personnes morales de droit privé dont la majorité du capital appartient à une ou
+plusieurs personnes morales de droit public ou les casinos, cercles et maisons de jeux ne peuvent effectuer, directement ou
+indirectement, aucun don en vue du financement de la campagne d'un candidat.
+
+Aucun candidat ne peut recevoir, directement ou indirectement, pour quelque dépense que ce soit, des contributions ou aides
+matérielles d'un Etat étranger ou d'une personne morale de droit étranger.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VD)
+	  - Loi n°90-55 du 15 janvier 1990 - art. 18 bis (V)
+	  - Loi n°90-55 du 15 janvier 1990 - art. 20 (M)
+	  - Loi n°90-55 du 15 janvier 1990 - art. 21 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis (M)
+	  - Code général des impôts, CGI. - art. 200 (V)
+	  - Code électoral - art. L113-1 (VD)
+	  - Code électoral - art. L308-1 (V)
+	  - Code électoral - art. L392 (V)
+	  - Code électoral - art. L52-12 (VD)
+	  - Code électoral - art. L52-17 (V)
+	  - Code électoral - art. L52-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral - art. L52-11 (M)
+
+
+###### Article L52-9
+
+Les actes et documents émanant d'une association de financement électorale ou d'un mandataire financier et destinés aux
+tiers, notamment ceux utilisés pour des appels à des dons, doivent indiquer le candidat ou la liste de candidats
+destinataires des sommes collectées ainsi que la dénomination de l'association et la date à laquelle elle a été déclarée ou
+le nom du mandataire financier et la date à laquelle il a été désigné.
+
+Ils doivent indiquer que le candidat ne peut recueillir de dons que par l'intermédiaire de ladite association ou dudit
+mandataire et reproduire les dispositions de l'article précédent.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Code électoral - art. R94-1 (V)
+
+
+###### Article L52-10
+
+L'association de financement électorale ou le mandataire financier délivre au donateur un reçu dont un décret en Conseil
+d'Etat fixe les conditions d'établissement et d'utilisation. Ce décret détermine également les modalités selon lesquelles les
+reçus délivrés pour les dons d'un montant égal ou inférieur à 20 000 F consentis par les personnes physiques ne mentionnent
+pas le nom du ou des candidats bénéficiaires ou la dénomination de la liste bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Code électoral - art. L392 (V)
+
+
+###### Article L52-11
+
+Pour les élections auxquelles l'article L. 52-4 est applicable, il est institué un plafond des dépenses électorales, autres
+que les dépenses de propagande directement prises en charge par l'Etat, exposées par chaque candidat ou chaque liste de
+candidats, ou pour leur compte, au cours de la période mentionnée au même article.
+
+Le montant du plafond est déterminé en fonction du nombre d'habitants de la circonscription d'élection, conformément au
+tableau ci-après :
+
+- PLAFOND PAR HABITANT DES DEPENSES ELECTORALES :
+
+- FRACTION DE LA POPULATION de la circonscription :
+
+- N'excédant pas 15 000 habitants :
+
+Election des conseillers :
+
+- municipaux : 11
+
+- généraux : 6
+
+- régionaux : 5.
+
+- FRACTION DE LA POPULATION de la circonscription :
+
+- De 15 001 à 30 000 habitants : 
+
+Election des conseillers :
+
+- municipaux : 10
+
+- généraux : 5
+
+- régionaux : 5.
+
+- FRACTION DE LA POPULATION de la circonscription :
+
+- De 30 001 à 60 000 habitants :
+
+Election des conseillers :
+
+- municipaux : 9
+
+- généraux : 4
+
+- régionaux : 5.
+
+- FRACTION DE LA POPULATION de la circonscription :
+
+- De 60 001 à 100 000 habitants : 
+
+Election des conseillers :
+
+- municipaux : 8
+
+- généraux : 3
+
+- régionaux : 5.
+
+- FRACTION DE LA POPULATION de la circonscription :
+
+- De 100 001 à 150 000 habitants : 
+
+Election des conseillers :
+
+- municipaux : 7
+
+- généraux : 3
+
+- régionaux : 4.
+
+- FRACTION DE LA POPULATION de la circonscription :
+
+- De 150 001 à 250 000 habitants : 
+
+Election des conseillers :
+
+- municipaux : 6
+
+- généraux : 3
+
+- régionaux : 3.
+
+- FRACTION DE LA POPULATION de la circonscription :
+
+- Excédant 250 000 habitants :
+
+Election des conseillers :
+
+- municipaux : 5
+
+- généraux : 3
+
+- régionaux : 2.
+
+Le plafond des dépenses pour l'élection des députés est de 500 000 F par candidat. Il est ramené à 400 000 F dans les
+circonscriptions dont la population est inférieure à 80 000 habitants.
+
+Ces plafonds sont actualisés tous les trois ans par décret, en fonction de l'indice du coût de la vie de l'Institut national
+de la statistique et des études économiques.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VD)
+	  - Loi n°77-729 du 7 juillet 1977 - art. 19-1 (V)
+	  - Loi n°85-691 du 10 juillet 1985 - art. 9 (Ab)
+	  - Loi n°90-55 du 15 janvier 1990 - art. 28 (M)
+	  - Décret n°93-1025 du 25 août 1993 - art. 1 (V)
+	  - Décret n°97-1171 du 22 décembre 1997 - art. 1 (Ab)
+	  - Loi n°99-210 du 19 mars 1999 - art. 22 (Ab)
+	  - Décret n°2001-130 du 12 février 2001 - art. 1 (Ab)
+	  - Décret n°2001-166 du 20 février 2001 - art. 1 (Ab)
+	  - Décret n°2004-140 du 12 février 2004 - art. 1 (Ab)
+	  - Décret n°2004-419 du 11 mai 2004 - art. 1 (Ab)
+	  - Décret n°2007-140 du 1 février 2007 - art. 1 (Ab)
+	  - Décret n°2007-1656 du 23 novembre 2007 - art. 2 (Ab)
+	  - Décret n°2008-120 du 7 février 2008 (V)
+	  - Décret n°2009-1730 du 30 décembre 2009 - art. 1 (V)
+	  - Décret n°2010-1656 du 28 décembre 2010 - art. 1 (V)
+	  - Code de commerce - art. A713-22-1 (M)
+	  - Code de commerce - art. A713-7-1 (V)
+	  - Code de commerce. - art. A713-7 (V)
+	  - Code électoral - art. L113-1 (VD)
+	  - Code électoral - art. L167 (M)
+	  - Code électoral - art. L224-25 (VD)
+	  - Code électoral - art. L328-3-1 (Ab)
+	  - Code électoral - art. L330-8 (V)
+	  - Code électoral - art. L330-9 (V)
+	  - Code électoral - art. L334-11 (Ab)
+	  - Code électoral - art. L334-4-2 (Ab)
+	  - Code électoral - art. L392 (V)
+	  - Code électoral - art. L453 (V)
+	  - Code électoral - art. L52-11-1 (V)
+	  - Code électoral - art. L52-12 (VD)
+	  - Code électoral - art. L52-8 (V)
+	  - Code électoral - art. L535 (V)
+	  - Code électoral - art. LO128 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral - art. L52-4 (M)
+
+
+###### Article L52-12
+
+Chaque candidat ou candidat tête de liste soumis au plafonnement prévu à l'article L. 52-11 est tenu d'établir un compte de
+campagne retraçant, selon leur origine, l'ensemble des recettes perçues et, selon leur nature, l'ensemble des dépenses
+engagées ou effectuées en vue de l'élection, par lui-même ou pour son compte, au cours de la période mentionnée à l'article
+L. 52-4. Sont réputées faites pour son compte les dépenses exposées directement au profit du candidat et avec l'accord, même
+tacite, de celui-ci, par les personnes physiques ou morales, les groupements et partis qui lui apportent leur soutien. Le
+candidat estime et inclut, en recettes et en dépenses, les avantages directs ou indirects, les prestations de services et
+dons en nature dont il a bénéficié.
+
+Dans les deux mois qui suivent le tour de scrutin où l'élection a été acquise, chaque candidat ou candidat tête de liste
+présent au premier tour dépose à la préfecture son compte de campagne et ses annexes, présentés par un membre de l'ordre des
+experts-comptables et des comptables agréés et accompagné des justificatifs de ses recettes ainsi que des factures, devis et
+autres documents de nature à établir le montant des dépenses payées ou engagées par le candidat ou pour son compte.
+
+Le montant du cautionnement n'est pas compris dans les dépenses. Sous réserve du règlement de dépenses engagées avant le
+premier tour de scrutin, le compte de campagne des candidats présents au seul premier tour ne peut retracer de dépenses
+postérieures à la date de celui-ci. La valeur vénale résiduelle des immobilisations éventuellement constituées au cours de la
+période mentionnée à l'article L. 52-4 doit être déduite des charges retracées dans le compte de campagne.
+
+Le compte de campagne et ses annexes sont transmis à la Commission nationale des comptes de campagne et des financements
+politiques.
+
+La commission assure la publication des comptes de campagne dans une forme simplifiée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VD)
+	  - Loi n°77-729 du 7 juillet 1977 - art. 26 (VD)
+	  - Décret n°79-160 du 28 février 1979 - art. 10-1 (Ab)
+	  - Loi n°88-227 du 11 mars 1988 - art. 11-7 (V)
+	  - Loi n°95-65 du 19 janvier 1995 - art. 25 (V)
+	  - Code électoral - art. L113-1 (VD)
+	  - Code électoral - art. L118-2 (V)
+	  - Code électoral - art. L118-3 (VD)
+	  - Code électoral - art. L167 (M)
+	  - Code électoral - art. L197 (V)
+	  - Code électoral - art. L234 (V)
+	  - Code électoral - art. L328-1-2 (Ab)
+	  - Code électoral - art. L330-10 (V)
+	  - Code électoral - art. L330-9-1 (V)
+	  - Code électoral - art. L334-7 (Ab)
+	  - Code électoral - art. L341-1 (M)
+	  - Code électoral - art. L392 (V)
+	  - Code électoral - art. L454 (V)
+	  - Code électoral - art. L478 (V)
+	  - Code électoral - art. L505 (V)
+	  - Code électoral - art. L52-11-1 (V)
+	  - Code électoral - art. L52-13 (VD)
+	  - Code électoral - art. L52-8 (V)
+	  - Code électoral - art. L532 (V)
+	  - Code électoral - art. L558-14 (V)
+	  - Code électoral - art. LO128 (M)
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. R39-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral L52-4 et L52-11
+
+
+###### Article L52-13
+
+Les dépenses exposées par des candidats ayant agi séparément avant de figurer sur une même liste sont totalisées et
+décomptées comme faites au profit de cette liste lorsqu'elle a été constituée avant le premier tour. 
+
+Lorsqu'il est établi une nouvelle liste en vue du second tour de scrutin, les dépenses visées à l'article L. 52-12 sont
+totalisées et décomptées à compter du premier tour de scrutin au profit de la liste à laquelle appartenait le candidat tête
+de liste lorsqu'il avait cette qualité au premier tour ou, à défaut, de la liste dont est issu le plus grand nombre de
+candidats figurant au second tour sur la nouvelle liste.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Code électoral - art. L113-1 (M)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12 (VT)
+
+
 ###### Article L52-14
 
 Il est institué une Commission nationale des comptes de campagne et des financements politiques.
@@ -2230,6 +2824,133 @@ investigation qu'elle juge nécessaire pour l'exercice de sa mission.
 
 	  - TXT_SOURCE: Décret n°97-255 du 18 mars 1997
 	  - TXT_SOURCE: Décret n°97-255 du 18 mars 1997 - art. 1 (V)
+
+
+###### Article L52-15
+
+La Commission nationale des comptes de campagne et des financements politiques approuve et, après procédure contradictoire,
+rejette ou réforme les comptes de campagne.
+
+Hors le cas prévu à l'article L. 118-2, elle se prononce dans les six mois du dépôt des comptes. Passé ce délai, les comptes
+sont réputés approuvés.
+
+Lorsque la commission a constaté que le compte de campagne n'a pas été déposé dans le délai prescrit, si le compte a été
+rejeté ou si, le cas échéant après réformation, il fait apparaître un dépassement du plafond des dépenses électorales, la
+commission saisit le juge de l'élection.
+
+Dans le cas où la commission a relevé des irrégularités de nature à contrevenir aux dispositions des articles L. 52-4 à L.
+52-13 et L. 52-16, elle transmet le dossier au parquet.
+
+Le remboursement total ou partiel des dépenses retracées dans le compte de campagne, quand la loi le prévoit, n'est possible
+qu'après l'approbation du compte de campagne par la commission.
+
+Dans tous les cas où un dépassement du plafond des dépenses électorales a été constaté par une décision définitive, la
+commission fixe alors une somme égale au montant du dépassement que le candidat est tenu de verser au Trésor public. Cette
+somme est recouvrée comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+	  - Loi n°2004-192 du 27 février 2004 - art. 116 (V)
+	  - Code électoral - art. L118-2 (V)
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. LO497 (V)
+	  - Code électoral - art. LO524 (V)
+	  - Code électoral - art. LO552 (V)
+	  - Code électoral - art. R39-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral L52-4 à L52-13, L52-16 et L118-2
+
+
+###### Article L52-16
+
+Aucune forme de publicité commerciale ne peut être mise en oeuvre à des fins électorales au profit d'un candidat ou d'une
+liste de candidats sans l'accord exprès du candidat, du responsable de la liste ou de leur représentant dûment qualifiés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+	  - Décret n°64-231 du 14 mars 1964 - art. 9-2 (Ab)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 12 (M)
+	  - Code électoral - art. L52-15 (VD)
+	  - Code électoral - art. R39-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+
+###### Article L52-17
+
+Lorsque le montant d'une dépense déclarée dans le compte de campagne ou ses annexes est inférieur aux prix habituellement
+pratiqués, la Commission nationale des comptes de campagne et des financements politiques évalue la différence et l'inscrit
+d'office dans les dépenses de campagne après avoir invité le candidat à produire toute justification utile à l'appréciation
+des circonstances. La somme ainsi inscrite est réputée constituer un don, au sens de l'article L. 52-8, effectué par la ou
+les personnes physiques ou morales concernées.
+
+La commission procède de même pour tous les avantages directs ou indirects, les prestations de services et dons en nature
+dont a bénéficié le candidat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral - art. L52-8 (M)
+
+
+###### Article L52-18
+
+Dans l'année qui suit des élections générales auxquelles sont applicables les dispositions de l'article L. 52-4, la
+Commission nationale des comptes de campagne et des financements politiques dépose sur le bureau des assemblées un rapport
+retraçant le bilan de son action et comportant toutes les observations qu'elle juge utile de formuler.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Abrogé par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 41
+
+	**Cite**:
+
+	  - Code électoral - art. L52-4
 
 
 #### Chapitre VI : Vote
@@ -3970,11 +4691,10 @@ dispositions spéciales aux différentes catégories d'élections.
 Quiconque, par des dons ou libéralités en argent ou en nature, par des promesses de libéralités, de faveurs, d'emplois
 publics ou privés ou d'autres avantages particuliers, faits en vue d'influencer le vote d'un ou de plusieurs électeurs aura
 obtenu ou tenté d'obtenir leur suffrage, soit directement, soit par l'entremise d'un tiers, quiconque, par les mêmes moyens,
-aura déterminé ou tenté de déterminer un ou plusieurs d'entre eux à s'abstenir, sera puni de trois mois à deux ans
-d'emprisonnement et d'une amende de 2000 F à 100000 F.
+aura déterminé ou tenté de déterminer un ou plusieurs d'entre eux à s'abstenir, sera puni de deux ans d'emprisonnement et
+d'une amende de 100 000 F.
 
-Seront punis des mêmes peines ceux qui auront agréé ou sollicité les mêmes dons, libéralités ou promesses, ainsi que ceux qui
-auront contrevenu aux dispositions de l'article L.O. 163-3.
+Seront punis des mêmes peines ceux qui auront agréé ou sollicité les mêmes dons, libéralités ou promesses.
 
 **Liens relatifs à cet article**
 
@@ -4008,11 +4728,7 @@ auront contrevenu aux dispositions de l'article L.O. 163-3.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
-
-	**Cite**:
-
-	  - Code électoral - art. LO163-3 (Ab)
+	  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
 
 
 ###### Article L107
@@ -4233,6 +4949,69 @@ double.
 	  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 	  - Loi n°88-1262 du 30 décembre 1988 - art. 20 () JORF 4 janvier 1989
 	  - Loi n°88-1262 du 30 décembre 1988 - art. 21 () JORF 4 janvier 1989
+
+
+###### Article L113-1
+
+I. - Sera puni d'une amende de 25 000 F et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, tout
+candidat en cas de scrutin uninominal, ou tout candidat tête de liste en cas de scrutin de liste, qui :
+
+1° Aura, en vue de financer une campagne électorale, recueilli des fonds en violation des prescriptions de l'article L.
+52-4 ;
+
+2° Aura accepté des fonds en violation des dispositions de l'article L. 52-8 ;
+
+3° Aura dépassé le plafond des dépenses électorales fixé en application de l'article L. 52-11 ;
+
+4° N'aura pas respecté les formalités d'établissement du compte de campagne prévues par les articles L. 52-12 et L. 52-13 ;
+
+5° Aura fait état, dans le compte de campagne ou dans ses annexes, d'éléments comptables sciemment minorés ;
+
+6° Aura bénéficié, sur sa demande ou avec son accord exprès, d'affichages ou de publicité commerciale ne respectant pas les
+dispositions des articles L. 51 et L. 52-1 ;
+
+7° Aura bénéficié, sur sa demande ou avec son accord exprès, de la diffusion auprès du public d'un numéro d'appel
+téléphonique ou télématique gratuit.
+
+II. - Sera puni d'une amende de 25 000 F et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, quiconque
+aura, en vue d'une campagne électorale, accordé un don en violation des dispositions de l'article L. 52-8.
+
+Lorsque le donateur sera une personne morale, les dispositions de l'alinéa ci-dessus seront applicables à ses dirigeants de
+droit ou de fait.
+
+III. - Sera puni d'une amende de 25 000 F et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, quiconque
+aura, pour le compte d'un candidat ou d'un candidat tête de liste, sans agir sur sa demande, ou sans avoir recueilli son
+accord exprès, effectué une dépense de la nature de celles prévues à l'article L. 52-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 5 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (VD)
+	  - Code de l'environnement - art. L123-30 (V)
+	  - Code général des collectivités territoriales - art. LO1112-13 (V)
+	  - Code électoral - art. L52-9 (V)
+	  - Code électoral - art. L558-37 (VD)
+	  - Code électoral - art. L558-46 (VD)
+	  - Code électoral - art. L562 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. L51 (M)
+	  - Code électoral - art. L52-1 (M)
+	  - Code électoral - art. L52-11 (M)
+	  - Code électoral - art. L52-4 (M)
+	  - Code électoral - art. L52-8 (M)
+	  - Code électoral L51, L52-1, L52-4, L52-8, L52-11, L52-12 et L52-13
 
 
 ###### Article L114
@@ -4490,6 +5269,80 @@ l'élection partielle consécutive à cette annulation.
 
 	  - Décret n°80-274 du 15 avril 1980 - art. 1 (V)
 	  - Décret n°80-274 du 15 avril 1980 - art. 2 (V)
+
+
+###### Article L118-2
+
+Si le juge administratif est saisi de la contestation d'une élection dans une circonscription où le montant des dépenses
+électorales est plafonné, il sursoit à statuer jusqu'à réception des décisions de la commission instituée par l'article L.
+52-14 qui doit se prononcer sur les comptes de campagne des candidats à cette élection dans le délai de deux mois suivant
+l'expiration du délai fixé au deuxième alinéa de l'article L. 52-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 6 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Code électoral - art. D304 (Ab)
+	  - Code électoral - art. L52-15 (VD)
+	  - Code électoral - art. R114 (V)
+	  - Code électoral - art. R120 (V)
+
+	**Cite**:
+
+	  - Code électoral L52-12 et L52-14
+
+
+###### Article L118-3
+
+Saisi par la commission instituée par l'article L. 52-14, le juge de l'élection constate, le cas échéant, l'inéligibilité
+d'un candidat. S'il s'agit d'un candidat proclamé élu, il annule son élection ou, si l'élection n'a pas été contestée, le
+déclare démissionnaire d'office.
+
+Le juge de l'élection peut également déclarer inéligible pendant un an le candidat dont le compte de campagne, le cas échéant
+après réformation, fait apparaître un dépassement du plafond des dépenses électorales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 6 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Loi organique n°99-209 du 19 mars 1999 - art. 195 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 109 (V)
+	  - Code rural - art. R511-50 (V)
+	  - Code électoral - art. D308 (Ab)
+	  - Code électoral - art. L197 (V)
+	  - Code électoral - art. L221 (VD)
+	  - Code électoral - art. L234 (V)
+	  - Code électoral - art. L341-1 (V)
+	  - Code électoral - art. L45-1 (V)
+	  - Code électoral - art. LO128 (V)
+	  - Code électoral - art. LO461 (VT)
+	  - Code électoral - art. LO489 (V)
+	  - Code électoral - art. LO516 (V)
+	  - Code électoral - art. LO544 (V)
+	  - Code électoral - art. R117-1 (VD)
+	  - Code électoral - art. R121-1 (V)
+	  - Code électoral - art. R190 (V)
+	  - Code électoral - art. R212 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-14 (M)
 
 
 ### Titre II : Dispositions spéciales à l'élection des députés
@@ -5954,20 +6807,20 @@ Les candidats désignent un mandataire qui participe aux travaux de cette commis
 
 ###### Article L167
 
-L'État prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 166
-ainsi que celles qui résultent de leur fonctionnement. 
+L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 166
+ainsi que celles qui résultent de leur fonctionnement.
 
 En outre, il est remboursé aux candidats ayant obtenu au moins 5 % des suffrages exprimés le coût du papier, l'impression des
-bulletins de vote, affiches, circulaires ainsi que les frais d'affichage. 
+bulletins de vote, affiches, circulaires ainsi que les frais d'affichage.
 
 Les autres dépenses électorales des candidats ayant obtenu au moins 5 % des suffrages exprimés au premier tour font l'objet
-d'un remboursement forfaitaire de la part de l'Etat égal au dixième du plafond prévu à l'article L. O. 163-2. 
+d'un remboursement forfaitaire de la part de l'Etat égal au dixième du plafond prévu à l'article L. 52-11.
 
-Ce remboursement ne peut excéder le montant des dépenses du candidat, retracées dans son compte de campagne. 
+Ce remboursement ne peut excéder le montant des dépenses du candidat, retracées dans son compte de campagne.
 
 Le remboursement forfaitaire prévu à l'alinéa précédent n'est pas effectué aux candidats qui ne se sont pas conformés aux
-prescriptions de l'article L. O. 179-1 ou de l'article L. O. 163-2 et aux candidats élus qui n'ont pas déposé la déclaration
-prévue à l'article L. O. 135-1.
+prescriptions des articles L. 52-11 et L. 52-12 et aux candidats élus qui n'ont pas déposé la déclaration prévue à l'article
+L.O. 135-1.
 
 **Liens relatifs à cet article**
 
@@ -5977,13 +6830,19 @@ prévue à l'article L. O. 135-1.
 
 	**Modifié par**:
 
-	  - Loi n°88-227 du 11 mars 1988 - art. 6
+	  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
 
 	**Cité par**:
 
 	  - Code électoral - art. L168 (M)
 	  - Code électoral - art. L178-1 (M)
 	  - Code électoral - art. R174-4 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-11 (M)
+	  - Code électoral - art. L52-12 (M)
+	  - Code électoral L52-11, L52-12, L166 et LO135-1
 
 	**Liens**:
 
@@ -6123,92 +6982,6 @@ d'une amende de 30 000 F toute personne qui agira en violation de l'article L. 1
 
 	  - Code électoral - art. L156 (M)
 	  - Code électoral - art. L169 (V)
-
-
-###### Article LO163-2
-
-Les dépenses de campagne d'un candidat, autres que les dépenses de propagande directement prises en charge par l'Etat, ne
-peuvent dépasser un plafond de 500 000 F.
-
-Ce plafond est actualisé chaque année par décret en fonction de l'évolution prévue de la moyenne annuelle des prix à la
-consommation des ménages telle qu'elle résulte du rapport économique et financier accompagnant le projet de loi de finances.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-	**Créé par**:
-
-	  - Loi n°88-226 du 11 mars 1988 - art. 7 () JORF 12 mars 1988
-
-	**Abrogé par**:
-
-	  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
-
-
-###### Article LO163-3
-
-Les dons manuels consentis à un candidat par des personnes physiques ou morales dûment identifiées ne peuvent excéder 20 000
-F pour une personne physique et 50 000 F pour une personne morale. Ces dispositions ne sont toutefois pas applicables aux
-dons consentis par un parti ou groupement politique.
-
-Tout don de plus de 2 000 F consenti à un candidat en vue de sa campagne doit être versé par chèque.
-
-Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du total des recettes mentionnées à l'article
-L.O. 163-1.
-
-Le montant global des dons consentis au candidat ne peut excéder le plafond de dépenses prévu à l'article L.O. 163-2.
-
-Les personnes morales de droit public, les casinos, cercles et maisons de jeux ne peuvent effectuer aucun don aux candidats.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-	  - Code électoral - art. L106 (M)
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-	**Créé par**:
-
-	  - Loi n°88-226 du 11 mars 1988 - art. 7 () JORF 12 mars 1988
-
-	**Abrogé par**:
-
-	  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
-
-	**Cite**:
-
-	  - Code électoral LO163-1 LO163-2
-
-
-###### Article LO163-4
-
-Aucun candidat ne peut recevoir directement ou indirectement, pour quelque dépense que ce soit, des contributions ou aides
-matérielles d'un Etat étranger ou d'une personne physique ou morale de nationalité étrangère. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-	**Créé par**:
-
-	  - Loi n°88-226 du 11 mars 1988 - art. 8 () JORF 12 mars 1988
-
-	**Abrogé par**:
-
-	  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
 
 
 #### Chapitre VII : Opérations préparatoires au scrutin
@@ -6960,8 +7733,8 @@ cessation de leurs fonctions.
 
 ###### Article L197
 
-Les conditions d'éligibilité des étrangers naturalisés sont fixées par les articles 81, 82 et 83 du code de la nationalité
-française.
+Est inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits par
+l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
 
 **Liens relatifs à cet article**
 
@@ -6975,17 +7748,13 @@ française.
 	  - Loi n°88-227 du 11 mars 1988 - art. 9-1-A (MMN)
 	  - Code électoral - art. L233 (M)
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Loi n°83-1046 1983-12-08 art. 3 JORF 9 DECEMBRE 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-556 1992-06-25 art. 1
+	  - Loi n°90-55 du 15 janvier 1990 - art. 7 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
 
 	**Cite**:
 
-	  - Code de la nationalité 81, 82, 83
+	  - Code électoral - art. L52-12 (M)
 
 
 ###### Article L199
@@ -7982,6 +8751,30 @@ Les dispositions des articles L. 199 et L. 201 à L. 203 sont applicables.
 
 	  - Code électoral - art. L199 (VT)
 	  - Code électoral - art. L201 (Ab)
+
+
+###### Article L234
+
+Est inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits par
+l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Abrogé par**:
+
+	  - Loi n°82-974 1982-11-19 art. 18 JORF 20 novembre 1982
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 7 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12 (M)
 
 
 ###### Article L235
@@ -11123,6 +11916,31 @@ démissionnaire d'office par arrêté du représentant de l'Etat dans la région
 	  - Code électoral - art. L340 (M)
 
 
+###### Article L341-1
+
+Est inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits par
+l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°90-55 du 15 janvier 1990 - art. 7 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Code électoral - art. L350 (V)
+	  - Code électoral - art. L351 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12 (M)
+
+
 ### Chapitre IV : Incompatibilités
 
 ###### Article L342
@@ -13614,6 +14432,109 @@ afnor II/1, sans travaux de repiquage;
 	  - TXT_ASSOCIE: Code électoral - art. L167 (V)
 
 
+###### Article R39-2
+
+Chaque don d'un montant au plus égal à 20 000 F consenti à un mandataire prévu par l'article L. 52-4 par une personne
+physique dûment identifiée fait l'objet d'un reçu en deux volets établi conformément à un modèle fixé par arrêté du ministre
+chargé du budget.
+
+Le premier volet, signé du mandataire, atteste le montant et la date du versement ainsi que l'identité du mandataire et celle
+du donateur. Le deuxième volet, non signé, reproduit les mêmes indications, à l'exception de l'identité du mandataire. Les
+deux volets sont transmis à la Commission nationale des comptes de campagne et des financements politiques en même temps que
+le compte de campagne. La commission, au vu des justificatifs de recettes annexés audit compte, estampille le deuxième volet
+dont elle fait retour au mandataire pour être remis au donateur. Ce volet est seul produit à l'appui de toute déclaration
+ouvrant droit à réduction d'impôt sur le revenu au titre de l'article 238 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis
+	  - Code électoral - art. L52-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°90-606 1990-07-09 art. 1 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+
+
+###### Article R39-4
+
+Si le juge de l'élection n'est pas saisi, les comptes et leurs annexes sont retournés au préfet par la Commission nationale
+des comptes de campagne et des financements politiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°90-606 1990-07-09 art. 1 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Décret n°97-673 du 31 mai 1997 - art. 3 (V)
+
+
+#### Chapitre V bis : Financement et plafonnement des dépenses électorales
+
+###### Article R39-1
+
+Chaque don consenti à un mandataire prévu par l'article L. 52-4, s'il émane d'une personne physique et excède un montant de
+20 000 F ou s'il émane d'une personne morale quel que soit son montant, fait l'objet d'un reçu délivré par le mandataire.
+
+Le reçu atteste le montant et la date du versement ainsi que l'identité du mandataire et celle du donateur. Il est établi
+conformément à un modèle fixé par arrêté du ministre chargé du budget. Il est produit à l'appui de toute déclaration ouvrant
+droit à réduction d'impôt sur le revenu au titre de l'article 238 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis
+	  - Code électoral - art. L52-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°90-606 1990-07-09 art. 1 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Code électoral - art. R175 (V)
+	  - Code électoral - art. R175-2 (V)
+	  - Code électoral - art. R205 (V)
+
+
+###### Article R39-3
+
+Lorsque la loi prévoit le remboursement total ou partiel des dépenses retracées dans le compte de campagne, les décisions de
+la Commission nationale des comptes de campagne et des financements politiques statuant sur les comptes de campagne des
+candidats sont notifiées au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°90-606 1990-07-09 art. 1 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Code électoral - art. R175-3 (V)
+
+
 #### Chapitre VI : Vote
 
 ##### Section 1 : Opérations préparatoires au scrutin
@@ -15631,6 +16552,33 @@ contraventions de la cinquième classe.
 	  - Code électoral - art. L50 (V)
 
 
+###### Article R94-1
+
+Tout dirigeant d'une association de financement électorale ou tout mandataire financier qui enfreindra les dispositions de
+l'article L. 52-9 sera puni des peines d'amende prévues pour les contraventions de la quatrième classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°90-606 1990-07-09 art. 2 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+
+	**Cité par**:
+
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-9 (VT)
+
+
 ###### Article R95
 
 L'imprimeur qui enfreindra les dispositions de l'article R. 27 sera puni des peines d'amende prévues pour les contraventions
@@ -16283,19 +17231,31 @@ Il est donné récépissé, soit des protestations déposées au greffe, soit de
 ###### Article R114
 
 Le tribunal administratif prononce sa décision dans le délai de deux mois à compter de l'enregistrement de la réclamation au
-greffe (bureau central ou greffe annexe); la décision est notifiée dans les huit jours à partir de sa date au commissaire de
-la République et aux parties intéressées, conformément aux dispositions de l'article 50 bis de la loi du 22 juillet 1889 et
-de l'article 25 du décret du 28 novembre 1953.
+greffe (bureau central ou greffe annexe); la décision est notifiée dans les huit jours à partir de sa date au préfet et aux
+parties intéressées, conformément aux dispositions de l'article 50 bis de la loi du 22 juillet 1889 et de l'article 25 du
+décret du 28 novembre 1953.
 
 En cas de renouvellement d'une série sortante, ce délai est porté à trois mois.
 
-S'il intervient une décision ordonnant une preuve, le tribunal administratif doit statuer définitivement dans le mois à
-partir de cette décision.
+S'il intervient une décision ordonnant une preuve, le tribunal administratif doit statuer dans le délai d'un mois à compter
+du jour ou le jugement sur la question préjudicielle est devenu définitif.
 
 Dans le cas prévu à l'article R. 115, le tribunal administratif doit statuer dans le délai d'un mois, à compter du jour où le
 jugement sur la question préjudicielle est devenu définitif.
 
+Lorsqu'il est fait application des dispositions de l'article L. 118-2, les délais, prévus aux premier et deuxième alinéas,
+dans lesquels le tribunal administratif doit se prononcer, courent à partir de la date de réception par le tribunal
+administratif des décisions de la commission nationale des comptes de campagne et des financements politiques ou, à défaut de
+décision explicite, à partir de l'expiration du délai de deux mois prévu audit article.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-11 1953-11-28 art. 25
+	  - Code électoral - art. L118-2 (V)
+	  - Code électoral - art. R115 (V)
+	  - Loi n°1889-07-22 art. 50 bis
 
 	**Codifié par**:
 
@@ -16303,13 +17263,7 @@ jugement sur la question préjudicielle est devenu définitif.
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-
-	**Cite**:
-
-	  - Code électoral - art. R115 (V)
-	  - Décret n°53-11 1953-11-28 ART. 25
-	  - Loi n°1889-07-22 ART. 50 BIS
+	  - Décret n°90-606 1990-07-09 art. 3 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
 
 	**Cité par**:
 
@@ -16392,6 +17346,30 @@ pour se pourvoir devant le Conseil d'Etat.
 	**Cite**:
 
 	  - Code électoral - art. R114 (VT)
+
+
+###### Article R117-1
+
+Les décisions du tribunal administratif prises en application de l'article L. 118-3 sont notifiées dans les huit jours au
+candidat intéressé et au préfet.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°90-606 1990-07-09 art. 4 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3 (M)
 
 
 ### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
@@ -16491,13 +17469,19 @@ partir de cette décision.
 Les délais ci-dessus fixés ne commencent à courir, dans le cas prévu à l'article R. 122, que du jour où le jugement sur la
 question préjudicielle est devenu définitif.
 
+Lorsqu'il est fait application des dispositions de l'article L. 118-2, le délai, prévu au premier alinéa, dans lequel le
+tribunal administratif doit se prononcer, court à partir de la date de réception par le tribunal administratif des décisions
+de la commission nationale des comptes de campagne et des financements politiques ou, à défaut de décision explicite, à
+partir de l'expiration du délai de deux mois prévu audit article.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1169 1953-11-28 ART. 25
+	  - Décret n°53-1169 1953-11-28 art. 25
+	  - Code électoral - art. L118-2 (V)
 	  - Code électoral - art. R122 (V)
-	  - Loi n°1889-07-22 ART. 50 BIS
+	  - Loi n°1889-07-22 art. 50 bis
 
 	**Codifié par**:
 
@@ -16505,7 +17489,7 @@ question préjudicielle est devenu définitif.
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°90-606 1990-07-09 art. 5 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
 
 	**Cité par**:
 
@@ -16541,6 +17525,26 @@ le Conseil d'Etat.
 	  - Décret n°99-433 du 27 mai 1999 - art. 32 (V)
 	  - Décret n°2004-799 du 29 juillet 2004 - art. 31 (Ab)
 	  - Code rural - art. R511-50 (V)
+
+
+###### Article R121-1
+
+Les décisions du tribunal administratif prises en application de l'article L. 118-3 sont notifiées dans les huit jours au
+candidat intéressé et au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°90-606 1990-07-09 art. 6 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3 (V)
 
 
 ###### Article R122
@@ -18323,6 +19327,31 @@ instituée par l'article L. 359.
 
 	  - Code électoral - art. L359 (M)
 	  - Code électoral L359, R106 à R108
+
+
+###### Article R190
+
+Les décisions du Conseil d'Etat prises en application de l'article L. 118-3 sont notifiées dans les huit jours au candidat
+intéressé et au ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°90-606 1990-07-09 art. 7 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R200 (V)
+	  - Code électoral - art. R358 (V)
 
 
 # Annexes
