@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1997-11-29
+Version Consolidée au 1998-05-26
 
 # Partie législative
 
@@ -8823,6 +8823,170 @@ intégralement au mois de mars à une date fixée au moins trois mois auparavant
 	  - Loi n°94-590 du 15 juillet 1994 - art. 1 (V)
 
 
+##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris
+
+###### Article LO227-1
+
+Les citoyens de l'Union européenne résidant en France, autres que les citoyens français, peuvent participer à l'élection des
+conseillers municipaux dans les mêmes conditions que les électeurs français, sous réserve des dispositions de la présente
+section.
+
+Les personnes mentionnées au premier alinéa sont considérées comme résidant en France si elles y ont leur domicile réel ou si
+leur résidence y a un caractère continu.
+
+Pour l'application de la présente section, l'élection des membres du Conseil de Paris est assimilée à celle des conseillers
+municipaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 1 ()
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L123-22 (V)
+	  - Code général des collectivités territoriales - art. LO1112-11 (VD)
+	  - Code électoral - art. D287 (Ab)
+	  - Code électoral - art. LO227-2 (V)
+	  - Code électoral - art. LO227-3 (V)
+	  - Code électoral - art. R213 (V)
+	  - Code électoral - art. R213-2 (V)
+	  - Code électoral - art. R286 (Ab)
+
+
+###### Article LO227-2
+
+Pour exercer leur droit de vote, les personnes visées à l'article LO 227-1 doivent être inscrites, à leur demande, sur une
+liste électorale complémentaire. 
+
+Elles peuvent demander leur inscription si elles jouissent de leur capacité électorale dans leur Etat d'origine et si elles
+remplissent les conditions légales autres que la nationalité française pour être électeurs et être inscrites sur une liste
+électorale en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 1 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. LO2411-3-1 (V)
+	  - Code électoral - art. LO271-1 (V)
+	  - Code électoral - art. LO273-2 (VD)
+	  - Code électoral - art. R117-2 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. LO227-1 (V)
+
+
+###### Article LO227-3
+
+Pour chaque bureau de vote, la liste électorale complémentaire est dressée et révisée par les autorités compétentes pour
+dresser et réviser la liste électorale. 
+
+Les dispositions des articles L. 10 et L. 11, L. 15 à L. 17, L. 18 à L. 41 et L. 43, dans leur rédaction en vigueur à la date
+de publication de la loi organique n° 98-404 du 25 mai 1998, qui sont relatives à l'établissement des listes électorales et
+au contrôle de leur régularité sont applicables à l'établissement des listes électorales complémentaires et au contrôle de
+leur régularité. Les droits conférés par ces articles aux nationaux français sont exercés par les personnes mentionnées à
+l'article LO 227-1. 
+
+En sus des indications prescrites par les articles L. 18 et L. 19, la liste électorale complémentaire mentionne la
+nationalité des personnes qui y figurent. 
+
+Les recours prévus au deuxième alinéa de l'article L. 25 peuvent être exercés par les électeurs français et par les personnes
+inscrites sur la liste électorale complémentaire tant en ce qui concerne la liste électorale que la liste électorale
+complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 1 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L10 (V)
+	  - Code électoral - art. L15 (V)
+	  - Code électoral - art. L18 (V)
+	  - Code électoral - art. L25 (V)
+	  - Code électoral - art. L43 (V)
+	  - Code électoral - art. LO227-1 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R117-2 (V)
+
+
+###### Article LO227-4
+
+Outre les justifications exigibles des ressortissants français, le ressortissant d'un Etat de l'Union européenne autre que la
+France produit, à l'appui de sa demande d'inscription sur une liste électorale complémentaire, un document d'identité en
+cours de validité et une déclaration écrite précisant :
+
+a) Sa nationalité ;
+
+b) Son adresse sur le territoire de la République ;
+
+c) Qu'il n'est pas déchu du droit de vote dans l'Etat dont il est ressortissant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 1 ()
+
+
+###### Article LO227-5
+
+Est puni d'un an d'emprisonnement et de 100 000 F d'amende :
+
+a) Le fait de s'être fait inscrire sur la liste électorale complémentaire sous une fausse résidence, sous de faux noms ou de
+fausses qualités, ou d'avoir dissimulé, en se faisant inscrire, une incapacité électorale dans l'Etat dont on est
+ressortissant ;
+
+b) Le fait d'avoir demandé et obtenu son inscription sur plusieurs listes électorales complémentaires ;
+
+c) Toute fraude dans la délivrance ou la production d'un certificat d'inscription ou de radiation des listes électorales
+complémentaires ;
+
+d) Le fait de s'être fait inscrire sur une liste électorale complémentaire ou d'avoir tenté de le faire, à l'aide de
+déclarations frauduleuses ou de faux certificats, et de faire indûment inscrire ou radier ou de tenter de le faire, à l'aide
+des mêmes moyens, une autre personne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 1 ()
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L123-22 (V)
+
+
 ##### Section 2 : Conditions d'éligibilité et inéligibilités
 
 ###### Article L228
@@ -9110,6 +9274,74 @@ gestion dans les six mois de l'expiration du délai de production des comptes im
 	  - Code électoral - art. L250 (V)
 
 
+###### Article LO228-1
+
+Sont en outre éligibles au conseil municipal ou au Conseil de Paris les ressortissants des Etats membres de l'Union
+européenne autres que la France qui :
+
+a) Soit sont inscrits sur la liste électorale complémentaire de la commune ;
+
+b) Soit remplissent les conditions légales autres que la nationalité française pour être électeurs et être inscrits sur une
+liste électorale complémentaire en France et sont inscrits au rôle d'une des contributions directes de la commune ou
+justifient qu'ils devaient y être inscrits au 1er janvier de l'année de l'élection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 2 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. LO255-5 (VD)
+	  - Code électoral - art. LO265-1 (V)
+
+
+###### Article LO230-2
+
+Ne peuvent être conseillers municipaux ni membres du Conseil de Paris les ressortissants des Etats membres de l'Union
+européenne autres que la France déchus du droit d'éligibilité dans leur Etat d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 3 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. LO236-1 (V)
+
+
+###### Article LO236-1
+
+Tout conseiller municipal ou membre du Conseil de Paris ressortissant d'un Etat membre de l'Union européenne autre que la
+France qui pour une cause survenue postérieurement à son élection se trouve dans le cas d'inéligibilité prévu par l'article
+LO 230-2 est déclaré démissionnaire d'office par le représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 4 ()
+
+	**Cite**:
+
+	  - Code électoral - art. LO230-2 (V)
+
+
 ##### Section 3 : Incompatibilités
 
 ###### Article L237
@@ -9236,6 +9468,36 @@ occupera ses fonctions jusqu'au renouvellement du conseil intéressé.
 	  - Code électoral - art. L249 (V)
 	  - Code électoral - art. L250 (V)
 	  - Code électoral - art. L46 (V)
+
+
+###### Article LO238-1
+
+Le ressortissant d'un Etat de l'Union européenne autre que la France ne peut être membre d'un conseil municipal en France et
+membre dans un autre Etat de l'Union de l'organe délibérant d'une collectivité territoriale de base au sens de la directive
+prise pour l'application de l'article 8-B, paragraphe I, du Traité instituant la Communauté européenne. 
+
+Si le ressortissant n'a pas démissionné d'un de ses deux mandats incompatibles dans un délai de dix jours à compter du jour
+où l'incompatibilité est connue, il est immédiatement déclaré démissionnaire par le préfet, sauf les recours prévus à
+l'article L. 239.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°77-122 du 10 février 1977 - art. 6 (Ab)
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 10 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L239 (V)
 
 
 ##### Section 4 : Propagande
@@ -9395,6 +9657,32 @@ L'arrêté de convocation est publié dans la commune quinze jours au moins avan
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. R127 (Ab)
+
+
+##### Section 6 : Opérations de vote
+
+###### Article LO247-1
+
+Dans les communes de 2 500 habitants et plus, les bulletins de vote imprimés distribués aux électeurs comportent, à peine de
+nullité, en regard du nom des candidats ressortissants d'un Etat membre de l'Union européenne autre que la France,
+l'indication de leur nationalité.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des
+conseillers municipaux, des conseillers communautaires et des conseillers départementaux  s’appliquera aux élections
+organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils municipaux et communautaires,
+y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 6 ()
 
 
 ##### Section 7 : Contentieux
@@ -10091,6 +10379,46 @@ liste.
 	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
 
 
+###### Article LO265-1
+
+Chaque fois qu'une liste comporte la candidature d'un ressortissant d'un Etat membre de l'Union européenne autre que la
+France, la nationalité de celui-ci est portée sur la liste en regard de l'indication de ses nom, prénoms, date et lieu de
+naissance. 
+
+En outre, est exigée de l'intéressé la production : 
+
+a) D'une déclaration certifiant qu'il n'est pas déchu du droit d'éligibilité dans l'Etat dont il a la nationalité ; 
+
+b) Des documents officiels qui justifient qu'il satisfait aux conditions d'éligibilité posées par l'article LO. 228-1. 
+
+En cas de doute sur le contenu de la déclaration visée au a, est exigée, avant ou après le scrutin, la présentation d'une
+attestation des autorités compétentes de l'Etat dont l'intéressé a la nationalité, certifiant qu'il n'est pas déchu du droit
+d'éligibilité dans cet Etat ou qu'une telle déchéance n'est pas connue desdites autorités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 5 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. L265 (V)
+	  - Code électoral - art. R128-1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. LO228-1 (V)
+
+
 ##### Section 3 : Opérations de vote
 
 ###### Article L268
@@ -10380,6 +10708,31 @@ municipaux de Lyon ou de Marseille élus dans le secteur.
 	**Cité par**:
 
 	  - Code électoral - art. L46-1 (MMN)
+
+
+###### Article LO271-1
+
+Lorsqu'ils sont inscrits sur la liste électorale complémentaire de la commune établie en application de l'article LO. 227-2,
+les ressortissants d'un Etat membre de l'Union européenne autre que la France participent à l'élection des conseillers
+d'arrondissement dans les mêmes conditions que les électeurs français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 11 ()
+
+	**Cite**:
+
+	  - Code électoral - art. LO227-2 (V)
 
 
 #### Chapitre V : Conditions d'application
@@ -10869,6 +11222,41 @@ compléter.
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+
+###### Article LO286-1
+
+Les conseillers municipaux et les membres du Conseil de Paris qui n'ont pas la nationalité française ne peuvent ni être
+membres à un titre quelconque du collège électoral sénatorial ni participer à l'élection à ce collège de délégués, de
+délégués supplémentaires et de suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 7 ()
+
+
+###### Article LO286-2
+
+Dans les communes dont tous les conseillers municipaux sont délégués de droit, les conseillers municipaux qui n'ont pas la
+nationalité française sont remplacés au collège électoral des sénateurs et lors de la désignation des délégués
+supplémentaires et suppléants par les candidats français venant immédiatement après le dernier candidat élu de la liste sur
+laquelle ils se sont présentés à l'élection municipale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 8 ()
 
 
 ### Titre III bis : Désignation des délégués de l'Assemblée de Corse
@@ -12077,6 +12465,22 @@ des conseillers municipaux des communes de la collectivité territoriale de Sain
 	**Créé par**:
 
 	  - Loi n°86-958 1986-08-13 art. 7 JORF 14 août 1986
+
+
+###### Article LO334-1-1
+
+Les dispositions organiques du titre IV du livre Ier sont applicables à l'élection des conseillers municipaux des communes de
+la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 13 ()
 
 
 ### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon
