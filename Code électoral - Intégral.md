@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1998-08-22
+Version Consolidée au 1998-10-01
 
 # Partie législative
 
@@ -12092,9 +12092,735 @@ Les dispositions des articles L. 106 à L. 110 et L. 113 à L. 117 sont applicab
 
 ## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à la collectivité territoriale de Mayotte
 
+### Titre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux à Saint-Pierre-et-Miquelon.
+
+###### Article L328
+
+Les dispositions du titre Ier du livre Ier du présent code sont applicables dans la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral Titre I, livre I
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Nouveaux textes**:
+
+	  - Code électoral - art. L328-4 (Ab)
+
+
+###### Article LO328-1
+
+Pour l'application du présent code à la collectivité territoriale de Saint-Pierre-et-Miquelon, il y a lieu de lire :
+
+1° "collectivité territoriale" au lieu de "département" ;
+
+2° "représentant de l'Etat" et : "services du représentant de l'Etat", au lieu de : "préfet" et "préfecture" ;
+
+3° "tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+###### Article L328-3
+
+Les dispositions du titre II du Livre Ier du présent code sont applicables à l'élection du député de Saint-Pierre-et-
+Miquelon.
+
+Celui-ci est élu dans les conditions fixées pour l'élection des députés au scrutin uninominal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+###### Article LO328-2
+
+La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée à l'Assemblée nationale par un député.
+
+Les dispositions organiques du titre II du livre Ier du présent code, à l'exception de l'article L.O. 119, sont applicables
+au député de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral Titre II, livre I
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+###### Article L328-4
+
+Les articles L. 191, L. 192, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L191 (V)
+	  - Code électoral - art. L192 (M)
+	  - Code électoral - art. L193 (V)
+	  - Code électoral - art. L210-1 (M)
+	  - Code électoral - art. L213 (Ab)
+	  - Code électoral - art. L221 (M)
+
+	**Anciens textes**:
+
+	  - Code électoral - art. L328 (M)
+	  - Code électoral - art. L328 (T)
+
+
+###### Article L329
+
+Le conseil général de Saint-Pierre-et-Miquelon est composé de dix-neuf membres. La collectivité territoriale est divisée en
+deux circonscriptions électorales et les sièges sont répartis de la manière suivante : Saint-Pierre : quinze sièges ;
+Miquelon-Langlade :quatre sièges.
+
+Les conseillers généraux sont élus pour six ans ; ils sont rééligibles.
+
+Les élections ont lieu au mois de mars. Les collèges électoraux sont convoqués le même jour que dans les départements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+###### Article L330
+
+A Saint-Pierre-et-Miquelon, le conseil général est renouvelé intégralement tous les six ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+###### Article L331
+
+Les conseillers généraux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats que
+de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, sous réserve de
+l'application des dispositions prévues au troisième alinéa de l'article L. 331-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. L332 (Ab)
+	  - Code électoral - art. L332-1 (M)
+
+	**Cite**:
+
+	  - Code électoral L331-2al. 3
+
+
+###### Article L331-1
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre
+de sièges égal à la moitié du nombre des sièges à pourvoir, arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus
+de quatre sièges à pourvoir et à l'entier inférieur lorsqu'il y a moins de quatre sièges à pourvoir. Cette attribution
+opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la
+plus forte moyenne, sous réserve de l'application des dispositions du troisième alinéa ci-après.
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un deuxième tour.
+Il est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal à la moitié du nombre des sièges à pourvoir,
+arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus de quatre sièges à pourvoir et à l'entier inférieur
+lorsqu'il y a moins de quatre sièges à pourvoir. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges
+sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges
+sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous
+réserve de l'application des dispositions du troisième alinéa ci-après.
+
+Les listes qui n'ont pas obtenu au moins cinq pour cent de suffrages exprimés ne sont pas admises à répartition des sièges.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L331-2 (M)
+
+
+###### Article L331-2
+
+Nul ne peut être candidat dans plus d'une circonscription électorale, ni sur plus d'une liste.
+
+Une déclaration de candidature est obligatoire pour chaque tour de scrutin.
+
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à dix
+pour cent du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des
+candidats ayant figuré au premier tour sur d'autres listes, sous réserve que celles-ci ne se présentent pas au second tour et
+qu'elles aient obtenu au premier tour au moins cinq pour cent des suffrages exprimés. En cas de modification de la
+composition d'une liste, l'ordre de présentation des candidats peut également être modifié.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une liste. Le choix
+de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture par la personne ayant eu la qualité de
+responsable de la liste constituée par ces candidats au premier tour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. L331 (Ab)
+	  - Code électoral - art. L331-1 (Ab)
+	  - Code électoral - art. L331-2 (Ab)
+	  - Code électoral - art. L332 (Ab)
+	  - Code électoral - art. L332-1 (M)
+
+
+###### Article L332
+
+La déclaration de candidature résulte du dépôt à la préfecture d'une liste répondant aux conditions fixées aux articles L.
+331 et L. 331-2. Il en est délivré récépissé.
+
+Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
+candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
+personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
+second tour. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y
+figurent. La liste déposée indique expressément.
+
+1° Le titre de la liste présentée;
+
+2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
+
+Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
+compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
+signature.
+
+Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
+procèdent à aucune modification de leur composition au second tour.
+
+Est interdit l'enregistrement de la déclaration de candidature d'une liste constituée en violation des dispositions des
+articles L. 331, L. 331-2 et du présent article.
+
+Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L331 (M)
+	  - Code électoral - art. L331-2 (M)
+
+
+###### Article L332-1
+
+Les déclarations de candidatures doivent être déposées au plus tard [*délai*].
+
+- pour le premier tour, le deuxième vendredi qui précède le jour du scrutin, à vingt-quatre heures ;
+
+- pour le second tour, le mardi qui suit le premier tour, à vingt-quatre heures.
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
+
+Les retraits des listes complètes qui interviennent avant l'expiration des délais prévus à l'alinéa premier du présent
+article pour le dépôt des déclarations de candidatures sont enregistrés ; ils comportent la signature de la majorité des
+candidats de la liste.
+
+Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L331 (M)
+	  - Code électoral - art. L331-2 (M)
+
+
+###### Article L333
+
+Dans les quarante-huit heures qui suivent la déclaration de candidature, le mandataire de chaque liste doit justifier avoir
+versé entre les mains d'un comptable départemental du Trésor un cautionnement de 50 F par candidature, pour pouvoir
+bénéficier des dispositions de l'article L. 216.
+
+Le cautionnement est remboursé aux listes qui ont recueilli au moins 5 % des suffrages exprimés dans la circonscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L216 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. L328-4 (Ab)
+
+
+#### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article L334-1
+
+Les dispositions du titre IV du livre Ier du présent code, à l'exception de son chapitre IV, sont applicables à l'élection
+des conseillers municipaux des communes de la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+###### Article LO334-1-1
+
+Les dispositions organiques du titre IV du livre Ier sont applicables à l'élection des conseillers municipaux des communes de
+la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+#### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article L334-3
+
+Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon.
+
+Le renouvellement du mandat du sénateur de Saint-Pierre-et-Miquelon a lieu à la même date que celui du mandat des sénateurs
+de la série C mentionnée à l'article L.O. 276 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+###### Article LO334-2
+
+La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée au Sénat par un sénateur [*nombre*].
+
+Les dispositions organiques du livre II du présent code, à l'exception de l'article L.O. 274, sont applicables à l'élection
+du sénateur de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+
+### Titre Ier : Dispositions applicables à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+#### Chapitre III : Dispositions particulières à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article L334
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller général élu sur
+cette liste dont le siège devient vacant pour quelque cause que ce soit. La constatation, par la juridiction administrative,
+de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection que du ou des élus inéligibles. La
+juridiction saisie proclame en conséquence l'élection du ou des suivants de liste.
+
+Lorsque les dispositions de l'alinéa précédent ne peuvent plus être appliquées, il est procédé au renouvellement du conseil
+général dans les deux mois de la dernière vacance, si le conseil général a perdu le tiers de ses membres.
+
+Toutefois, dans l'année qui précède le renouvellement du conseil général, les dispositions prévues à l'alinéa précédent ne
+peuvent être appliquées qu'au cas où le conseil général a perdu la moitié de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. L328-4 (Ab)
+	  - Code électoral - art. L333-4 (Ab)
+	  - Code électoral - art. R174-1 (Ab)
+
+
 ### Titre II : Dispositions particulières à la collectivité territoriale de Mayotte
 
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et de conseillers municipaux à Mayotte
+
+###### Article L334-4
+
+Les dispositions du titre Ier du livre Ier du présent code sont applicables dans la collectivité territoriale de Mayotte, à
+l'exception du premier alinéa de l'article L. 66.
+
+Pour l'application de ces dispositions à Mayotte, il y a lieu de lire :
+
+1° "collectivité territoriale de Mayotte", au lieu de :
+
+"département" ou "arrondissement" ;
+
+2° "représentant du gouvernement" et "services du représentant du gouvernement", au lieu de : "Préfet" ou "sous-préfet" et
+"préfecture" ;
+
+3° "tribunal de première instance", au lieu de : "tribunal d'instance" et "tribunal de grande instance" ;
+
+4° "tribunal supérieur d'appel", au lieu de : "cour d'appel" ;
+
+5° "secrétaire général", au lieu de : "secrétaire général de préfecture" ;
+
+6° "receveur particulier des finances", au lieu de :
+
+"trésorier-payeur général" ;
+
+7° "budget du service de la poste", au lieu de : "budget annexe des postes et télécommunications" ;
+
+8° "archives de la collectivité territoriale", au lieu de :
+
+"archives départementales" ;
+
+9° "code des communes applicable à Mayotte", au lieu de : "code général des collectivités territoriales" ;
+
+10° "code du travail applicable à Mayotte", au lieu de : "code du travail" ;
+
+11° "décisions des autorités compétentes", au lieu de : "arrêté du ministre de la santé".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Cité par**:
+
+	  - Loi n°77-729 du 7 juillet 1977 - art. 26 (V)
+	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 38 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L66 (V)
+
+
+###### Article L334-5
+
+Pour l'élection du député, des conseillers généraux et des conseillers municipaux de Mayotte, les bulletins de divers
+candidats ou listes de candidats sont imprimés sur des papiers de couleurs différentes.
+
+Une liste de couleurs est établie par la commission de propagande compétente dans un ordre fixé par tirage au sort en
+présence de candidats ou de leurs délégués.
+
+Une couleur choisie sur cette liste est attribuée à chaque candidat ou chaque liste de candidats suivant l'ordre dans lequel
+les intéressés en ont fait la demande. Le papier est fourni par l'administration. Aucun autre papier ne peut être utilisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Cité par**:
+
+	  - Décret n°87-797 du 25 septembre 1987 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+
+###### Article L334-6
+
+Les bulletins ne portant aucune désignation, ceux ne contenant pas une désignation suffisante ou dans lesquels les votants se
+sont fait connaître, les bulletins trouvés dans l'urne sans enveloppe ou dans des enveloppes non réglementaires, les
+bulletins ou enveloppes portant des signes intérieurs ou extérieurs de reconnaissance, les bulletins ou enveloppes portant
+des mentions injurieuses pour les candidats ou des tiers, les bulletins des candidats imprimés sur un papier de couleur
+différente de celle qui leur a été attribuée par la commission de propagande n'entrent pas en compte dans le résultat du
+dépouillement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Cité par**:
+
+	  - Décret n°87-797 du 25 septembre 1987 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Mayotte
+
+###### Article L334-7
+
+Les dispositions du titre II du livre Ier du présent code sont applicables à l'élection du député de Mayotte, à l'exception
+du deuxième alinéa de l'article L. 125.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L125 (M)
+
+
 #### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Mayotte
+
+###### Article L334-8
+
+Les dispositions du titre III du livre Ier du présent code sont applicables à Mayotte, à l'exception du troisième alinéa de
+l'article L. 192, des articles L. 207 et L. 212 et sous réserve des dispositions suivantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L192 (M)
+	  - Code électoral - art. L207 (M)
+	  - Code électoral - art. L212 (M)
+
+
+###### Article L334-9
+
+Le mandat de conseiller général est incompatible avec les fonctions suivantes exercées dans la collectivité territoriale de
+Mayotte :
+
+1° Représentant du Gouvernement, secrétaire général, secrétaire général adjoint et directeur de cabinet ;
+
+2° Militaire de carrière ou assimilé, en activité de service ou servant au-delà de la durée légale ;
+
+3° Membre du tribunal administratif ;
+
+4° Directeur de l'établissement public de santé territorial d e Mayotte ;
+
+5° Fonctionnaire des corps actifs de police ;
+
+6° Architecte de la collectivité territoriale, ingénieur des travaux publics de l'Etat, chef de section principal ou chef de
+section des travaux publics de l'Etat chargé d'une circonscription territoriale de voirie, directeur, directeur adjoint et
+chef de bureau dans les services du représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
+
+
+###### Article L334-10
+
+Une commission de propagande unique, dont la composition et le fonctionnement sont fixés par décret, est chargée de l'envoi
+et de la distribution des documents de propagande électorale pour tous les cantons de Mayotte.
+
+L'Etat prend à sa charge les dépenses provenant des opération s faites par la commission de propagande, ainsi que celles
+résultant de son fonctionnement. Il est remboursé aux candidats l'impression des bulletins de vote et le coût du papier et de
+l'impression des affiches et des circulaires ainsi que les frais d'affichage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+
+###### Article L334-11
+
+Les frais de transport maritime et aérien dûment justifiés, exposés par les candidats aux élections au conseil général à
+l'intérieur de la collectivité territoriale de Mayotte, ne sont pas inclus dans le plafond des dépenses électorales fixé par
+l'article L. 52-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-11 (M)
+
 
 ###### Article L334-12
 
@@ -12158,6 +12884,40 @@ et sixième alinéas de l'article L. 238 et du premier alinéa de l'article L. 2
 	  - Code électoral - art. L256 (V)
 
 
+###### Article L334-14
+
+Les fonctions de conseiller municipal sont incompatibles avec celles de :
+
+1° Représentant du Gouvernement, secrétaire général, secrétaire général adjoint et directeur de cabinet ;
+
+2° Fonctionnaire des corps actifs de police ;
+
+3° Militaire de carrière ou assimilé, en activité de service ou servant au-delà de la durée légale.
+
+Ceux qui seraient élus membres d'un conseil municipal auront, à partir de la proclamation du résultat du scrutin, un délai de
+dix jours pour opter entre l'acceptation du mandat et la conservation de leur emploi. A défaut de déclaration adressée dans
+ce délai à leurs supérieurs hiérarchiques, ils seront réputés avoir opté pour la conservation dudit emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (Ab)
+
+
 ## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte
 
 ### Titre II : Dispositions particulières à Mayotte
@@ -12196,448 +12956,15 @@ l'article LO 276 du code électoral.
 	  - Code électoral - art. L280 (M)
 
 
-## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
+###### Article L334-16
 
-###### Article L329
+Le sénateur est élu par un collège électoral composé :
 
-Le conseil général de Saint-Pierre-et-Miquelon est composé de dix-neuf membres. La collectivité territoriale est divisée en
-deux circonscriptions électorales et les sièges sont répartis de la manière suivante : Saint-Pierre : quinze sièges ;
-Miquelon-Langlade :quatre sièges.
+1° Du député ;
 
-Les conseillers généraux sont élus pour six ans ; ils sont rééligibles.
+2° Des conseillers généraux ;
 
-Les élections ont lieu au mois de mars. Les collèges électoraux sont convoqués le même jour que dans les départements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-	  - Loi n°85-595 du 11 juin 1985 - art. 45 () JORF 14 juin 1985
-
-
-###### Article L330
-
-A Saint-Pierre-et-Miquelon, le conseil général est renouvelé intégralement tous les six ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-
-
-###### Article L331
-
-Les conseillers généraux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats que
-de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, sous réserve de
-l'application des dispositions prévues au troisième alinéa de l'article L. 331-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L331-2 (M)
-
-	**Cité par**:
-
-	  - Code électoral - art. L332 (Ab)
-	  - Code électoral - art. L332-1 (M)
-
-
-###### Article L331-1
-
-Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre
-de sièges égal à la moitié du nombre des sièges à pourvoir, arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus
-de quatre sièges à pourvoir et à l'entier inférieur lorsqu'il y a moins de quatre sièges à pourvoir. Cette attribution
-opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la
-plus forte moyenne, sous réserve de l'application des dispositions du troisième alinéa ci-après.
-
-Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un deuxième tour.
-Il est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal à la moitié du nombre des sièges à pourvoir,
-arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus de quatre sièges à pourvoir et à l'entier inférieur
-lorsqu'il y a moins de quatre sièges à pourvoir. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges
-sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges
-sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous
-réserve de l'application des dispositions du troisième alinéa ci-après.
-
-Les listes qui n'ont pas obtenu au moins cinq pour cent de suffrages exprimés ne sont pas admises à répartition des sièges.
-
-Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
-
-Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
-grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
-proclamés élus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L331-2 (M)
-
-
-###### Article L331-2
-
-Nul ne peut être candidat [*conditions*] dans plus d'une circonscription électorale, ni sur plus d'une liste.
-
-Une déclaration de candidature est obligatoire pour chaque tour de scrutin.
-
-Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à dix
-pour cent du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des
-candidats ayant figuré au premier tour sur d'autres listes, sous réserve que celles-ci ne se présentent pas au second tour et
-qu'elles aient obtenu au premier tour au moins cinq pour cent des suffrages exprimés. En cas de modification de la
-composition d'une liste, l'ordre de présentation des candidats peut également être modifié.
-
-Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une liste. Le choix
-de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture par la personne ayant eu la qualité de
-responsable de la liste constituée par ces candidats au premier tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-
-	**Cité par**:
-
-	  - Code électoral - art. L331 (Ab)
-	  - Code électoral - art. L331-1 (Ab)
-	  - Code électoral - art. L331-2 (Ab)
-	  - Code électoral - art. L332 (Ab)
-	  - Code électoral - art. L332-1 (M)
-
-
-###### Article L332
-
-La déclaration de candidature résulte du dépôt à la préfecture d'une liste répondant aux conditions fixées aux articles L.
-331 et L. 331-2. Il en est délivré récépissé.
-
-Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
-candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
-personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
-second tour. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y
-figurent. La liste déposée indique expressément.
-
-1° Le titre de la liste présentée;
-
-2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
-
-Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
-compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
-signature.
-
-Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
-procèdent à aucune modification de leur composition au second tour.
-
-Est interdit l'enregistrement de la déclaration de candidature d'une liste constituée en violation des dispositions des
-articles L. 331, L. 331-2 et du présent article.
-
-Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L331 (M)
-	  - Code électoral - art. L331-2 (M)
-
-
-###### Article L332-1
-
-Les déclarations de candidatures doivent être déposées au plus tard [*délai*].
-
-- pour le premier tour, le deuxième vendredi qui précède le jour du scrutin, à vingt-quatre heures ;
-
-- pour le second tour, le mardi qui suit le premier tour, à vingt-quatre heures.
-
-Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
-
-Les retraits des listes complètes qui interviennent avant l'expiration des délais prévus à l'alinéa premier du présent
-article pour le dépôt des déclarations de candidatures sont enregistrés ; ils comportent la signature de la majorité des
-candidats de la liste.
-
-Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L331 (M)
-	  - Code électoral - art. L331-2 (M)
-
-
-###### Article L333
-
-Dans les quarante-huit heures qui suivent la déclaration de candidature, le mandataire de chaque liste doit justifier avoir
-versé entre les mains d'un comptable départemental du Trésor un cautionnement de 50 F candidature, pour pouvoir bénéficier
-des dispositions de l'article L. 216.
-
-Le cautionnement est remboursé aux listes qui ont recueilli au moins 5 % des suffrages exprimés dans la circonscription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L216 (V)
-
-	**Cité par**:
-
-	  - Code électoral - art. L328-4 (Ab)
-
-
-###### Article L334
-
-Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller général élu sur
-cette liste dont le siège devient vacant pour quelque cause que ce soit. La constatation, par la juridiction administrative,
-de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection que du ou des élus inéligibles. La
-juridiction saisie proclame en conséquence l'élection du ou des suivants de liste.
-
-Lorsque les dispositions de l'alinéa précédent ne peuvent plus être appliquées, il est procédé au renouvellement du conseil
-général dans les deux mois de la dernière vacance, si le conseil général a perdu le tiers de ses membres.
-
-Toutefois, dans l'année qui précède le renouvellement du conseil général, les dispositions prévues à l'alinéa précédent ne
-peuvent être appliquées qu'au cas où le conseil général a perdu la moitié de ses membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 3 () JORF 14 juin 1985
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
-
-	**Cité par**:
-
-	  - Code électoral - art. L328-4 (Ab)
-	  - Code électoral - art. L333-4 (Ab)
-	  - Code électoral - art. R174-1 (Ab)
-
-
-### Chapitre Ier : Dispositions communes
-
-###### Article L328
-
-Les dispositions du titre Ier du livre Ier du présent code sont applicables dans la collectivité territoriale de Saint-
-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral Titre I, livre I
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°86-958 1986-08-13 art. 1 JORF 14 août 1986
-
-	**Nouveaux textes**:
-
-	  - Code électoral - art. L328-4 (Ab)
-
-
-###### Article LO328-1
-
-Pour l'application du présent code à la collectivité territoriale de Saint-Pierre-et-Miquelon, il y a lieu de lire :
-
-1° "collectivité territoriale" au lieu de "département" ;
-
-2° "représentant de l'Etat" et : "services du représentant de l'Etat", au lieu de : "préfet" et "préfecture" ;
-
-3° "tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°86-958 1986-08-13 art. 1 JORF 14 août 1986
-
-	**Créé par**:
-
-	  - Loi organique 86-957 1986-08-13 art. 1 JORF 14 août 1986
-
-
-### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-###### Article L328-3
-
-Les dispositions du titre II du Livre Ier du présent code sont applicables à l'élection du député de Saint-Pierre-et-
-Miquelon.
-
-Celui-ci est élu dans les conditions fixées pour l'élection des députés au scrutin uninominal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°86-958 1986-08-13 art. 5 JORF 14 août 1986
-
-
-###### Article LO328-2
-
-La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée à l'Assemblée nationale par un député.
-
-Les dispositions organiques du titre II du livre Ier du présent code, à l'exception de l'article L.O. 119, sont applicables
-au député de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°86-958 1986-08-13 art. 4 JORF 14 août 1986
-
-	**Créé par**:
-
-	  - Loi organique 86-957 1986-08-13 art. 2 JORF 14 août 1986
-
-	**Cite**:
-
-	  - Code électoral - art. LO119 (M)
-
-
-### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-###### Article L328-4
-
-Les articles L. 191, L. 192, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°86-958 1986-08-13 art. 1 JORF 14 août 1986
-
-	**Anciens textes**:
-
-	  - Code électoral - art. L328 (M)
-	  - Code électoral - art. L328 (T)
-
-	**Cite**:
-
-	  - Code électoral l191, l192, l193, l210-1, l213, l221
-
-
-### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-###### Article L334-1
-
-Les dispositions du titre IV du livre Ier du présent code, à l'exception de son chapitre IV, sont applicables à l'élection
-des conseillers municipaux des communes de la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°86-958 1986-08-13 art. 7 JORF 14 août 1986
-
-
-###### Article LO334-1-1
-
-Les dispositions organiques du titre IV du livre Ier sont applicables à l'élection des conseillers municipaux des communes de
-la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°98-404 du 25 mai 1998 - art. 13 ()
-
-
-### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-###### Article L334-3
-
-Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon.
-
-Le renouvellement du mandat du sénateur de Saint-Pierre-et-Miquelon a lieu à la même date que celui du mandat des sénateurs
-de la série C mentionnée à l'article L.O. 276 du présent code.
+3° Des délégués des conseils municipaux ou des suppléants de ces délégués.
 
 **Liens relatifs à cet article**
 
@@ -12647,25 +12974,12 @@ de la série C mentionnée à l'article L.O. 276 du présent code.
 
 	**Créé par**:
 
-	  - Loi n°86-958 1986-08-13 art. 7 JORF 14 août 1986
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
 
+	**Cité par**:
 
-###### Article LO334-2
-
-La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée au Sénat par un sénateur.
-
-Les dispositions organiques du livre II du présent code, à l'exception de l'article L.O. 274, sont applicables à l'élection
-du sénateur de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi organique 86-957 1986-08-13 art. 7 JORF 14 août 1986
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (Ab)
 
 
 ## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse
