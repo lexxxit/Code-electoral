@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2002-01-26
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -2075,13 +2075,14 @@ incompatibles avec les mandats qui font l'objet du livre I.
 ###### Article L46-1
 
 Nul ne peut cumuler plus de deux des mandats électoraux énumérés ci-après : conseiller régional, conseiller à l'Assemblée de
-Corse, conseiller général, conseiller de Paris, conseiller municipal.
+Corse, conseiller général, conseiller de Paris, conseiller municipal. 
 
-Quiconque se trouve dans ce cas doit faire cesser l'incompatibilité en démissionnant d'un des mandats qu'il détenait
-antérieurement. Il dispose à cet effet d'un délai de trente jours à compter de la date de l'élection qui l'a mis en situation
-d'incompatibilité ou, en cas de contestation, de la date à laquelle le jugement confirmant cette élection est devenu
-définitif. A défaut d'option ou en cas de démission du dernier mandat acquis dans le délai imparti, le mandat ou la fonction
-acquis ou renouvelé à la date la plus ancienne prend fin de plein droit.
+Quiconque, à l'exception des personnes visées aux articles L. 270, L. 272-6 et L. 360 du présent code, se trouve dans ce cas
+doit faire cesser l'incompatibilité en démissionnant d'un des mandats qu'il détenait antérieurement. Il dispose à cet effet
+d'un délai de trente jours à compter de la date de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de
+contestation, de la date à laquelle le jugement confirmant cette élection est devenu définitif. A défaut d'option ou en cas
+de démission du dernier mandat acquis dans le délai imparti, le mandat ou la fonction acquis ou renouvelé à la date la plus
+ancienne prend fin de plein droit. 
 
 Par dérogation aux dispositions de l'alinéa précédent, quiconque se trouve placé en situation d'incompatibilité du fait de
 son élection comme membre d'un conseil municipal d'une commune à laquelle s'appliquent les dispositions du chapitre II du
@@ -2121,7 +2122,46 @@ la date la plus ancienne.
 
 	**Modifié par**:
 
-	  - Loi n°2000-295 du 5 avril 2000 - art. 2 ()
+	  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
+
+
+###### Article L46-2
+
+Le détenteur de deux des mandats énumérés au premier alinéa de l'article L. 46-1, qui acquiert un mandat de représentant au
+Parlement européen, doit faire cesser l'incompatibilité telle qu'elle résulte de l'article 6-3 de la loi n° 77-729 du 7
+juillet 1977 relative à l'élection des représentants au Parlement européen, en démissionnant d'un des mandats qu'il détenait
+antérieurement. Il dispose à cet effet d'un délai de trente jours à compter de la proclamation de son élection au Parlement
+européen ou, en cas de contestation, de la date à laquelle la décision juridictionnelle confirmant cette élection est devenue
+définitive. A défaut d'option ou en cas de démission du dernier mandat acquis dans le délai imparti, le mandat acquis ou
+renouvelé à la date la plus ancienne prend fin de plein droit.
+
+**Nota:**
+
+En vertu de l'article 5 de la loi n° 2014-126 du 14 février 2014 interdisant le cumul de fonctions exécutives locales avec le
+mandat de représentant au Parlement européen, le présent article est abrogé à compter du premier renouvellement du Parlement
+européen suivant le 31 mars 2017.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°77-729 du 7 juillet 1977 - art. 6-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2014-126 du 14 février 2014 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. L221 (V)
 
 
 #### Chapitre V : Propagande
@@ -10740,11 +10780,16 @@ cette liste dont le siège devient vacant pour quelque cause que ce soit. La con
 de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection que du ou des élus inéligibles. La
 juridiction saisie proclame en conséquence l'élection du ou des suivants de liste.
 
-Lorsque les dispositions de l'alinéa précédent ne peuvent plus être appliquées, il est procédé au renouvellement du conseil
+Si le candidat ainsi appelé à remplacer le conseiller municipal se trouve de ce fait dans l'un des cas d'incompatibilité
+mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser
+l'incompatibilité en démissionnant de l'un des mandats visés par ces dispositions. A défaut d'option dans le délai imparti,
+le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
+
+Lorsque les dispositions des alinéas précédents ne peuvent plus être appliquées, il est procédé au renouvellement du conseil
 municipal :
 
 1° Dans les deux mois de la dernière vacance, si le conseil municipal a perdu le tiers de ses membres, et sous réserve de
-l'application du deuxième alinéa de l'article L. 258 ;
+l'application du deuxième alinéa de l'article L. 258;
 
 2° Dans les conditions prévues aux articles L2122-8 et L2122-14 du code général des collectivités territoriales, s'il est
 nécessaire de compléter le conseil avant l'élection d'un nouveau maire.
@@ -10757,10 +10802,7 @@ nécessaire de compléter le conseil avant l'élection d'un nouveau maire.
 
 	**Modifié par**:
 
-	  - Loi n°76-665 1976-07-19 art. 7 JORF 20 juillet 1976
-	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
-	  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
-	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+	  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
 
 	**Cité par**:
 
@@ -10940,19 +10982,24 @@ proclamé élu membre du Conseil de Paris ou du conseil municipal.
 ###### Article L272-6
 
 Par dérogation aux dispositions de l'article L. 270, le conseiller d'arrondissement venant sur une liste immédiatement après
-le dernier élu membre du conseil de Paris ou du conseil municipal est appelé à remplacer le membre du conseil de Paris ou du
-conseil municipal élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
+le dernier élu membre du Conseil de Paris ou du conseil municipal est appelé à remplacer le membre du Conseil de Paris ou du
+conseil municipal élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit. 
+
+Si le candidat ainsi appelé à remplacer le conseiller de Paris ou le conseiller municipal se trouve de ce fait dans l'un des
+cas d'incompatibilité mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la
+vacance pour faire cesser l'incompatibilité en démissionnant de l'un des mandats visés par ces dispositions. A défaut
+d'option dans le délai imparti, le remplacement est assuré par le candidat suivant dans l'ordre de la liste. 
 
 Le candidat venant sur une liste immédiatement après le dernier élu conseiller d'arrondissement est appelé à remplacer le
-conseiller d'arrondissement élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
+conseiller d'arrondissement élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit. 
 
 La constatation par la juridiction compétente de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de
 l'élection que du ou des élus inéligibles. La juridiction saisie proclame en conséquence l'élection du ou des suivants de
-liste.
+liste. 
 
 Lorsque, dans un secteur, les dispositions du deuxième alinéa ne peuvent plus être appliquées, et si le conseil
 d'arrondissement a perdu plus du tiers de ses membres, il est, dans un délai de deux mois à dater de la dernière vacance,
-procédé au renouvellement intégral des conseillers d'arrondissement et des membres du conseil de Paris ou des conseils
+procédé au renouvellement intégral des conseillers d'arrondissement et des membres du Conseil de Paris ou des conseils
 municipaux de Lyon ou de Marseille élus dans le secteur.
 
 **Liens relatifs à cet article**
@@ -10961,17 +11008,17 @@ municipaux de Lyon ou de Marseille élus dans le secteur.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
-
-	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
+
 	**Cite**:
 
-	  - Code électoral - art. L270 (M)
+	  - Code électoral - art. L270 (V)
 
 	**Cité par**:
 
@@ -14742,16 +14789,21 @@ le chef-lieu de la région. Les résultats sont proclamés au plus tard à dix-h
 Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller régional élu sur
 cette liste dont le siège devient vacant pour quelque cause que ce soit.
 
+Si le candidat ainsi appelé à remplacer le conseiller régional se trouve de ce fait dans l'un des cas d'incompatibilité
+mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser
+l'incompatibilité en démissionnant de l'un des mandats visés par ces dispositions. A défaut d'option dans le délai imparti,
+le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
+
 Le représentant de l'Etat dans la région notifie le nom de ce remplaçant au président du conseil régional.
 
 Le mandat de la personne ayant remplacé un conseiller régional dont le siège était devenu vacant expire lors du
 renouvellement du conseil régional qui suit son entrée en fonction.
 
-Lorsque les dispositions du premier alinéa du présent article ne peuvent être appliquées, le siège demeure vacant jusqu'au
-prochain renouvellement du conseil régional. Toutefois, si le tiers des sièges d'un conseil régional vient à être vacant par
-suite du décès de leurs titulaires, il est procédé au renouvellement intégral du conseil régional dans les trois mois qui
-suivent la dernière vacance pour cause de décès, sauf le cas où le renouvellement général des conseils régionaux doit
-intervenir dans les trois mois suivant ladite vacance.
+Lorsque les dispositions des premiers et deuxième alinéas du présent article ne peuvent être appliquées, le siège demeure
+vacant jusqu'au prochain renouvellement du conseil régional. Toutefois, si le tiers des sièges d'un conseil régional vient à
+être vacant par suite du décès de leurs titulaires, il est procédé au renouvellement intégral du conseil régional dans les
+trois mois qui suivent la dernière vacance pour cause de décès, sauf le cas où le renouvellement général des conseils
+régionaux doit intervenir dans les trois mois suivant ladite vacance.
 
 **Liens relatifs à cet article**
 
@@ -14765,7 +14817,7 @@ intervenir dans les trois mois suivant ladite vacance.
 
 	**Modifié par**:
 
-	  - Loi n°99-36 du 19 janvier 1999 - art. 11 ()
+	  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
 
 	**Cité par**:
 
@@ -17199,8 +17251,12 @@ directeurs, inspecteurs et chefs de service de la Polynésie française. "
 
 ###### Article L438
 
-Les dispositions du chapitre II du titre IV du livre Ier du présent code sont applicables dans toutes les communes de la
-Polynésie française, quel que soit le nombre d'habitants de la commune.
+Les dispositions du chapitre II du titre IV du livre Ier du présent code sont applicables dans les communes du territoire de
+la Polynésie française de moins de 3 500 habitants et de 3 500 habitants et plus composées de communes associées.
+
+Les dispositions du chapitre III du titre IV du livre Ier du présent code, à l'exception des trois derniers alinéas de
+l'article L. 261, sont applicables aux communes du territoire de la Polynésie française de 3 500 habitants et plus qui ne
+sont pas composées de communes associées.
 
 En outre, dans les communes de 2 500 habitants et plus, nul ne peut être candidat sur plus d'une liste ni dans plus d'une
 circonscription électorale. Une déclaration de candidature est obligatoire pour le premier tour de scrutin. Cette déclaration
@@ -17225,15 +17281,20 @@ le tribunal administratif qui statue, en premier et dernier ressort, dans les tr
 
 Faute par le tribunal administratif d'avoir statué dans ce délai, le récépissé est délivré.
 
+**Nota:**
+
+Loi 2002-276 2002-02-27 art. 64 II : Ces dispositions entreront en vigueur à l'occasion du prochain renouvellement général
+des conseils municipaux qui suivra la promulgation de la présente loi.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2002-276 du 27 février 2002 - art. 64 ()
 
 	**Cité par**:
 
