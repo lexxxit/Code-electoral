@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1981-03-28
+Version Consolidée au 1982-01-30
 
 # Partie législative
 
@@ -8243,6 +8243,111 @@ Les dispositions des articles L. 106 à L. 110 et L. 113 à L. 117 sont applicab
 
 ## Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon
 
+###### Article L328
+
+Les articles L. 191, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Code électoral - art. L191 (V)
+	  - Code électoral - art. L193 (V)
+	  - Code électoral - art. L210-1 (M)
+	  - Code électoral - art. L213 (Ab)
+	  - Code électoral - art. L221 (M)
+
+	**Nouveaux textes**:
+
+	  - Code électoral - art. L328-4 (Ab)
+
+
+###### Article L329
+
+Le conseil général de Saint-Pierre-et-Miquelon est composé de quatorze membres. Le département est divisé en deux
+circonscriptions électorales et les sièges sont répartis de la manière suivante : Saint-Pierre : onze sièges ; Miquelon-
+Langlade :
+
+trois sièges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°82-104 1982-01-29 art. 1 JORF 30 JANVIER 1982
+
+
+###### Article L331
+
+Les élections se font au scrutin de liste majoritaire à deux tours. Au premier tour de scrutin, nul n'est élu s'il n'a
+réuni :
+
+la majorité absolue des suffrages exprimés;
+
+un nombre de suffrages au moins égal au quart des électeurs inscrits.
+
+Au second tour, l'élection a lieu à la majorité relative quel que soit le nombre de votants. Si plusieurs candidats
+obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
+
+Le panachage est autorisé. Les bulletins sont valables bien qu'ils portent plus ou moins de noms qu'il n'y a de conseillers à
+élire. Les derniers noms inscrits au-delà du nombre ne sont pas comptés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Cité par**:
+
+	  - Code électoral - art. L332 (Ab)
+	  - Code électoral - art. L332-1 (M)
+
+
+###### Article L332
+
+Toute liste fait l'objet d'une déclaration collective revêtue de la signature de tous les candidats. Elle est déposée et
+enregistrée à la préfecture au plus tard le quinzième jour précédant le premier tour de scrutin .
+
+A défaut de signature, une procuration du candidat doit être produite. Il est donné au déposant un reçu provisoire de
+déclaration. Le récépissé définitif est délivré dans les trois jours.
+
+La déclaration doit mentionner :
+
+1° les nom, prénoms, date et lieu de naissance des candidats;
+
+2° la circonscription électorale dans laquelle la liste se présente;
+
+3° le titre de la liste. Plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre.
+
+Chaque liste doit comporter un nombre de noms de candidats égal à celui des sièges attribués à la circonscription
+correspondante.
+
+Nul ne peut être candidat sur plusieurs listes ni dans plus d'une circonscription.
+
+Après le dépôt de la liste aucun retrait de candidature n'est admis.
+
+En cas de décès de l'un des candidats, ses colistiers doivent le remplacer immédiatement par un nouveau candidat au rang qui
+leur convient. Cette nouvelle candidature fait l'objet d'une déclaration complémentaire soumise aux règles prévues ci-dessus.
+
+Aucune liste constituée en violation des alinéas précédents ou des dispositions du présent livre ne sera enregistrée. Les
+bulletins obtenus par une liste non enregistrée sont nuls.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+
 ###### Article L334
 
 En cas de vacance par décès, démission ou pour toute autre cause, il sera procédé à des élections partielles dans un délai de
@@ -8265,6 +8370,23 @@ Toutefois, dans les six mois qui précèdent le renouvellement du conseil géné
 	  - Code électoral - art. L328-4 (Ab)
 	  - Code électoral - art. L333-4 (Ab)
 	  - Code électoral - art. R174-1 (Ab)
+
+
+## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article L330
+
+A Saint-Pierre-et-Miquelon, le conseil général est renouvelé intégralement tous les six ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
 
 
 # Partie réglementaire
