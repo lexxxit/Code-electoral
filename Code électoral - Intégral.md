@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-02-16
 
 # Partie législative
 
@@ -14312,6 +14312,8 @@ d'établissement. Toutefois, pour les Français et Françaises établis hors de 
 
 Mention expresse de la validité choisie est portée sur la procuration.
 
+Lorsque plusieurs élections ont lieu le même jour, il n'est établi qu'une procuration valable pour toutes ces élections.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -14320,8 +14322,11 @@ Mention expresse de la validité choisie est portée sur la procuration.
 
 	**Modifié par**:
 
-	  - Décret n°72-1250 1972-12-29 art. 2 JORF 31 décembre 1972
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°86-212 1986-02-14 art. 1 JORF 16 février 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-212 1986-02-14 art. 2 : dispositions applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte
 
 	**Cité par**:
 
