@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1973-01-03
+Version Consolidée au 1973-01-04
 
 # Partie législative
 
@@ -5155,6 +5155,28 @@ Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasse
 	  - Code électoral - art. L224-8 (VD)
 
 
+###### Article L194-1
+
+Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller général s'il n'exerçait le
+même mandat antérieurement à sa nomination.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°73-6 du 3 janvier 1973 - art. 4 () JORF 4 janvier 1973
+
+	**Cité par**:
+
+	  - Loi n°82-214 du 2 mars 1982 - art. 7 (Ab)
+	  - Loi n°82-1171 du 31 décembre 1982 - art. 13 (Ab)
+	  - Loi n°2011-334 du 29 mars 2011 - art. 23 (V)
+
+
 ###### Article L196
 
 Les vétérinaires inspecteurs en chef, vétérinaires inspecteurs principaux et vétérinaires inspecteurs chargés des fonctions
@@ -5901,6 +5923,22 @@ Ne peuvent être conseillers municipaux :
 	**Cité par**:
 
 	  - Code électoral - art. L236 (V)
+
+
+###### Article L230-1
+
+Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller municipal s'il n'exerçait le
+même mandat antérieurement à sa nomination.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°73-6 du 3 janvier 1973 - art. 5 () JORF 4 janvier 1973
 
 
 ###### Article L232
