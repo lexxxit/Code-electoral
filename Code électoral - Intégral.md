@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1982-11-20
+Version Consolidée au 1983-01-01
 
 # Partie législative
 
@@ -7392,6 +7392,208 @@ renouvellement général des conseils municipaux.
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille
+
+###### Article L271
+
+A Paris, Lyon et Marseille, des conseillers d'arrondissement sont élus en même temps que les membres du Conseil de Paris ou
+du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°75-1333 1975-12-31 art. 4 JORF 3 janvier 1976
+	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+
+###### Article L272
+
+L'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et de Marseille et celle des conseillers
+d'arrondissement ont lieu dans les conditions prévues aux chapitres I et III du présent titre, sous réserve des dispositions
+ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°75-1333 1975-12-31 art. 5 JORF 3 janvier 1976
+
+	**Modifié par**:
+
+	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+
+###### Article L272-1
+
+Les conditions d'éligibilité, les inéligibilités et les incompatibilités applicables aux conseillers d'arrondissement sont
+les mêmes que pour les conseillers municipaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+
+###### Article L272-2
+
+Nul ne peut être candidat dans plusieurs secteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+	**Cité par**:
+
+	  - Code électoral - art. L272-4 (V)
+
+
+###### Article L272-3
+
+Pour être complète, une liste doit comprendre autant de candidats qu'il y a à pourvoir dans le secteur de sièges de membre du
+Conseil de Paris ou du conseil municipal et de sièges de conseiller d'arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+
+###### Article L272-4
+
+Est interdit l'enregistrement d'une déclaration de candidature ne répondant pas aux dispositions des articles L. 272-2 et L.
+272-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+	**Cite**:
+
+	  - Code électoral - art. L272-2 (V)
+
+
+###### Article L272-5
+
+Une fois effectuée l'attribution des sièges de membre du Conseil de Paris ou du conseil municipal en application des
+dispositions de l'article L. 262, les sièges de conseiller d'arrondissement sont répartis dans les mêmes conditions entre les
+listes. Pour chacune d'elles, ils sont attribués dans l'ordre de présentation en commençant par le premier des candidats non
+proclamé élu membre du Conseil de Paris ou du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+	**Cite**:
+
+	  - Code électoral - art. L262 (V)
+
+
+###### Article L272-6
+
+Par dérogation aux dispositions de l'article L. 270, le conseiller d'arrondissement venant sur une liste immédiatement après
+le dernier élu membre du conseil de Paris ou du conseil municipal est appelé à remplacer le membre du conseil de Paris ou du
+conseil municipal élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Le candidat venant sur une liste immédiatement après le dernier élu conseiller d'arrondissement est appelé à remplacer le
+conseiller d'arrondissement élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+La constatation par la juridiction compétente de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de
+l'élection que du ou des élus inéligibles. La juridiction saisie proclame en conséquence l'élection du ou des suivants de
+liste.
+
+Lorsque, dans un secteur, les dispositions du deuxième alinéa ne peuvent plus être appliquées, et si le conseil
+d'arrondissement a perdu plus du tiers de ses membres, il est, dans un délai de deux mois à dater de la dernière vacance,
+procédé au renouvellement intégral des conseillers d'arrondissement et des membres du conseil de Paris ou des conseils
+municipaux de Lyon ou de Marseille élus dans le secteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°82-1170 1982-12-31 art. 2 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+	**Cite**:
+
+	  - Code électoral - art. L270 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. L46-1 (MMN)
+
+
 ## Livre II : Election des sénateurs des départements
 
 ### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs
@@ -14472,5 +14674,618 @@ Ces dispositions ne s'appliquent pas aux électeurs de droit qui reçoivent au t
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L317 (V)
+
+
+# Annexes
+
+## Tableau des secteurs pour l'élection des membres du conseil de Paris
+
+###### Article Annexe tableau n° 2
+
+<table>
+  <tbody>
+    <tr>
+      <td width="216">
+
+DESIGNATION DES SECTEURS
+
+</td>
+      <td width="216">
+
+ARRONDISSEMENT 
+
+constituant les secteurs
+
+</td>
+      <td width="217">
+
+NOMBRE DE SIEGES
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+1er secteur
+
+</td>
+      <td width="216">
+
+1er
+
+</td>
+      <td width="217">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+2e secteur
+
+</td>
+      <td width="216">
+
+2e
+
+</td>
+      <td width="217">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+3e secteur
+
+</td>
+      <td width="216">
+
+3e
+
+</td>
+      <td width="217">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+4e secteur
+
+</td>
+      <td width="216">
+
+4e
+
+</td>
+      <td width="217">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+5e secteur
+
+</td>
+      <td width="216">
+
+5e
+
+</td>
+      <td width="217">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+6e secteur
+
+</td>
+      <td width="216">
+
+6e
+
+</td>
+      <td width="217">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+7e secteur
+
+</td>
+      <td width="216">
+
+7e
+
+</td>
+      <td width="217">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+8e secteur
+
+</td>
+      <td width="216">
+
+8e
+
+</td>
+      <td width="217">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+9e secteur
+
+</td>
+      <td width="216">
+
+9e
+
+</td>
+      <td width="217">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+10e secteur
+
+</td>
+      <td width="216">
+
+10e
+
+</td>
+      <td width="217">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+11e secteur
+
+</td>
+      <td width="216">
+
+11e
+
+</td>
+      <td width="217">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+12e secteur
+
+</td>
+      <td width="216">
+
+12e
+
+</td>
+      <td width="217">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+13e secteur
+
+</td>
+      <td width="216">
+
+13e
+
+</td>
+      <td width="217">
+
+13
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+14e secteur
+
+</td>
+      <td width="216">
+
+14e
+
+</td>
+      <td width="217">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+15e secteur
+
+</td>
+      <td width="216">
+
+15e
+
+</td>
+      <td width="217">
+
+17
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+16e secteur
+
+</td>
+      <td width="216">
+
+16e
+
+</td>
+      <td width="217">
+
+13
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+17e secteur
+
+</td>
+      <td width="216">
+
+17e
+
+</td>
+      <td width="217">
+
+13
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+18e secteur
+
+</td>
+      <td width="216">
+
+18e
+
+</td>
+      <td width="217">
+
+14
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+19e secteur
+
+</td>
+      <td width="216">
+
+19e
+
+</td>
+      <td width="217">
+
+12
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+20e secteur
+
+</td>
+      <td width="216">
+
+20e
+
+</td>
+      <td width="217">
+
+13
+
+</td>
+    </tr>
+    <tr>
+      <td width="216">
+
+Total
+
+</td>
+      <td width="216">
+
+</td>
+      <td width="217">
+
+163
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Décision n° 2013-667 DC du 16 mai 2013, article 3 : Le tableau n° 2 annexé au  code électoral (Tableau des secteurs pour
+l'élection des membres du conseil de  Paris) est déclaré contraire à la Constitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+
+	**Créé par**:
+
+	  - Loi n°75-1333 1975-12-31 art. 3 JORF 3 janvier 1976
+
+	**Modifié par**:
+
+	  - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
+
+
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon
+
+###### Article Annexe tableau n° 3
+
+<table>
+    <tbody>
+      <tr>
+        <td width="216">
+
+DESIGNATION DES SECTEURS
+
+</td>
+        <td width="216">
+
+ARRONDISSEMENT 
+
+constituant les secteurs
+
+</td>
+        <td width="217">
+
+NOMBRE DE SIEGES
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+1er secteur
+
+</td>
+        <td width="216">
+
+1er
+
+</td>
+        <td width="217">
+
+4
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+2e secteur
+
+</td>
+        <td width="216">
+
+2e
+
+</td>
+        <td width="217">
+
+5
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+3e secteur
+
+</td>
+        <td width="216">
+
+3e
+
+</td>
+        <td width="217">
+
+12
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+4e secteur
+
+</td>
+        <td width="216">
+
+4e
+
+</td>
+        <td width="217">
+
+5
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+5e secteur
+
+</td>
+        <td width="216">
+
+5e
+
+</td>
+        <td width="217">
+
+8
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+6e secteur
+
+</td>
+        <td width="216">
+
+6e
+
+</td>
+        <td width="217">
+
+9
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+7e secteur
+
+</td>
+        <td width="216">
+
+7e
+
+</td>
+        <td width="217">
+
+9
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+8e secteur
+
+</td>
+        <td width="216">
+
+8e
+
+</td>
+        <td width="217">
+
+12
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+9e secteur
+
+</td>
+        <td width="216">
+
+9e
+
+</td>
+        <td width="217">
+
+9
+
+</td>
+      </tr>
+      <tr>
+        <td width="216">
+
+Total
+
+</td>
+        <td width="216">
+
+</td>
+        <td width="217">
+
+73
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+
+	**Modifié par**:
+
+	  - Loi n°75-1333 du 31 décembre 1975, art. 3 v. init.
+	  - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
