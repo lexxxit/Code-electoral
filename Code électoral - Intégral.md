@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1976-02-08
+Version Consolidée au 1976-03-30
 
 # Partie législative
 
@@ -7509,5 +7509,4922 @@ Toutefois, dans les six mois qui précèdent le renouvellement du conseil géné
 	  - Code électoral - art. L328-4 (Ab)
 	  - Code électoral - art. L333-4 (Ab)
 	  - Code électoral - art. R174-1 (Ab)
+
+
+# Partie réglementaire
+
+## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements
+
+### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux
+
+#### Chapitre II : Listes électorales
+
+##### Section 1 : Conditions d'inscription sur une liste électorale
+
+###### Article R*1
+
+Tous les Français et Françaises jouissant de leurs droits civils et politiques et n'ayant jamais figuré sur une liste
+électorale doivent solliciter leur inscription, suivant les dispositions des articles L. 11, L. 12, L. 13, L. 14 ou L. 15,
+lors de la première révision des listes pour laquelle ils remplissent les conditions d'électorat exigées par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°74-459 1974-05-15 art. 1 JORF 18 mai 1974
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. D6221-1 (V)
+	  - Code général des collectivités territoriales - art. D6321-1 (V)
+	  - Code général des collectivités territoriales - art. R2121-1 (V)
+	  - Code électoral - art. R4 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L11 (V)
+	  - Code électoral - art. L12 (M)
+	  - Code électoral - art. L13 (V)
+	  - Code électoral - art. L14 (M)
+	  - Code électoral - art. L15 (V)
+
+
+###### Article R*2
+
+Les personnes qui, frappées d'incapacité électorale à la suite d'une condamnation, bénéficient de la réhabilitation ou font
+l'objet d'une mesure d'amnistie, doivent solliciter leur inscription lors de la première révision des listes qui suit la date
+de cessation de leur incapacité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R*4 (M)
+
+
+###### Article R*3
+
+Les électeurs déjà inscrits sur une liste électorale qui, à la suite d'un changement de domicile ou de résidence, ont perdu
+le droit d'être maintenus sur cette liste et n'ont pas revendiqué l'application des dispositions du 2° de l'alinéa 1 de
+l'article L. 11 doivent solliciter leur nouvelle inscription lors de la première révision des listes qui suit ce changement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L11 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R*4 (M)
+
+
+###### Article R*4
+
+Les dispositions des articles R. 1 à R. 3 ne font pas obstacle à l'application de l'avant-dernier alinéa de l'article L. 11
+et des articles L. 30 à L. 35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L11 (V)
+	  - Code électoral - art. L30 (M)
+	  - Code électoral - art. L31 (V)
+	  - Code électoral - art. L32 (V)
+	  - Code électoral - art. L33 (V)
+	  - Code électoral - art. L35 (V)
+	  - Code électoral - art. L42 (V)
+	  - Code électoral - art. R*1 (M)
+	  - Code électoral - art. R*2 (M)
+	  - Code électoral - art. R*3 (M)
+
+
+##### Section 2 : Etablissement et révision des listes électorales
+
+###### Article R*5
+
+Pour chaque révision annuelle des listes électorales, les demandes d'inscription des électeurs sont déposées dans les mairies
+jusqu'au dernier jour ouvrable de décembre inclus, le samedi étant considéré comme jour ouvrable. La commission
+administrative prévue à l'alinéa 2 de l'article L.17 procède aux inscriptions et aux radiations du 1er septembre jusqu'au
+dernier jour de l'année où les inscriptions sont recevables; elle prend en considération les demandes déposées avant le 31
+décembre.
+
+Entre le 1er et le 9 janvier inclus, la commission administrative dresse le tableau rectificatif; elle se prononce avant le 9
+janvier inclus, sur les observations formulées en application des articles L.23 et R.8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-747 1969-07-24 art. 1 JORF 28 juillet 1969
+	  - Décret n°74-739 1974-08-22 art. 1 JORF 27 août 1974
+	  - Décret n°75-605 1975-07-08 art. 1 JORF 11 juillet 1975
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 2-3 (V)
+	  - Décret n°94-206 du 10 mars 1994 - art. 6 (V)
+	  - Arrêté du 16 octobre 2006 - art. 3 (V)
+	  - Arrêté du 16 octobre 2006 - art. 4 (V)
+	  - Arrêté du 16 octobre 2006 - art. 5 (V)
+	  - Arrêté du 16 octobre 2006 - art. 6 (V)
+	  - Arrêté du 28 février 2007 - art. 3 (V)
+	  - Arrêté du 28 février 2007 - art. 4 (V)
+	  - Arrêté du 28 février 2007 - art. 5 (V)
+	  - Arrêté du 28 février 2007 - art. 6 (V)
+	  - Arrêté du 19 décembre 2007 (Ab)
+	  - Arrêté du 19 décembre 2007 - art. 3 (Ab)
+	  - Arrêté du 19 décembre 2007 - art. 4 (Ab)
+	  - Arrêté du 19 décembre 2007 - art. 5 (Ab)
+	  - Arrêté du 19 décembre 2007 - art. 6 (Ab)
+	  - Arrêté du 19 décembre 2007 - art. 8 (Ab)
+	  - Arrêté du 29 août 2011 (V)
+	  - Arrêté du 2 décembre 2011 (Ab)
+	  - Arrêté du 2 décembre 2011 - art. 2 (Ab)
+	  - Arrêté du 14 février 2013 (V)
+	  - Arrêté du 12 décembre 2013 - art. 3 (V)
+	  - Arrêté du 12 décembre 2013 - art. 4 (V)
+	  - Arrêté du 12 décembre 2013 - art. 5 (V)
+	  - Arrêté du 12 décembre 2013 - art. 6 (V)
+	  - Arrêté du 12 décembre 2013 - art. 8 (V)
+	  - Arrêté du 28 mai 2014 (V)
+	  - Arrêté du 28 mai 2014 - art. 2 (V)
+	  - Décret n°2015-882 du 17 juillet 2015 - art. 1 (V)
+	  - Décret n°2015-882 du 17 juillet 2015 - art. 2 (V)
+	  - Code électoral - art. R117-2 (V)
+	  - Code électoral - art. R5-1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L23 (V)
+	  - Code électoral - art. R*8 (M)
+	  - Code électoral L17 AL. 1, L23, R8
+
+
+###### Article R*7
+
+La commission administrative retranche de la liste :
+
+- sans préjudice de l'application de l'article L. 40, les électeurs décédés, ceux dont la radiation a été ordonnée par
+l'autorité compétente et ceux qui ont perdu les qualités requises par la loi ;
+
+- les électeurs qu'elle reconnaît avoir été indûment inscrits quoique leur inscription n'ait point été attaquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 2-3 (V)
+	  - Décret n°2000-255 du 20 mars 2000 - art. 13 (Ab)
+	  - Code rural - art. R723-31-1 (V)
+	  - Code électoral - art. R117-2 (V)
+	  - Code électoral - art. R219 (V)
+	  - Code électoral - art. R5 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L40 (V)
+
+
+###### Article R*10
+
+Le tableau contenant les additions et retranchements opérés par la commission administrative est signé de tous les membres de
+cette commission et déposé au secrétariat de la mairie le 10 janvier. Tout requérant peut en prendre communication, le
+recopier et le reproduire par la voie de l'impression.
+
+Le jour même du dépôt, le tableau est affiché par le maire aux lieux accoutumés, où il devra demeurer pendant dix jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-747 1969-07-24 art. 3 JORF 26 juillet 1969
+	  - Décret n°76-128 1976-02-06 art. 1 JORF 8 février 1976
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°94-206 du 10 mars 1994 - art. 6 (V)
+	  - Décret n°2015-882 du 17 juillet 2015 - art. 1 (V)
+	  - Code électoral - art. L17 (M)
+	  - Code électoral - art. R13 (V)
+	  - Code électoral - art. R17-1 (Ab)
+
+
+###### Article R*11
+
+En même temps, une copie du tableau et du procès-verbal, constatant l'accomplissement des formalités prescrites par l'article
+précédent est transmise par le maire au sous-préfet qui l'adresse, dans les deux jours, avec ses observations, au préfet.
+
+A la même date, le délégué de l'administration adresse au sous-préfet ou au préfet un compte rendu du déroulement des travaux
+de la commission administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R*12
+
+Si le commissaire de la République estime que les formalités et les délais prescrits n'ont pas été observés, il doit, dans
+les deux jours de la réception du tableau, déférer les opérations de la commission administrative au tribunal administratif
+qui statuera dns les trois jours et fixera, s'il y a lieu, le délai dans lequel les opérations annulées devront être
+refaites.
+
+Le commissaire de la République qui défère les opérations de révision au tribunal administratif doit en aviser immédiatement
+le tribunal d'instance compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-747 1969-07-24 art. 5 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°98-733 du 20 août 1998 - art. 13 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 21 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 8 (V)
+	  - Code électoral - art. R17-1 (Ab)
+	  - Code électoral - art. R219 (V)
+	  - Code électoral - art. R225 (V)
+
+
+###### Article R*16
+
+Le dernier jour de février de chaque année, la commission administrative de chaque bureau de vote opère toutes les
+rectifications régulièrement ordonnées, transmet au préfet le tableau de ces rectifications et arrête définitivement la liste
+électorale. Dans les communes où une commission administrative est chargée de dresser la liste générale des électeurs, cette
+commission arrête le même jour, définitivement, la liste générale de la commune.
+
+La minute de la liste électorale reste déposée au secrétariat de la mairie; le tableau rectificatif transmis au préfet reste
+déposé à la préfecture avec la copie de la liste électorale.
+
+Tout électeur peut prendre communication et copie de la liste électorale et des tableaux rectificatifs à la mairie, ou à la
+préfecture pour l'ensemble des communes du département à la condition de s'engager à ne pas en faire un usage purement
+commercial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-747 1969-07-24 art. 7 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°94-206 du 10 mars 1994 - art. 6 (V)
+	  - Décret n°2015-882 du 17 juillet 2015 - art. 1 (V)
+	  - Code forestier (nouveau) - art. R321-48 (V)
+	  - Code forestier - art. R221-11 (M)
+	  - Code forestier - art. R221-12 (Ab)
+	  - Code forestier - art. R221-9 (Ab)
+	  - Code électoral - art. L17 (M)
+
+
+###### Article R*17
+
+La liste électorale reste, jusqu'au dernier jour de février de l'année suivante, telle qu'elle a été arrêtée, sauf les
+changements résultant des décisions du tribunal d'instance ou d'arrêts de la Cour de cassation, et sauf aussi les radiations
+des électeurs décédés ainsi que celles opérées en cours d'année par la commission administrative en application de l'article
+L. 40.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-747 1969-07-24 art. 8 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°90-1163 du 24 décembre 1990 - art. 6 (Ab)
+	  - Décret n°2002-825 du 3 mai 2002 - art. 4 (V)
+	  - Décret n°2002-888 du 8 mai 2002 - art. 4 (V)
+	  - Décret n°2003-95 du 4 février 2003 - art. 4 (V)
+	  - Décret n°2003-389 du 24 avril 2003 - art. 4 (V)
+	  - Décret n°2004-375 du 29 avril 2004 - art. 3 (V)
+	  - Décret n°2004-396 du 6 mai 2004 - art. 6 (V)
+	  - Décret n°2004-399 du 7 mai 2004 - art. 3 (V)
+	  - Décret n°2004-409 du 13 mai 2004 - art. 3 (V)
+	  - Décret n°2004-1092 du 15 octobre 2004 - art. 3 (V)
+	  - Décret n°2004-1353 du 4 décembre 2004 - art. 3 (V)
+	  - Décret n°2005-46 du 24 janvier 2005 - art. 3 (V)
+	  - Décret n°2005-823 du 21 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-857 du 28 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-858 du 28 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-969 du 10 août 2005 - art. 3 (V)
+	  - Décret n°2005-970 du 10 août 2005 - art. 3 (V)
+	  - Décret n°2009-456 du 23 avril 2009 - art. 5 (V)
+	  - Décret n°2010-119 du 4 février 2010 - art. 5 (V)
+	  - Décret n°2012-256 du 22 février 2012 - art. 2 (V)
+	  - Décret n°2012-558 du 25 avril 2012 - art. 3 (V)
+	  - Décret n°2014-379 du 29 mars 2014 - art. 5 (V)
+	  - Décret n°2014-1233 du 23 octobre 2014 - art. 2 (V)
+	  - Décret n°2014-1424 du 28 novembre 2014 - art. 2 (V)
+	  - Décret n°2014-1506 du 15 décembre 2014 - art. 2 (V)
+	  - Décret n°2015-882 du 17 juillet 2015 - art. 1 (V)
+	  - Décret n°2015-898 du 22 juillet 2015 - art. 2 (V)
+	  - Décret n°2015-939 du 30 juillet 2015 - art. 2 (V)
+	  - Décret n°2016-62 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-63 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-64 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-262 du 4 mars 2016 - art. 2 (V)
+	  - Décret n°2016-419 du 8 avril 2016 - art. 2 (V)
+	  - Décret n°2016-420 du 8 avril 2016 - art. 2 (V)
+	  - Décret n°2016-477 du 18 avril 2016 - art. 2 (V)
+	  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L40 (V)
+
+
+##### Section 3 : Inscription en dehors des périodes de révision
+
+###### Article R*17-2
+
+Pour le calcul du délai prévu à l'article L.31, le dixième jour est inclus.
+
+Les délais prévus aux articles L.32 à L.35 sont calculés dans les conditions fixées à l'article R.17-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°69-747 1969-07-24 art. 10 JORF 26 juillet 1969
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°2005-237 du 17 mars 2005 - art. 6 (V)
+	  - Décret n°2007-227 du 21 février 2007 - art. 2 (V)
+	  - Décret n°2007-589 du 24 avril 2007 - art. 4 (V)
+	  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1751 du 14 décembre 2007 - art. 2 (V)
+	  - Décret n°2008-153 du 20 février 2008 - art. 2 (V)
+	  - Décret n°2008-307 du 3 avril 2008 - art. 2 (V)
+	  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
+	  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
+	  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
+	  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
+	  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
+	  - Décret n°2012-256 du 22 février 2012 - art. 2 (V)
+	  - Décret n°2012-558 du 25 avril 2012 - art. 3 (V)
+	  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
+	  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
+	  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
+	  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L31 (V)
+	  - Code électoral - art. L32 (V)
+	  - Code électoral - art. L33 (V)
+	  - Code électoral - art. L34 (V)
+	  - Code électoral - art. L35 (V)
+	  - Code électoral - art. R*17-1 (M)
+
+
+##### Section 4 : Contrôle des inscriptions sur les listes électorales
+
+###### Article R*18
+
+Lorsqu'un électeur est décédé, son nom est rayé de la liste électorale aussitôt que l'acte de décès a été dressé. Tout
+électeur de la commune a le droit d'exiger cette radiation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°86-157 du 5 février 1986 - art. 4 (V)
+	  - Décret n°87-376 du 11 juin 1987 - art. 12 (V)
+	  - Décret n°91-777 du 13 août 1991 - art. 3 (V)
+	  - Décret n°92-771 du 6 août 1992 - art. 6 (V)
+	  - Décret n°93-207 du 17 février 1993 - art. 4 (V)
+	  - Décret n°93-216 du 5 février 1993 - art. 4 (V)
+	  - Décret n°93-815 du 11 mai 1993 - art. 4 (V)
+	  - Décret n°94-127 du 11 février 1994 - art. 4 (V)
+	  - Décret n°94-367 du 10 mai 1994 - art. 4 (V)
+	  - Décret n°94-368 du 11 mai 1994 - art. 3 (V)
+	  - Décret n°94-930 du 27 octobre 1994 - art. 3 (P)
+	  - Décret n°94-1072 du 14 décembre 1994 - art. 4 (P)
+	  - Décret n°95-740 du 16 mai 1995 - art. 3 (P)
+	  - Décret n°95-741 du 16 mai 1995 - art. 3 (P)
+	  - Décret n°95-742 du 16 mai 1995 - art. 3 (P)
+	  - Décret n°95-743 du 19 mai 1995 - art. 3 (P)
+	  - Décret n°95-744 du 19 mai 1995 - art. 3 (P)
+	  - Décret n°95-745 du 19 mai 1995 - art. 3 (P)
+	  - Décret n°95-761 du 7 juin 1995 - art. 3 (P)
+	  - Décret n°95-894 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-895 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-896 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-897 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-898 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-899 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-900 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-917 du 16 août 1995 - art. 3 (V)
+	  - Décret n°95-918 du 16 août 1995 - art. 3 (V)
+	  - Décret n°95-919 du 16 août 1995 - art. 3 (V)
+	  - Décret n°95-920 du 16 août 1995 - art. 3 (V)
+	  - Décret n°95-996 du 6 septembre 1995 - art. 3 (V)
+	  - Décret n°95-1146 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1147 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1148 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1149 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1150 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1151 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1152 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1199 du 9 novembre 1995 - art. 3 (V)
+	  - Décret n°96-42 du 18 janvier 1996 - art. 3 (V)
+	  - Décret n°96-99 du 5 février 1996 - art. 3 (V)
+	  - Décret n°96-136 du 21 février 1996 - art. 3 (V)
+	  - Décret n°96-298 du 9 avril 1996 - art. 3 (V)
+	  - Décret n°96-699 du 9 août 1996 - art. 4 (V)
+	  - Décret n°96-794 du 12 septembre 1996 - art. 3 (V)
+	  - Décret n°97-26 du 15 janvier 1997 - art. 4 (V)
+	  - Décret n°97-944 du 16 octobre 1997 - art. 4 (V)
+	  - Décret n°97-945 du 16 octobre 1997 - art. 4 (V)
+	  - Décret n°97-946 du 16 octobre 1997 - art. 5 (V)
+	  - Décret du 5 novembre 1997 - art. 3 (V)
+	  - Décret n°97-1173 du 23 décembre 1997 - art. 3 (V)
+	  - Décret n°98-213 du 24 mars 1998 - art. 3 (V)
+	  - Décret n°98-337 du 6 mai 1998 - art. 3 (V)
+	  - Décret n°98-338 du 6 mai 1998 - art. 3 (V)
+	  - Décret n°98-717 du 18 août 1998 - art. 3 (V)
+	  - Décret n°98-948 du 23 octobre 1998 - art. 3 (V)
+	  - Décret n°99-42 du 21 janvier 1999 - art. 5 (V)
+	  - Décret n°2000-255 du 20 mars 2000 - art. 13 (Ab)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 6 (V)
+	  - Décret n°2000-974 du 5 octobre 2000 - art. 4 (V)
+	  - Décret n°2001-169 du 22 février 2001 - art. 3 (V)
+	  - Décret n°2002-825 du 3 mai 2002 - art. 4 (V)
+	  - Décret n°2002-888 du 8 mai 2002 - art. 4 (V)
+	  - Décret n°2002-1328 du 5 novembre 2002 - art. 3 (V)
+	  - Décret n°2002-1329 du 5 novembre 2002 - art. 3 (V)
+	  - Décret n°2002-1505 du 23 décembre 2002 - art. 3 (V)
+	  - Décret n°2002-1506 du 23 décembre 2002 - art. 3 (V)
+	  - Décret n°2003-95 du 4 février 2003 - art. 4 (V)
+	  - Décret n°2003-114 du 14 février 2003 - art. 3 (V)
+	  - Décret n°2003-115 du 14 février 2003 - art. 3 (V)
+	  - Décret n°2003-389 du 24 avril 2003 - art. 4 (V)
+	  - Décret n°2003-498 du 13 juin 2003 - art. 4 (V)
+	  - Décret n°2003-995 du 20 octobre 2003 - art. 5 (V)
+	  - Décret n°2003-996 du 20 octobre 2003 - art. 5 (V)
+	  - Décret n°2004-375 du 29 avril 2004 - art. 3 (V)
+	  - Décret n°2004-396 du 6 mai 2004 - art. 6 (V)
+	  - Décret n°2004-399 du 7 mai 2004 - art. 3 (V)
+	  - Décret n°2004-409 du 13 mai 2004 - art. 3 (V)
+	  - Décret n°2004-1036 du 1 octobre 2004 - art. 3 (V)
+	  - Décret n°2004-1092 du 15 octobre 2004 - art. 3 (V)
+	  - Décret n°2004-1353 du 4 décembre 2004 - art. 3 (V)
+	  - Décret n°2005-46 du 24 janvier 2005 - art. 3 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 6 (V)
+	  - Décret n°2005-823 du 21 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-857 du 28 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-858 du 28 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-969 du 10 août 2005 - art. 3 (V)
+	  - Décret n°2005-970 du 10 août 2005 - art. 3 (V)
+	  - Décret n°2005-1689 du 26 décembre 2005 - art. 4 (V)
+	  - Décret n°2007-227 du 21 février 2007 - art. 2 (V)
+	  - Décret n°2007-589 du 24 avril 2007 - art. 4 (V)
+	  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
+	  - Décret n°2008-307 du 3 avril 2008 - art. 2 (V)
+	  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
+	  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
+	  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
+	  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
+	  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
+	  - Décret n°2012-256 du 22 février 2012 - art. 2 (V)
+	  - Décret n°2012-558 du 25 avril 2012 - art. 3 (V)
+	  - Décret n°2014-379 du 29 mars 2014 - art. 5 (V)
+	  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
+	  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
+	  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
+	  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
+	  - Décret n°2014-1233 du 23 octobre 2014 - art. 2 (V)
+	  - Décret n°2014-1424 du 28 novembre 2014 - art. 2 (V)
+	  - Décret n°2014-1506 du 15 décembre 2014 - art. 2 (V)
+	  - Décret n°2015-898 du 22 juillet 2015 - art. 2 (V)
+	  - Décret n°2015-939 du 30 juillet 2015 - art. 2 (V)
+	  - Décret n°2016-62 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-63 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-64 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-262 du 4 mars 2016 - art. 2 (V)
+	  - Décret n°2016-419 du 8 avril 2016 - art. 2 (V)
+	  - Décret n°2016-420 du 8 avril 2016 - art. 2 (V)
+	  - Décret n°2016-477 du 18 avril 2016 - art. 2 (V)
+	  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
+	  - Code électoral - art. R219 (V)
+
+
+###### Article R*19
+
+Toute demande de changement d'inscription doit être accompagnée d'une demande en radiation de la liste du domicile électoral
+antérieur pour être transmise au maire dudit domicile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°87-376 du 11 juin 1987 - art. 12 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code électoral - art. R219 (V)
+
+
+###### Article R*20
+
+Les maires sont tenus d'envoyer, dans un délai de huit jours, à l'Institut national de la statistique et des études
+économiques un avis de toute inscription ou radiation effectuée sur la liste électorale de leur commune.
+
+Mention de la date et du lieu de naissance de chaque électeur doit figurer sur les avis d'inscription ou de radiation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°72-1250 1972-12-29 art. 1 JORF 31 décembre 1972
+	  - Décret n°75-605 1975-07-08 art. 2 JORF 11 juillet 1975
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°77-123 du 10 février 1977 - art. 7 (Ab)
+	  - Décret n°79-160 du 28 février 1979 - art. 2-3 (V)
+	  - Décret n°79-160 du 28 février 1979 - art. 20 (V)
+	  - Code électoral - art. R117-2 (M)
+	  - Code électoral - art. R176 (Ab)
+	  - Code électoral - art. R204 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
+
+
+###### Article R*21
+
+En cas de changement de commune d'inscription, le maire de la nouvelle commune d'inscription envoie à l'institut national de
+la statistique et des études économiques un avis d'inscription assorti d'une demande de radiation. L'institut avise le maire
+de la commune de départ de cette demande de radiation ; le maire informe l'institut de la suite donnée à la demande de
+radiation.
+
+En cas de décès d'un électeur survenu hors de sa commune d'inscription, d'une condamnation comportant privation des droits
+électoraux ou de toute autre cause devant entraîner radiation d'office des listes électorales, l'institut national de la
+statistique et des études économiques communique au maire de la commune d'inscription les informations lui permettant de
+procéder ou de faire procéder par la commission administrative à la radiation.
+
+Le préfet est informé, par l'institut national de la statistique et des études économiques, des radiations effectuées sur les
+listes électorales des communes de son département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°75-605 1975-07-08 art. 3 JORF 11 juillet 1975
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°68-880 1968-10-10 art. 1 JORF 11 octobre 1968
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
+
+
+###### Article R*22
+
+Lorsqu'il constate une irrégularité renouvelée ou prolongée dans les inscriptions et notamment en cas d'inscription sur deux
+ou plusieurs listes, d'inscription sous un faux état civil, de maintien d'inscription sur une liste électorale d'un électeur
+décédé ou privé de ses droits électoraux, l'Institut national de la statistique et des études économiques en avise la
+préfecture compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°77-123 du 10 février 1977 - art. 7 (Ab)
+	  - Code électoral - art. R176 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
+
+
+##### Section 6 : Cartes électorales
+
+###### Article R*23
+
+Une carte électorale valable pour toutes les consultations politiques au suffrage direct est délivrée à tout électeur inscrit
+sur la liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R*24
+
+Dans chaque commune les cartes électorales sont établies par le maire.
+
+Elles doivent obligatoirement comporter :
+
+- les mentions figurant sur la liste électorale en application des articles L. 18 et L. 19;
+
+- le numéro d'inscription de l'électeur sur la liste;
+
+- l'indication du lieu du bureau de vote où doit se présenter l'électeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 2-4 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code électoral - art. R117-3 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L18 (M)
+	  - Code électoral - art. L19 (V)
+
+
+#### Chapitre V : Propagande
+
+###### Article R26
+
+Chaque candidat ou liste de candidats ne peut faire apposer durant la période électorale et, le cas échéant, avant chaque
+tour de scrutin, sur les emplacements déterminés à l'article L. 51 :
+
+1° plus de deux affiches électorales dont les dimensions ne peuvent dépasser celles du format 594 x 841 mm;
+
+2° plus de deux affiches format 297 x 420 mm, pour annoncer la tenue des réunions électorales. Ces deux affiches ne doivent
+contenir que la date et le lieu de la réunion, le nom des orateurs inscrits pour y prendre la parole et le nom du candidat ou
+le titre de la liste.
+
+Aucune affiche, à l'exception des affiches annonçant exclusivement la tenue des réunions électorales, ne peut être apposée
+après le jeudi qui précède le premier tour de scrutin et, s'il y a lieu, le vendredi qui précède le deuxième tour.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 14 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 13 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 6 (Ab)
+	  - Décret n°87-376 du 11 juin 1987 - art. 15 (V)
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 39 (Ab)
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 7 (Ab)
+	  - Décret n°98-733 du 20 août 1998 - art. 23 (V)
+	  - Décret n°2000-471 du 31 mai 2000 - art. 13 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 17 (M)
+	  - Décret n°2003-1049 du 4 novembre 2003 - art. 9 (V)
+	  - Décret n°2003-1050 du 4 novembre 2003 - art. 9 (V)
+	  - Décret n°2003-1051 du 4 novembre 2003 - art. 9 (V)
+	  - Décret n°2003-1052 du 4 novembre 2003 - art. 9 (V)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 25 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 3 (V)
+	  - Code du patrimoine - art. R132-2 (VD)
+	  - Code du patrimoine. - art. R132-45 (Ab)
+	  - Code électoral - art. R125 (M)
+	  - Code électoral - art. R174 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°72-1251 1972-12-29 art. 1 JORF 31 décembre 1972
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L51 (M)
+
+
+###### Article R27
+
+Les affiches ayant un but ou un caractère électoral qui comprennent une combinaison des trois couleurs : bleu, blanc et rouge
+sont interdites.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 14 (Ab)
+	  - Décret n°70-158 du 26 février 1970 - art. 4 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 13 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 6 (Ab)
+	  - Décret n°88-945 du 5 octobre 1988 - art. 4 (V)
+	  - Décret n°92-772 du 6 août 1992 - art. 4 (V)
+	  - Décret n°2000-667 du 18 juillet 2000 - art. 4 (V)
+	  - Décret n°2000-731 du 1 août 2000 - art. 1 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 17 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 18 (V)
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Décret n°2005-238 du 17 mars 2005 - art. 4 (V)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 6 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 20 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 8 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 20 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 8 (V)
+	  - Arrêté du 24 juin 2010 - art. 2 (Ab)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 3 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 7 (V)
+	  - Arrêté du 17 juin 2014 (V)
+	  - Arrêté du 11 juillet 2016 - art. 1
+	  - Arrêté du 22 juillet 2016 - art. 2 (V)
+	  - Code de commerce - art. A713-22 (V)
+	  - Code de commerce - art. A713-7 (V)
+	  - Code de la sécurité sociale. - art. R611-75 (Ab)
+	  - Code électoral - art. R156 (V)
+	  - Code électoral - art. R38 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R95 (V)
+
+
+###### Article R28
+
+Le nombre maximum des emplacements réservés à l'affichage électoral en application de l'article L. 51, en dehors de ceux
+établis à côté des bureaux de vote, est fixé à :
+
+- cinq dans les communes ayant 500 électeurs et moins ;
+
+- dix dans les autres, plus un par 3 000 électeurs ou fraction supérieure à 2 000 dans les communes ayant plus de 5 000
+électeurs.
+
+La demande d'attribution d'emplacements doit être formulée au plus tard le mardi précédant le premier scrutin, et le mercredi
+précédant le second tour dans le cas d'une candidature nouvelle posée entre les deux tours de scrutin.
+
+Pour les élections où la candidature est subordonnée au dépôt obligatoire d'une déclaration, les demandes d'emplacements sont
+adressées à l'autorité administrative chargée d'enregistrer les déclarations et les emplacements sont attribués dans l'ordre
+d'enregistrement des candidatures.
+
+Dans les autres cas, les demandes sont envoyées au maire et les emplacements sont attribués dans l'ordre d'arrivée des
+demandes à la mairie.
+
+Tout candidat qui laissera sans emploi l'emplacement d'affichage qu'il aura demandé sera tenu, sauf en cas de force majeure
+reconnue par le tribunal, de rembourser à la commune les frais d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 13 (Ab)
+	  - Décret n°79-160 du 28 février 1979 - art. 6 (Ab)
+	  - Décret n°82-498 du 11 juin 1982 - art. 5 (V)
+	  - Décret n°83-17 du 13 janvier 1983 - art. 5 (V)
+	  - Décret n°86-170 du 6 février 1986 - art. 13 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 6 (Ab)
+	  - Décret n°92-772 du 6 août 1992 - art. 4 (V)
+	  - Décret n°2000-667 du 18 juillet 2000 - art. 4 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 16 (V)
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Décret n°2005-238 du 17 mars 2005 - art. 4 (V)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+	  - Code électoral - art. R184 (V)
+	  - Code électoral - art. R192 (V)
+	  - Code électoral - art. R233 (V)
+	  - Code électoral - art. R255 (V)
+	  - Code électoral - art. R268 (V)
+	  - Code électoral - art. R352 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L51 (M)
+
+
+###### Article R29
+
+Chaque candidat ou liste de candidats ne peut faire imprimer ou envoyer aux électeurs, avant chaque tour de scrutin, qu'une
+seule circulaire sur un feuillet de format 210 x 297 mm.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 15 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 36 (M)
+	  - Décret n°86-170 du 6 février 1986 - art. 13 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 6 (Ab)
+	  - Décret n°87-376 du 11 juin 1987 - art. 15 (V)
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 7 (Ab)
+	  - Décret n°98-733 du 20 août 1998 - art. 23 (V)
+	  - Décret n°2000-471 du 31 mai 2000 - art. 13 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 18 (V)
+	  - Décret n°2003-1049 du 4 novembre 2003 - art. 9 (V)
+	  - Décret n°2003-1050 du 4 novembre 2003 - art. 9 (V)
+	  - Décret n°2003-1051 du 4 novembre 2003 - art. 9 (V)
+	  - Décret n°2003-1052 du 4 novembre 2003 - art. 9 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 5 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 20 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 8 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 20 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 8 (V)
+	  - Arrêté du 17 juin 2014 (V)
+	  - Arrêté du 11 juillet 2016 - art. 1
+	  - Code de commerce - art. A713-22 (V)
+	  - Code de commerce - art. A713-7 (V)
+	  - Code électoral - art. R174-1 (V)
+	  - Code électoral - art. R38 (VD)
+	  - Code électoral - art. R39 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°72-1251 1972-12-29 art. 2 JORF 31 décembre 1972
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R31
+
+Dans les circonscriptions électorales où leur création est prescrite, les commissions de propagande sont instituées par
+arrêté préfectoral et installées dès l'ouverture de la campagne électorale.
+
+Une même commission peut être commune à deux ou plusieurs circonscriptions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°86-170 du 6 février 1986 - art. 13 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 6 (Ab)
+	  - Code électoral - art. R185 (Ab)
+	  - Code électoral - art. R193 (Ab)
+
+
+###### Article R32
+
+Chaque commission comprend :
+
+- un magistrat désigné par le premier président de la cour d'appel, président;
+
+- un fonctionnaire désigné par le préfet;
+
+- un fonctionnaire désigné par le trésorier-payeur général;
+
+- un fonctionnaire désigné par le directeur départemental des postes et télécommunications.
+
+Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
+
+Les candidats ou leurs mandataires ou les mandataires des listes peuvent participer, avec voix consultative, aux travaux de
+la commission concernant leur circonscription.
+
+Le président fixe, en accord avec le préfet, le lieu où la commission doit siéger.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 16 (Ab)
+	  - Décret n°77-123 du 10 février 1977 - art. 3 (Ab)
+	  - Décret n°80-213 du 11 mars 1980 - art. 4 (Ab)
+	  - Décret n°80-213 du 11 mars 1980 - art. 8 (Ab)
+	  - Décret n°82-498 du 11 juin 1982 - art. 4 (V)
+	  - Décret n°83-17 du 13 janvier 1983 - art. 4 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 19 (V)
+	  - Code électoral - art. D288 (Ab)
+	  - Code électoral - art. D314 (Ab)
+	  - Code électoral - art. D330 (Ab)
+	  - Code électoral - art. D346 (Ab)
+	  - Code électoral - art. R*179-2 (Ab)
+	  - Code électoral - art. R176-3 (Ab)
+	  - Code électoral - art. R194 (Ab)
+	  - Code électoral - art. R195 (V)
+	  - Code électoral - art. R237 (VD)
+	  - Code électoral - art. R287 (VT)
+	  - Code électoral - art. R306 (VD)
+	  - Code électoral - art. R321 (VD)
+	  - Code électoral - art. R336 (VD)
+	  - Code électoral - art. R354 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R33
+
+Le président et les membres de la commission perçoivent, lorsque la commission siège en dehors du lieu de leur résidence, des
+frais de déplacement calculés selon le barème prévu par la réglementation en vigueur.
+
+Il est alloué au secrétaire de la commission, pour chaque tour de scrutin, s'il y a lieu, une indemnité dont le taux est fixé
+par arrêté interministériel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 16 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R423-1 (M)
+	  - Code du travail - art. D1441-100 (Ab)
+	  - Code du travail - art. R513-52 (VT)
+	  - Code électoral - art. R174 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R35
+
+En vue de l'acheminement des documents électoraux prévus à l'article précédent, les services publics départementaux prêteront
+leur concours à l'administration des postes et télécommunications, sur la réquisition de l'autorité préfectorale, agissant à
+la demande du directeur départemental des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 16 (Ab)
+	  - Décret n°80-213 du 11 mars 1980 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 7 () JORF 13 octobre 2006
+
+
+###### Article R36
+
+Tout engagement de dépenses décidé par la commission de propagande en vue d'assurer les tâches qui lui sont confiées doit
+être préalablement approuvé par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R174 (V)
+	  - Code électoral - art. R174-1 (V)
+
+
+###### Article R37
+
+Les candidats ou listes désirant obtenir le concours de la commission de propagande doivent en formuler la demande auprès de
+son président pour chaque tour de scrutin et avant une date limite fixée par arrêté préfectoral; ils doivent, en même temps,
+justifier :
+
+- du versement du cautionnement exigé par les textes en vigueur;
+
+- de l'enregistrement à la préfecture d'une déclaration de candidature comportant les nom, prénoms, date et lieu de
+naissance, domicile et profession du ou des candidats et, le cas échéant, le titre de la liste présentée.
+
+Les justifications susvisées peuvent être produites par un mandataire du candidat ou de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 6 () JORF 13 octobre 2006
+
+	**Cité par**:
+
+	  - Code électoral - art. R109-1 (M)
+
+
+###### Article R39
+
+Seuls les frais d'impression et d'affichage mis expressément par la loi à la charge de l'État et réellement exposés par les
+candidats ou les listes leur sont remboursés, sur présentation des pièces justificatives.
+
+Toutefois, la somme remboursée ne peut excéder celle résultant de l'application, au nombre des imprimés admis à
+remboursement, des tarifs d'impression et d'affichage fixés par arrêté préfectoral, après avis d'une commission
+départementale comprenant :
+
+- le préfet ou son représentant, président;
+
+- le trésorier-payeur général ou son représentant;
+
+- le directeur départemental des enquêtes économiques ou son représentant;
+
+- un représentant des organisations professionnelles des imprimeurs ou des afficheurs désigné par le préfet selon la nature
+des tarifs à établir.
+
+La commission peut proposer des tarifs différents dans les diverses circonscriptions du département.
+
+En ce qui concerne l'impression, les tarifs ne peuvent s'appliquer qu'à des documents présentant les caractéristiques
+suivantes et excluant tous travaux de photogravure (clichés, simili ou trait) :
+
+- affiches de format 594 x 841 mm et affiches de format 297 x 420 mm : papier frictionné couleur, 64 grammes au mètre carré,
+afnor II/1, sans travaux de repiquage;
+
+- circulaires et bulletins de vote : papier blanc satiné, 56 grammes au mètre carré, afnor II/1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 18 (Ab)
+	  - Décret n°79-160 du 28 février 1979 - art. 6-1 (V)
+	  - Décret n°80-213 du 11 mars 1980 - art. 5 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 36 (M)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 20 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 21 (V)
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 13 (V)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 15 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 4 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 4 (V)
+	  - Arrêté du 24 juin 2010 - art. 3 (Ab)
+	  - Arrêté du 26 mars 2012 - art. 1 (V)
+	  - Arrêté du 17 juin 2014 (V)
+	  - Arrêté du 22 juillet 2016 - art. 3 (V)
+	  - Code de commerce. - art. A713-22 (V)
+	  - Code de commerce. - art. A713-7 (V)
+	  - Code du travail - art. D1441-97 (Ab)
+	  - Code du travail - art. R513-50 (VT)
+	  - Code rural - art. R492-23 (V)
+	  - Code rural - art. R511-42 (V)
+	  - Code électoral - art. R160 (V)
+	  - Code électoral - art. R174 (V)
+	  - Code électoral - art. R174-3 (V)
+	  - Code électoral - art. R38 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°72-1251 1972-12-29 art. 4 JORF 31 décembre 1972
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L167 (V)
+
+
+#### Chapitre VI : Vote
+
+##### Section 1 : Opérations préparatoires au scrutin
+
+###### Article R40
+
+Les électeurs se réunissent au chef-lieu de la commune. Toutefois, ils peuvent être répartis par arrêté du commissaire de la
+République en autant de bureaux de vote que l'exigent les circonstances locales et le nombre des électeurs; le siège de ces
+bureaux peut être fixé hors du chef-lieu de la commune.
+
+L'arrêté instituant les bureaux de vote ou reconduisant l'institution antérieure de ces bureaux doit être notifié au maire
+avant le 31 août de chaque année; tels qu'ils sont ainsi fixés, les bureaux de vote servent pour toute élection ayant lieu
+dans la période comprise entre la prochaine clôture des listes électorales et la clôture suivante. Les lieux de vote sont
+désignés dans l'arrêté préfectoral instituant les bureaux.
+
+Toutefois, cet arrêté peut être modifié pour tenir compte des changements intervenus dans les limites des circonscriptions
+administratives.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 20 (Ab)
+	  - Décret n°80-213 du 11 mars 1980 - art. 6 (Ab)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 22 (M)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 19 (V)
+	  - Décret n°2015-882 du 17 juillet 2015 (V)
+	  - Décret n°2015-882 du 17 juillet 2015 - art. 3 (V)
+	  - CODE DES COMMUNES. - art. R*173-11 (Ab)
+	  - CODE DES COMMUNES. - art. R*173-9 (Ab)
+	  - Code général des collectivités territoriales - art. D6232-5 (V)
+	  - Code général des collectivités territoriales - art. D6332-5 (V)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code général des collectivités territoriales - art. R2113-6 (V)
+	  - Code électoral - art. R112 (V)
+	  - Code électoral - art. R176-1 (V)
+	  - Code électoral - art. R176-1-4 (V)
+	  - Code électoral - art. R176-3-10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 4 JORF 26 juillet 1969
+	  - Décret n°72-1251 1972-12-29 art. 5 JORF 31 décembre 1972
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R41
+
+Le scrutin est ouvert à huit heures et clos le même jour à dix-huit heures.
+
+Toutefois, pour faciliter aux électeurs l'exercice de leur droit de vote, les préfets pourront prendre des arrêtés à l'effet
+d'avancer l'heure d'ouverture du scrutin dans certaines communes ou de retarder son heure de clôture dans l'ensemble d'une
+même circonscription électorale.
+
+Les arrêtés spéciaux pris par les préfets en vertu de l'alinéa précédent seront publiés et affichés, dans chaque commune
+intéressée, au plus tard le cinquième jour avant celui de la réunion des électeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°77-123 du 10 février 1977 - art. 3-1 (Ab)
+	  - Décret n°79-160 du 28 février 1979 - art. 11 (V)
+	  - Décret n°86-157 du 5 février 1986 - art. 5 (V)
+	  - Décret n°86-170 du 6 février 1986 - art. 14 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 7 (Ab)
+	  - Décret n°91-777 du 13 août 1991 - art. 4 (V)
+	  - Décret n°93-207 du 17 février 1993 - art. 5 (V)
+	  - Décret n°93-216 du 5 février 1993 - art. 5 (V)
+	  - Décret n°93-815 du 11 mai 1993 - art. 5 (V)
+	  - Décret n°94-127 du 11 février 1994 - art. 5 (V)
+	  - Décret n°94-367 du 10 mai 1994 - art. 5 (V)
+	  - Décret n°94-368 du 11 mai 1994 - art. 4 (V)
+	  - Décret n°94-930 du 27 octobre 1994 - art. 4 (P)
+	  - Décret n°94-1072 du 14 décembre 1994 - art. 5 (P)
+	  - Décret n°95-740 du 16 mai 1995 - art. 4 (P)
+	  - Décret n°95-741 du 16 mai 1995 - art. 4 (P)
+	  - Décret n°95-742 du 16 mai 1995 - art. 4 (P)
+	  - Décret n°95-743 du 19 mai 1995 - art. 4 (P)
+	  - Décret n°95-744 du 19 mai 1995 - art. 4 (P)
+	  - Décret n°95-745 du 19 mai 1995 - art. 4 (P)
+	  - Décret n°95-761 du 7 juin 1995 - art. 4 (P)
+	  - Décret n°95-894 du 9 août 1995 - art. 4 (V)
+	  - Décret n°95-895 du 9 août 1995 - art. 4 (V)
+	  - Décret n°95-896 du 9 août 1995 - art. 4 (V)
+	  - Décret n°95-897 du 9 août 1995 - art. 4 (V)
+	  - Décret n°95-898 du 9 août 1995 - art. 4 (V)
+	  - Décret n°95-899 du 9 août 1995 - art. 4 (V)
+	  - Décret n°95-900 du 9 août 1995 - art. 4 (V)
+	  - Décret n°95-917 du 16 août 1995 - art. 4 (V)
+	  - Décret n°95-918 du 16 août 1995 - art. 4 (V)
+	  - Décret n°95-919 du 16 août 1995 - art. 4 (V)
+	  - Décret n°95-920 du 16 août 1995 - art. 4 (V)
+	  - Décret n°95-996 du 6 septembre 1995 - art. 4 (V)
+	  - Décret n°95-1146 du 2 novembre 1995 - art. 4 (V)
+	  - Décret n°95-1147 du 2 novembre 1995 - art. 4 (V)
+	  - Décret n°95-1148 du 2 novembre 1995 - art. 4 (V)
+	  - Décret n°95-1149 du 2 novembre 1995 - art. 4 (V)
+	  - Décret n°95-1150 du 2 novembre 1995 - art. 4 (V)
+	  - Décret n°95-1151 du 2 novembre 1995 - art. 4 (V)
+	  - Décret n°95-1152 du 2 novembre 1995 - art. 4 (V)
+	  - Décret n°95-1199 du 9 novembre 1995 - art. 4 (V)
+	  - Décret n°96-42 du 18 janvier 1996 - art. 4 (V)
+	  - Décret n°96-99 du 5 février 1996 - art. 4 (V)
+	  - Décret n°96-136 du 21 février 1996 - art. 4 (V)
+	  - Décret n°96-298 du 9 avril 1996 - art. 4 (V)
+	  - Décret n°96-699 du 9 août 1996 - art. 5 (V)
+	  - Décret n°96-794 du 12 septembre 1996 - art. 4 (V)
+	  - Décret n°97-26 du 15 janvier 1997 - art. 5 (V)
+	  - Décret n°97-376 du 21 avril 1997 - art. 4 (V)
+	  - Décret n°97-944 du 16 octobre 1997 - art. 5 (V)
+	  - Décret n°97-945 du 16 octobre 1997 - art. 5 (V)
+	  - Décret n°97-946 du 16 octobre 1997 - art. 6 (V)
+	  - Décret du 5 novembre 1997 - art. 4 (V)
+	  - Décret n°97-1173 du 23 décembre 1997 - art. 4 (V)
+	  - Décret n°98-213 du 24 mars 1998 - art. 4 (V)
+	  - Décret n°98-337 du 6 mai 1998 - art. 4 (V)
+	  - Décret n°98-338 du 6 mai 1998 - art. 4 (V)
+	  - Décret n°98-717 du 18 août 1998 - art. 4 (V)
+	  - Décret n°98-948 du 23 octobre 1998 - art. 4 (V)
+	  - Décret n°99-42 du 21 janvier 1999 - art. 6 (V)
+	  - Décret n°2000-974 du 5 octobre 2000 - art. 6 (V)
+	  - Décret n°2001-169 du 22 février 2001 - art. 4 (V)
+	  - Décret n°2002-888 du 8 mai 2002 - art. 5 (V)
+	  - Décret n°2002-1328 du 5 novembre 2002 - art. 4 (V)
+	  - Décret n°2002-1329 du 5 novembre 2002 - art. 4 (V)
+	  - Décret n°2002-1505 du 23 décembre 2002 - art. 4 (V)
+	  - Décret n°2002-1506 du 23 décembre 2002 - art. 4 (V)
+	  - Décret n°2003-95 du 4 février 2003 - art. 5 (V)
+	  - Décret n°2003-114 du 14 février 2003 - art. 4 (V)
+	  - Décret n°2003-115 du 14 février 2003 - art. 4 (V)
+	  - Décret n°2003-389 du 24 avril 2003 - art. 5 (V)
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Décret n°2003-498 du 13 juin 2003 - art. 5 (V)
+	  - Décret n°2003-995 du 20 octobre 2003 - art. 6 (V)
+	  - Décret n°2003-996 du 20 octobre 2003 - art. 6 (V)
+	  - Décret n°2004-375 du 29 avril 2004 - art. 4 (V)
+	  - Décret n°2004-399 du 7 mai 2004 - art. 4 (V)
+	  - Décret n°2004-409 du 13 mai 2004 - art. 4 (V)
+	  - Décret n°2004-1036 du 1 octobre 2004 - art. 4 (V)
+	  - Décret n°2004-1092 du 15 octobre 2004 - art. 4 (V)
+	  - Décret n°2004-1353 du 4 décembre 2004 - art. 4 (V)
+	  - Décret n°2005-46 du 24 janvier 2005 - art. 4 (V)
+	  - Décret n°2005-823 du 21 juillet 2005 - art. 4 (V)
+	  - Décret n°2005-857 du 28 juillet 2005 - art. 4 (V)
+	  - Décret n°2005-858 du 28 juillet 2005 - art. 4 (V)
+	  - Décret n°2005-969 du 10 août 2005 - art. 4 (V)
+	  - Décret n°2005-970 du 10 août 2005 - art. 4 (V)
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 23 (Ab)
+	  - Décret n°2005-1689 du 26 décembre 2005 - art. 6 (V)
+	  - Décret n°2007-1468 du 15 octobre 2007 - art. 3 (V)
+	  - Décret n°2007-1469 du 15 octobre 2007 - art. 3 (V)
+	  - Décret n°2007-1523 du 25 octobre 2007 - art. 3 (V)
+	  - Décret n°2007-1751 du 14 décembre 2007 - art. 3 (V)
+	  - Décret n°2008-153 du 20 février 2008 - art. 3 (V)
+	  - Décret n°2008-307 du 3 avril 2008 - art. 3 (V)
+	  - Décret n°2008-329 du 9 avril 2008 - art. 3 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Décret n°2008-725 du 22 juillet 2008 - art. 3 (V)
+	  - Décret n°2008-1039 du 8 octobre 2008 - art. 3 (V)
+	  - Décret n°2008-1079 du 22 octobre 2008 - art. 3 (V)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1021 du 26 août 2009 - art. 3 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2010-119 du 4 février 2010 - art. 6 (V)
+	  - Décret n°2010-1399 du 12 novembre 2010 - art. 3 (V)
+	  - Décret n°2012-558 du 25 avril 2012 - art. 4 (V)
+	  - Décret n°2013-857 du 26 septembre 2013 - art. 4 (V)
+	  - Décret n°2014-396 du 11 avril 2014 - art. 3 (V)
+	  - Décret n°2014-458 du 7 mai 2014 - art. 3 (V)
+	  - Décret n°2014-468 du 9 mai 2014 - art. 3 (V)
+	  - Décret n°2014-491 du 16 mai 2014 - art. 3 (V)
+	  - Décret n°2014-1233 du 23 octobre 2014 - art. 3 (V)
+	  - Décret n°2014-1424 du 28 novembre 2014 - art. 3 (V)
+	  - Décret n°2014-1506 du 15 décembre 2014 - art. 3 (V)
+	  - Décret n°2015-898 du 22 juillet 2015 - art. 3 (V)
+	  - Décret n°2015-939 du 30 juillet 2015 - art. 3 (V)
+	  - Décret n°2016-62 du 29 janvier 2016 - art. 3 (V)
+	  - Décret n°2016-63 du 29 janvier 2016 - art. 3 (V)
+	  - Décret n°2016-64 du 29 janvier 2016 - art. 3 (V)
+	  - Décret n°2016-262 du 4 mars 2016 - art. 3 (V)
+	  - Décret n°2016-419 du 8 avril 2016 - art. 3 (V)
+	  - Décret n°2016-420 du 8 avril 2016 - art. 3 (V)
+	  - Décret n°2016-477 du 18 avril 2016 - art. 3 (V)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. D289 (Ab)
+	  - Code électoral - art. R*179-3 (Ab)
+	  - Code électoral - art. R176-4 (Ab)
+	  - Code électoral - art. R208 (V)
+	  - Code électoral - art. R288 (VT)
+	  - Code électoral - art. R305 (V)
+	  - Code électoral - art. R320 (V)
+	  - Code électoral - art. R335 (V)
+	  - Code électoral - art. R355 (V)
+
+
+##### Section 2 : Opérations de vote
+
+###### Article R42
+
+Chaque bureau de vote est composé d'un président, d'au moins quatre assesseurs et d'un secrétaire choisi par eux parmi les
+électeurs de la commune.
+
+Dans les délibérations du bureau, le secrétaire n'a qu'une voix consultative.
+
+Trois membres du bureau au moins doivent être présents pendant tout le cours des opérations électorales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 24 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 33 (Ab)
+	  - Décret n°92-770 du 6 août 1992 - art. 5 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - CODE DES COMMUNES. - art. R*125-6 (Ab)
+	  - CODE DES COMMUNES. - art. R112-10 (Ab)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code général des collectivités territoriales - art. R2113-6 (V)
+	  - Code électoral - art. R176-1 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°67-1 1967-01-01 art. 1 JORF 3 janvier 1967
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R43
+
+Les bureaux de vote sont présidés par les maire, adjoints et conseillers municipaux dans l'ordre du tableau. A leur défaut,
+les présidents sont désignés par le maire parmi les électeurs de la commune.
+
+A Paris, les bureaux de vote sont présidés, dans chaque arrondissement : le bureau centralisateur par le maire, les autres
+successivement par les adjoints dans l'ordre de leur nomination et, à défaut, par des électeurs de l'arrondissement désignés
+par le maire (1).
+
+En cas d'absence, le président est remplacé par un suppléant désigné par lui parmi les conseillers municipaux ou les
+électeurs de la commune, ou, à défaut, par le plus âgé des assesseurs. Le suppléant exerce toutes les attributions du
+président. Le secrétaire est remplacé en cas d'absence par l'assesseur le plus jeune.
+
+**Nota:**
+
+Alinéa implicitement abrogé par l'article 33 de la loi n° 75-1331 du 31 décembre 1975 portant réforme du régime administratif
+de la ville de Paris (J.O. 3 janvier 1976).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°67-1 1967-01-01 art. 2 JORF 3 janvier 1967
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 20 (V)
+	  - Décret n°85-904 du 27 août 1985 - art. 1 (Ab)
+	  - Décret n°2000-835 du 31 août 2000 - art. 3 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - CODE DES COMMUNES. - art. R*125-6 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R204 (V)
+
+
+###### Article R44
+
+Les assesseurs de chaque bureau sont désignés conformément aux dispositions ci-après :
+
+- chaque candidat ou chaque liste en présence a le droit de désigner un assesseur et un seul pris parmi les électeurs du
+département;
+
+- si, pour une cause quelconque, le nombre des assesseurs ainsi désignés est inférieur à quatre, les assesseurs manquants
+sont pris, jusqu'à concurrence de ce chiffre, parmi les conseillers municipaux dans l'ordre du tableau et, à défaut, parmi
+les électeurs présents sachant lire et écrire, selon l'ordre de priorité suivant :
+
+l'électeur le plus âgé s'il manque un assesseur, le plus âgé et le plus jeune s'il en manque deux, les deux plus âgés et le
+plus jeune s'il en manque trois, les deux plus âgés et les deux plus jeunes s'il en manque quatre;
+
+- à Paris, lorsque le nombre des assesseurs désignés par les candidats ou listes en présence est inférieur à quatre, les
+fonctions d'assesseurs sont remplies par les électeurs présents, sachant lire et écrire, désignés suivant l'ordre de priorité
+énoncé à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 26 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 34 (M)
+	  - Loi n°87-369 du 5 juin 1987 - art. 11 (V)
+	  - Décret n°92-770 du 6 août 1992 - art. 7 (V)
+	  - Décret n°2000-835 du 31 août 2000 - art. 3 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 27 (V)
+	  - CODE DES COMMUNES. - art. R*125-6 (Ab)
+	  - Code de l'environnement - art. R123-50 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R176-1 (V)
+	  - Code électoral - art. R61 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°67-1 1967-01-01 art. 3 JORF 3 janvier 1967
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R45
+
+Chaque candidat ou chaque liste en présence, habilité à désigner un assesseur, peut lui désigner un suppléant, pris parmi les
+électeurs du département.
+
+Chaque conseiller municipal assesseur peut également désigner son suppléant, soit parmi les autres conseillers municipaux,
+soit parmi les électeurs de la commune.
+
+Les suppléants exercent les prérogatives des assesseurs quand ils les remplacent. Ils ne peuvent toutefois les remplacer à
+l'ouverture et à la clôture du scrutin, ni pour le dépouillement ni pour la signature du procès-verbal des opérations
+électorales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°67-1 1967-01-01 art. 4 JORF 3 janvier 1967
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - CODE DES COMMUNES. - art. R*125-6 (Ab)
+	  - Code de l'environnement - art. R123-50 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. D112-10 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. R125-10 (V)
+	  - Code général des collectivités territoriales - art. D2113-7 (T)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code général des collectivités territoriales - art. R2142-8 (Ab)
+	  - Code électoral - art. R176-1 (V)
+
+
+###### Article R46
+
+Les nom, prénoms, date et lieu de naissance et adresse des assesseurs et de leurs suppléants désignés par les candidats ou
+listes en présence, ainsi que l'indication du bureau de vote auquel ils sont affectés, sont notifiés au maire, par pli
+recommandé, au plus tard l'avant-veille du scrutin à dix-huit heures.
+
+Le maire délivre un récépissé de cette déclaration. Ce récépissé servira de titre et garantira les droits attachés à la
+qualité d'assesseur ou de suppléant.
+
+Le maire notifie les nom, prénoms, date et lieu de naissance et adresse des assesseurs et suppléants ainsi désignés au
+président de chaque bureau de vote intéressé, avant la constitution desdits bureaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°67-1 1967-01-01 art. 5 JORF 3 janvier 1967
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code de l'environnement - art. R123-50 (V)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R176-1 (V)
+	  - Code électoral - art. R176-1-5 (V)
+	  - Code électoral - art. R47 (VD)
+
+
+###### Article R47
+
+Chaque liste de candidats ou, en cas de scrutin uninominal, chaque candidat a le droit d'exiger la présence en permanence
+dans chaque bureau de vote d'un délégué habilité à contrôler toutes les opérations électorales, dans les conditions fixées
+par l'alinéa 1 de l'article L. 67 ; un même délégué peut toutefois être habilité à exercer ce contrôle dans plusieurs bureaux
+de vote. 
+
+Les délégués titulaires et suppléants doivent justifier, par la présentation de leur carte électorale, qu'ils sont électeurs
+dans le département où se déroule le scrutin. 
+
+Les dispositions de l'article R. 46 concernant les assesseurs sont applicables aux délégués titulaires et suppléants visés au
+présent article.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°67-1 1967-01-01 art. 6 JORF 3 janvier 1967
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°70-158 du 26 février 1970 - art. 13 (Ab)
+	  - Décret n°79-807 du 18 septembre 1979 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 36 (Ab)
+	  - Arrêté du 20 juillet 2007 - art. 12 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code de la santé publique - art. R4031-35 (M)
+	  - Code de la sécurité sociale. - art. R611-48 (V)
+	  - Code de la sécurité sociale. - art. R611-84 (Ab)
+	  - Code de la sécurité sociale. - art. R633-45 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R176-1-6 (V)
+	  - Code électoral - art. R65 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L67 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L67 (V)
+	  - Code électoral - art. R46 (V)
+
+
+###### Article R48
+
+Toutes discussions et toutes délibérations des électeurs sont interdites à l'intérieur des bureaux de vote.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Décret n°70-158 du 26 février 1970 - art. 13 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°79-807 du 18 septembre 1979 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°92-770 du 6 août 1992 - art. 3 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code de la sécurité sociale. - art. R611-84 (Ab)
+	  - Code de la sécurité sociale. - art. R633-45 (Ab)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R49
+
+Le président du bureau de vote a seul la police de l'assemblée.
+
+Nulle force armée ne peut, sans son autorisation, être placée dans la salle de vote, ni aux abords de celle-ci.
+
+Les autorités civiles et les commandants militaires sont tenus de déférer à ses réquisitions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Décret n°70-158 du 26 février 1970 - art. 13 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°79-807 du 18 septembre 1979 - art. 31 (Ab)
+	  - Décret n°83-734 du 9 août 1983 - art. 9 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°92-770 du 6 août 1992 - art. 3 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 47 (V)
+	  - Code de commerce - art. R723-15 (V)
+	  - Code de la sécurité sociale. - art. R611-84 (Ab)
+	  - Code de la sécurité sociale. - art. R633-45 (Ab)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code rural - art. R492-26 (V)
+	  - Code électoral - art. R166 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R50
+
+Une réquisition effectuée par le président du bureau de vote ne peut avoir pour objet d'empêcher les candidats ou leurs
+délégués d'exercer le contrôle des opérations électorales ou toute prérogative prévue par les lois et règlements.
+
+En cas de désordre provoqué par un délégué ou de flagrant délit justifiant son arrestation, un délégué suppléant pourra le
+remplacer. En aucun cas les opérations de vote ne seront de ce fait interrompues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°92-771 du 6 août 1992 - art. 9 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 27 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 9 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 9 (V)
+	  - Code général des collectivités territoriales - art. D6232-5 (V)
+	  - Code général des collectivités territoriales - art. D6332-5 (V)
+
+
+###### Article R51
+
+Lorsqu'une réquisition a eu pour résultat l'expulsion soit d'un ou de plusieurs assesseurs, soit d'un ou plusieurs délégués,
+soit d'un ou plusieurs scrutateurs, le président est tenu, avant que la réquisition soit levée et que l'autorité requise ait
+quitté le bureau de vote, de procéder, sans délai et conformément aux textes législatifs et réglementaires en vigueur, au
+remplacement du ou des expulsés.
+
+L'autorité qui a procédé, sur réquisition du président du bureau de vote, à l'expulsion soit d'un ou de plusieurs assesseurs,
+soit d'un ou de plusieurs délégués, soit d'un ou de plusieurs scrutateurs, doit immédiatement après l'expulsion, adresser au
+procureur de la République et au préfet un procès-verbal rendant compte de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°92-771 du 6 août 1992 - art. 9 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 27 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 9 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 9 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code de l'environnement - art. R123-50 (V)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R166 (V)
+	  - Code électoral - art. R176-1-7 (V)
+
+
+###### Article R52
+
+Le bureau se prononce provisoirement sur les difficultés qui s'élèvent touchant les opérations électorales.
+
+Ses décisions sont motivées. Toutes les réclamations et décisions sont inscrites au procès-verbal, les pièces qui s'y
+rapportent y sont annexées après avoir été paraphées par les membres du bureau.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Décret n°70-158 du 26 février 1970 - art. 13 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°79-807 du 18 septembre 1979 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°92-770 du 6 août 1992 - art. 3 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code de commerce - art. R723-15 (V)
+	  - Code de l'environnement - art. R123-50 (V)
+	  - Code de la santé publique - art. R4031-35 (M)
+	  - Code de la sécurité sociale. - art. R611-48 (V)
+	  - Code de la sécurité sociale. - art. R611-84 (Ab)
+	  - Code de la sécurité sociale. - art. R633-45 (Ab)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R53
+
+Pendant toute la durée des opérations électorales une copie de la liste électorale certifiée par le maire et comportant les
+mentions prescrites par les articles L. 18 et L. 19, ainsi que le numéro d'ordre attribué à chaque électeur, reste déposée
+sur la table autour de laquelle siège le bureau.
+
+Cette copie constitue la liste d'émargement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-80 1989-02-08 art. 12-II
+
+	**Abrogé par**:
+
+	  - Décret n°89-80 du 8 février 1989 - art. 11 (V) JORF 10 février 1989
+
+	**Cité par**:
+
+	  - Décret n°89-80 du 8 février 1989 - art. 11 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L18 (M)
+	  - Code électoral - art. L19 (V)
+
+
+###### Article R54
+
+Les enveloppes électorales sont fournies par l'administration préfectorale. Elles sont opaques, non gommées, frappées du
+timbre à date des préfectures ou des sous-préfectures, et de type uniforme pour chaque collège électoral.
+
+Les enveloppes sont envoyées dans chaque mairie cinq jours au moins avant l'élection, en nombre égal à celui des électeurs
+inscrits. Toutefois, lorsque la circonscription électorale comprend des bureaux de vote dotés d'une machine à voter, le
+nombre des enveloppes est égal au nombre des électeurs inscrits dans les bureaux non pourvus d'une machine à voter, et à 20 %
+des électeurs inscrits dans les bureaux dotés d'une telle machine.
+
+Le maire doit immédiatement en accuser réception.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 52 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 37 (Ab)
+	  - Décret n°87-376 du 11 juin 1987 - art. 2 (V)
+	  - Décret n°92-770 du 6 août 1992 - art. 2 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 60 (V)
+	  - Arrêté du 19 septembre 1979 - art. 1 (V)
+	  - Code de commerce - art. R723-15 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code rural - art. R492-26 (V)
+	  - Code électoral - art. R176-1 (V)
+	  - Code électoral - art. R176-1-8 (V)
+	  - Code électoral - art. R56 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 39 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 5 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R55-1
+
+Pour les bureaux de vote dotés d'une machine à voter, le préfet transmet au maire, au plus tard l'avant-veille du scrutin, la
+liste des candidatures dans l'ordre de leur enregistrement ; cette liste est affichée dans chaque bureau de vote pendant
+toute la durée des opérations de vote.
+
+Avant le scrutin, le maire fait procéder à la mise en place sur la machine du dispositif indiquant les candidatures, telles
+qu'elles figurent sur la liste adressée par le préfet. Les membres du bureau de vote vérifient, avant l'ouverture du scrutin,
+que les candidatures mentionnées sur la machine à voter correspondent à celles indiquées dans ladite liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°69-746 1969-07-24 art. 7 JORF 26 juillet 1969
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Code de l'environnement - art. R123-50 (V)
+
+
+###### Article R57
+
+Le président du bureau de vote constate publiquement et mentionne au procès-verbal l'heure d'ouverture et l'heure de clôture
+du scrutin.
+
+Aucun vote ne peut être reçu après la déclaration de clôture. Toutefois, un électeur ayant pénétré dans la salle de vote
+avant l'heure de clôture du scrutin peut déposer son bulletin dans l'urne ou faire enregistrer son suffrage par la machine à
+voter après cette heure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°92-770 du 6 août 1992 - art. 3 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R176-1 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 9 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R58
+
+Le droit de prendre part au vote de tout électeur inscrit sur la liste électorale s'exerce sous réserve du contrôle de son
+identité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (M)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R176-1-10 (V)
+	  - Code électoral - art. R176-1-11 (V)
+
+
+###### Article R59
+
+Nul ne peut être admis à voter s'il n'est inscrit sur la liste électorale. 
+
+Toutefois, sous réserve du contrôle de leur identité, seront admis au vote par application de l'article L. 62, quoique non
+inscrits, les électeurs porteurs d'une décision du juge du tribunal d'instance ordonnant leur inscription, ou d'un arrêt de
+la Cour de cassation annulant un jugement qui aurait prononcé leur radiation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code de commerce - art. R723-15 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L62 (V)
+
+
+###### Article R60
+
+Les électeurs des communes de plus de 5 000 habitants doivent présenter au président du bureau, au moment du vote, en même
+temps que la carte électorale ou l'attestation d'inscription en tenant lieu, un titre d'identité; la liste des titres
+valables est établie par arrêté.
+
+Les assesseurs sont associés, sur leur demande, à ce contrôle d'identité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1976-02-16 (JO 1976-02-22)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°72-1252 1972-12-29 art. 1 JORF 31 décembre 1972
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 20 (V)
+	  - Décret n°87-797 du 25 septembre 1987 - art. 10 (V)
+	  - Arrêté du 24 septembre 1998 - art. 1 (Ab)
+	  - Arrêté du 31 mars 1999 - art. 1 (Ab)
+	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
+	  - Décret n°99-436 du 28 mai 1999 - art. 4 (Ab)
+	  - Arrêté du 16 octobre 2006 - art. 1 (V)
+	  - Arrêté du 28 février 2007 - art. 1 (V)
+	  - Arrêté du 19 décembre 2007 - art. 1 (Ab)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Arrêté du 2 décembre 2011 - art. 1 (Ab)
+	  - Arrêté du 12 décembre 2013 - art. 1 (V)
+	  - Arrêté du 12 décembre 2013 - art. 8 (V)
+	  - Décret n°2014-352 du 19 mars 2014 (V)
+	  - Arrêté du 28 mai 2014 (V)
+	  - Arrêté du 28 mai 2014 - art. 2 (V)
+	  - Décret n°2014-1488 du 11 décembre 2014 - art. (V)
+	  - Décret n°2014-1488 du 11 décembre 2014 - art. 3 (V)
+	  - Code de commerce. - art. R927-4 (T)
+	  - Code général des collectivités territoriales - art. D6232-5 (V)
+	  - Code général des collectivités territoriales - art. D6332-5 (V)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. D291 (V)
+	  - Code électoral - art. R166 (V)
+	  - Code électoral - art. R176-1 (V)
+	  - Code électoral - art. R176-6 (Ab)
+	  - Code électoral - art. R204 (V)
+	  - Code électoral - art. R290 (VT)
+
+
+###### Article R61
+
+Le vote de chaque électeur est constaté par la signature ou le paraphe de l'un des membres du bureau, apposé sur la liste
+d'émargement en face du nom du votant.
+
+En même temps, la carte électorale ou l'attestation d'inscription en tenant lieu est estampillée au moyen d'un timbre portant
+la date du scrutin.
+
+Les opérations visées au présent article sont réparties entre les assesseurs désignés par les candidats ou listes en présence
+conformément aux dispositions de l'article R. 44. En cas de désaccord sur cette répartition, il est procédé par voie de
+tirage au sort à la désignation du ou des assesseurs chargés respectivement desdites opérations. Il est également procédé à
+un tirage au sort si aucun des assesseurs n'a été désigné par les candidats ou listes en présence, ou si le nombre des
+assesseurs ainsi désignés est insuffisant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°72-1252 1972-12-29 art. 2 JORF 31 décembre 1972
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°92-770 du 6 août 1992 - art. 3 (V)
+	  - Décret n°92-771 du 6 août 1992 - art. 9 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 27 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 9 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 9 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 39 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R176-1 (V)
+	  - Code électoral - art. R176-1-12 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R44 (M)
+
+
+###### Article R62
+
+Dès la clôture du scrutin la liste d'émargement est signée par tous les membres du bureau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (M)
+	  - Décret n°92-770 du 6 août 1992 - art. 3 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 20 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 33 (V)
+	  - Code de commerce - art. R723-15 (V)
+	  - Code électoral - art. R177 (V)
+
+
+###### Article R63
+
+Le dépouillement suit immédiatement la clôture du scrutin. Il doit être conduit sans désemparer jusqu'à son achèvement
+complet.
+
+Les tables sur lesquelles s'effectue le dépouillement sont disposées de telle sorte que les électeurs puissent circuler
+autour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (M)
+	  - Décret n°88-944 du 5 octobre 1988 - art. 11 (V)
+	  - Décret n°92-770 du 6 août 1992 - art. 13 (V)
+	  - Décret n°92-771 du 6 août 1992 - art. 11 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 31 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 11 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 11 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 8 (V)
+	  - Code de commerce - art. R723-15 (V)
+	  - Code général des collectivités territoriales - art. D6232-7 (V)
+	  - Code général des collectivités territoriales - art. D6332-7 (V)
+	  - Code général des collectivités territoriales - art. R1112-8 (V)
+
+
+###### Article R64
+
+Le dépouillement est opéré par des scrutateurs sous la surveillance des membres du bureau.
+
+A défaut de scrutateurs en nombre suffisant, le bureau de vote peut y participer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (M)
+	  - Décret n°92-770 du 6 août 1992 - art. 13 (V)
+	  - Décret n°92-771 du 6 août 1992 - art. 11 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 31 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 11 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 11 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 8 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-8 (V)
+
+
+###### Article R65
+
+Les scrutateurs désignés, en application de l'article L. 65, par les candidats ou mandataires des listes en présence ou par
+les délégués prévus à l'article R. 47, sont pris parmi les électeurs présents; les délégués peuvent être également
+scrutateurs. Leurs nom, prénoms et date de naissance sont communiqués au président du bureau au moins une heure avant la
+clôture du scrutin. Ces scrutateurs sont affectés aux tables de dépouillement de telle sorte que la lecture des bulletins et
+l'inscription des suffrages soient, autant que possible, contrôlées simultanément par un scrutateur de chaque candidat ou de
+chaque liste. Le président répartit entre les diverses tables les enveloppes à vérifier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (M)
+	  - Décret n°92-770 du 6 août 1992 - art. 13 (V)
+	  - Décret n°92-771 du 6 août 1992 - art. 11 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 32 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 11 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 11 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 8 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-8 (V)
+	  - Code électoral - art. R176-1-8 (V)
+	  - Code électoral - art. R56 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L65 (M)
+	  - Code électoral - art. R47 (V)
+
+
+###### Article R66
+
+Une fois les opérations de lecture et de pointage terminées, les scrutateurs remettent au bureau les feuilles de pointage,
+signées par eux, en même temps que les bulletins dont la validité leur a paru douteuse ou a été contestée par des électeurs
+ou par les délégués des candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°70-158 du 26 février 1970 - art. 13 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°79-807 du 18 septembre 1979 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (M)
+	  - Arrêté du 29 avril 1996 - art. 13 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 31 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 8 (V)
+	  - Code de la santé publique - art. R4031-35 (M)
+	  - Code de la sécurité sociale. - art. R611-48 (V)
+	  - Code de la sécurité sociale. - art. R611-84 (Ab)
+	  - Code de la sécurité sociale. - art. R633-45 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R67
+
+Immédiatement après la fin du dépouillement, le procès-verbal des opérations électorales est rédigé par le secrétaire dans la
+salle de vote, en présence des électeurs.
+
+Il est établi en deux exemplaires, signés de tous les membres du bureau.
+
+Les délégués des candidats ou listes en présence sont obligatoirement invités à contresigner ces deux exemplaires.
+
+Dès l'établissement du procès-verbal, le résultat est proclamé en public par le président du bureau et affiché en toutes
+lettres par ses soins dans la salle de vote.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Décret n°70-158 du 26 février 1970 - art. 13 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°79-807 du 18 septembre 1979 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 42 (Ab)
+	  - Décret n°92-771 du 6 août 1992 - art. 15 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 31 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 15 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 15 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 39 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 34 (V)
+	  - Code de l'environnement - art. R123-50 (V)
+	  - Code de la sécurité sociale. - art. R611-48 (V)
+	  - Code de la sécurité sociale. - art. R611-84 (Ab)
+	  - Code de la sécurité sociale. - art. R633-45 (Ab)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code électoral - art. R177-3 (V)
+	  - Code électoral - art. R69 (VD)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R68
+
+Les pièces fournies à l'appui des réclamations et des décisions prises par le bureau, ainsi que les feuilles de pointage sont
+jointes au procès-verbal.
+
+Les bulletins autres que ceux qui, en application de la législation en vigueur, doivent être annexés au procès-verbal sont
+détruits en présence des électeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°70-158 du 26 février 1970 - art. 13 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 22 (Ab)
+	  - Décret n°79-807 du 18 septembre 1979 - art. 31 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 26 (Ab)
+	  - Décret n°92-771 du 6 août 1992 - art. 15 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 31 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 15 (V)
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 24 (Ab)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 15 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 39 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 8 (V)
+	  - Code de commerce - art. R713-19 (V)
+	  - Code de commerce - art. R713-53 (V)
+	  - Code de commerce - art. R723-15 (V)
+	  - Code de la sécurité sociale. - art. R611-48 (V)
+	  - Code de la sécurité sociale. - art. R611-84 (Ab)
+	  - Code de la sécurité sociale. - art. R633-45 (Ab)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-8 (V)
+	  - Code rural - art. R511-48 (V)
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R69
+
+Lorsque les collèges électoraux sont répartis en plusieurs bureaux de vote, le dépouillement du scrutin est d'abord opéré par
+bureau et les procès-verbaux sont établis conformément aux dispositions de l'article R. 67. Le président et les membres de
+chaque bureau remettent ensuite les deux exemplaires du procès-verbal et les annexes au premier bureau, constitué en bureau
+centralisateur et chargé d'opérer le recensement général des votes en présence des présidents des autres bureaux.
+
+Les résultats arrêtés par chaque bureau et les pièces annexes ne peuvent en aucun cas être modifiés.
+
+Un procès-verbal récapitulatif est établi en double exemplaire en présence des électeurs. Il est signé par les membres du
+premier bureau, les délégués des candidats ou des listes dûment habilités auprès de celui-ci et les présidents des autres
+bureaux.
+
+Le résultat est alors proclamé publiquement par le président du premier bureau et affiché aussitôt par les soins du maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°92-771 du 6 août 1992 - art. 15 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 37 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 15 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 15 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 21 (V)
+	  - Code électoral - art. R177-2 (V)
+	  - Code électoral - art. R177-3 (V)
+	  - Code électoral - art. R177-4 (V)
+	  - Code électoral - art. R177-7 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R67 (V)
+
+
+###### Article R70
+
+Un exemplaire de tous les procès-verbaux établis dans les différents bureaux de vote de la commune reste déposé au
+secrétariat de la mairie.
+
+Communication doit en être donnée à tout électeur requérant jusqu'à l'expiration des délais prescrits pour l'exercice des
+recours contre l'élection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°68-47 du 13 janvier 1968 - art. 23 (Ab)
+	  - Décret n°92-771 du 6 août 1992 - art. 15 (V)
+	  - Décret n°92-1043 du 28 septembre 1992 - art. 48 (Ab)
+	  - Décret n°98-733 du 20 août 1998 - art. 31 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 15 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 15 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 8 (V)
+	  - Code général des collectivités territoriales - art. D6232-7 (V)
+	  - Code général des collectivités territoriales - art. D6332-7 (V)
+	  - Code général des collectivités territoriales - art. R1112-8 (V)
+	  - Code électoral - art. R177-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R71
+
+Dès la fin des opérations électorales, les délégués des candidats ou des listes en présence ont priorité pour consulter les
+listes d'émargement déposées dans les conditions fixées à l'article L 68.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 11 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°2014-290 du 4 mars 2014 - art. 20 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 33 (V)
+	  - Code électoral - art. R177 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L68 (VT)
+
+
+##### Section 3 : Vote par procuration
+
+###### Article R*74
+
+La validité de la procuration est, au choix du mandant, limitée à un seul scrutin ou fixée à une année, à compter de la date
+d'établissement. Toutefois, pour les Français et Françaises établis hors de France, la procuration peut également être
+établie pour la durée de l'immatriculation au consulat avec une validité maximum de trois ans.
+
+Mention expresse de la validité choisie est portée sur la procuration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°72-1250 1972-12-29 art. 2 JORF 31 décembre 1972
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (V)
+	  - Code de commerce. - art. R927-4 (T)
+	  - Code électoral - art. R176-2 (V)
+	  - Code électoral - art. R176-2-2 (V)
+
+
+###### Article R*75
+
+Chaque procuration est établie sur un imprimé comportant deux volets et un talon. Les deux volets sont signés par le mandant.
+
+L'autorité devant laquelle est dressée la procuration, après avoir porté mention de celle-ci sur un registre spécial ouvert
+par ses soins, indique sur les volets et le talon ses nom et qualité et les revêt de son visa et de son cachet.
+
+Elle remet ensuite le talon au mandant et adresse, par la poste, en recommandé, sans enveloppe, le premier volet au maire de
+la commune sur la liste électorale de laquelle le mandant est inscrit et le second volet au mandataire.
+
+Toutefois, lorsque la procuration est établie hors de France ces envois sont faits, soit par pli recommandé sous enveloppe,
+soit par la valise diplomatique ou consulaire. Dans ce dernier cas, les services centraux du ministère des affaires
+étrangères réexpédient par la poste, en recommandé sans enveloppe, le premier volet au maire de la commune sur la liste
+électorale de laquelle le mandant est inscrit et le second volet au mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-128 1976-02-06 art. 4 JORF 8 février 1976
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°83-678 du 26 juillet 1983 - art. 47 (Ab)
+	  - Décret n°83-679 du 26 juillet 1983 - art. 6 (Ab)
+	  - Décret n°83-734 du 9 août 1983 - art. 17 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Décret n°94-148 du 16 février 1994 - art. 38 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (V)
+	  - Décret n°2006-379 du 27 mars 2006 - art. 27 (V)
+	  - Décret n°2006-379 du 27 mars 2006 - art. 43 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 55 (V)
+	  - Code de commerce. - art. R927-4 (T)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+	  - Code de la sécurité sociale. - art. R214-40 (P)
+	  - Code de la sécurité sociale. - art. R214-60 (P)
+	  - Code électoral - art. R176-2-3 (V)
+	  - Code électoral - art. R78 (V)
+
+
+###### Article R*76
+
+A la réception du volet d'une procuration établie avec la validité d'une année le maire inscrit sur la liste électorale, à
+l'encre rouge, à côté du nom du mandant, celui du mandataire. Mention de la procuration est également portée à l'encre rouge
+à côté du nom du mandataire.
+
+Les indications portées à l'encre rouge sur la liste électorale sont reproduites sur la liste d'émargement.
+
+A la réception d'une procuration valable pour un seul scrutin, le maire porte ces indications sur la liste d'émargement
+seulement.
+
+Le volet de la procuration est annexé à la liste électorale. Si la procuration est valable pour un seul scrutin, ce volet est
+conservé en mairie pendant quatre mois après expiration des délais prescrits pour l'exercice des recours contre l'élection.
+
+Si la procuration est valable pour une durée d'un an ou plus, le volet est conservé pendant la durée de la validité, sans
+préjudice des dispositions de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-128 1976-02-06 art. 5 JORF 8 février 1976
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°83-679 du 26 juillet 1983 - art. 6 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (V)
+	  - Code de commerce. - art. R927-4 (T)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+	  - Code de la sécurité sociale. - art. R214-60 (P)
+	  - Code électoral - art. R176-2 (V)
+	  - Code électoral - art. R176-2-4 (V)
+
+
+###### Article R*77
+
+Dans le cas prévu au deuxième alinéa de l'article L. 73, le maire avise le ou les mandants dont la procuration n'est pas
+valable, par l'intermédiaire des autorités devant lesquelles l'acte de procuration a été dressé. Il avise également le ou les
+mandataires de la nullité de la ou des procurations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-128 1976-02-06 art. 7 JORF 8 février 1976
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (V)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+
+	**Cite**:
+
+	  - Code électoral - art. L73 (M)
+
+
+###### Article R*78
+
+La résiliation est effectuée devant les mêmes autorités et dans les mêmes formes que la procuration.
+
+Ces autorités en informent le maire et le mandataire, dans les conditions prévues à l'article R. 75.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-128 1976-02-06 art. 8 JORF 8 février 1976
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°83-679 du 26 juillet 1983 - art. 6 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
+	  - Code de commerce. - art. R927-4 (T)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+	  - Code de la sécurité sociale. - art. R214-60 (P)
+
+	**Cite**:
+
+	  - Code électoral - art. R*75 (M)
+
+
+###### Article R*79
+
+Le mandant habilité à voter personnellement en application de l'article L. 76 est tenu de justifier de son identité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-128 1976-02-06 art. 9 JORF 8 février 1976
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (V)
+	  - Code de commerce. - art. R927-4 (T)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+
+	**Cite**:
+
+	  - Code électoral - art. L76 (V)
+
+
+###### Article R*80
+
+En cas de décès ou de privation des droits civiques du mandataire, le maire en avise l'autorité qui a reçu la procuration et
+cette dernière informe le mandant de l'annulation de plein droit de la procuration.
+
+Le retrait du volet remis au mandataire est assuré par les soins du maire. Il en est de même en cas de décès ou de privation
+des droits civiques du mandant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (V)
+	  - CODE DES COMMUNES. - art. R*125-6 (Ab)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+	  - Code électoral - art. R176-2-4 (V)
+
+
+##### Section 5  : Commissions de contrôle des opérations de vote
+
+###### Article R*93-1
+
+Les commissions prévues à l'article L. 85-1 sont instituées par arrêté préfectoral et installées quatre jours au moins avant
+la date du premier tour de scrutin.
+
+L'arrêté fixe le siège de chaque commission ainsi que sa compétence territoriale.
+
+Il est notifié aux maires intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°73-166 1973-02-20 art. 1 JORF 21 fevrier 1973
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°82-498 du 11 juin 1982 - art. 11 (V)
+	  - Décret n°83-17 du 13 janvier 1983 - art. 11 (V)
+	  - Décret n°85-904 du 27 août 1985 - art. 1 (Ab)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L85-1 (M)
+
+
+###### Article R*93-2
+
+Chaque commission comprend :
+
+- un magistrat désigné par le premier président de la cour d'appel, président;
+
+- un membre désigné par la même autorité parmi les magistrats, anciens magistrats ou auxiliaires de justice du département;
+
+- un fonctionnaire désigné par le préfet.
+
+Ce dernier assure le secrétariat de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°73-166 1973-02-20 art. 1 JORF 21 fevrier 1973
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-17 du 13 janvier 1983 - art. 11 (V)
+	  - Décret n°85-904 du 27 août 1985 - art. 1 (Ab)
+
+
+###### Article R*93-3
+
+Dans le cas où la commission décide de s'adjoindre des délégués dans les conditions prévues à l'alinéa 3 de l'article L.
+85-1, ceux-ci sont munis d'un titre, signé du président de la commission, qui garantit les droits attachés à leur qualité et
+fixe leur mission.
+
+La commission peut désigner un ou plusieurs délégués par bureau de vote. Un même délégué peut être habilité à exercer sa
+mission dans plusieurs bureaux de vote.
+
+Le président de la commission notifie la désignation des délégués aux présidents des bureaux de vote intéressés avant
+l'ouverture du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°73-166 1973-02-20 art. 1 JORF 21 fevrier 1973
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-17 du 13 janvier 1983 - art. 11 (V)
+	  - Décret n°85-904 du 27 août 1985 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. L85-1 (M)
+
+
+#### Chapitre VIII : Contentieux
+
+###### Article R97
+
+Les recours en matière électorale devant les tribunaux administratifs et le Conseil d'Etat sont jugés sans l'intervention
+obligatoire d'un avocat au Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°2014-290 du 4 mars 2014 - art. 23 (V)
+
+
+### Titre II : Dispositions spéciales à l'élection des députés
+
+#### Chapitre V : Déclarations de candidatures
+
+###### Article R*98
+
+Les déclarations de candidatures à l'Assemblée nationale sont reçues dans les préfectures, pour le premier tour de scrutin, à
+partir du quatrième lundi qui précède le jour de l'élection et, pour le second tour, à partir de la proclamation des
+résultats par la commission de recensement général des votes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°86-170 du 6 février 1986 - art. 1 (Ab)
+	  - Code électoral - art. D292 (V)
+	  - Code électoral - art. D316 (Ab)
+	  - Code électoral - art. D332 (V)
+	  - Code électoral - art. D348 (Ab)
+	  - Code électoral - art. R*109 (M)
+	  - Code électoral - art. R173 (V)
+	  - Code électoral - art. R173-1 (V)
+	  - Code électoral - art. R177 (Ab)
+	  - Code électoral - art. R214 (V)
+	  - Code électoral - art. R291 (VT)
+	  - Code électoral - art. R308 (V)
+	  - Code électoral - art. R323 (V)
+	  - Code électoral - art. R338 (V)
+
+
+###### Article R*99
+
+Les déclarations de candidatures peuvent être rédigées sur papier libre. Elles doivent comporter, outre les mentions prévues
+aux articles L. 154 et L. 155, l'indication des listes électorales sur lesquelles le candidat et son remplaçant sont
+inscrits.
+
+S'ils sont naturalisés Français, les candidats et leurs remplaçants doivent préciser la date à laquelle ils ont acquis la
+nationalité française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 3 (V)
+	  - Décret n°86-170 du 6 février 1986 - art. 11 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 4 (Ab)
+	  - Code électoral - art. R109-2 (M)
+	  - Code électoral - art. R128-2 (V)
+	  - Code électoral - art. R149 (V)
+	  - Code électoral - art. R173-2 (V)
+	  - Code électoral - art. R183 (V)
+	  - Code électoral - art. R191 (V)
+	  - Code électoral - art. R351 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L154 (M)
+	  - Code électoral - art. L155 (M)
+
+
+###### Article R*100
+
+Les retraits de candidatures ne peuvent être présentés que jusqu'à la date limite fixée pour le dépôt des candidatures. Ils
+sont enregistrés comme les déclarations elles-mêmes.
+
+Le cautionnement est remboursé au candidat qui se retire, sur présentation de l'accusé de réception de la déclaration de
+retrait délivré par le commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R*101
+
+La liste des candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants est
+arrêtée et publiée par le commissaire de la République.
+
+La publication doit intervenir, pour le premier tour, deux semaines avant la date du scrutin et, pour le second tour, le
+lendemain de la date limite fixée pour le dépôt des candidatures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R*104 (M)
+	  - Code électoral - art. R173-4 (V)
+
+
+###### Article R*102
+
+Lorsqu'il y a lieu à application de l'article L. 163 la désignation du remplaçant doit être notifiée au commissaire de la
+République au plus tard le cinquième jour précédant le scrutin.
+
+Il est immédiatement procédé, dès enregistrement, à la publication du changement intervenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L163 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R173-5 (V)
+
+
+#### Chapitre VI : Propagande
+
+###### Article R*103
+
+Tout bulletin de vote imprimé à l'occasion de l'élection des députés à l'Assemblée nationale doit comporter le nom du
+candidat et l'une des mentions suivantes : " remplaçant éventuel ", " remplaçant", " suppléant éventuel " ou personne appelée
+à remplacer le candidat élu dans les cas de vacance prévus par l'article L.O 176.
+
+Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que celui du candidat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°77-123 du 10 février 1977 - art. 6 (Ab)
+	  - Arrêté du 27 avril 2012 - art. 1 (V)
+	  - Code électoral - art. R*104 (M)
+	  - Code électoral - art. R*105 (Ab)
+	  - Code électoral - art. R174 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. LO176 (M)
+
+
+#### Chapitre VIII : Opérations de vote
+
+###### Article R*104
+
+Les bulletins manuscrits sont valables s'ils comportent le nom du candidat pour lequel l'électeur désire voter, suivi du nom
+du remplaçant désigné par ce candidat sur sa déclaration de candidature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°77-123 du 10 février 1977 - art. 6 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 9 (M)
+	  - Code électoral - art. R177 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. R66-1 (V)
+
+
+###### Article R*105
+
+N'entrent pas en compte dans le résultat du dépouillement :
+
+- les bulletins imprimés ne répondant pas aux conditions visées à l'article R.* 103;
+
+- les bulletins imprimés différents de ceux qui ont été produits par le candidat;
+
+- les bulletins établis au nom d'un candidat dont la déclaration de candidature n'a pas été définitivement enregistrée à la
+préfecture;
+
+- les bulletins manuscrits ne comportant qu'un seul nom, ou comportant l'indication d'un remplaçant autre que celui désigné
+par le candidat, ou sur lesquels le nom du remplaçant a été inscrit avant celui du candidat; les bulletins sur lesquels le
+nom du candidat ou du remplaçant a été rayé; les bulletins comportant un ou plusieurs noms autres que ceux du candidat et du
+remplaçant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R*103 (M)
+
+
+###### Article R*106
+
+Le deuxième exemplaire des procès-verbaux des opérations électorales de chaque commune est immédiatement scellé et transmis
+au commissaire de la République soit par porteur, soit sous pli postal recommandé pour être remis à la commission de
+recensement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°86-170 du 6 février 1986 - art. 1 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 8 (Ab)
+	  - Code électoral - art. R177 (V)
+	  - Code électoral - art. R177-2 (V)
+	  - Code électoral - art. R214 (V)
+
+
+###### Article R*107
+
+Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
+verbaux. Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il est opéré, pour chaque circonscription
+électorale, par une commission instituée par arrêté préfectoral.
+
+Cette commission comprend :
+
+- un magistrat désigné par le premier président de la cour d'appel, président;
+
+- deux juges désignés par la même autorité;
+
+- un conseiller général et un fonctionnaire de préfecture désignés par le commissaire de la République.
+
+Un représentant de chacun des candidats peut assister aux opérations de la commission.
+
+Une même commission peut effectuer le recensement des votes de deux ou de plusieurs circonscriptions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°77-123 du 10 février 1977 - art. 4 (Ab)
+	  - Décret n°79-160 du 28 février 1979 - art. 14 (V)
+	  - Décret n°86-170 du 6 février 1986 - art. 15 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 9 (M)
+	  - Code électoral - art. D293 (Ab)
+	  - Code électoral - art. R*179-5 (Ab)
+	  - Code électoral - art. R177-1 (Ab)
+	  - Code électoral - art. R199 (V)
+	  - Code électoral - art. R214 (V)
+	  - Code électoral - art. R292 (VT)
+	  - Code électoral - art. R357 (V)
+
+
+###### Article R*108
+
+L'opération du recensement général des votes est constatée par un procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°2014-290 du 4 mars 2014 - art. 20 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 33 (V)
+	  - Code électoral - art. R177 (V)
+
+
+###### Article R*109
+
+La commission, après avoir procédé, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux, proclame les
+résultats en public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°86-170 du 6 février 1986 - art. 19 (Ab)
+	  - Décret n°86-170 du 6 février 1986 - art. 9 (M)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 20 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 33 (V)
+	  - Code électoral - art. R*109 (M)
+
+
+### Titre III : Dispositions spéciales à l'élection des conseillers généraux
+
+#### Chapitre IV bis : Déclarations de candidatures
+
+###### Article R109-1
+
+La déclaration de candidature prescrite à l'article L. 210-1 est déposée et enregistrée à la préfecture, pour chaque tour de
+scrutin, avant la date limite fixée par arrêté préfectoral, et dans la forme prévue à l'article R. 37.
+
+Les retraits de candidatures ne peuvent être présentés que jusqu'à la date limite fixée pour le dépôt des candidatures : ils
+sont enregistrés comme les déclarations elles-mêmes.
+
+En cas de décès d'un candidat après la date limite prévue pour les déclarations de candidature, un nouveau délai est ouvert
+pour le dépôt éventuel de candidatures nouvelles; ce délai est clos le jeudi précédant le jour du scrutin, à 18 heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°69-746 1969-07-24 art. 12 JORF 26 juillet 1969
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L210-1 (M)
+	  - Code électoral - art. R37 (Ab)
+
+	**Cité par**:
+
+	  - Code électoral - art. R174-1 (Ab)
+
+
+#### Chapitre V : Propagande
+
+###### Article R110
+
+Il n'est pas exigé de nouveau cautionnement de la part des candidats se représentant au second tour de scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 13 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Abrogé par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
+	  - Code électoral - art. R*175 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L217 (V)
+
+
+#### Chapitre VII : Opérations de vote
+
+###### Article R111
+
+Les bulletins de vote ne peuvent comporter aucun nom propre autre que celui du ou des candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 13 () JORF 13 octobre 2006
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L217 (V)
+
+
+###### Article R112
+
+Immédiatement après le dépouillement du scrutin, les procès-verbaux de chaque commune, arrêtés et signés, sont portés au
+chef-lieu de canton par deux membres du bureau. Le recensement général des votes est fait par le bureau du chef-lieu, et le
+résultat est proclamé par son président, qui adresse tous les procès-verbaux et les pièces au sous-préfet ou, dans
+l'arrondissement chef-lieu du département, au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 14 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L221 (V)
+
+
+#### Chapitre IX : Contentieux
+
+###### Article R113
+
+Lorsque la protestation formée contre l'élection d'un membre au conseil général par un électeur du canton, par un candidat ou
+par un membre du conseil général a été consignée dans le procès-verbal des opérations électorales, conformément à l'article
+L. 222, ce procès-verbal doit être transmis dès sa réception par le préfet au greffe du tribunal administratif.
+
+Les protestations peuvent également être déposées audit greffe dans les cinq jours qui suivent l'élection.
+
+Le recours qui peut être formé par le préfet, conformément à l'article L. 222 pour inobservation des conditions et formalités
+légales, doit être déposé au greffe du tribunal administratif dans les quinze jours qui suivent l'élection.
+
+La notification est faite par les soins du président du tribunal administratif dans les trois jours de l'enregistrement de la
+protestation, au conseiller proclamé élu qui est avisé en même temps qu'il a cinq jours pour tout délai à l'effet de déposer
+sa défense au greffe du tribunal administratif et de faire connaître s'il entend ou non user du droit de présenter des
+observations orales.
+
+Il est donné récépissé, soit des protestations déposées au greffe, soit des défenses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L222 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R*175 (M)
+	  - Code électoral - art. R117-1-10 (VD)
+	  - Code électoral - art. R174 (Ab)
+
+
+###### Article R114
+
+Le tribunal administratif prononce sa décision dans le délai de deux mois à compter de l'enregistrement de la réclamation au
+greffe (bureau central ou greffe annexe); la décision est notifiée dans les huit jours à partir de sa date au commissaire de
+la République et aux parties intéressées, conformément aux dispositions de l'article 50 bis de la loi du 22 juillet 1889 et
+de l'article 25 du décret du 28 novembre 1953.
+
+En cas de renouvellement d'une série sortante, ce délai est porté à trois mois.
+
+S'il intervient une décision ordonnant une preuve, le tribunal administratif doit statuer définitivement dans le mois à
+partir de cette décision.
+
+Dans le cas prévu à l'article R. 115, le tribunal administratif doit statuer dans le délai d'un mois, à compter du jour où le
+jugement sur la question préjudicielle est devenu définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R115 (V)
+	  - Décret n°53-11 1953-11-28 ART. 25
+	  - Loi n°1889-07-22 ART. 50 BIS
+
+	**Cité par**:
+
+	  - Code électoral - art. R117 (V)
+
+
+###### Article R115
+
+Lorsqu'une réclamation implique la solution d'une question préjudicielle, le tribunal administratif renvoie les parties à se
+pourvoir devant les juges compétents, et la partie doit justifier de ses diligences dans le délai de quinzaine ; à défaut de
+cette justification, il sera passé outre, et la décision du tribunal administratif devra intervenir dans le mois à partir de
+l'expiration de ce délai de quinzaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R114 (V)
+
+
+###### Article R116
+
+Le recours au Conseil d'Etat contre la décision du tribunal administratif est ouvert, soit au préfet, soit aux parties
+intéressées. Il doit, à peine de nullité, être déposé au secrétariat de la sous-préfecture ou de la préfecture dans le délai
+d'un mois à partir de la notification de la décision.
+
+Les délais pour la constitution d'un avocat sont d'un mois pour chacune de ces opérations.
+
+Les dispositions contenues dans l'article 16 de la loi du 10 août 1871, modifiée par la loi du 31 juillet 1875, demeurent
+applicables à l'instruction et au jugement des recours portés devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Ordonnance n°45-1708 du 31 juillet 1945 - art. 47 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R*175 (M)
+
+	**Cite**:
+
+	  - Loi n°1871-08-10 ART. 16
+	  - Loi n°1875-07-31
+
+
+###### Article R117
+
+Faute d'avoir statué dans les délais fixés par les articles R. 114 et R. 115, le tribunal administratif est dessaisi. Le
+secrétaire greffier en informe le préfet et les parties intéressées en leur faisant connaître qu'ils ont un délai d'un mois
+pour se pourvoir devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R114 (VT)
+
+
+### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
+
+#### Chapitre Ier : Dispositions applicables à toutes les communes
+
+##### Section 6 : Opérations de vote
+
+###### Article R118
+
+Un exemplaire du procès-verbal est, après signature, aussitôt envoyé au sous-préfet, dans l'arrondissement du chef-lieu du
+département, au préfet ; le sous-préfet ou le préfet en constate la réception sur un registre et en donne récépissé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 35 (Ab)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. D6221-1 (V)
+	  - Code général des collectivités territoriales - art. D6321-1 (V)
+	  - Code général des collectivités territoriales - art. R2121-1 (V)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 15 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+##### Section 7 : Contentieux
+
+###### Article R119
+
+Les réclamations contre les opérations électorales doivent être consignées au procès-verbal, sinon être déposées, à peine de
+nullité, dans les cinq jours qui suivent le jour de l'élection, au secrétariat de la mairie, ou à la sous-préfecture, ou à la
+préfecture. Elles sont immédiatement adressées au préfet qui les fait enregistrer au greffe (bureau central ou greffe annexe)
+du tribunal administratif.
+
+Elles peuvent également être déposées au bureau central du greffe du tribunal administratif.
+
+Le recours formé par le préfet en application de l'article L. 248 doit être exercé dans le délai de quinzaine à dater de la
+réception du procès-verbal.
+
+Dans l'un et l'autre cas, la notification est faite, conformément aux dispositions de l'article 50 bis de la loi du 22
+juillet 1889 et de l'article 25 du décret du 28 novembre 1953, dans les trois jours de l'enregistrement de la protestation,
+aux conseillers dont l'élection est contestée qui sont avisés en même temps qu'ils ont cinq jours pour tout délai à l'effet
+de déposer leurs défenses au greffe (bureau central ou greffe annexe) du tribunal administratif et de faire connaître s'ils
+entendent ou non user du droit de présenter des observations orales.
+
+Il est donné récépissé, soit des protestations, soit des défenses déposées au greffe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral annexe, L248
+	  - Décret n°53-1169 1953-11-28 art. 25
+	  - Loi n°1889-07-22 art. 50 bis
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 34 (Ab)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 36 (M)
+	  - Décret n°92-1043 du 28 septembre 1992 - art. 49 (Ab)
+	  - Décret n°99-433 du 27 mai 1999 - art. 32 (V)
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 31 (Ab)
+	  - Code de commerce - art. R713-28 (V)
+	  - Code de commerce - art. R713-60 (V)
+	  - Code rural - art. R492-32 (V)
+	  - Code rural - art. R511-50 (V)
+	  - Code électoral - art. R265 (VD)
+
+
+###### Article R120
+
+Le tribunal administratif prononce sa décision dans le délai de deux mois à compter de l'enregistrement de la réclamation au
+greffe (bureau central ou greffe annexe) et la notification en est faite dans les huit jours à partir de sa date,
+conformément aux dispositions de l'article 50 bis de la loi du 22 juillet 1889 et de l'article 25 du décret du 28 novembre
+1953. En cas de renouvellement général, le délai est porté à trois mois.
+
+S'il intervient une décision ordonnant une preuve, le tribunal administratif doit statuer définitivement dans le mois à
+partir de cette décision.
+
+Les délais ci-dessus fixés ne commencent à courir, dans le cas prévu à l'article R. 122, que du jour où le jugement sur la
+question préjudicielle est devenu définitif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1169 1953-11-28 ART. 25
+	  - Code électoral - art. R122 (V)
+	  - Loi n°1889-07-22 ART. 50 BIS
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 34 (Ab)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 36 (M)
+	  - Décret n°99-433 du 27 mai 1999 - art. 32 (V)
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 31 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-58 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (M)
+	  - Code de la construction et de l'habitation. - art. R422-2-1 (M)
+	  - Code rural - art. R511-50 (V)
+
+
+###### Article R121
+
+Faute d'avoir statué dans les délais ci-dessus fixés, le tribunal administratif est dessaisi. Le secrétaire greffier en
+informe le préfet et les parties intéressées en leur faisant connaître qu'ils ont un délai d'un mois pour se pourvoir devant
+le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 34 (Ab)
+	  - Décret n°99-433 du 27 mai 1999 - art. 32 (V)
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 31 (Ab)
+	  - Code rural - art. R511-50 (V)
+
+
+###### Article R122
+
+Dans tous les cas où une réclamation, formée en vertu de l'article L. 248, implique la solution préjudicielle d'une question
+d'état, le tribunal administratif renvoie les parties à se pourvoir devant les juges compétents, et la partie doit justifier
+de ses diligences dans le délai de quinzaine ; à défaut de cette justification, il sera passé outre, et la décision du
+tribunal administratif devra intervenir dans le mois à partir de l'expiration de ce délai de quinzaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 34 (Ab)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 36 (M)
+	  - Décret n°99-433 du 27 mai 1999 - art. 32 (V)
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 31 (Ab)
+	  - Code de commerce. - art. R713-28 (V)
+	  - Code rural - art. R511-50 (V)
+	  - Code électoral - art. R120 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L248 (V)
+
+
+###### Article R123
+
+Le recours au Conseil d'Etat doit, à peine de nullité, être déposé à la sous-préfecture, ou à la préfecture, ou au Conseil
+d'Etat, dans le délai d'un mois qui court à l'encontre du préfet ou des parties intéressées, à partir de la notification qui
+leur est faite et qui comporte l'indication dudit délai.
+
+Le pourvoi est jugé comme affaire urgente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R112-15 (Ab)
+	  - Code des communes de la Nouvelle-Calédonie - art. D112-15 (V)
+	  - Code général des collectivités territoriales - art. D2113-12 (T)
+	  - Code général des collectivités territoriales - art. R2113-11 (V)
+
+
+#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants
+
+##### Section 1 : Mode de scrutin
+
+###### Article R124
+
+Le tableau des opérations de sectionnement électoral prévu à l'article L. 255 est publié dans les communes intéressées, avant
+la convocation des électeurs, par les soins du commissaire de la République qui détermine, d'après le chiffre des électeurs
+inscrits dans chaque section, le nombre des conseillers que la loi lui attribue.
+
+Le sectionnement adopté par le conseil général est représenté par un plan déposé à la préfecture et à la mairie de la commune
+intéressée. Tout électeur peut le consulter et en prendre copie.
+
+Avis de ce dernier dépôt est donné aux intéressés par voie d'affiche à la porte de la mairie.
+
+Les demandes et propositions, délibérations de conseils municipaux et procès-verbaux d'enquête sont remis au conseil général
+à l'ouverture de la session.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L255 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R127-1 (V)
+	  - Code électoral - art. R265 (M)
+	  - Code électoral - art. R268 (V)
+
+
+#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus
+
+##### Section 2 : Déclarations de candidatures
+
+###### Article R128
+
+Dans les communes où la déclaration de candidature pour l'élection des conseils municipaux est obligatoire, tout candidat
+inscrit sur une liste peut, en cas de contestation concernant l'enregistrement de cette liste, se pourvoir dans un délai de
+vingt-quatre heures devant le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt
+de la requête.
+
+Faute par le tribunal administratif d'avoir statué dans ce délai, la déclaration de candidature doit être enregistrée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°89-80 du 8 février 1989 - art. 11-1 (V)
+	  - Code électoral - art. R124 (VD)
+	  - Code électoral - art. R128-1 (V)
+	  - Code électoral - art. R266 (Ab)
+	  - Code électoral - art. R268 (Ab)
+
+
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille
+
+##### Section 2 : Opérations préparatoires au scrutin
+
+###### Article R129
+
+Le préfet peut diviser les secteurs en bureaux de vote.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R130
+
+L'arrêté du préfet convoquant les électeurs désigne pour chaque secteur la mairie de l'un des arrondissements de ce secteur
+où seront centralisés les resultats des opérations électorales.
+
+Cet arrêté est publié quinze jours au moins avant l'élection et ouvre la période de la campagne électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 16 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+## Livre II  : Election des sénateurs des départements
+
+### Titre III : Désignation des délégués des conseils municipaux
+
+###### Article R*131
+
+Les conseils municipaux sont convoqués par arrêté préfectoral trois jours francs au moins avant l'élection des délégués.
+
+L'arrêté préfectoral indique pour chaque commune le mode de scrutin ainsi que le nombre des délégués et suppléants à élire et
+le jour de la réunion.
+
+Cet arrêté est affiché à la porte de la mairie et notifié par écrit à tous les membres du conseil municipal par les soins du
+maire, qui précise le lieu de la réunion ainsi que son heure, si elle n'a pas été fixée par l'arrêté susvisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+###### Article R*132
+
+Nul ne peut être nommé délégué, suppléant ou remplaçant s'il ne jouit de ses droits civiques et politiques.
+
+Seuls peuvent être élus délégués ou suppléants d'un conseil municipal les conseillers municipaux et les électeurs inscrits
+sur la liste électorale de la commune intéressée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+###### Article R*133
+
+L'élection se fait sans débat au scrutin secret.
+
+Les deux membres présents les plus âgés et les deux membres présents les plus jeunes du conseil municipal forment le bureau
+électoral. La présidence appartient au maire et, à défaut du maire, aux adjoints et aux conseillers dans l'ordre du tableau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R137 (V)
+
+
+###### Article R*134
+
+Les personnes appelées à remplacer les députés ou conseillers généraux dans les conditions prévues par les articles L. 282 et
+L. 287 doivent être désignées préalablement à l'élection des délégués ou suppléants.
+
+Le maire désigne les remplaçants présentés par les députés ou les conseillers généraux en tant que délégués de droit du
+conseil municipal. Ces remplaçants doivent être inscrits sur la liste électorale de la commune intéressée.
+
+Le président du conseil général désigne les remplaçants présentés par les conseillers généraux qui sont en même temps
+députés.
+
+Les désignations faites en vertu du présent article sont de droit. Le maire ou le président du conseil général en accuse
+réception aux députés ou aux conseillers généraux remplacés et les notifie au commissaire de la République dans les vingt-
+quatre heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L282 (M)
+	  - Code électoral - art. L287 (M)
+
+
+###### Article R*135
+
+Dans les communes de moins de 9000 habitants les délégués et leurs suppléants sont élus au scrutin majoritaire à trois tours.
+
+Aux deux premiers tours, la majorité absolue est exigée ; au troisième tour, la majorité relative suffit. En cas d'égalité
+des voix, le plus âgé est élu.
+
+Aussitôt après l'élection des délégués, le conseil municipal procède à l'élection des suppléants selon les mêmes formes.
+
+Le vote par procuration est admis dans les conditions prévues par l'article L. 2121-20 du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2121-20 (V)
+
+
+###### Article R*136
+
+Dans les communes de 9000 habitants à 30999 habitants jusqu'à 30999 habitants), les conseils municipaux n'élisent que des
+suppléants.
+
+Dans les communes de 31000 habitants et plus, les conseils municipaux élisent des délégués supplémentaires et des suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
+
+
+###### Article R*137
+
+Tout conseiller ou groupe de conseillers municipaux peut présenter une liste de candidats comprenant un nombre de noms
+inférieur ou égal au total des délégués titulaires et suppléants à élire ; ces listes de candidats doivent être déposées sur
+le bureau du conseil municipal avant l'ouverture de la séance réservée à l'élection des délégués et suppléants.
+
+Les listes de candidats ainsi déposées doivent indiquer :
+
+1° Le titre de la liste présentée ;
+
+2° Les nom, prénoms, domicile, date et lieu de naissance ainsi que l'ordre de présentation des candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R271-1 (V)
+
+
+###### Article R*138
+
+L'élection des délégués et celle des suppléants ont lieu simultanément sur une même liste.
+
+Les conseillers ne peuvent voter que pour une seule liste sans adjonction ni radiation de noms et sans modification de
+l'ordre de présentation des candidats.
+
+Tout bulletin ne remplissant pas les conditions ci-dessus énoncées est nul.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+###### Article R*139
+
+Les députés et conseillers généraux peuvent voter par procuration, dans les conditions prévues par l'article L. 121-12 du
+code des communes : soit en cas de maladie récemment constatée, soit lorsqu'ils sont retenus hors de la commune par des
+obligations découlant de l'exercice de leur mandat ou de missions qui leur ont été confiées par le gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-12 (M)
+
+
+###### Article R*140
+
+Le bureau attribue successivement les mandats de délégués et de suppléants conformément aux dispositions des articles R. 141
+et R. 142 et procède à la proclamation des candidats élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R*141 (M)
+	  - Code électoral - art. R*142 (M)
+
+
+###### Article R*141
+
+Le bureau détermine le quotient électoral, successivement pour les délégués et les suppléants, en divisant le nombre des
+suffrages exprimés dans la commune par le nombre des mandats de délégués, puis par le nombre des mandats de suppléants.
+
+Il est attribué à chaque liste autant de mandats de délégués et de mandats de suppléants que le nombre de suffrages de la
+liste contient de fois le quotient électoral correspondant.
+
+Les mandats de délégués et ceux de suppléants, non répartis par application des dispositions précédentes, sont attribués
+successivement aux listes qui comportent les plus grands restes.
+
+Lorsqu'une liste a obtenu un nombre de voix inférieur au quotient, ce nombre de voix tient lieu de reste.
+
+Au cas où il n'y a plus à attribuer qu'un seul mandat de délégué ou de suppléant, si deux listes ont le même reste, le mandat
+revient à la liste qui a obtenu le plus grand nombre de suffrages.
+
+Si les deux listes en cause ont également recueilli le même nombre de suffrages, le mandat de délégué ou celui de suppléant
+est attribué au plus àgé des deux candidats susceptibles d'être proclamés élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R140 (V)
+	  - Code électoral - art. R142 (V)
+
+
+###### Article R*142
+
+Les candidats appartenant aux listes auxquelles des mandats de délégués et de suppléants ont été attribués par application de
+l'article R. 141 sont proclamés élus dans l'ordre de présentation :
+
+les premiers, délégués; les suivants, suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R*140 (M)
+
+	**Cite**:
+
+	  - Code électoral - art. R*141 (M)
+
+
+###### Article R*143
+
+Dans les communes où la désignation des délégués a lieu à la représentation proportionnelle, le procès-verbal doit indiquer
+la liste au titre de laquelle les délégués et suppléants ont été élus.
+
+Le procès-verbal mentionne l'acceptation ou le refus des délégués et suppléants présents, ainsi que les protestations qui
+auraient été élevées contre la régularité de l'élection par un ou plusieurs membres du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+###### Article R*144
+
+Dans chaque commune, les résultats du scrutin sont rendus publics dès l'achèvement du dépouillement.
+
+Les procès-verbaux sont arrêtés et signés et un exemplaire en est affiché à la porte de la mairie. Un exemplaire en est
+immédiatement transmis au préfet par le maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+###### Article R*145
+
+Les délégués ou suppléants qui n'étaient pas présents sont avisés de leur élection dans les vingt-quatre heures par les soins
+du maire. S'ils refusent ces fonctions, ils doivent en avertir le préfet dans le délai d'un jour franc à dater de la
+notification.
+
+Ils doivent, dans le même délai, informer de leur refus le maire qui porte d'office sur la liste des délégués de la commune
+le suivant des suppléants élus à qui cette décision est notifiée immédiatement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+###### Article R*146
+
+Le tableau des électeurs sénatoriaux est établi par le préfet et rendu public dans les quatre jours suivant l'élection des
+délégués et de leurs suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+###### Article R*147
+
+Les recours visés à l'article L. 292 doivent être présentés au tribunal administratif dans les trois jours de la publication
+du tableau. Le président de ce tribunal notifie sans délai les réclamations dont il est saisi aux délégués élus et les invite
+en même temps soit à déposer leurs observations écrites au greffe du tribunal avant la date de l'audience, soit à présenter à
+l'audience leurs observations orales.
+
+La date et l'heure de l'audience doivent être indiquées sur la convocation.
+
+Le tribunal administratif rend sa décision dans les trois jours à compter de l'enregistrement de la réclamation et la fait
+notifier aux parties intéressées et au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L292 (V)
+
+
+###### Article R*148
+
+En cas d'annulation de l'élection d'un délégué, il est pourvu à son remplacement dans les communes où l'élection a lieu à la
+représentation proportionnelle par appel au premier suppléant de la même liste, et dans les communes où l'élection a lieu au
+scrutin majoritaire par appel au premier suppléant. Dans ces dernières communes, il n'est pas pourvu au remplacement des
+suppléants dont l'élection serait annulée.
+
+En cas d'annulation des élections dans leur ensemble ou au cas où le tableau des suppléants se trouvant épuisé, la liste des
+délégués demeure incomplète, il est procédé à une nouvelle élection au jour fixé par arrêté préfectoral. La publication de
+cet arrêté, qui doit intervenir trois jours francs avant la date du scrutin, tient lieu de convocation du conseil municipal.
+Il est toutefois affiché à la porte de la mairie et notifié par écrit à tous les membres du conseil municipal par les soins
+du maire, qui précise le lieu de la réunion ainsi que son heure, si elle n'a pas été fixée par l'arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+### Titre IV : Election des sénateurs
+
+#### Chapitre IV : Déclarations de candidatures
+
+###### Article R*149
+
+Les déclarations de candidatures établies en double exemplaire peuvent être rédigées sur papier libre. Elles doivent
+comporter, outre les mentions prévues aux articles L. 298, L. 299 et L. 300, l'indication des listes électorales sur
+lesquelles les candidats, et leurs remplaçants lorsqu'il y a lieu, sont inscrits.
+
+S'ils sont naturalisés Français, les candidats, et le cas échéant leurs remplaçants, doivent préciser la date à laquelle ils
+ont acquis la nationalité française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-734 du 9 août 1983 - art. 1 (Ab)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 39 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L298 (M)
+	  - Code électoral - art. L299 (M)
+	  - Code électoral - art. L300 (M)
+
+
+###### Article R*150
+
+Dans les départements où les élections ont lieu au scrutin majoritaire, les candidats peuvent se présenter soit isolément,
+soit sur une liste.
+
+En cas de décès de l'un des candidats au cours de la campagne électorale, les autres candidats de la liste auront le droit de
+le remplacer jusqu'à la veille de l'ouverture du scrutin par un nouveau candidat au rang qui leur conviendra.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R271 (V)
+	  - Code électoral - art. R272 (V)
+
+
+###### Article R*151
+
+Dans le cas où une déclaration collective est déposée par un mandataire de la liste, elle doit être signée par tous les
+candidats.
+
+Si certains d'entre eux n'ont pu la signer, le mandataire est tenu de déposer ultérieurement une déclaration individuelle
+revêtue de leur signature.
+
+Le récépissé définitif de déclaration de la liste n'est délivré que lorsque la préfecture est en possession de toutes les
+signatures.
+
+Les déclarations de candidatures déposées entre le premier et le second tour doivent obligatoirement être signées par les
+candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-734 du 9 août 1983 - art. 1 (Ab)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 39 (V)
+	  - Code électoral - art. R271 (V)
+
+
+###### Article R*152
+
+La liste des candidats et, éventuellement, des remplaçants dont la déclaration de candidature a été définitivement
+enregistrée est arrêtée et publiée par le préfet quatre jours au plus tard avant le scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+###### Article R*153
+
+Les déclarations de candidatures pour le deuxième tour doivent être déposées à la préfecture avant l'heure fixée pour
+l'ouverture du scrutin et affichées dans la salle de vote avant le commencement des opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+#### Chapitre V : Propagande
+
+###### Article R*154
+
+Pour participer aux réunions électorales les délégués et suppléants justifient de leur qualité par un certificat du maire de
+la commune à laquelle ils appartiennent.
+
+L'autorité municipale veille à ce que nulle autre personne que celles désignées à l'article L. 306 n'assiste à ces réunions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L306 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R272 (V)
+
+
+###### Article R*155
+
+Chaque candidat ou chaque liste a droit à une circulaire et à un nombre de bulletins qui ne peut être supérieur de plus de 20
+% à deux fois le nombre des membres du collège électoral. Le format des circulaires est de 210 x 297 mm; celui des bulletins
+de vote de 148 x 210 mm pour les listes et de 105 x 148 mm pour les candidats isolés.
+
+Dans les départements où les élections ont lieu au scrutin majoritaire, les bulletins doivent comporter à la suite du nom du
+candidat la mention " remplaçant éventuel " suivie du nom du remplaçant. Le nom du remplaçant doit être imprimé en caractères
+de moindres dimensions que celui du candidat. Les bulletins qui ne répondraient pas à ces conditions ne seront pas acceptés
+par le président de la commission de propagande.
+
+Les bulletins de vote sont soustraits à la formalité du dépôt légal, conformément à la loi du 21 juin 1943 modifiant le
+régime du dépôt légal, art. 2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°72-1250 1972-12-29 art. 3 JORF 31 décembre 1972
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R157 (V)
+	  - Code électoral - art. R159 (V)
+	  - Code électoral - art. R160 (V)
+	  - Code électoral - art. R161 (V)
+	  - Code électoral - art. R170 (V)
+
+	**Cite**:
+
+	  - Loi n°43-341 du 21 juin 1943 - art. 2 (Ab)
+
+
+###### Article R*156
+
+Les dispositions des articles R. 27 et R. 95 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R27 (M)
+	  - Code électoral - art. R95 (V)
+
+
+###### Article R*157
+
+Il est institué au chef-lieu du département, trois semaines au moins avant la date des élections, une commission chargée :
+
+a) de dresser la liste des imprimeurs agréés par elle pour procéder à l'impression des documents électoraux;
+
+b) de fournir les enveloppes nécessaires à l'expédition des circulaires et bulletins de vote et de faire préparer leur
+libellé;
+
+c) d'adresser, quatre jours au plus tard avant le scrutin, à tous les membres du collège électoral du département, titulaires
+ou suppléants, sous une même enveloppe fermée qui sera déposée à la poste et transportée en franchise, une circulaire
+accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats;
+
+d) de mettre en place au lieu de l'élection et avant l'ouverture du scrutin les bulletins de vote de chaque candidat ou liste
+de candidats, en nombre au moins égal au nombre des membres du collège électoral; la surveillance des bulletins est assurée
+par un employé désigné par la commission;
+
+e) dans les départements où fonctionne le scrutin majoritaire, de mettre en place pour le deuxième tour de scrutin un nombre
+de bulletins en blanc correspondant au nombre d'électeurs inscrits et au nombre de candidats en présence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 13 (V)
+	  - Code électoral - art. R159 (V)
+	  - Code électoral - art. R160 (V)
+	  - Code électoral - art. R161 (V)
+	  - Code électoral - art. R277 (V)
+
+
+###### Article R*158
+
+Cette commission, instituée par arrêté préfectoral, comprend :
+
+- un magistrat désigné par le premier président de la cour d'appel, président ;
+
+- un fonctionnaire désigné par préfet ;
+
+- un fonctionnaire désigné par le trésorier-payeur général ;
+
+- un fonctionnaire désigné par le directeur des postes et télécommunications.
+
+Chaque candidat ou liste de candidats peut désigner un mandataire qui participe aux travaux de la commission avec voix
+consultative.
+
+Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. D288 (Ab)
+	  - Code électoral - art. D314 (Ab)
+	  - Code électoral - art. D330 (Ab)
+	  - Code électoral - art. D346 (Ab)
+	  - Code électoral - art. R*179-2 (Ab)
+	  - Code électoral - art. R176-3 (Ab)
+	  - Code électoral - art. R287 (VT)
+	  - Code électoral - art. R306 (VD)
+	  - Code électoral - art. R321 (VD)
+	  - Code électoral - art. R336 (VD)
+
+
+###### Article R*159
+
+Chaque candidat ou chaque liste de candidats désireux de bénéficier des dispositions prévues à l'article L. 308 (3e alinéa)
+et à l'article R. 157 doit présenter sa demande au président de la commission visée aux articles précédents, accompagnée du
+récépissé définitif délivré par la préfecture et du récépissé attestant qu'il a déposé un cautionnement de 200 F entre les
+mains du trésorier-payeur général. Le président indique aux candidats le nombre maximum de documents de chaque catégorie
+qu'ils sont autorisés à faire imprimer.
+
+Les candidats doivent remettre au président de la commission les exemplaires de la circulaire et une quantité de bulletins au
+moins égale au double du nombre des électeurs inscrits, six jours au plus tard avant la date du scrutin.
+
+La commission ne sera pas tenue d'assurer l'envoi des imprimés qui ne lui auraient pas été remis à la date impartie. Seuls
+les imprimés envoyés par la commission pourront bénéficier de tarifs postaux préférentiels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L308 (V)
+	  - Code électoral - art. R*157 (M)
+
+
+###### Article R*160
+
+Les frais d'impression exposés par les candidats seront remboursés sur présentation des pièces justificatives aux candidats
+ou aux listes de candidats qui auront recueilli le nombre de voix prévu à l'article L. 308. Le cautionnement leur sera
+également restitué. Seront prescrits et acquis au Trésor public dans le délai d'un an à dater de leur dépôt, les
+cautionnements versés entre les mains du trésorier-payeur général agissant en qualité de préposé de la caisse des dépôts et
+consignations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L308 (V)
+
+
+###### Article R*161
+
+Chaque candidat ou chaque liste de candidats qui n'aura pas manifesté l'intention de bénéficier des dispositions prévues à
+l'article R. 157 pourra déposer lui-même ou faire déposer par son mandataire, à l'entrée du bureau de vote et au début de
+chaque tour, autant de bulletins qu'il y a d'électeurs inscrits dans chaque collège. Le format de ces bulletins est celui
+prévu à l'article R. 155.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R*155 (M)
+	  - Code électoral - art. R*157 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R160 (V)
+
+
+#### Chapitre VI : Opérations préparatoires au scrutin
+
+###### Article R*162
+
+Quatre jours francs au plus tard avant l'élection des sénateurs, le commissaire de la République dresse par ordre
+alphabétique la liste des électeurs du département.
+
+Cette liste comprend les députés, les conseillers généraux et le délégués des communes ou, le cas échéant, leurs suppléants
+désignés dans les conditions prévues au titre III du présent livre.
+
+La liste est communiquée à tout requérant. Elle peut être copiée et publiée.
+
+Une carte d'un modèle spécial est adressée à chaque électeur par les soins du commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R278 (V)
+
+
+#### Chapitre VII : Opérations de vote
+
+###### Article R*163
+
+Le collège électoral est présidé par le président du tribunal de grande instance, assisté de deux juges audit tribunal
+désignés par le premier président de la cour d'appel et des deux conseillers généraux les plus âgés présents à l'ouverture du
+scrutin et non candidats.
+
+En cas d'empêchement, le premier président de la cour d'appel désignera des suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. D310 (Ab)
+	  - Code électoral - art. R*179-9 (Ab)
+	  - Code électoral - art. R164 (V)
+	  - Code électoral - art. R168 (V)
+	  - Code électoral - art. R179-1 (Ab)
+	  - Code électoral - art. R279 (V)
+	  - Code électoral - art. R302 (VT)
+
+
+###### Article R*164
+
+Quel que soit le nombre des membres du collège électoral, le bureau composé comme il est dit à l'article précédent répartit
+les électeurs par ordre alphabétique en sections de vote comprenant au moins cent électeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R162 (V)
+	  - Code électoral - art. R271 (V)
+
+
+###### Article R*165
+
+Le bureau du collège électoral constitue le bureau de la première section. Les présidents et assesseurs des autres sections
+sont nommés par le bureau. Ils sont pris, ainsi que le secrétaire, parmi les électeurs de la section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral R31 A R38
+
+
+###### Article R*166
+
+Le président de chaque section a la police de l'assemblée qu'il préside.
+
+Il exerce ses pouvoirs conformément aux dispositions législatives et réglementaires en vigueur, et notamment aux dispositions
+de l'article R. 49.
+
+Les membres du bureau et les électeurs composant le collège électoral du département, les candidats ou leurs représentants
+ont seuls accès aux salles de vote.
+
+Le bureau statue sur toutes les difficultés et contestations qui peuvent s'élever au cours de l'élection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R49 (V)
+
+
+###### Article R*167
+
+Les enveloppes électorales sont fournies par l'administration préfectorale.
+
+Elles sont opaques, non gommées, frappées du timbre à date des préfectures, et de type uniforme pour chaque collège
+électoral.
+
+Elles sont envoyées, cinq jours au moins avant l'élection, en nombre égal à celui des électeurs inscrits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. R281 (V)
+
+
+###### Article R*168
+
+Dans les départements où fonctionne le scrutin majoritaire à deux tours, le premier scrutin est ouvert à huit heures trente
+et clos à onze heures; le second scrutin est ouvert à quinze heures trente et clos à dix-sept heures trente.
+
+Dans les départements soumis au régime de la représentation proportionnelle, le scrutin est ouvert à neuf heures et clos à
+quinze heures.
+
+Dans les deux cas, si le président du collège électoral constate que dans toutes les sections de vote tous les électeurs ont
+pris part au vote, il peut déclarer le scrutin clos avant les heures fixées ci-dessus.
+
+Le dépouillement suit immédiatement la clôture du scrutin. Les résultats des scrutins de chaque section sont centralisés et
+recensés par le bureau prévu à l'article R. 163.
+
+Le président du collège électoral procède immédiatement à la proclamation du ou des candidats élus et indique les noms des
+remplaçants éventuels de ces candidats.
+
+Dans le cas de scrutin majoritaire, le président précise s'il y a lieu à un nouveau tour de scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. R*163 (M)
+
+
+###### Article R*169
+
+Dans les départements qui élisent au moins cinq sénateurs, il est fait application de la représentation proportionnelle avec
+répartition complémentaire suivant la règle de la plus forte moyenne, conformément aux dispositions ci-après.
+
+Le bureau détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans le département par le nombre des
+sénateurs à élire.
+
+Il est attribué à chaque liste autant de sièges de sénateurs que le nombre des suffrages de la liste contient de fois le
+quotient électoral. Les sièges de sénateurs non répartis par application des dispositions précédentes sont attribués selon la
+règle de la plus forte moyenne.
+
+A cet effet, les sièges sont conférés successivement à celle des listes pour laquelle la division du nombre de suffrages
+recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus fort résultat.
+
+Au cas où il ne reste qu'un seul siège à attribuer, si deux listes ont la même moyenne, le siège revient à la liste qui a
+obtenu le plus grand nombre de suffrages.
+
+Si les deux listes en cause ont également recueilli le même nombre de suffrages, le siège est donné au plus âgé des deux
+candidats susceptibles d'être proclamés élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cité par**:
+
+	  - Décret n°83-734 du 9 août 1983 - art. 13 (Ab)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 38 (V)
+	  - Code électoral - art. R271 (V)
+	  - Code électoral - art. R272 (V)
+
+
+###### Article R*170
+
+Sont nuls et n'entrent pas en compte dans le résultat du dépouillement :
+
+- les bulletins visés à l'article L. 66 ;
+
+- les bulletins ne répondant pas aux conditions de l'article R. 155;
+
+- les bulletins établis au nom d'un candidat ou d'une liste de candidats ne figurant pas sur la liste arrêtée par le préfet
+avant chaque tour de scrutin;
+
+- les bulletins imprimés différents de ceux produits par le candidat ou la liste de candidats;
+
+- les bulletins imprimés au nom d'un candidat sur lesquels le nom du candidat ou de son remplaçant aurait été rayé ainsi que
+les bulletins manuscrits ne comportant pas le cas échéant le nom du remplaçant désigné par le candidat;
+
+- dans les départements où l'élection a lieu à la représentation proportionnelle les bulletins comportant adjonction ou
+suppression de nom ou modification de l'ordre de présentation des candidats.
+
+Dans les départements où l'élection a lieu au scrutin majoritaire, si sur un bulletin établi au nom de plusieurs candidats le
+nom d'un ou de plusieurs remplaçants a été rayé, le vote n'est pas valable à l'égard du ou des candidats qu'ils sont appelés
+à remplacer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+	**Cite**:
+
+	  - Code électoral - art. L66 (V)
 
 
