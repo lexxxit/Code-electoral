@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1976-01-01
+Version Consolidée au 1976-01-03
 
 # Partie législative
 
@@ -634,6 +634,60 @@ Nul ne peut être inscrit sur plusieurs listes électorales.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral L85
+
+
+###### Article L11
+
+Sont inscrits sur la liste électorale, sur leur demande :
+
+1° Tous les électeurs qui ont leur domicile réel dans la commune ou y habitent depuis six mois au moins ;
+
+2° Ceux qui figurent pour la cinquième fois sans interruption, l'année de la demande d'inscription, au rôle d'une des
+contributions directes communales et, s'ils ne résident pas dans la commune, ont déclaré vouloir y exercer leurs droits
+électoraux. Tout électeur ou toute électrice peut être inscrit sur la même liste que son conjoint au titre de la présente
+disposition ;
+
+3° Ceux qui sont assujettis à une résidence obligatoire dans la commune en qualité de fonctionnaires publics.
+
+Sont également inscrits, dans les mêmes conditions, les citoyens qui, ne remplissant pas les conditions d'âge et de résidence
+ci-dessus indiquées lors de la formation des listes, les rempliront avant la clôture définitive.
+
+L'absence de la commune résultant du service national ne porte aucune atteinte aux règles ci-dessus édictées pour
+l'inscription sur les listes électorales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°66-1022 1966-12-29 art. 1 JORF 30 décembre 1966
+	  - Loi n°75-1329 1975-12-31 art. 1 JORF 1er janvier 1976
+
+	**Cité par**:
+
+	  - Loi n°77-729 du 7 juillet 1977 - art. 2-3 (VD)
+	  - Loi organique n°99-209 du 19 mars 1999 - art. 218-2 (V)
+	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 33 (V)
+	  - Arrêté du 16 octobre 2006 - art. 6 (V)
+	  - Arrêté du 28 février 2007 - art. 6 (V)
+	  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+	  - Loi n°2015-852 du 13 juillet 2015 - art. 1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-2 (M)
+	  - CODE DES COMMUNES. - art. R*125-3 (Ab)
+	  - Code des communes de la Nouvelle-Calédonie - art. R125-6 (V)
+	  - Code général des collectivités territoriales - art. R2142-5 (Ab)
+	  - Code électoral - art. L11-1 (VT)
+	  - Code électoral - art. L13 (V)
+	  - Code électoral - art. L16 (VD)
+	  - Code électoral - art. L18 (VD)
+	  - Code électoral - art. L31 (VD)
+	  - Code électoral - art. R1 (V)
+	  - Code électoral - art. R3 (V)
+	  - Code électoral - art. R4 (V)
+	  - Code électoral - art. R5 (V)
 
 
 ###### Article L13
@@ -2671,17 +2725,6 @@ budget annexe des postes et télécommunications les sommes dont celui-ci a fait
 	  - Loi n°87-369 du 5 juin 1987 - art. 14 (V)
 
 
-##### Section 4 : Vote par correspondance
-
-###### Article L79 à L85
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°75-1329 du 31 décembre 1975, v. init.
-
-
 ##### Section 5 : Commissions de contrôle des opérations de vote
 
 ###### Article L85-1
@@ -2814,6 +2857,43 @@ punie des peines portées à l'article L. 113.
 	**Cite**:
 
 	  - Code électoral - art. L113 (V)
+
+
+###### Article L88
+
+Ceux qui, à l'aide de déclarations frauduleuses ou de faux certificats, se seront fait inscrire ou auront tenté de se faire
+inscrire indûment sur une liste électorale, ceux qui, à l'aide des mêmes moyens, auront fait inscrire ou rayer, tenté de
+faire inscrire ou rayer indûment un citoyen, et les complices de ces délits, seront passibles d'un emprisonnement de six
+jours à un an et d'une amende de 180 F à 8000 F.
+
+Les coupables pourront, en outre, être privés de l'exercice de leurs droits civiques pendant deux ans au moins et dix ans au
+plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°75-1329 1975-12-31 art. 13 JORF 3 janvier 1976
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Cité par**:
+
+	  - Décret n°79-807 du 18 septembre 1979 - art. 39 (Ab)
+	  - Décret n°80-22 du 14 janvier 1980 - art. 25 (Ab)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Code de la sécurité sociale. - art. R611-94 (Ab)
+	  - Code de la sécurité sociale. - art. R632-23 (T)
+	  - Code de la sécurité sociale. - art. R633-48 (Ab)
+	  - Code de la sécurité sociale. - art. R633-8-1 (Ab)
+	  - Code rural ancien - art. 1019 (Ab)
+	  - Code rural et de la pêche maritime - art. L723-24 (VD)
+	  - Code électoral - art. L5 (M)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 40 bis (Ab)
 
 
 ###### Article L89
@@ -3403,19 +3483,6 @@ prévues à l'article L. 107.
 	  - Code électoral - art. L71 (V)
 
 
-###### Article L112
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°75-1329 du 31 décembre 1975, art. 10 v. init.
-
-
 ###### Article L114
 
 L'action publique et l'action civile intentées en vertu des articles L. 86, L. 87, L. 91 à L. 104, L. 106 à L. 108 et L. 113
@@ -3564,6 +3631,22 @@ dispositions du présent livre.
 	  - Code pénal 109, 110, 111, 112, 113
 
 
+###### Article L117-1
+
+Lorsque la juridiction administrative a retenu, dans sa décision définitive, des faits de fraude électorale, elle communique
+le dossier au procureur de la République compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°75-1329 1975-12-31 art. 12 JORF 3 janvier 1976
+
+
 #### Chapitre VIII : Contentieux
 
 ###### Article L118
@@ -3590,6 +3673,35 @@ l'article 698 dudit code.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 698 (T)
+
+
+###### Article L118-1
+
+La juridiction administrative, en prononçant l'annulation d'une élection pour fraude, peut décider que la présidence d'un ou
+plusieurs bureaux de vote sera assurée par une personne désignée par le président du tribunal de grande instance lors de
+l'élection partielle consécutive à cette annulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°75-1329 1975-12-31 art. 7 JORF 3 janvier 1976
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°80-274 du 15 avril 1980
+	  - TXT_SOURCE: Décret n°80-274 du 15 avril 1980 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°80-274 du 15 avril 1980 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°80-274 du 15 avril 1980 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°80-274 du 15 avril 1980 - art. 1 (V)
+	  - Décret n°80-274 du 15 avril 1980 - art. 2 (V)
 
 
 ### Titre II : Dispositions spéciales à l'élection des députés
@@ -5890,6 +6002,33 @@ en appel par le Conseil d'Etat. Dans les cas de cette espèce, le tribunal admin
 	  - Code électoral - art. L224-9 (VD)
 
 
+###### Article L223-1
+
+Le tribunal administratif peut, en cas d'annulation d'une élection pour manoeuvres dans l'établissement de la liste
+électorale ou irrégularité dans le déroulement du scrutin, décider, nonobstant appel, la suspension du mandat de celui dont
+l'élection est annulée.
+
+En ce cas, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours. A défaut de décision
+définitive dans ce délai, il est mis fin à la suspension.
+
+Dans les cas non visés aux alinéas précédents, le Conseil d'Etat rend sa décision dans les six mois qui suivent
+l'enregistrement du recours.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°75-1329 1975-12-31 art. 8 JORF 3 janvier 1976
+
+
 #### Chapitre X : Conditions d'application
 
 ###### Article L224
@@ -6322,6 +6461,33 @@ appel par le Conseil d'Etat. Dans les cas de cette espèce le tribunal administr
 
 	  - Code électoral - art. L236 (M)
 	  - Code électoral - art. L239 (M)
+
+
+###### Article L250-1
+
+Le tribunal administratif peut, en cas d'annulation d'une élection pour manoeuvres dans l'établissement de la liste
+électorale ou irrégularité dans le déroulement du scrutin, décider, nonobstant appel, la suspension du mandat de celui ou de
+ceux dont l'élection a été annulée.
+
+En ce cas, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours. A défaut de décision
+définitive dans ce délai, il est mis fin à la suspension.
+
+Dans les cas non visés aux alinéas précédents, le Conseil d'Etat rend sa décision dans les six mois qui suivent
+l'enregistrement du recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°75-1329 1975-12-31 art. 9 JORF 3 janvier 1976
+
+	**Cité par**:
+
+	  - Code électoral - art. L273-5 (VD)
 
 
 ###### Article L251
