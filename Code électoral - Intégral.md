@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1977-12-31
+Version Consolidée au 1978-01-01
 
 # Partie législative
 
@@ -2920,6 +2920,43 @@ la confiscation des bulletins et autres documents distribués.
 	  - TXT_ASSOCIE: Code électoral - art. L49 (V)
 
 
+###### Article L90
+
+Sera passible d'une amende de 60 000 F :
+
+- Tout candidat qui utilisera ou permettra d'utiliser son panneau d'affichage dans un but autre que la présentation et la
+défense de sa candidature et de son programme, pour son remerciement ou son désistement ;
+
+- Tout candidat qui cédera à un tiers son emplacement d'affichage.
+
+Il sera en outre redevable des pénalités afférentes à l'affichage sans timbre.
+
+L'amende prévue à l'alinéa 1 du présent article sera également applicable à toute personne qui aura contrevenu aux
+dispositions du dernier alinéa de l'article L. 51.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R611-94 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. L51 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L51 (V)
+
+
 ###### Article L90-1
 
 Toute infraction aux dispositions de l'article L. 52-1 sera punie d'une amende de 500 000 F.
@@ -4491,6 +4528,33 @@ les actions en responsabilité des dommages causés par tout véhicule et dirig�
 	  - Code électoral - art. LO151-3 (V)
 
 
+###### Article LO150
+
+Il est interdit à tout député de faire ou de laisser figurer son nom suivi de l'indication de sa qualité dans toute publicité
+relative à une entreprise financière, industrielle ou commerciale.
+
+Seront punis d'un emprisonnement de six mois et d'une amende de 25 000 F ou de l'une de ces deux peines seulement les
+fondateurs, les directeurs ou gérants de sociétés ou d'établissements à objet commercial, industriel ou financier qui auront
+fait ou laissé figurer le nom d'un député avec mention de sa qualité dans toute publicité faite dans l'intérêt de
+l'entreprise qu'ils dirigent ou qu'ils se proposent de fonder. En cas de récidive, les peines ci-dessus prévues pourront être
+portées à un an d'emprisonnement et 50 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
+	  - Code électoral - art. LO151 (V)
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+
 ###### Article LO151
 
 Le député qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés au présent code doit, dans les
@@ -5014,6 +5078,30 @@ d'acheminement et des différences d'heures.
 	  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
+###### Article L168
+
+Sera puni d'une amende de 25 000 F et d'un emprisonnement de trois mois ou de l'une de ces deux peines seulement quiconque
+aura enfreint les dispositions des articles L. 158, alinéas 2 et 3, et L. 164 à L. 167.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+	**Cite**:
+
+	  - Code électoral - art. L158 (M)
+	  - Code électoral - art. L164 (V)
+	  - Code électoral - art. L165 (M)
+	  - Code électoral - art. L166 (M)
+	  - Code électoral - art. L167 (M)
+
+
 ###### Article L169
 
 Il est interdit de signer ou d'apposer des affiches, d'envoyer et de distribuer des bulletins, circulaires ou professions de
@@ -5049,6 +5137,27 @@ ou saisis.
 	**Cite**:
 
 	  - Code électoral - art. L156 (V)
+
+
+###### Article L171
+
+Seront punis d'une amende de 60 000 F, le candidat contrevenant aux dispositions du premier alinéa de l'article L. 156, et
+d'une amende de 30 000 F toute personne qui agira en violation de l'article L. 169.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+	**Cite**:
+
+	  - Code électoral - art. L156 (M)
+	  - Code électoral - art. L169 (V)
 
 
 #### Chapitre VII : Opérations préparatoires au scrutin
