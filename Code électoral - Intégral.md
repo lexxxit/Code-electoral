@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-07-13
 
 # Partie législative
 
@@ -12390,11 +12390,11 @@ Les dispositions des articles L. 106 à L. 110 et L. 113 à L. 117 sont applicab
 	  - Code électoral - art. L113 (V)
 
 
-## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à la collectivité territoriale de Mayotte
+## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte
 
 ### Titre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
 
-#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux à Saint-Pierre-et-Miquelon.
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux à Saint-Pierre-et-Miquelon
 
 ###### Article L328
 
@@ -12413,8 +12413,11 @@ Pierre-et-Miquelon.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Nouveaux textes**:
 
@@ -12449,9 +12452,13 @@ Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon
 	  - Loi n°77-729 du 7 juillet 1977 - art. 26 (V)
 	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 38 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article LO328-1
@@ -12472,11 +12479,14 @@ Pour l'application du présent code à la collectivité territoriale de Saint-Pi
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon.
+#### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 ###### Article L328-3
 
@@ -12491,7 +12501,11 @@ Miquelon.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-350 2000-04-19 art. 20 1° jorf 22 avril 2000
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L328-3-1
@@ -12506,9 +12520,13 @@ inclus dans le plafond des dépenses.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -12533,7 +12551,11 @@ conseiller général d'un département.
 
 	**Modifié par**:
 
-	  - Loi n°2000-294 du 5 avril 2000 - art. 7 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -12541,16 +12563,18 @@ conseiller général d'un département.
 	  - Code électoral - art. LO119 (M)
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon.
+#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 ###### Article L328-4
 
 Les dispositions du titre III du livre Ier, à l'exception des chapitres Ier, II, IV bis, VIII et X et des articles L. 205 du
 chapitre III, L. 209 et L. 210 du chapitre IV et L. 222 du chapitre IX, sont applicables à l'élection des conseillers
 généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon. Toutefois les chapitres II et IV bis sont applicables
-dans les cas prévus à l'article L. 334.    Pour l'application de l'article L. 46-1 du présent code, ainsi que de l'article
-6-3 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, le mandat de
-conseiller général de Saint-Pierre-et-Miquelon est assimilé au mandat de conseiller général d'un département.
+dans les cas prévus à l'article L. 334.
+
+Pour l'application de l'article L. 46-1 du présent code, ainsi que de l'article 6-3 de la loi n° 77-729 du 7 juillet 1977
+relative à l'élection des représentants au Parlement européen, le mandat de conseiller général de Saint-Pierre-et-Miquelon
+est assimilé au mandat de conseiller général d'un département.
 
 **Liens relatifs à cet article**
 
@@ -12568,7 +12592,11 @@ conseiller général de Saint-Pierre-et-Miquelon est assimilé au mandat de cons
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Anciens textes**:
 
@@ -12594,7 +12622,11 @@ Les élections ont lieu au mois de mars.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-350 2000-04-19 art. 20 1° jorf 22 avril 2000
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L330
@@ -12609,8 +12641,11 @@ A Saint-Pierre-et-Miquelon, le conseil général est renouvelé intégralement t
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L331
@@ -12628,7 +12663,11 @@ l'application des dispositions prévues au troisième alinéa de l'article L. 33
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -12672,8 +12711,11 @@ proclamés élus.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -12698,11 +12740,6 @@ Les candidats ayant figuré sur une même liste au premier tour ne peuvent figur
 de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture par la personne ayant eu la qualité de
 responsable de la liste constituée par ces candidats au premier tour.
 
-**Nota:**
-
-NOTA : Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12711,7 +12748,11 @@ intervenant à échéance normale des conseils et assemblées auxquels elles s'a
 
 	**Modifié par**:
 
-	  - Loi n°2000-493 du 6 juin 2000 - art. 8 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cité par**:
 
@@ -12731,9 +12772,9 @@ Elle est faite collectivement pour chaque liste par la personne ayant la qualit�
 candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
 personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
 second tour. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y
-figurent. La liste déposée indique expressément.
+figurent. La liste déposée indique expressément :
 
-1° Le titre de la liste présentée;
+1° Le titre de la liste présentée ;
 
 2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
@@ -12749,11 +12790,6 @@ articles L. 331, L. 331-2 et du présent article.
 
 Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
 
-**Nota:**
-
-NOTA : Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12762,7 +12798,11 @@ intervenant à échéance normale des conseils et assemblées auxquels elles s'a
 
 	**Modifié par**:
 
-	  - Loi n°2000-493 du 6 juin 2000 - art. 8 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -12772,7 +12812,7 @@ intervenant à échéance normale des conseils et assemblées auxquels elles s'a
 
 ###### Article L332-1
 
-Les déclarations de candidatures doivent être déposées au plus tard [*délai*].
+Les déclarations de candidatures doivent être déposées au plus tard :
 
 - pour le premier tour, le deuxième vendredi qui précède le jour du scrutin, à vingt-quatre heures ;
 
@@ -12794,13 +12834,43 @@ Est nul tout bulletin établi au nom d'une liste dont la déclaration de candida
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code électoral - art. L331 (M)
-	  - Code électoral - art. L331-2 (M)
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
+
+###### Article L333-1
+
+Tout conseiller général dont l'inéligibilité se révélera après l'expiration du délai pendant lequel son élection peut être
+contestée ou qui, pendant la durée de son mandat, se trouvera frappé de l'une des incapacités qui fait perdre la qualité
+d'électeur est déclaré démissionnaire par arrêté du préfet soit d'office, soit sur réclamation de tout électeur. Lorsqu'un
+conseiller général est déclaré démissionnaire d'office à la suite d'une condamnation pénale devenue définitive prononcée à
+son encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'acte de
+notification du préfet n'est pas suspensif.
+
+La procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller général déclaré comptable de fait par
+un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans les six
+mois de l'expiration du délai de production des comptes imparti par ledit jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 () JORF 22 avril 2000
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L333-2
@@ -12821,9 +12891,13 @@ conseiller général est déclaré démissionnaire de son mandat par le préfet.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L333-3
@@ -12838,9 +12912,13 @@ siège n'est proclamée qu'à compter de la décision statuant sur le recours.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L333-4
@@ -12863,18 +12941,28 @@ l'élection que du ou des élus inéligibles. Le juge proclame en conséquence l
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L334 (M)
 
 
 ###### Article L334
 
 Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller général élu sur
-cette liste dont le siège devient vacant pour quelque cause que ce soit.    Lorsque les dispositions de l'alinéa précédent ne
-peuvent plus être appliquées, il est procédé dans les deux mois à des élections partielles, selon le mode de scrutin prévu
-aux chapitres II et IV bis du titre III du livre Ier, lorsque la vacance porte sur moins de quatre sièges, et dans les
-conditions prévues au présent chapitre lorsque la vacance porte sur quatre sièges ou plus.
+cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Lorsque les dispositions de l'alinéa précédent ne peuvent plus être appliquées, il est procédé dans les deux mois à des
+élections partielles, selon le mode de scrutin prévu aux chapitres II et IV bis du titre III du livre Ier, lorsque la vacance
+porte sur moins de quatre sièges, et dans les conditions prévues au présent chapitre lorsque la vacance porte sur quatre
+sièges ou plus.
 
 Il n'est procédé à aucune élection partielle dans les trois mois précédant le renouvellement intégral du conseil général.
 
@@ -12886,8 +12974,11 @@ Il n'est procédé à aucune élection partielle dans les trois mois précédant
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-350 2000-04-19 art. 2 VI, 20 1° jorf 22 avril 2000
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cité par**:
 
@@ -12911,8 +13002,11 @@ des conseillers municipaux des communes de la collectivité territoriale de Sain
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article LO334-1-1
@@ -12928,8 +13022,11 @@ la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 #### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon
@@ -12941,6 +13038,11 @@ Les dispositions du livre II du présent code sont applicables à l'élection du
 Le renouvellement du mandat du sénateur de Saint-Pierre-et-Miquelon a lieu à la même date que celui du mandat des sénateurs
 de la série C mentionnée à l'article L.O. 276 du présent code.
 
+**Nota:**
+
+NOTA : Les dispositions de la loi 2005-1563 du 15 décembre 2005 art. 5, prennent effet à compter du renouvellement partiel de
+2011.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12949,8 +13051,15 @@ de la série C mentionnée à l'article L.O. 276 du présent code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code électoral - art. LO276 (V)
 
 
 ###### Article L334-3-1
@@ -12967,13 +13076,9 @@ Le dernier alinéa de l'article L. 284 du présent code n'est pas applicable à 
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 18 () JORF 11 juillet 2000
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -12989,10 +13094,10 @@ Le dernier alinéa de l'article L. 284 du présent code n'est pas applicable à 
 
 ###### Article LO334-2
 
-La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée au Sénat par un sénateur [*nombre*].
+La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée au Sénat par un sénateur.
 
-Les dispositions organiques du livre II du présent code, à l'exception de l'article L.O. 274, sont applicables à l'élection
-du sénateur de Saint-Pierre-et-Miquelon.
+Les dispositions organiques du livre II du présent code, à l'exception de l'article LO. 274, sont applicables à l'élection du
+sénateur de Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -13002,8 +13107,15 @@ du sénateur de Saint-Pierre-et-Miquelon.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code électoral - art. LO274 (M)
 
 
 #### Chapitre VI : Conditions d'application
@@ -13018,13 +13130,13 @@ Les modalités d'application du présent titre sont fixées par décret en Conse
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 18 () JORF 11 juillet 2000
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ### Titre II : Dispositions particulières à Mayotte
@@ -13065,7 +13177,9 @@ Pour l'application de ces dispositions à Mayotte, il y a lieu de lire :
 
 10° "code du travail applicable à Mayotte", au lieu de : "code du travail" ;
 
-11° "décisions des autorités compétentes", au lieu de : "arrêté du ministre de la santé".
+11° "décisions des autorités compétentes", au lieu de :
+
+"arrêté du ministre de la santé".
 
 **Liens relatifs à cet article**
 
@@ -13080,8 +13194,11 @@ Pour l'application de ces dispositions à Mayotte, il y a lieu de lire :
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-350 2000-04-19 art. 3 I, II jorf 22 avril 2000
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -13099,9 +13216,13 @@ l'article L. 37, il est créé, à cette fin, un fichier général des électric
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -13124,10 +13245,13 @@ national de la statistique et des études économiques.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-350 2000-04-19 art. 3 I, II jorf 22 avril 2000
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -13157,7 +13281,11 @@ les intéressés en ont fait la demande. Le papier est fourni par l'administrati
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L334-6
@@ -13181,7 +13309,11 @@ dépouillement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 #### Chapitre II : Dispositions applicables à l'élection du député de Mayotte
@@ -13191,6 +13323,12 @@ dépouillement.
 Les dispositions du titre II du livre Ier du présent code sont applicables à l'élection du député de Mayotte, à l'exception
 du deuxième alinéa de l'article L. 125.
 
+**Nota:**
+
+Deux versions de l'article L334-7 coexistent :
+
+- la version découlant de l'ordonnance 98-730 art. 18. - la version découlant de la loi 2004-193 art. 27 IV.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13199,7 +13337,11 @@ du deuxième alinéa de l'article L. 125.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -13227,7 +13369,15 @@ Pour l'application de ces dispositions organiques, il y a lieu de lire :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code électoral - art. LO119 (M)
 
 
 ###### Article LO334-7-1
@@ -13243,7 +13393,11 @@ département.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -13267,7 +13421,11 @@ Le conseil général de Mayotte est renouvelé en même temps que les conseils g
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -13280,7 +13438,7 @@ Le conseil général de Mayotte est renouvelé en même temps que les conseils g
 
 Le mandat de conseiller général est incompatible avec les fonctions suivantes exercées à Mayotte :
 
-1° Représentant du Gouvernement, secrétaire général, secrétaire  général adjoint et directeur de cabinet ;
+1° Représentant du Gouvernement, secrétaire général, secrétaire général adjoint et directeur de cabinet ;
 
 2° Militaire de carrière ou assimilé, en activité de service ou servant au-delà de la durée légale ;
 
@@ -13299,6 +13457,9 @@ chef de bureau dans les services du représentant du Gouvernement.
 
 8° Vice-recteur.
 
+9° Membres du conseil économique et social de Mayotte ou du conseil pour la culture, l'éducation et l'environnement de
+Mayotte.
+
 Les conseillers généraux de Mayotte ne peuvent, pendant la durée de leur mandat, être nommés dans un emploi salarié de la
 collectivité territoriale de Mayotte ou subventionné sur ses fonds, s'ils ne possédaient pas la qualité d'agent de ladite
 collectivité avant leur élection.
@@ -13315,7 +13476,12 @@ collectivité avant leur élection.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 69 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L334-10
@@ -13335,7 +13501,11 @@ l'impression des affiches et des circulaires ainsi que les frais d'affichage.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L334-12
@@ -13361,7 +13531,11 @@ mandat de conseiller général d'un département.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L334-12-1
@@ -13383,9 +13557,13 @@ mois de l'expiration du délai de production des comptes imparti par ledit jugem
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article L334-12-2
@@ -13406,9 +13584,13 @@ conseiller général est déclaré démissionnaire de son mandat par le représe
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 #### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de Mayotte
@@ -13424,17 +13606,17 @@ et sixième alinéas de l'article L. 238 et du premier alinéa de l'article L. 2
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
-
 	**Cité par**:
 
 	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (Ab)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 	**Cite**:
 
@@ -13462,64 +13644,9 @@ ce délai à leurs supérieurs hiérarchiques, ils seront réputés avoir opté 
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
-
 	**Cité par**:
 
 	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (Ab)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
-
-
-#### Chapitre VI : Conditions d'application
-
-###### Article L334-17
-
-Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-	**Créé par**:
-
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
-
-
-## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte
-
-### Titre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-###### Article L333-1
-
-Tout conseiller général dont l'inéligibilité se révélera après l'expiration du délai pendant lequel son élection peut être
-contestée ou qui, pendant la durée de son mandat, se trouvera frappé de l'une des incapacités qui fait perdre la qualité
-d'électeur est déclaré démissionnaire par arrêté du préfet soit d'office, soit sur réclamation de tout électeur. Lorsqu'un
-conseiller général est déclaré démissionnaire d'office à la suite d'une condamnation pénale devenue définitive prononcée à
-son encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'acte de
-notification du préfet n'est pas suspensif.
-
-La procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller général déclaré comptable de fait par
-un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans les six
-mois de l'expiration du délai de production des comptes imparti par ledit jugement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 () JORF 22 avril 2000
 
 	**Modifié par**:
 
@@ -13530,8 +13657,6 @@ mois de l'expiration du délai de production des comptes imparti par ledit jugem
 	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
-### Titre II : Dispositions particulières à Mayotte
-
 #### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte
 
 ###### Article L334-15
@@ -13539,8 +13664,13 @@ mois de l'expiration du délai de production des comptes imparti par ledit jugem
 Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Mayotte, à l'exclusion de l'article
 L. 280.
 
-Le renouvellement du mandat de sénateur de Mayotte a lieu à l a même date que celui des sénateurs de la série C prévue à
+Le renouvellement du mandat de sénateur de Mayotte a lieu à la même date que celui des sénateurs de la série C prévue à
 l'article LO 276 du code électoral.
+
+**Nota:**
+
+Nota : Les dispositions de la loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article l334-15 du code électoral, prennent
+effet à compter du prochain renouvellement de la série à laquelle Mayotte appartient.
 
 **Liens relatifs à cet article**
 
@@ -13548,17 +13678,13 @@ l'article LO 276 du code électoral.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
-
 	**Cité par**:
 
 	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -13581,13 +13707,13 @@ du code général des collectivités territoriales ".
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 19 () JORF 11 juillet 2000
+	  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
 
 	**Cite**:
 
@@ -13609,6 +13735,12 @@ Le sénateur est élu par un collège électoral composé :
 
 3° Des délégués des conseils municipaux ou des suppléants de ces délégués.
 
+**Nota:**
+
+Nota : Les dispositions de la Loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article L334-16 du code électoral prennent
+effet à compter du prochain renouvellement de la série à laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre
+2004.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13621,7 +13753,28 @@ Le sénateur est élu par un collège électoral composé :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 3 ()
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+#### Chapitre VI : Conditions d'application
+
+###### Article L334-17
+
+Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse
