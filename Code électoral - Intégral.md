@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1986-11-25
+Version Consolidée au 1987-02-07
 
 # Partie législative
 
@@ -13017,9 +13017,9 @@ afnor II/1, sans travaux de repiquage;
 
 ###### Article R40
 
-Les électeurs se réunissent au chef-lieu de la commune. Toutefois, ils peuvent être répartis par arrêté du commissaire de la
-République en autant de bureaux de vote que l'exigent les circonstances locales et le nombre des électeurs; le siège de ces
-bureaux peut être fixé hors du chef-lieu de la commune.
+Les électeurs se réunissent au chef-lieu de la commune. Toutefois, ils peuvent être répartis par arrêté du préfet a en autant
+de bureaux de vote que l'exigent les circonstances locales et le nombre des électeurs; le siège de ces bureaux peut être fixé
+hors du chef-lieu de la commune.
 
 L'arrêté instituant les bureaux de vote ou reconduisant l'institution antérieure de ces bureaux doit être notifié au maire
 avant le 31 août de chaque année; tels qu'ils sont ainsi fixés, les bureaux de vote servent pour toute élection ayant lieu
@@ -13027,7 +13027,7 @@ dans la période comprise entre la prochaine clôture des listes électorales et
 désignés dans l'arrêté préfectoral instituant les bureaux.
 
 Toutefois, cet arrêté peut être modifié pour tenir compte des changements intervenus dans les limites des circonscriptions
-administratives.
+administratives ou des circonscriptions prévues par l'article L. 124.
 
 **Liens relatifs à cet article**
 
@@ -13058,9 +13058,11 @@ administratives.
 
 	**Modifié par**:
 
-	  - Décret n°69-746 1969-07-24 art. 4 JORF 26 juillet 1969
-	  - Décret n°72-1251 1972-12-29 art. 5 JORF 31 décembre 1972
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°87-71 1987-02-06 art. 1 JORF 7 février 1987
+
+	**Cite**:
+
+	  - Code électoral - art. L124 (M)
 
 
 ###### Article R41
@@ -14999,18 +15001,15 @@ obligatoire d'un avocat au Conseil d'Etat.
 
 ###### Article R*98
 
-Les déclarations de candidatures à l'Assemblée nationale sont reçues dans les préfectures à partir du quatrième lundi qui
-précède le jour de l'élection.
+Les déclarations de candidatures à l'Assemblée nationale sont reçues dans les préfectures, pour le premier tour de scrutin, à
+partir du quatrième lundi qui précède le jour de l'élection, et, pour le second tour, à partir de la proclamation des
+résultats par la commission de recensement général des votes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
-
-	**Modifié par**:
-
-	  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
 
 	**Cité par**:
 
@@ -15029,11 +15028,15 @@ précède le jour de l'élection.
 	  - Code électoral - art. R323 (V)
 	  - Code électoral - art. R338 (V)
 
+	**Modifié par**:
+
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
+
 
 ###### Article R*99
 
-La déclaration de candidature est rédigée sur papier libre. Elle comporte, outre les mentions prévues à l'article L. 155,
-l'indication de la liste électorale sur laquelle chacun des candidats est inscrit.
+Les déclarations de candidatures peuvent être rédigées sur papier libre. Elles comportent, outre les mentions prévues aux
+articles L. 154 L. 155, l'indication des listes électorales sur lesquelles le candidat et son remplaçant sont inscrits.
 
 **Liens relatifs à cet article**
 
@@ -15056,7 +15059,7 @@ l'indication de la liste électorale sur laquelle chacun des candidats est inscr
 
 	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
 
 	**Cite**:
 
@@ -15065,8 +15068,8 @@ l'indication de la liste électorale sur laquelle chacun des candidats est inscr
 
 ###### Article R*100
 
-Tout retrait de liste, opéré dans les formes et délais prévus aux articles L. 157 et L. 162, est enregistrée commes les
-déclarations elles-mêmes.
+Les candidatures ne peuvent être retirées que jusqu'à la date limite fixée pour le dépôt des candidatures. Le retrait est
+enregistré comme la déclaration de candidature.
 
 Le cautionnement est remboursé au candidat qui se retire, sur présentation de l'accusé de réception de la déclaration de
 retrait délivré par le commissaire de la République.
@@ -15079,21 +15082,16 @@ retrait délivré par le commissaire de la République.
 
 	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L157 (M)
-	  - Code électoral - art. L162 (M)
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
 
 
 ###### Article R*101
 
-L'Etat des listes des candidats dont la déclaration a été définitivement enregistrée est arrêtée, dans l'ordre du dépôt des
-listes, par le commissaire de la République et publié deux semaines avant la date du scrutin.
+La liste des candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants est
+arrêtée et publiée par le préfet.
 
-Cet état indique pour chaque liste son titre ainsi que les noms et prénoms des candidats, énumérés dans l'ordre de leur
-présentation sur la liste, tel qu'il résulte de la déclaration.
+La publication doit intervenir, pour le premier tour, deux semaines avant la date du scrutin et, pour le second tour, le
+lendemain de la date limite fixée pour le dépôt des candidatures.
 
 **Liens relatifs à cet article**
 
@@ -15103,7 +15101,7 @@ présentation sur la liste, tel qu'il résulte de la déclaration.
 
 	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
 
 	**Cité par**:
 
@@ -15113,8 +15111,10 @@ présentation sur la liste, tel qu'il résulte de la déclaration.
 
 ###### Article R*102
 
-Lorsqu'il y a lieu à application du premier alinéa de l'article L. 163, il est immédiatement procédé à la publication par le
-commissaire de la République de la modification intervenue.
+Lorsqu'il y a lieu à application de l'article L. 163, la désignation du remplaçant doit être notifiée au préfet au plus tard
+le cinquième jour précédant le scrutin.
+
+Il est immédiatement procédé, dès enregistrement, à la publication du changement intervenu.
 
 **Liens relatifs à cet article**
 
@@ -15124,7 +15124,7 @@ commissaire de la République de la modification intervenue.
 
 	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
 
 	**Cité par**:
 
@@ -15132,16 +15132,18 @@ commissaire de la République de la modification intervenue.
 
 	**Cite**:
 
-	  - Code électoral L163al. 1
+	  - Code électoral L163 al. 1
 
 
 #### Chapitre VI : Propagande
 
 ###### Article R*103
 
-Sur tout bulletin de vote imprimé à l'occasion de l'élection des députés à l'Assemblée nationale, le nom des candidats
-figurant aux deux derniers rangs doit être imprimé en caractères de moindres dimensions que le nom des autres candidats de la
-liste.
+Tout bulletin de vote imprimé à l'occasion de l'élection des députés à l'Assemblée nationale doit comporter le nom du
+candidat et l'une des mentions suivantes : "remplaçant éventuel", "remplaçant", "suppléant éventuel" ou "suppléant", suivie
+du nom de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article L.O 176-1.
+
+Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que celui du candidat.
 
 **Liens relatifs à cet article**
 
@@ -15159,30 +15161,19 @@ liste.
 
 	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 2 JORF 26 novembre 1985
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
 
 	**Cite**:
 
-	  - Code électoral - art. LO176 (M)
+	  - Code électoral - art. LO176-1 (V)
 
 
 #### Chapitre VIII : Opérations de vote
 
 ###### Article R*104
 
-N'entrent pas en compte dans le résultat de dépouillement :
-
-- les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue à l'article R. 101 ;
-
-- les bulletins non conformes aux dispositions des articles L. 165 et R. 103 ;
-
-- les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ;
-
-- les bulletins manuscrits ;
-
-- les circulaires utilisées comme bulletins ;
-
-- les bulletins qui ne sont pas imprimés en caractères noirs.
+Les bulletins manuscrits sont valables s'ils comportent le nom du candidat pour lequel l'électeur désire voter, suivi du nom
+du remplaçant désigné par ce candidat sur sa déclaration de candidature.
 
 **Liens relatifs à cet article**
 
@@ -15198,22 +15189,16 @@ N'entrent pas en compte dans le résultat de dépouillement :
 
 	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L165 (M)
-	  - Code électoral - art. R*101 (M)
-	  - Code électoral - art. R*103 (M)
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. R66-1 (V)
 
 
-###### Article R*105
+###### Article R*106
 
-Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+Dès que le dépouillement est terminé, un exemplaire des procés-verbaux des opérations électorales de chaque commune,
 accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
 recensement instituée par l'article L. 175 soit par porteur, soit sous pli postal recommandé.
 
@@ -15223,41 +15208,6 @@ recensement instituée par l'article L. 175 soit par porteur, soit sous pli post
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
-	**Modifié par**:
-
-	  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L175 (M)
-
-
-###### Article R*106
-
-Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
-verbaux Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il est opéré, pour chaque département, par une
-commission instituée par arrêté du commissaire de la République.
-
-Cette commission comprend :
-
-- un magistrat désigné par le premier président de la cour d'appel, président ;
-
-- deux juges désignés par la même autorité :
-
-- un conseiller général et un fonctionnaire de préfecture désigné par le commissaire de la République.
-
-Un représentant de chacune des listes des candidats peut assister aux opérations de la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
-
-	**Modifié par**:
-
-	  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
-
 	**Cité par**:
 
 	  - Décret n°86-170 du 6 février 1986 - art. 1 (Ab)
@@ -15266,10 +15216,27 @@ Un représentant de chacune des listes des candidats peut assister aux opératio
 	  - Code électoral - art. R177-2 (V)
 	  - Code électoral - art. R214 (V)
 
+	**Modifié par**:
+
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
+
+	**Cite**:
+
+	  - Code électoral - art. L175 (M)
+
 
 ###### Article R*107
 
-L'opération du recensement général des votes est constatée par un procès-verbal.
+Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procés-
+verbaux. Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il est opéré, pour chaque circonscription
+électorale, par une commission instituée par arrêté du préfet.
+
+Cette commission comprend un magistrat désigné par le premier président de la cour d'appel, président, deux juges désignés
+par la même autorité, un conseiller général et un fonctionnaire de préfecture désignés par le préfet.
+
+Un représentant de chacun des candidats peut assister aux opérations de la commission.
+
+Une même commission peut effectuer le recensement des votes de plusieurs circonscriptions.
 
 **Liens relatifs à cet article**
 
@@ -15293,13 +15260,12 @@ L'opération du recensement général des votes est constatée par un procès-ve
 
 	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
 
 
 ###### Article R*108
 
-La commission, après avoir procédé, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux, proclame les
-résultats en public.
+L'opération du recensement général des votes est constatée par un procès-verbal.
 
 **Liens relatifs à cet article**
 
@@ -15309,7 +15275,7 @@ résultats en public.
 
 	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
 
 	**Cité par**:
 
@@ -15320,24 +15286,14 @@ résultats en public.
 
 ###### Article R*109
 
-Dans le cas où l'élection a lieu au scrutin uninominal, elle est régie par les dispositions des articles R. 98 à R. 109 du
-présent code dans leur rédaction antérieure au décret n° 85-1235 du 22 novembre 1985 qui sont maintenues en vigueur à ce seul
-effet et annexées au présent code.
+La commission, après avoir procédé, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux, proclame les
+résultats en public.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
-
-	**Cite**:
-
-	  - Décret n°85-1235 1985-11-22
-	  - Code électoral - art. R*98 (M)
-
-	**Modifié par**:
-
-	  - Décret n°85-1235 1985-11-22 art. 4 JORF 26 novembre 1985
 
 	**Cité par**:
 
@@ -15346,6 +15302,47 @@ effet et annexées au présent code.
 	  - Décret n°2014-290 du 4 mars 2014 - art. 20 (V)
 	  - Décret n°2014-290 du 4 mars 2014 - art. 33 (V)
 	  - Code électoral - art. R*109 (M)
+
+	**Modifié par**:
+
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
+
+
+###### Article R105
+
+N'entrent pas en compte dans le résultat du dépouillement :
+
+1° Les bulletins imprimés ne répondant pas aux conditions prévues par l'article R. 103 ;
+
+2° Les bulletins imprimés différents de ceux qui ont été produits par le candidat ;
+
+3° Les bulletins établis au nom d'un candidat dont la déclaration de candidature n'a pas été définitivement enregistrée à la
+préfecture ;
+
+4° Les bulletins manuscrits ne comportant qu'un seul nom, ou comportant l'indication d'un remplaçant autre que celui qui a
+été désigné par le candidat, ou sur lequel le nom du remplaçant a été inscrit avant celui du candidat ;
+
+5° Les bulletins sur lesquels le nom du candidat ou du remplaçant a été rayé ;
+
+6° Les bulletins comportant un ou plusieurs noms autres que ceux du candidat et du remplaçant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Modifié par**:
+
+	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 13 () JORF 13 octobre 2006
+
+	**Cite**:
+
+	  - Code électoral - art. R*103 (M)
 
 
 ### Titre III : Dispositions spéciales à l'élection des conseillers généraux
@@ -16511,10 +16508,7 @@ du maire, qui précise le lieu de la réunion ainsi que son heure, si elle n'a p
 
 Les déclarations de candidatures établies en double exemplaire peuvent être rédigées sur papier libre. Elles doivent
 comporter, outre les mentions prévues aux articles L. 298, L. 299 et L. 300, l'indication des listes électorales sur
-lesquelles les candidats, et leurs remplaçants lorsqu'il y a lieu, sont inscrits.
-
-S'ils sont naturalisés Français, les candidats, et le cas échéant leurs remplaçants, doivent préciser la date à laquelle ils
-ont acquis la nationalité française.
+lesquelles les candidats, et leurs remplaçants lorsqu'il y en a, sont inscrits.
 
 **Liens relatifs à cet article**
 
@@ -16522,20 +16516,19 @@ ont acquis la nationalité française.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
-
 	**Cité par**:
 
 	  - Décret n°83-734 du 9 août 1983 - art. 1 (Ab)
 	  - Décret n°2014-290 du 4 mars 2014 - art. 39 (V)
 
+	**Modifié par**:
+
+	  - Décret n°87-71 1987-02-06 art. 3 JORF 7 février 1987
+
 	**Cite**:
 
 	  - Code électoral - art. L298 (M)
-	  - Code électoral - art. L299 (M)
-	  - Code électoral - art. L300 (M)
+	  - Code électoral L298, L299 et L300
 
 
 ###### Article R*150
