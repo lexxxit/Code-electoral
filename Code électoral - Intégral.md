@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1982-03-03
+Version Consolidée au 1982-11-20
 
 # Partie législative
 
@@ -6913,19 +6913,6 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 #### Chapitre Ier : Dispositions applicables à toutes les communes
 
 ##### Section 1 : Composition des conseils municipaux et durée du mandat des conseillers
-
-###### Article L226
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°82-974 du 19 novembre 1982, art. 19 v. init.
-
 
 ###### Article L227
 
