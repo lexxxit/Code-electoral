@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1999-03-21
+Version Consolidée au 1999-03-26
 
 # Partie législative
 
@@ -20280,13 +20280,9 @@ Les personnes appelées à remplacer les députés, les conseillers régionaux, 
 conseillers généraux dans les conditions prévues par l'article L. 282 doivent être désignées préalablement à l'élection des
 délégués des conseils municipaux et de leurs suppléants.
 
-Le président du conseil général ou le président du conseil régional en accuse réception aux députés, aux conseillers
-régionaux, aux conseillers à l'assemblée de Corse ou aux conseillers généraux remplacés et les notifie au préfet dans les
-vingt-quatre heures.
-
-Par dérogation aux dispositions des alinéas précédents, le président de l'assemblée de Corse désigne les remplaçants des
-conseillers à l'assemblée de Corse qui sont en même temps députés préalablement à l'élection des délégués de l'assemblée de
-Corse.
+Le président du conseil général, le président du conseil régional ou le président de l'assemblée de Corse en accuse réception
+aux députés, aux conseillers régionaux, aux conseillers à l'assemblée de Corse ou aux conseillers généraux remplacés et les
+notifie au préfet dans les vingt-quatre heures.
 
 Les désignations faites en vertu du présent article sont de droit.
 
@@ -20296,13 +20292,10 @@ Les désignations faites en vertu du présent article sont de droit.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Créé par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 5 () JORF 16 juillet 1991
+	  - Décret n°99-232 1999-03-24 art. 4 I, II jorf 26 mars 1999
+	  - Décret n°99-232 du 24 mars 1999 - art. 4 ()
 
 	**Cite**:
 
@@ -20749,7 +20742,7 @@ du maire, qui précise le lieu de la réunion ainsi que son heure, si elle n'a p
 
 ###### Article R*148-1
 
-L'élection prévue à l'article L. 293-3 du code électoral a lieu sans débat et au scrutin secret.
+Les élections prévues aux articles L. 293-1 et L. 293-2 du code électoral ont lieu sans débat et au scrutin secret.
 
 **Liens relatifs à cet article**
 
@@ -20761,41 +20754,14 @@ L'élection prévue à l'article L. 293-3 du code électoral a lieu sans débat 
 
 	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
-
-	**Cite**:
-
-	  - Code électoral - art. L293-3 (M)
-
-
-###### Article R*148-2
-
-Dans le cas où, en application du deuxième alinéa de l'article L. 282, un remplaçant a été désigné à un conseiller de
-l'assemblée de Corse cumulant ce mandat avec celui de député, seul ce remplaçant peut figurer sur une liste de candidats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Créé par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°99-232 du 24 mars 1999 - art. 7 (V) JORF 26 mars 1999
+	  - Décret n°99-232 du 24 mars 1999 - art. 6 ()
 
 	**Cite**:
 
-	  - Code électoral - art. L282 (M)
+	  - Code électoral - art. L293-1 (M)
+	  - Code électoral - art. L293-2 (M)
 
 
 ###### Article R*148-3
@@ -21667,9 +21633,11 @@ titre Ier du livre Ier (partie réglementaire) du présent code et par les dispo
 
 #### Chapitre V : Déclarations de candidatures
 
-###### Article R183
+###### Article R*183
 
-Les déclarations de candidatures sont reçues à la préfecture à compter du cinquième lundi qui précède le jour du scrutin.
+Les déclarations de candidature en vue du premier tour de scrutin sont reçues à compter du cinquième lundi qui précède le
+jour de ce premier tour. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le
+premier tour.
 
 Elles sont rédigées sur papier libre.
 
@@ -21685,22 +21653,26 @@ Elles sont rédigées sur papier libre.
 
 	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+	  - Décret n°99-232 du 24 mars 1999 - art. 1 ()
 
 
 ###### Article R184
 
-L'état des listes de candidats est arrêté, dans l'ordre du dépôt des listes, par le préfet du département et publié au plus
-tard le troisième samedi qui précède le jour du scrutin.
+L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre du dépôt des listes, par le préfet de
+région et publié au plus tard le troisième samedi qui précède le jour de ce premier tour.
 
-Cet état indique pour chaque liste son titre ainsi que les nom et prénoms des candidats, énumérés dans l'ordre de leur
-présentation sur la liste, tel qu'il résulte de la déclaration.
+L'état des listes de candidats au second tour est, s'il y a lieu, arrêté dans les mêmes conditions et publié le mercredi qui
+suit le premier tour. Il fait l'objet, le cas échéant, de publications complémentaires lorsqu'il a été fait application du
+quatrième alinéa de l'article L. 351.
+
+Pour chacun des deux tours, l'état indique pour chaque liste son titre ainsi que les nom et prénoms des candidats, énumérés
+dans l'ordre de leur présentation sur la liste, tel qu'il résulte de la déclaration.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 1964-10-27 art. 2 JORF 28 OCTOBRE 1964
 
 	**Liens**:
 
@@ -21708,7 +21680,11 @@ présentation sur la liste, tel qu'il résulte de la déclaration.
 
 	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+	  - Décret n°99-232 du 24 mars 1999 - art. 2 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L351 (M)
 
 	**Cité par**:
 
@@ -21840,8 +21816,13 @@ recensement instituée par l'article L. 359, soit par porteur, soit sous pli pos
 
 ###### Article R189
 
-Les dispositions des articles R. 107 à R. 109 sont applicables à la composition et au fonctionnement de la commission
-instituée par l'article L. 359.
+La commission départementale de recensement des votes prévue à l'article L. 359 du code électoral est instituée par arrêté du
+préfet du département.
+
+Elle comprend trois magistrats, dont le président de la commission, désignés par le premier président de la cour d'appel, un
+conseiller général et un fonctionnaire désigné par le préfet.
+
+Un représentant de chacune des listes peut assister aux opérations de la commission.
 
 **Liens relatifs à cet article**
 
@@ -21855,13 +21836,53 @@ instituée par l'article L. 359.
 
 	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
-	  - Décret n°91-653 du 15 juillet 1991 - art. 3 () JORF 16 juillet 1991
+	  - Décret n°99-232 du 24 mars 1999 - art. 3 ()
 
 	**Cite**:
 
 	  - Code électoral - art. L359 (M)
-	  - Code électoral L359, R107 à R109
+
+
+###### Article R189-1
+
+La commission départementale effectue le recensement des votes dès la fermeture du scrutin et au fur et à mesure de l'arrivée
+des procès-verbaux. Elle procède, s'il y a lieu, au redressement des chiffres portés sur ceux-ci.
+
+Les résultats du recensement des votes sont constatés par un procès-verbal établi en double exemplaire et signé de tous les
+membres de la commission. Le premier exemplaire est transmis sans délai, sous pli fermé, au président de la commission
+compétente pour le département où se trouve le chef-lieu de la région ; le second exemplaire, auquel sont joints avec leurs
+annexes les procès-verbaux des opérations de vote dans les communes, est remis au préfet du département. La commission rend
+publics les résultats du recensement auquel elle a procédé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-232 du 24 mars 1999 - art. 3 ()
+
+
+###### Article R189-2
+
+La commission compétente pour le département où se trouve le chef-lieu de la région procède au recensement général des votes.
+Elle ne peut modifier les résultats constatés par chaque commission départementale.
+
+Elle proclame les résultats du scrutin.
+
+Le procès-verbal qu'elle établit est remis au préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-232 du 24 mars 1999 - art. 3 ()
 
 
 #### Chapitre X : Contentieux
