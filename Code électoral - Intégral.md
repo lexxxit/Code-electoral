@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-08
 
 # Partie législative
 
@@ -6152,59 +6152,61 @@ même mandat antérieurement à sa nomination.
 Ne peuvent être élus membres du conseil général :
 
 1° Les commissaires et commissaires-adjoints de la République, secrétaires généraux et secrétaires en chef de sous-
-préfecture, dans le département où ils exercent leurs fonctions;
+préfecture, dans le département où ils exercent leurs fonctions ;
 
-2° Les magistrats du siège et du parquet des cours d'appel, dans le ressort de leur juridiction;
+2° Les magistrats du siège et du parquet des cours d'appel, dans le ressort de leur juridiction ;
 
-3° Les membres des tribunaux administratifs et des chambres régionales des comptes, dans le ressort de leur juridiction;
+3° Les membres des tribunaux administratifs ainsi que les magistrats et les secrétaires généraux des chambres régionales des
+comptes, dans le ressort de leur juridiction ;
 
-4° Les magistrats des tribunaux de grande instance et d'instance, dans le ressort de leur juridiction;
+4° Les magistrats des tribunaux de grande instance et d'instance, dans le ressort de leur juridiction ;
 
 5° Les officiers des armées de terre, de mer et de l'air dans l'étendue de toute circonscription comprise dans le ressort où,
-dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois;
+dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois ;
 
-6° Les fonctionnaires des corps actifs de police dans les cantons où ils exercent leurs fonctions;
+6° Les fonctionnaires des corps actifs de police dans les cantons où ils exercent leurs fonctions ;
 
 7° Dans les départements où ils exercent leurs fonctions : les ingénieurs en chef, ingénieurs en chef adjoints et ingénieurs
-des ponts et chaussées;
+des ponts et chaussées ;
 
-8° Les ingénieurs du service ordinaire des mines, dans les cantons de leur ressort;
+8° Les ingénieurs du service ordinaire des mines, dans les cantons de leur ressort ;
 
-9° Les recteurs d'académie, dans le ressort de l'académie;
+9° Les recteurs d'académie, dans le ressort de l'académie ;
 
 10° Les inspecteurs d'académie et les inspecteurs de l'enseignement primaire dans le département où ils exercent leurs
-fonctions;
+fonctions ;
 
 11° Les agents et comptables de tout ordre, employés à l'assiette, à la perception et au recouvrement des contributions
 directes ou indirectes, et au paiement des dépenses publiques de toute nature, dans le département où ils exercent leurs
-fonctions;
+fonctions ;
 
 12° Les directeurs départementaux et inspecteurs principaux des postes et télécommunications, dans le département où ils
-exercent leurs fonctions;
+exercent leurs fonctions ;
 
 13° Les ingénieurs en chef chargés de la direction d'un établissement du service des manufactures de tabac, les inspecteurs
 des manufactures de tabac et les directeurs du service de la culture et des magasins de tabac, dans le département où ils
-exercent leurs fonctions;
+exercent leurs fonctions ;
 
 14° Les ingénieurs en chef, ingénieurs principaux, ingénieurs des travaux et autres agents du génie rural, des eaux et des
-forêts dans les cantons de leur ressort;
+forêts dans les cantons de leur ressort ;
 
-15° Les inspecteurs des instruments de mesure dans les cantons de leur ressort;
+15° Les inspecteurs des instruments de mesure dans les cantons de leur ressort ;
 
 16° Les directeurs départementaux et inspecteurs de l'action sanitaire et sociale dans le département où ils exercent leurs
-fonctions.
+fonctions ;
 
 17° Les directeurs et chefs de service régionaux des administrations civiles de l'Etat dans les départements où ils exercent
 leurs fonctions ;
 
-18° Les directeurs généraux, directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de
-conseil régional.
+18° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
+directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil général et de conseil régional
+dans la circonscription où ils exercent leurs fonctions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -6223,7 +6225,7 @@ conseil régional.
 
 	**Modifié par**:
 
-	  - Loi n°84-594 1984-07-12 ART. 48 JORF 13 juillet 1984
+	  - Loi n°86-16 1986-01-06 ART. 33 I et II JORF 8 janvier 1986
 
 	**Anciens textes**:
 
@@ -7185,8 +7187,8 @@ Ne sont pas éligibles dans le ressort où ils exercent leurs fonctions :
 
 7° les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
-7° bis les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général
-et de conseil régional ;
+7° bis les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux,
+les directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional ;
 
 8° en tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs en chef adjoints et
 ingénieurs des ponts et chaussées, les ingénieurs divisionnaires et ingénieurs des travaux publics de l'État, les chefs de
@@ -7195,11 +7197,6 @@ section principaux et chefs de section des travaux publics de l'État ;
 9° les agents salariés de la commune, parmi lesquels ne sont pas compris ceux qui, étant fonctionnaires publics ou exerçant
 une profession indépendante, ne reçoivent une indemnité de la commune qu'à raison des services qu'ils lui rendent dans
 l'exercice de cette profession.
-
-**Nota:**
-
-NOTA : pour l'application du 7° du présent article à la collectivité territoriale de Mayotte, voir l'ordonnance 122 du 10
-février 1977, article 5.
 
 **Liens relatifs à cet article**
 
@@ -7210,6 +7207,7 @@ février 1977, article 5.
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance n°77-122 du 10 février 1977 - art. 5 (M)
+	  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
 
 	**Cité par**:
 
@@ -7226,8 +7224,7 @@ février 1977, article 5.
 
 	**Modifié par**:
 
-	  - Loi n°82-213 du 2 mars 1982 - art. 86 () JORF 3 mars 1982
-	  - Loi n°82-974 1982-11-19 art. 13 JORF 20 novembre 1982 en vigueur le 13 mars 1983
+	  - Loi n°86-16 1986-01-06 art. 33 IV JORF 8 janvier 1986
 
 
 ###### Article L232
@@ -10183,8 +10180,8 @@ devaient y être inscrits à ce jour.
 
 Ne sont pas éligibles :
 
-1° Les personnes titulaires d'une des fonctions énumérées aux articles L. 195 et L. 196 lorsque cette fonction s'exerce sur
-tout ou partie du territoire de la région ;
+1° Les personnes énumérées aux articles L. 195 et L. 196 lorsque leurs fonctions concernent tout ou partie du territoire de
+la région ;
 
 2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et affectés au secrétariat général pour les
 affaires régionales en qualité de secrétaire général ou de chargé de mission.
@@ -10200,9 +10197,9 @@ Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers r�
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+	  - Loi n°86-16 1986-01-06 art. 33 III JORF 8 janvier 1986
 
 	**Cite**:
 
@@ -10372,15 +10369,18 @@ Une déclaration de candidature est obligatoire pour chaque liste de candidats.
 Elle résulte du dépôt à la préfecture d'une liste comprenant autant de candidats qu'il y a de sièges à pourvoir dans le
 département.
 
+Toutefois, dans les départements comportant un nombre de sièges à pourvoir égal ou inférieur à cinq, cette liste comprend un
+nombre de candidats égal au nombre de sièges à pourvoir augmenté de deux.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+	  - Loi n°86-16 du 6 janvier 1986 - art. 39 () JORF 8 janvier 1986
 
 	**Cité par**:
 
