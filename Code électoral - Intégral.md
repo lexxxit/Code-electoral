@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1984-07-13
+Version Consolidée au 1985-01-26
 
 # Partie législative
 
@@ -74,8 +74,8 @@ six mois avec sursis, pour un délit autre que ceux énumérés au 2°, sous ré
 
 4° ceux qui sont en état de contumace;
 
-5° les faillis non réhabilités dont la faillite a été déclarée soit par des tribunaux français, soit par un jugement rendu à
-l'étranger, mais exécutoire en France;
+5° les personnes condamnées à la faillite personnelle ou dont la faillite a été déclarée par un jugement rendu à l'étranger
+mais exécutoire en France;
 
 6° les majeurs en tutelle.
 
@@ -313,7 +313,11 @@ l'étranger, mais exécutoire en France;
 
 	**Modifié par**:
 
-	  - Loi n°69-419 1969-05-10 art. 1 JORF 11 mai 1969
+	  - Loi n°85-98 du 25 janvier 1985 - art. 220 () JORF 26 janvier 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: loi 85-98 1985-01-26 art. 242, art. 243
 
 
 ###### Article L6
@@ -6280,7 +6284,9 @@ de deux ans.
 
 ###### Article L202
 
-Ainsi qu'il est dit à l'article 472 du code de commerce, sont inéligibles les débiteurs admis au règlement judiciaire.
+Conformément à l'article 194 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaire
+des entreprises sont inéligibles les personnes physiques à l'égard desquelles la liquidation judiciaire, la faillite
+personnelle ou l'interdiction de gérer prévue par l'article 192 de la loi précitée a été prononcée.
 
 **Liens relatifs à cet article**
 
@@ -6294,10 +6300,22 @@ Ainsi qu'il est dit à l'article 472 du code de commerce, sont inéligibles les 
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-98 1985-01-25 art. 242 et art. 243
+
 	**Cite**:
 
-	  - Loi n°67-563 du 13 juillet 1967 - art. 110 (Ab)
-	  - Code de commerce 472
+	  - Loi n°85-98 du 25 janvier 1985 - art. 192 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 194 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 220 () JORF 26 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 188 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article L203
