@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1998-10-01
+Version Consolidée au 1998-12-10
 
 # Partie législative
 
@@ -19610,6 +19610,56 @@ candidat intéressé et au préfet.
 
 #### Chapitre Ier : Dispositions applicables à toutes les communes
 
+##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris
+
+###### Article R117-2
+
+Les dispositions des articles R. 5, R. 7, R. 8 à R. 22 sont applicables à l'établissement et à la révision des listes
+électorales complémentaires instituées par l'article LO 227-2.
+
+L'avis d'inscription ou de radiation prévu par l'article R. 20 comporte en outre la mention de la nationalité de l'électeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°98-1110 du 8 décembre 1998 - art. 1 ()
+
+	**Cite**:
+
+	  - Code électoral - art. LO227-2 (V)
+	  - Code électoral - art. R*20 (M)
+	  - Code électoral - art. R*5 (M)
+	  - Code électoral - art. R*7 (M)
+	  - Code électoral R5, R7, R8 à R22, R20, LO227-2
+
+
+###### Article R117-3
+
+Une carte électorale d'un modèle spécial, valable pour les seules élections des conseillers municipaux et des membres du
+conseil de Paris, est délivrée à tout électeur inscrit sur une liste électorale complémentaire. Les dispositions des articles
+R. 24 et R. 25 sont applicables à cette carte électorale qui mentionne en outre la nationalité de l'électeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°98-1110 du 8 décembre 1998 - art. 1 ()
+
+	**Cite**:
+
+	  - Code électoral - art. R*24 (M)
+	  - Code électoral - art. R*25 (M)
+
+
 ##### Section 6 : Opérations de vote
 
 ###### Article R118
@@ -20016,6 +20066,54 @@ préparatoires à ce scrutin.
 	  - Code électoral - art. R266 (Ab)
 	  - Code électoral - art. R268 (Ab)
 	  - Code électoral - art. R269 (V)
+
+
+##### Section 2 : Déclarations de candidature
+
+###### Article R128-1
+
+Les documents officiels prévus au b du deuxième alinéa de l'article LO 265-1 sont les suivants :
+
+1° Si le candidat est électeur dans la commune où il se présente, une attestation d'inscription sur la liste électorale
+complémentaire de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la candidature ou
+une copie certifiée conforme de la décision de justice ordonnant l'inscription de l'intéressé ;
+
+2° Si le candidat est électeur dans une autre commune que celle où il se présente, une attestation d'inscription sur la liste
+électorale complémentaire de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la
+candidature ou une copie certifiée conforme de la décision de justice ordonnant l'inscription de l'intéressé ;
+
+3° Dans les autres cas, une copie certifiée conforme de la carte de séjour du candidat, ainsi qu'un bulletin n° 3 du casier
+judiciaire délivré depuis moins de trois mois.
+
+Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir l'une des pièces mentionnées à l'article R.
+128 requises du candidat français qui n'est pas électeur dans la commune où il se présente.
+
+Le dernier alinéa de l'article R. 128 est applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-80 du 8 février 1989 - art. 12 (V)
+
+	**Créé par**:
+
+	  - Décret n°98-1110 du 8 décembre 1998 - art. 2 ()
+
+	**Cite**:
+
+	  - Code électoral - art. LO265-1 (V)
+	  - Code électoral - art. R128 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R124 (VD)
+	  - Code électoral - art. R266 (Ab)
+	  - Code électoral - art. R268 (Ab)
 
 
 ##### Section 2 : Déclarations de candidatures
