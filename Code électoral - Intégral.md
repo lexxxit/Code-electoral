@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1991-08-02
+Version Consolidée au 1992-12-15
 
 # Partie législative
 
@@ -15635,86 +15635,78 @@ afnor II/1, sans travaux de repiquage;
 	  - TXT_ASSOCIE: Code électoral - art. L167 (V)
 
 
-###### Article R39-2
-
-Chaque don d'un montant au plus égal à 20 000 F consenti à un mandataire prévu par l'article L. 52-4 par une personne
-physique dûment identifiée fait l'objet d'un reçu en deux volets établi conformément à un modèle fixé par arrêté du ministre
-chargé du budget.
-
-Le premier volet, signé du mandataire, atteste le montant et la date du versement ainsi que l'identité du mandataire et celle
-du donateur. Le deuxième volet, non signé, reproduit les mêmes indications, à l'exception de l'identité du mandataire. Les
-deux volets sont transmis à la Commission nationale des comptes de campagne et des financements politiques en même temps que
-le compte de campagne. La commission, au vu des justificatifs de recettes annexés audit compte, estampille le deuxième volet
-dont elle fait retour au mandataire pour être remis au donateur. Ce volet est seul produit à l'appui de toute déclaration
-ouvrant droit à réduction d'impôt sur le revenu au titre de l'article 238 bis du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis
-	  - Code électoral - art. L52-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°90-606 1990-07-09 art. 1 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
-
-
-###### Article R39-4
-
-Si le juge de l'élection n'est pas saisi, les comptes et leurs annexes sont retournés au préfet par la Commission nationale
-des comptes de campagne et des financements politiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°90-606 1990-07-09 art. 1 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
-
-	**Cité par**:
-
-	  - Décret n°97-673 du 31 mai 1997 - art. 3 (V)
-
-
 #### Chapitre V bis : Financement et plafonnement des dépenses électorales
 
 ###### Article R39-1
 
-Chaque don consenti à un mandataire prévu par l'article L. 52-4, s'il émane d'une personne physique et excède un montant de
-20 000 F ou s'il émane d'une personne morale quel que soit son montant, fait l'objet d'un reçu délivré par le mandataire.
+Le mandataire prévu par le premier alinéa de l'article L. 52-4 délivre à chaque donateur, quel que soit le montant du don
+consenti, un reçu détaché d'un carnet à souches numérotées, édité par la Commission nationale des comptes de campagne et des
+financements politiques. Le reçu délivré à une personne physique est produit à l'appui de toute déclaration qui ouvre droit à
+une réduction de l'impôt sur le revenu, au titre du 2 bis de l'article 200 du code général des impôts.
 
-Le reçu atteste le montant et la date du versement ainsi que l'identité du mandataire et celle du donateur. Il est établi
-conformément à un modèle fixé par arrêté du ministre chargé du budget. Il est produit à l'appui de toute déclaration ouvrant
-droit à réduction d'impôt sur le revenu au titre de l'article 238 bis du code général des impôts.
+Les souches des reçus utilisés sont jointes aux comptes de campagne soumis au contrôle de la commission nationale ; elles
+sont accompagnées d'un relevé du compte bancaire ou postal unique ouvert par le mandataire, attestant la réalité de
+l'encaissement des fonds correspondants ; les reçus non utilisés sont retournés à la commission, avec les souches
+correspondantes.
+
+La souche et le reçu mentionnent le montant et la date du versement ainsi que l'identité et l'adresse du domicile fiscal ou
+du lieu d'imposition du donateur ; la souche indique également s'il s'agit d'une personne physique ou morale. Le reçu est
+signé par le donateur.
+
+Lorsque le don, quel qu'en soit le montant, émane d'une personne morale ou lorsque, consenti par une personne physique, il
+est supérieur à 20 000 F, le reçu comporte le nom et l'adresse du mandataire prévu au premier alinéa de l'article L. 52-4.
+
+Le reçu délivré à une personne physique qui a consenti un don égal ou inférieur à 20 000 F ne comporte pas les mentions
+relatives au mandataire.
+
+La Commission nationale des comptes de campagne et des financements politiques peut mettre en cause la validité du reçu
+délivré par le mandataire et enregistré par elle si elle constate, lors du contrôle du compte de campagne, une irrégularité
+au regard des dispositions des articles L. 52-4 à L. 52-13 et L. 52-16.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 238 bis
-	  - Code électoral - art. L52-4 (M)
+	  - CGI 200
+	  - Code électoral - art. L52-16 (V)
+	  - Code électoral L52-4 à L52-13, L52-16
 
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-606 1990-07-09 art. 1 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+	  - Décret n°92-1300 du 14 décembre 1992 - art. 1 ()
 
 	**Cité par**:
 
 	  - Code électoral - art. R175 (V)
 	  - Code électoral - art. R175-2 (V)
 	  - Code électoral - art. R205 (V)
+
+
+###### Article R39-2
+
+Lors du dépôt des comptes de campagne dans les préfectures, effectué conformément aux dispositions de l'article L. 52-12, les
+pièces annexes relatives aux recettes et faisant apparaître des informations nominatives sont insérées dans une enveloppe
+spéciale éditée par la Commission nationale des comptes de campagne et des financements politiques qui ne peut être ouverte
+que par elle. La commission conserve ces pièces jusqu'au 31 décembre de la troisième année qui suit celle au cours de
+laquelle a été produit le compte de campagne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°92-1300 du 14 décembre 1992 - art. 1 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12 (M)
 
 
 ###### Article R39-3
@@ -15736,6 +15728,31 @@ candidats sont notifiées au préfet.
 	**Cité par**:
 
 	  - Code électoral - art. R175-3 (V)
+
+
+###### Article R39-4
+
+Si le juge de l'élection n'est pas saisi, les comptes de campagne et leurs annexes, à l'exclusion de toute pièce de recette à
+caractère nominatif, sont retournés aux préfets par la Commission nationale des comptes de campagne et des financements
+politiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°92-1300 du 14 décembre 1992 - art. 2 ()
+
+	**Cité par**:
+
+	  - Décret n°97-673 du 31 mai 1997 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code électoral 11
 
 
 #### Chapitre VI : Vote
