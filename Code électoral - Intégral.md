@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-06-22
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -9731,6 +9731,32 @@ réputées avoir opté pour la conservation dudit emploi.
 	  - Code électoral - art. L239 (V)
 
 
+###### Article L237-1
+
+La fonction d'élu municipal est incompatible avec l'emploi salarié d'un centre communal d'action sociale de la commune dont
+l'élu local est le représentant.
+
+Ces dispositions sont applicables aux représentants des établissements publics de coopération intercommunale lorsqu'un centre
+intercommunal d'action sociale a été créé.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 148 () JORF 17 août 2004
+
+
 ###### Article L238
 
 Nul ne peut être membre de plusieurs conseils municipaux.
@@ -9785,9 +9811,9 @@ municipaux et communautaires, y compris aux opérations préparatoires à ce scr
 ###### Article L239
 
 Tout conseiller municipal qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
-d'incompatibilité prévus par les articles L. 46, L. 237 et L. 238, est immédiatement déclaré démissionnaire par le préfet,
-sauf réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au Conseil d'État,
-conformément aux articles L. 249 et L. 250.
+d'incompatibilité prévus par les articles L. 46, L. 237, L. 237-1 et L. 238, est immédiatement déclaré démissionnaire par le
+préfet, sauf réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au Conseil d'Etat,
+conformément aux articles L. 249 et L. 250. 
 
 Toutefois, l'élu qui se trouvera dans un des cas d'incompatibilité prévus au quatrième alinéa de l'article L. 238 ci-dessus
 occupera ses fonctions jusqu'au renouvellement du conseil intéressé.
@@ -9800,7 +9826,7 @@ occupera ses fonctions jusqu'au renouvellement du conseil intéressé.
 
 	**Modifié par**:
 
-	  - Loi n°80-1057 1980-12-23 art. 2 JORF 26 décembre 1980
+	  - Loi n°2004-809 du 13 août 2004 - art. 148 () JORF 17 août 2004
 
 	**Cité par**:
 
@@ -9809,10 +9835,9 @@ occupera ses fonctions jusqu'au renouvellement du conseil intéressé.
 
 	**Cite**:
 
-	  - Code électoral - art. L237 (M)
-	  - Code électoral - art. L238 (M)
+	  - Code électoral - art. L237 (V)
+	  - Code électoral - art. L238 (VT)
 	  - Code électoral - art. L249 (V)
-	  - Code électoral - art. L250 (V)
 	  - Code électoral - art. L46 (V)
 
 
