@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1995-05-12
+Version Consolidée au 1995-12-20
 
 # Partie législative
 
@@ -5382,14 +5382,17 @@ L'Assemblée nationale se renouvelle intégralement.
 
 ###### Article LO121
 
-Les pouvoirs de l'Assemblée nationale expirent à l'ouverture de la session ordinaire d'avril de la cinquième année qui suit
-son élection.
+Les pouvoirs de l'Assemblée nationale expirent le premier mardi d'avril de la cinquième année qui suit son élection.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°95-1292 du 16 décembre 1995 - art. 1 ()
 
 
 ###### Article LO122
@@ -10213,14 +10216,18 @@ approximativement égale, suivant le tableau n° 5 annexé au présent code.
 
 ###### Article LO277
 
-Dans chaque série, le mandat des sénateurs commence à l'ouverture de la session ordinaire d'octobre qui suit leur élection,
-date à laquelle expire le mandat des sénateurs antérieurement en fonctions.
+Dans chaque série, le mandat des sénateurs commence à l'ouverture de la session ordinaire qui suit leur élection, date à
+laquelle expire le mandat des sénateurs antérieurement en fonctions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°95-1292 du 16 décembre 1995 - art. 2 ()
 
 
 ###### Article LO278
