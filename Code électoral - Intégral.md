@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1991-07-16
+Version Consolidée au 1991-07-27
 
 # Partie législative
 
@@ -7931,6 +7931,10 @@ d'inéligibilité prévus par les articles L. 195, L. 199 et L. 200 ou se trouve
 la qualité d'électeur, est déclaré démissionnaire par le conseil général soit d'office, soit sur la réclamation de tout
 électeur.
 
+Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller général déclaré comptable
+de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans
+les six mois de l'expiration du délai de production des comptes imparti par ledit jugement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7939,7 +7943,7 @@ la qualité d'électeur, est déclaré démissionnaire par le conseil général 
 
 	**Modifié par**:
 
-	  - Loi n°69-419 1969-05-10 art. 18 JORF 11 mai 1969
+	  - Loi n°91-716 du 26 juillet 1991 - art. 41 () JORF 27 juillet 1991
 
 	**Cite**:
 
@@ -8858,11 +8862,19 @@ d'inéligibilité prévus par les articles L. 230, L. 231 et L. 232 est immédia
 de la République, sauf réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au
 Conseil d'État conformément aux articles L. 249 et L. 250.
 
+Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller municipal déclaré
+comptable de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa
+gestion dans les six mois de l'expiration du délai de production des comptes imparti par ledit jugement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°91-716 du 26 juillet 1991 - art. 41 () JORF 27 juillet 1991
 
 	**Cite**:
 
@@ -13379,6 +13391,10 @@ Tout conseiller régional qui, pour une cause survenue postérieurement à son �
 prévu à l'article précédent ou se trouve frappé d'une des incapacités qui font perdre la qualité d'électeur, est déclaré
 démissionnaire d'office par arrêté du représentant de l'Etat dans la région.
 
+Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller régional déclaré comptable
+de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans
+les six mois de l'expiration du délai de production des comptes imparti par ledit jugement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13391,8 +13407,7 @@ démissionnaire d'office par arrêté du représentant de l'Etat dans la région
 
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+	  - Loi n°91-716 du 26 juillet 1991 - art. 41 () JORF 27 juillet 1991
 
 	**Cite**:
 
