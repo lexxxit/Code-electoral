@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1976-03-30
+Version Consolidée au 1976-04-01
 
 # Partie législative
 
@@ -8610,6 +8610,48 @@ par arrêté interministériel.
 	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
+###### Article R34
+
+La commission de propagande reçoit du commissaire de la République les enveloppes nécessaires à l'expédition des circulaires
+et bulletins de vote et fait préparer leur libellé.
+
+Elle est chargée :
+
+- de dresser la liste des imprimeurs agréés par elle pour procéder à l'impression des documents électoraux;
+
+- d'adresser, au plus tard le mercredi précédant le premier tour de scrutin et, en cas de ballottage, le jeudi précédant le
+second tour, à tous les électeurs de la circonscription, dans une même enveloppe fermée qui sera acheminée en franchise, une
+circulaire et un bulletin de vote de chaque candidat ou de chaque liste;
+
+- d'envoyer dans chaque mairie de la circonscription, au plus tard le mercredi précédant le premier tour de scrutin et, en
+cas de ballottage, le jeudi précédant le second tour, les bulletins de vote de chaque candidat ou de chaque liste en nombre
+au moins égal à celui des électeurs inscrits.
+
+Lorsque la circonscription électorale comprend des bureaux de vote dotés d'une machine à voter, la commission n'envoie pas
+aux mairies des bulletins de vote pour ces bureaux; elle n'en adresse pas aux électeurs qui y sont inscrits.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°64-231 du 14 mars 1964 - art. 16 (Ab)
+	  - Décret n°80-213 du 11 mars 1980 - art. 4 (Ab)
+	  - Arrêté du 26 mars 2012 - art. 1 (V)
+	  - Décret n°2012-498 du 17 avril 2012 (V)
+	  - Code électoral - art. R174-1 (V)
+	  - Code électoral - art. R176-4-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 2 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°76-285 1976-03-26 art. 1 JORF 1er avril 1976
+
+
 ###### Article R35
 
 En vue de l'acheminement des documents électoraux prévus à l'article précédent, les services publics départementaux prêteront
@@ -9508,6 +9550,38 @@ que les candidatures mentionnées sur la machine à voter correspondent à celle
 	  - Code de l'environnement - art. R123-50 (V)
 
 
+###### Article R56
+
+Des affiches contenant le texte des articles L. 10 à L. 14, L. 36, L.7-1, L. 60, L. 62 à L. 66, L. 86, L. 87, L. 113 à L.
+116, R. 54 et R. 65 sont fournies par l'administration préfectorale et placardées, par les soins de la municipalité, à
+l'entrée de chaque mairie pendant la période électorale et à l'entrée de chaque bureau de vote le jour du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-746 1969-07-24 art. 8 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°76-285 1976-03-26 art. 2 JORF 1er avril 1976
+
+	**Cité par**:
+
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Code du travail - art. R513-13 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. L36 (V)
+	  - Code électoral - art. L60 (M)
+	  - Code électoral - art. L86 (M)
+	  - Code électoral - art. L87 (V)
+	  - Code électoral L10 à L14, L36, L7-1, L60, L62 à L66, L86, L87, L113 à L116
+
+
 ###### Article R57
 
 Le président du bureau de vote constate publiquement et mentionne au procès-verbal l'heure d'ouverture et l'heure de clôture
@@ -9861,6 +9935,51 @@ ou par les délégués des candidats.
 	**Modifié par**:
 
 	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R66-1
+
+Dans les bureaux de vote dotés d'une machine à voter, il est procédé au dénombrement des suffrages immédiatement après la
+clôture du scrutin, conformément aux dispositions prévues par le second alinéa de l'article L. 65. Ce dénombrement est
+assimilé au dépouillement du scrutin pour l'application du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°69-746 1969-07-24 art. 10 JORF 26 juillet 1969
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°76-285 1976-03-26 art. 3 JORF 1er avril 1976
+
+	**Cité par**:
+
+	  - Décret n°2001-213 du 8 mars 2001 - art. 22 (M)
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 8 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 8 (V)
+	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+	  - Code général des collectivités territoriales - art. R1112-8 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L174 (M)
+	  - TXT_ASSOCIE: Code électoral - art. L268 (V)
+	  - TXT_ASSOCIE: Code électoral - art. L269 (V)
+	  - TXT_ASSOCIE: Code électoral - art. R*104 (M)
+	  - TXT_ASSOCIE: Code électoral L165 AL. 2, L174, R104, R105
+
+	**Cite**:
+
+	  - Code électoral - art. L65 (M)
 
 
 ###### Article R67
