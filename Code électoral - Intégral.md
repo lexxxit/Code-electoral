@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2003-04-12
+Version Consolidée au 2003-07-22
 
 # Partie législative
 
@@ -16830,6 +16830,30 @@ le candidat tête de liste ou son mandataire, n'a pas statué dans le délai pr�
 	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
+###### Article L421
+
+Aucun retrait de candidat n'est accepté après le dépôt de la liste.
+
+En cas de décès de l'un des candidats, ses colistiers doivent le remplacer immédiatement par un nouveau candidat au rang qui
+leur convient. Cette nouvelle candidature fait l'objet d'une déclaration complémentaire soumise aux règles prévues ci-dessus.
+
+Toutefois, par dérogation aux dispositions de l'alinéa précédent, demeurent valables sans modification les listes portant le
+nom d'un candidat décédé postérieurement au huitième jour précédant le scrutin.
+
+Les listes complètes peuvent être retirées au plus tard le quatrième samedi précédant le scrutin, à midi. La déclaration de
+retrait est signée par la majorité des candidats de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 65 (V) JORF 22 juillet 2003
+
+
 ###### Article L422
 
 La date des élections est fixée par décret ; les collèges électoraux sont convoqués par arrêté de l'administrateur supérieur.
@@ -16958,32 +16982,6 @@ que du ou des élus inéligibles. Le Conseil d'Etat proclame en conséquence l'�
 
 Le membre de l'assemblée territoriale dont l'élection est contestée reste en fonction jusqu'à ce qu'il ait été définitivement
 statué sur la réclamation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
-
-### Titre V : Dispositions applicables à l'élection des membres de l'assemblée des iles Wallis et Futuna
-
-###### Article L421
-
-Le candidat placé en tête de liste, ou son mandataire, dispose d'un délai de quarante-huit heures pour contester le refus
-d'enregistrement devant le conseil du contentieux administratif, qui statue dans les trois jours. La décision du conseil du
-contentieux administratif ne peut être contestée qu'à l'occasion d'un recours contre l'élection.
-
-Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités, ou par la
-présence d'un candidat sur plusieurs listes ou dans plus d'une circonscription, la liste dispose, pour se compléter, de
-quarante-huit heures à compter de ce refus ou de la décision du conseil du contentieux administratif confirmant le refus.
-
-Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le conseil du contentieux administratif, saisi par
-le candidat tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
 
 **Liens relatifs à cet article**
 
