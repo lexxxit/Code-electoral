@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-09-01
 
 # Partie législative
 
@@ -19934,6 +19934,47 @@ candidats sont notifiées au préfet.
 	**Cité par**:
 
 	  - Code électoral - art. R175-3 (V)
+
+
+###### Article R39-4
+
+Le président de la Commission nationale des comptes de campagne et des financements politiques est ordonnateur principal des
+recettes et des dépenses de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°97-673 du 31 mai 1997 - art. 3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-1106 du 30 août 2002 - art. 1 ()
+
+
+###### Article R39-5
+
+Le président de la Commission nationale des comptes de campagne et des financements politiques émet, en qualité d'ordonnateur
+principal, les titres de perception nécessaires au recouvrement des sommes mentionnées au dernier alinéa de l'article L.
+52-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-1106 du 30 août 2002 - art. 1 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L52-15 (VT)
 
 
 #### Chapitre VI : Vote
