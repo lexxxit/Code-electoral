@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-09-01
+Version Consolidée au 2004-12-10
 
 # Partie législative
 
@@ -3670,14 +3670,14 @@ tour de scrutin.
 ###### Article L57-1
 
 Des machines à voter peuvent être utilisées dans les bureaux de vote des communes de plus de 3 500 habitants figurant sur une
-liste qui sera fixée par décret en Conseil d'Etat.
+liste arrêtée dans chaque département par le représentant de l'Etat.
 
 Les machines à voter doivent être d'un modèle agréé par arrêté du ministre de l'Intérieur et satisfaire aux conditions
 suivantes :
 
 - comporter un dispositif qui soustrait l'électeur aux regards pendant le vote ;
 
-- permettre plusieurs élections de type différent le même jour à compter du 1er janvier 1991 ;
+- permettre plusieurs élections de type différent le même jour à compter du 1er janvier 1991  ;
 
 - permettre l'enregistrement d'un vote blanc ;
 
@@ -3707,16 +3707,14 @@ des assesseurs.
 	  - Code électoral - art. L562 (M)
 	  - Code électoral - art. R56 (V)
 
-	**Modifié par**:
-
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 3 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 4 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 5 () JORF 4 janvier 1989
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2004-238 du 18 mars 2004
 	  - TXT_SOURCE: Décret n°2004-238 du 18 mars 2004 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 2004-12-09 art. 14 1° JORF 10 décembre 2004
 
 
 ###### Article L58
@@ -14489,8 +14487,8 @@ de la liste sur laquelle ils figuraient au premier tour.
 
 ###### Article L347
 
-La déclaration de candidature résulte du dépôt à la préfecture de région d'une liste répondant aux conditions fixées aux
-articles L. 338, L. 346 et L. 348.
+La déclaration de candidature résulte du dépôt à la préfecture chef-lieu de la région d'une liste répondant aux conditions
+fixées aux articles L. 338, L. 346 et L. 348.
 
 Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
 établi par ce candidat. Elle indique expressément :
@@ -14512,7 +14510,7 @@ composition d'une liste n'a pas été modifiée.
 
 	**Modifié par**:
 
-	  - Loi n°2003-327 du 11 avril 2003 - art. 6 () JORF 12 avril 2003
+	  - Loi n°2004-1343 2004-12-09 art. 14 2° JORF 10 décembre 2004
 
 	**Cite**:
 
@@ -14558,13 +14556,13 @@ candidats.
 ###### Article L350
 
 Pour le premier tour, les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du
-scrutin, à midi. Il en est donné récépissé provisoire.
+scrutin, à midi. Il en est donné récépissé provisoire. 
 
 Elles sont enregistrées si les conditions prévues aux articles L. 339, L. 340, L. 341-1 et L. 346 à L. 348 sont remplies. Le
-refus d'enregistrement est motivé.
+refus d'enregistrement est motivé. 
 
-Un récépissé définitif est délivré par le représentant de l'Etat dans la région, après enregistrement, au plus tard le
-quatrième vendredi qui précède le jour du scrutin, à midi.
+Un récépissé définitif est délivré par le représentant de l'Etat dans le département chef-lieu de la région, après
+enregistrement, au plus tard le quatrième vendredi qui précède le jour du scrutin, à midi. 
 
 Pour le second tour, les déclarations de candidature sont déposées au plus tard le mardi suivant le premier tour, à dix-huit
 heures. Récépissé définitif est délivré immédiatement aux listes répondant aux conditions fixées aux articles L. 346 et L.
@@ -14576,22 +14574,16 @@ heures. Récépissé définitif est délivré immédiatement aux listes réponda
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 	**Modifié par**:
 
-	  - Loi n°99-36 du 19 janvier 1999 - art. 6 ()
+	  - Loi n°2004-1343 2004-12-09 art. 14 3° JORF 10 décembre 2004
 
 	**Cite**:
 
-	  - Code électoral - art. L339 (M)
-	  - Code électoral - art. L340 (M)
-	  - Code électoral - art. L341-1 (M)
-	  - Code électoral - art. L346 (M)
-	  - Code électoral - art. L347 (M)
-	  - Code électoral L339, L340, L341-1, L346 à L348, L346, L347
+	  - Code électoral - art. L339 (V)
+	  - Code électoral - art. L341-1 (V)
+	  - Code électoral - art. L346 (V)
+	  - Code électoral - art. L347 (V)
 
 	**Cité par**:
 
