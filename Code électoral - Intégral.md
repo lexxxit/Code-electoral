@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-07-31
 
 # Partie législative
 
@@ -11088,17 +11088,18 @@ L. 240, L. 241, L. 244 et L. 256.
 
 ###### Article LO274
 
-Le nombre de sénateurs élus dans les départements est de trois cent quatre.
+Le nombre des sénateurs élus dans les départements est de trois cent vingt-six.
+
+**Nota:**
+
+Loi n° 2003-696 du 30 juillet 2003 art. 5 II : A titre transitoire, le nombre des sénateurs élus dans les départements sera
+de 313 en 2004, de 322 en 2007.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°64-1084 1964-10-24
 
 	**Cité par**:
 
@@ -11108,18 +11109,22 @@ Le nombre de sénateurs élus dans les départements est de trois cent quatre.
 
 	**Modifié par**:
 
-	  - Loi organique 86-957 1986-08-13 art. 3 JORF 14 août 1986
+	  - Loi organique 2003-696 2003-07-30 art. 5 I JORF 31 juillet 2003
 
 
 ###### Article LO275
 
-Les sénateurs sont élus pour neuf ans.
+Les sénateurs sont élus pour six ans.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2003-696 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -11721,8 +11726,7 @@ du tableau des électeurs sénatoriaux mentionné à l'article L. 292.
 
 ###### Article L294
 
-Dans les départements qui ont droit à deux sièges de sénateurs ou moins, l'élection a lieu au scrutin majoritaire à deux
-tours.
+Dans les départements où sont élus trois sénateurs ou moins, l'élection a lieu au scrutin majoritaire à deux tours.
 
 Nul n'est élu sénateur au premier tour du scrutin s'il n'a réuni :
 
@@ -11738,29 +11742,17 @@ Au second tour de scrutin, la majorité relative suffit. En cas d'égalité des 
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 9 () JORF 11 juillet 2000
+	  - Loi n°2003-697 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
 
 
 ###### Article L295
 
-Dans les départements qui ont droit à trois sièges de sénateurs ou plus, l'élection a lieu à la représentation
-proportionnelle suivant la règle de la plus forte moyenne, sans panachage ni vote préférentiel.
+Dans les départements où sont élus quatre sénateurs ou plus, l'élection a lieu à la représentation proportionnelle suivant la
+règle de la plus forte moyenne, sans panachage ni vote préférentiel.
 
 Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre de présentation.
-
-**Nota:**
-
-(1) NOTA :
-
-En application de l'article 3 de la loi n° 66-504 du 12 juillet 1966, "par dérogation aux dispositions de l'article L. 294,
-est maintenu pour les départements nouveaux de l'Essonne, du Val-d'Oise et des Yvelines le mode d'attribution de sièges de
-l'ancien département de Seine-et-Oise, tel qu'il est déterminé à l'article L. 295 du code électoral".
 
 **Liens relatifs à cet article**
 
@@ -11772,27 +11764,23 @@ l'ancien département de Seine-et-Oise, tel qu'il est déterminé à l'article L
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 10 () JORF 11 juillet 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+	  - Loi n°2003-697 du 30 juillet 2003 - art. 6 () JORF 31 juillet 2003
 
 
 #### Chapitre II : Conditions d'éligibilité et inéligibilités
 
 ###### Article LO296
 
-Nul ne peut être élu au Sénat s'il n'est âgé de trente-cinq ans révolus.
+Nul ne peut être élu au Sénat s'il n'est âgé de trente ans révolus.
 
 Les autres conditions d'éligibilité et les inéligibilités sont les mêmes que pour l'élection à l'Assemblée nationale.
 
 Toutefois, pour l'application de l'alinéa précédent, n'est pas réputée faire acte de candidature contre un sénateur devenu
-membre du Gouvernement la personne qui a été appelée à le remplacer dans les conditions prévues à l'article L.O.319
+membre du Gouvernement la personne qui a été appelée à le remplacer dans les conditions prévues à l'article L. O. 319
 lorsqu'elle se présente sur la même liste que lui.
 
 **Liens relatifs à cet article**
@@ -11801,13 +11789,13 @@ lorsqu'elle se présente sur la même liste que lui.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Loi n°79-633 1979-07-26 article unique JORF 17 juillet 1979
-
 	**Cité par**:
 
 	  - Loi n°83-499 du 17 juin 1983 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-696 du 30 juillet 2003 - art. 4 () JORF 31 juillet 2003
 
 	**Cite**:
 
@@ -13912,6 +13900,31 @@ effet à compter du prochain renouvellement de la série à laquelle Mayotte app
 	**Modifié par**:
 
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article LO334-14-1
+
+Deux sénateurs sont élus à Mayotte.
+
+Les dispositions organiques du Livre II du présent code sont applicables à l'élection des sénateurs de Mayotte.
+
+**Nota:**
+
+NOTA : Loi 2003-696 du 30 juillet 2003 art. 8 IIII : les dispositions de l'article 8 I prennent effet à compter du prochain
+renouvellement de la série à laquelle Mayotte appartient.
+
+Nota : Les dispositions de la loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article LO334-14-1 du code électoral prennent
+effet à compter du renouvellement de la série à laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Loi n°2003-696 du 30 juillet 2003 - art. 8 (V) JORF 31 juillet 2003
 
 
 #### Chapitre VI : Conditions d'application
@@ -17380,36 +17393,6 @@ du code général des collectivités territoriales ".
 	  - Code électoral - art. L290 (V)
 
 
-###### Article L440
-
-La répartition des sièges de sénateurs s'effectue comme suit :
-
-Nouvelle-Calédonie : 1 ;
-
-Polynésie française : 1 ;
-
-Iles Wallis-et-Futuna : 1.
-
-**Nota:**
-
-Loi 2003-697 du 30 juillet 2003 art. 3 III : Cet article sera abrogé à compter du prochain renouvellement de la série à
-laquelle la Nouvelle-Calédonie et la Polynésie française appartiennent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-	**Créé par**:
-
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
-	**Abrogé par**:
-
-	  - Loi n°2003-697 2003-07-30 art. 3 I JORF 31 juillet 2003
-
-
 ###### Article L441
 
 Les sénateurs sont élus par un collège électoral composé :
@@ -17453,23 +17436,14 @@ III. - Dans les îles Wallis et Futuna :
 
 ###### Article L442
 
-Le renouvellement du sénateur de la Polynésie française et du sénateur des îles Wallis et Futuna a lieu à la même date que
-celui des sénateurs de la série A prévue à l'article LO 276 ; le renouvellement du sénateur de la Nouvelle-Calédonie a lieu à
-la même date que celui des sénateurs de la série B prévue au même article.
+Le renouvellement des sénateurs de la Polynésie française et du sénateur des îles Wallis et Futuna a lieu à la même date que
+celui des sénateurs de la série 2 prévue à l'article LO. 276 ; le renouvellement des sénateurs de la Nouvelle-Calédonie a
+lieu à la même date que celui des sénateurs de la série 1 prévue au même article.
 
 **Nota:**
 
-Loi 2003-697 du 30 juillet 2003 art. 3 II : L'article L. 442 du code électoral est ainsi modifié :
-
-1° Les mots : du sénateur de la Polynésie française et du sénateur de la Nouvelle-Calédonie sont remplacés respectivement par
-les mots :
-
-des sénateurs de la Polynésie française et des sénateurs de la Nouvelle-Calédonie ;
-
-2° Les mots : série A et série B sont remplacés respectivement par les mots : série 2 et série 1.
-
-Les dispositions du 1° prennent effet à compter du prochain renouvellement de la série à laquelle la Nouvelle-Calédonie et la
-Polynésie française appartiennent.
+Loi 2003-697 du 30 juillet 2003 art. 3 III : Les dispositions du 1° du II prennent effet à compter du prochain renouvellement
+de la série à laquelle la Nouvelle-Calédonie et la Polynésie française appartiennent. 
 
 Les dispositions du 2° prennent effet à compter du renouvellement partiel de 2010.
 
@@ -17479,9 +17453,13 @@ Les dispositions du 2° prennent effet à compter du renouvellement partiel de 2
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2003-697 2003-07-30 art. 3 II JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code électoral - art. LO276 (V)
 
 
 ###### Article L443
@@ -17615,6 +17593,113 @@ vote par procuration. Il ne peut être établi plus de deux procurations au nom 
 	**Cité par**:
 
 	  - Code électoral - art. R282 (V)
+
+
+###### Article LO438-1
+
+Deux sénateurs sont élus en Nouvelle-Calédonie. 
+
+Deux sénateurs sont élus en Polynésie française. 
+
+Un sénateur est élu dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Loi 2003-696 du 30 juillet 2003 art. 6 III : Ces dispositions prennent effet pour la Nouvelle-Calédonie et la Polynésie
+française à compter du prochain renouvellement de la série à laquelle elles appartiennent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2003-696 du 30 juillet 2003 - art. 6 (V) JORF 31 juillet 2003
+
+
+###### Article LO438-2
+
+Les dispositions organiques du livre II, à l'exception de l'article LO 274, sont applicables à l'élection des sénateurs en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna sous réserve des dispositions suivantes :
+
+1° Pour la Nouvelle-Calédonie, il y a lieu de lire :
+
+a) "Nouvelle-Calédonie" au lieu de : "département" ;
+
+b) "haut-commissaire de la République" et "services du haut-commissaire de la République" au lieu de : "préfecture" ;
+
+c) "commissaire délégué de la République" au lieu de :
+
+"sous-préfet".
+
+2° Pour la Polynésie française, il y a lieu de lire :
+
+a) "Polynésie française" au lieu de : "département" ;
+
+b) "haut-commissaire de la République" et "services du haut-commissaire de la République" au lieu de : "préfet" et
+"préfecture" ;
+
+c) "chef de subdivision administrative" au lieu de :
+
+"sous-préfet".
+
+3° Pour les îles Wallis et Futuna, il y a lieu de lire :
+
+a) "Wallis et Futuna" au lieu de : "département" ;
+
+b) "administrateur supérieur" et "services de l'administrateur supérieur" au lieu de : "préfet" et "préfecture" ;
+
+c) "chef de circonscription territoriale" au lieu de :
+
+"sous-préfet".
+
+**Nota:**
+
+NOTA : Loi 2003-696 du 30 juillet 2003 art. 6 III : Ces dispositions prennent effet pour la Nouvelle-Calédonie et la
+Polynésie française à compter du prochain renouvellement de la série à laquelle elles appartiennent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2003-696 du 30 juillet 2003 - art. 6 (V) JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code électoral - art. LO274 (M)
+
+
+###### Article LO438-3
+
+Pour l'application des articles LO 131 et LO 133, un décret pris après avis conforme du Conseil d'Etat déterminera celles des
+fonctions exercées en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna qui sont assimilées,
+quelle que soit la collectivité dont elles relèvent, aux fonctions énumérées auxdits articles.
+
+**Nota:**
+
+Loi 2003-696 du 30 juillet 2003 art. 6 III : Ces dispositions prennent effet pour la Nouvelle-Calédonie et la Polynésie
+française à compter du prochain renouvellement de la série à laquelle elles appartiennent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2003-696 du 30 juillet 2003 - art. 6 (V) JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code électoral - art. LO131 (V)
+	  - Code électoral - art. LO133 (V)
 
 
 ### Titre VIII : Conditions d'application
@@ -36169,6 +36254,1255 @@ III - Les dispositions du I entreront en vigueur à compter du renouvellement pa
 
 	  - Loi n°66-504 du 12 juillet 1966, v. init.
 	  - Loi n°86-958 1986-08-13 art. 10 JORF 14 août 1986 rectificatif JORF du 1er octobre 1986
+
+
+### Nombre de sénateurs représentant les départements
+
+###### Article Annexe tableau n° 6
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="307">
+
+DÉPARTEMENTS
+
+</td>
+      <td valign="top" width="307">
+
+NOMBRE DE SÉNATEURS
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Ain
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Aisne
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Allier
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Alpes-de-Haute-Provence
+
+</td>
+      <td valign="top" width="307">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Alpes (Hautes-)
+
+</td>
+      <td valign="top" width="307">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Alpes-Maritimes
+
+</td>
+      <td width="307" valign="top">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Ardèche
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Ardennes
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Ariège
+
+</td>
+      <td valign="top" width="307">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Aube
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Aude
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Aveyron
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Belfort (Territoire de)
+
+</td>
+      <td valign="top" width="307">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Bouches-du-Rhône
+
+</td>
+      <td valign="top" width="307">
+
+8
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Calvados
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Cantal
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Charente
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Charente-Maritime
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Cher
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Corrèze
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Corse-du-Sud 
+
+</td>
+      <td width="307" valign="top">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Haute-Corse
+
+</td>
+      <td valign="top" width="307">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Côte d'Or
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Côtes-d'Armor
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Creuse
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Dordogne
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Doubs
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Drôme
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Eure 
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Eure-et-Loir
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Finistère
+
+</td>
+      <td valign="top" width="307">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Gard
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Garonne (Haute-)
+
+</td>
+      <td valign="top" width="307">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Gers
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Gironde
+
+</td>
+      <td valign="top" width="307">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Hérault
+
+</td>
+      <td valign="top" width="307">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Ille-et-Vilaine
+
+</td>
+      <td width="307" valign="top">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Indre
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Indre-et-Loire
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Isère
+
+</td>
+      <td width="307" valign="top">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Jura
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Landes
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Loir-et-Cher
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Loire
+
+</td>
+      <td valign="top" width="307">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Loire (Haute-)
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Loire-Atlantique
+
+</td>
+      <td valign="top" width="307">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Loiret
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Lot
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Lot-et-Garonne
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Lozère
+
+</td>
+      <td width="307" valign="top">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Maine-et-Loire
+
+</td>
+      <td width="307" valign="top">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Manche
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Marne
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Marne (Haute-)
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Mayenne
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Meurthe-et-Moselle
+
+</td>
+      <td width="307" valign="top">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Meuse
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Morbihan
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Moselle
+
+</td>
+      <td width="307" valign="top">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Nièvre
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Nord
+
+</td>
+      <td valign="top" width="307">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Oise
+
+</td>
+      <td width="307" valign="top">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Orne
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Pas-de-Calais
+
+</td>
+      <td valign="top" width="307">
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Puy-de-Dôme
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Pyrénées-Atlantiques
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Pyrénées (Hautes-)
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Pyrénées-Orientales
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Rhin (Bas-)
+
+</td>
+      <td width="307" valign="top">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Rhin (Haut-)
+
+</td>
+      <td valign="top" width="307">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Rhône
+
+</td>
+      <td valign="top" width="307">
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Saône (Haute-)
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Saône-et-Loire
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Sarthe
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Savoie
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Savoie (Haute-)
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Seine-Maritime
+
+</td>
+      <td width="307" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Seine-et-Marne
+
+</td>
+      <td width="307" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Sèvres (Deux-)
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Somme
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Tarn
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Tarn-et-Garonne
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Var
+
+</td>
+      <td width="307" valign="top">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Vaucluse
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Vendée
+
+</td>
+      <td valign="top" width="307">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Vienne
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Vienne (Haute-)
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Vosges
+
+</td>
+      <td width="307" valign="top">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Yonne
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Guadeloupe
+
+</td>
+      <td width="307" valign="top">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Guyane
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Martinique
+
+</td>
+      <td valign="top" width="307">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Réunion
+
+</td>
+      <td valign="top" width="307">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Essonne
+
+</td>
+      <td valign="top" width="307">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Paris
+
+</td>
+      <td width="307" valign="top">
+
+12
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Hauts-de-Seine
+
+</td>
+      <td valign="top" width="307">
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Seine-Saint-Denis
+
+</td>
+      <td width="307" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Val-de-Marne
+
+</td>
+      <td valign="top" width="307">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Val-d'Oise
+
+</td>
+      <td width="307" valign="top">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Yvelines
+
+</td>
+      <td width="307" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Total
+
+</td>
+      <td width="307" valign="top">
+
+326
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+
+	**Modifié par**:
+
+	  - Loi n°66-504 du 12 juillet 1966, v. init.
+	  - Loi n°75-359 1975-05-15 art. 1 JORF 16 mai 1975
+	  - Loi n°76-645 1976-07-16 art. 1 JORF 17 juillet 1976
+	  - Loi n°76-1219 1976-12-28 art. 2 JORF 29 décembre 1976
+	  - Loi n°86-958 1986-08-13 art. 11 JORF 14 août 1986
+	  - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 
 ## Effectif des conseils régionaux et nombre de candidats par section départementale
