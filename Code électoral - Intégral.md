@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1986-03-16
+Version Consolidée au 1986-07-12
 
 # Partie législative
 
@@ -1341,15 +1341,13 @@ leur retour à la vie civile;
 3° les Français et Françaises remplissant la condition d'âge exigée pour être électeur, après la clôture des délais
 d'inscription.
 
+4° Les Français et Françaises qui ont été naturalisées aprés la clôture des délais d'inscription.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°69-419 1969-05-10 art. 4 JORF 11 mai 1969
 
 	**Cité par**:
 
@@ -1389,6 +1387,10 @@ d'inscription.
 	  - Code général des collectivités territoriales - art. LO1112-11 (VT)
 	  - Code électoral - art. L33-1 (VT)
 	  - Code électoral - art. R4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°86-825 du 11 juillet 1986 - art. 9 () JORF 12 juillet 1986
 
 
 ###### Article L31
@@ -4317,36 +4319,32 @@ de l'Assemblée nationale.
 
 ###### Article L123
 
-Les députés sont élus, dans les départements, au scrutin de liste à la représentation proportionnelle à la plus forte
-moyenne, sans panachage ni vote préférentiel. Le département forme une circonscription.
+Les députés sont élus au scrutin uninominal majoritaire à deux tours.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 1 () JORF 11 JUILLET 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 
 ###### Article L124
 
-Seules sont admises à la répartition des sièges les listes ayant obtenu au moins 5 % des suffrages exprimés. Les sièges sont
-attribués aux candidats d'après l'ordre de présentation sur chaque liste. Si plusieurs listes ont la même moyenne pour
-l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité
-de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être proclamés élus.
+Le vote a lieu par circonscription.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 1 () JORF 11 JUILLET 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 	**Cité par**:
 
@@ -4356,10 +4354,39 @@ de suffrages, le siège est attribué au plus âgé des candidats susceptibles d
 
 ###### Article L125
 
-Les sièges des députés élus dans les départements sont répartis conformément au tableau n° 1 annexé au présent code.
+Les circonscriptions sont déterminées conformément au tableau n° 1 annexé au présent code.
 
-La révision de la répartition des sièges a lieu au cours de la première session ordinaire du Parlement qui suit la
-publication des résultats du recensement général de la population.
+Il est procédé à la révision des limites des circonscriptions, en fonction de l'évolution démographique, après le deuxième
+recensement général de la population suivant la dernière délimitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Cité par**:
+
+	  - Loi n°85-691 du 10 juillet 1985 - art. 2 (Ab)
+	  - Code électoral - art. L334-7 (Ab)
+	  - Code électoral - art. L395 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-825 du 11 juillet 1986 - art. 2 () JORF 12 juillet 1986
+
+
+###### Article L126
+
+Nul n'est élu au premier tour de scrutin s'il n'a réuni :
+
+1° La majorité absolue des suffrages exprimés ;
+
+2° Un nombre de suffrages égal au quart du nombre des électeurs inscrits.
+
+Au deuxième tour la majorité relative suffit.
+
+En cas d'égalité de suffrages, le plus âgé des candidats est élu.
 
 **Liens relatifs à cet article**
 
@@ -4367,15 +4394,18 @@ publication des résultats du recensement général de la population.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 1 () JORF 11 JUILLET 1985
+	  - Loi n°85-690 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 	**Cité par**:
 
-	  - Loi n°85-691 du 10 juillet 1985 - art. 2 (Ab)
-	  - Code électoral - art. L334-7 (Ab)
-	  - Code électoral - art. L395 (M)
+	  - Code électoral - art. L178-1 (M)
+	  - Code électoral - art. L330-3 (VT)
 
 
 #### Chapitre III : Conditions d'éligibilité et inéligibilités
@@ -5116,17 +5146,14 @@ L'incompatibilité ne prend pas effet si le Gouvernement est démissionnaire ava
 
 ###### Article L154
 
-Les candidats sont tenus de faire une déclaration de candidature.
+Les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leurs nom, prénoms, date et lieu de
+naissance, domicile et profession.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-690 du 10 juillet 1985 - art. 2 () JORF 11 JUILLET 1985
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Cité par**:
 
@@ -5136,33 +5163,26 @@ Les candidats sont tenus de faire une déclaration de candidature.
 	  - Code électoral - art. L190 (V)
 	  - Code électoral - art. R99 (M)
 
+	**Modifié par**:
+
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
 
 ###### Article L155
 
-La déclaration de candidature résulte du dépôt à la préfecture d'une liste comprenant un nombre de candidats égal au nombre
-de sièges à pourvoir augmenté de deux.
+Cette déclaration doit également indiquer les nom, prénoms, date et lieu de naissance, domicile et profession de la personne
+appelée à remplacer le candidat élu en cas de vacance du siège. Elle doit être accompagnée de l'acceptation écrite du
+remplaçant ; celui-ci doit remplir les conditions d'éligibilité exigées des candidats.
 
-Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
-établi par ce candidat.
+Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de candidatures.
 
-La liste déposée comporte la signature de chacun des candidats. Elle indique expressément :
-
-1° Le titre de la liste;
-
-2° Les nom, prénoms, date et lieu de naissance, domicile et profession de chacun des candidats.
-
-La déclaration de candidature peut comporter l'indication d'un emblème que les candidats choisissent pour qu'il soit imprimé
-sur leur bulletin de vote.
+Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-690 du 10 juillet 1985 - art. 3 () JORF 11 JUILLET 1985
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Cité par**:
 
@@ -5173,23 +5193,27 @@ sur leur bulletin de vote.
 	  - Code électoral - art. L460 (VT)
 	  - Code électoral - art. R99 (M)
 
+	**Modifié par**:
+
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
 
 ###### Article L156
 
-Nul ne peut être candidat dans plus d'une circonscription électorale ni sur plus d'une liste.
+Nul ne peut être candidat dans plus d'une circonscription
 
-Est nul et non avenu l'enregistrement de listes portant le nom d'une ou plusieurs personnes ayant fait acte de candidature
-dans une autre circonscription ou figurant sur une autre liste de candidats.
+Si le candidat fait, contrairement aux prescriptions du présent article, acte de candidature dans plusieurs circonscriptions,
+sa candidature n'est pas enregistrée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 4 () JORF 11 JUILLET 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 	**Cité par**:
 
@@ -5222,22 +5246,18 @@ Il est donné au déposant un reçu provisoire de déclaration.
 
 ###### Article L158
 
-Le candidat tête de liste ou son mandataire verse entre les mains du trésorier-payeur général, agissant en qualité de préposé
-de la caisse des dépôts et consignations, un cautionnement de 1 000 F par siège à pourvoir.
+Chaque candidat doit verser entre les mains du trésorier-payeur général, agissant en qualité de préposé de la caisse des
+dépôts et consignations, un cautionnement de 1 000 F.
 
-Le cautionnement est remboursé aux listes qui ont obtenu au moins 5 p. 100 [*pourcentage minimum*] des suffrages exprimés.
+Le cautionnement est remboursé aux candidats qui ont obtenu à l'un des deux tours 5 % des suffrages exprimés.
 
-Sont prescrits et acquis au Trésor public les cautionnements non réclamés dans le délai d'un an à compter de leur dépôt.
+Sont prescrits et acquis au Trésor public les cautionnements non réclamés dans le délai d'un an à dater de leur dépôt.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-690 du 10 juillet 1985 - art. 5 () JORF 11 JUILLET 1985
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Cité par**:
 
@@ -5246,6 +5266,19 @@ Sont prescrits et acquis au Trésor public les cautionnements non réclamés dan
 	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
 	  - Code électoral - art. L168 (V)
 	  - Code électoral - art. L178-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
+	**Abrogé par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
 
 
 ###### Article L159
@@ -5286,53 +5319,65 @@ Le récépissé définitif n'est délivré que si la candidature est conforme au
 
 ###### Article L162
 
-Les retraits de liste sont autorisés pendant la période prévue au premier alinéa de l'article L. 157 du présent code ; ils
-prennent la forme d'une déclaration signée du candidat tête de liste et contresignée par la majorité des membres de la liste.
+Les déclarations de candidatures pour le second tour de scrutin doivent être déposées avant le mardi minuit qui suit le
+premier tour.
 
-Les retraits individuels de candidature ne sont pas autorisés.
+Toutefois si, par suite d'un cas de force majeure, le recensement des votes n'a pu être effectué dans le délai prévu à
+l'article L.175, les déclarations seront reçues jusqu'au mercredi minuit.
+
+Sous réserve des dispositions de l'article L. 163, nul ne peut être candidat au deuxième tour s'il ne s'est présenté au
+premier tour et s'il n'a obtenu un nombre de suffrages au moins égal à 12,5 % du nombre des électeurs inscrits.
+
+Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu après celui-ci le plus grand nombre de
+suffrages au premier tour peut se maintenir au second.
+
+Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
+premier tour peuvent se maintenir au second.
+
+Un candidat ne peut présenter pour le second tour de scrutin un remplaçant autre que celui qu'il avait désigné dans sa
+déclaration de candidature lors du premier tour.
+
+Les dispositions de l'article L. 159 sont applicables aux déclarations de candidatures pour le second tour de scrutin. Dans
+ce cas, le tribunal administratif statue dans un délai de vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 6 () JORF 11 JUILLET 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
+	**Cite**:
+
+	  - Code électoral - art. L159 (V)
+	  - Code électoral - art. L163 (M)
+	  - Code électoral - art. L175 (M)
 
 	**Cité par**:
 
 	  - Code électoral - art. L178-1 (M)
 	  - Code électoral - art. R*100 (M)
 
-	**Cite**:
-
-	  - Code électoral L157 AL. 1
-
 
 ###### Article L163
 
-En cas de décès d'un candidat postérieurement à l'expiration du délai prévu à l'article L. 157, il est procédé à la mise à
-jour de la liste par le dépôt en préfecture, en double exemplaire, dans les trois jours suivant le décès, d'une déclaration
-complémentaire signée du candidat tête de liste et d'un candidat nouveau appelé à compléter la liste au dernier rang.
+Lorsqu'un candidat décède postérieurement à l'expiration du délai prévu pour le dépôt des déclarations de candidatures, son
+remplaçant devient candidat et peut désigner un nouveau remplaçant.
 
-Toutefois, par dérogation aux dispositions de l'alinéa précedent, demeurent valables sans modification les listes portant le
-nom d'un candidat décédé posterieurement au huitième jour précédant le scrutin.
+Lorsqu'un remplaçant décède pendant la même période, le candidat peut désigner un nouveau remplaçant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 7 () JORF 11 JUILLET 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L157 (M)
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 	**Cité par**:
 
@@ -5394,12 +5439,12 @@ Les dispositions de l'article L. 51 sont applicables à partir du même jour.
 
 ###### Article L165
 
-Un décret en Conseil d'État fixe le nombre et les dimensions des affiches que chaque liste peut faire apposer sur les
-emplacements prévus à l'article L. 51 ainsi que le nombre et la dimension des circulaires et bulletins de vote que chaque
-liste peut faire imprimer et envoyer aux électeurs.
+Un décret en Conseil d' Etat fixe le nombre et les dimensions de s affiches que chaque candidat peut faire apposer sur les
+emplacements prévus à l'article L. 51 ainsi que le nombre et les dimensions des circulaires et bulletins de vote qu'il peut
+faire imprimer et envoyer aux électeurs.
 
-Le bulletin de vote comporte le titre de la liste, les noms de tous les candidats de la liste, classés dans un ordre conforme
-à celui de la déclaration de candidature et, éventuellement, un emblème imprimé choisi par les candidats.
+Sous réserve des dispositions de l'article L. 163 le bulletin de vote doit comporter le nom du candidat et celui du
+remplaçant.
 
 L'impression et l'utilisation, sous quelque forme que ce soit, de tout autre circulaire, affiche ou bulletin et de tout tract
 sont interdites.
@@ -5408,11 +5453,16 @@ sont interdites.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 8 () JORF 11 JUILLET 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
+	**Cite**:
+
+	  - Code électoral - art. L163 (M)
+	  - Code électoral - art. L51 (M)
 
 	**Cité par**:
 
@@ -5422,10 +5472,6 @@ sont interdites.
 	  - Code électoral - art. L558-28 (V)
 	  - Code électoral - art. R*104 (M)
 
-	**Cite**:
-
-	  - Code électoral - art. L51 (M)
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral R26 A R30 ET R103
@@ -5434,20 +5480,21 @@ sont interdites.
 ###### Article L166
 
 Vingt jours avant la date des élections, il est institué pour chaque circonscription une commission chargée d'assurer l'envoi
-et la distribution de tous les documents de propagande électorale. La composition et les conditions de fonctionnement de
-cette commission sont fixées par un décret en Conseil d'État.
+et la distribution de tous les documents de propagande électorale.
 
-Chaque candidat tête de liste ou son mandataire participe, avec voix consultative, aux travaux de cette commission.
+La composition et les conditions de fonctionnement de cette commission sont fixées par un décret en Conseil d'Etat.
+
+Les candidats désignent un mandataire qui participe aux travaux de cette commission avec voix consultative.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 9 () JORF 11 JUILLET 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 	**Cité par**:
 
@@ -5467,18 +5514,18 @@ Chaque candidat tête de liste ou son mandataire participe, avec voix consultati
 L'État prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 166
 ainsi que celles qui résultent de leur fonctionnement.
 
-En outre, il est remboursé aux listes ayant obtenu au moins 5 % des suffrages exprimés le coût du papier, l'impression des
-bulletins de vote, affiches, circulaires, ainsi que les frais d'affichage.
+En outre, il est remboursé aux candidats ayant obtenu au moins 5 % des suffrages exprimés le coût du papier, l'impression des
+bulletins de vote, affiches, circulaires ainsi que les frais d'affichage.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 10 () JORF 11 juillet 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 	**Cite**:
 
@@ -5501,8 +5548,8 @@ I. - Les partis et groupements peuvent utiliser les antennes du service public d
 campagne en vue des élections législatives. Chaque émission est diffusée par les sociétés nationales de télévision et de
 radiodiffusion sonore. Cette diffusion s'effectue simultanément sur les antennes des sociétés nationales de télévision.
 
-II. - Une durée d'émission de trois heures est mise à la disposition des partis et groupements représentés par des groupes
-parlementaires de l'Assemblée nationale.
+II. - Pour le premier tour de scrutin, une durée d'émission de trois heures est mise à la disposition des partis et
+groupements représentés par des groupes parlementaires de l'Assemblée nationale.
 
 Cette durée est divisée en deux séries égales, l'une étant affectée aux groupes qui appartiennent à la majorité, l'autre à
 ceux qui ne lui appartiennent pas.
@@ -5512,24 +5559,28 @@ entre les présidents des groupes intéressés. A défaut d'accord amiable, la r
 bureau de l'Assemblée nationale sortante, en tenant compte notamment de l'importance respective de ces groupes ; pour cette
 délibération, le bureau est complété par les présidents de groupe.
 
-III. - Tout parti ou groupement présentant des listes dans vingt circonscriptions au moins *nombre minimum* a accès aux
-antennes du service public de radiodiffusion et de télévision *condition*, pour une durée de sept minutes, dès lors qu'aucun
-de ses candidats n'appartient à l'un des groupements ou partis bénéficiant d'émissions au titre du paragraphe II.
+Les émissions précédant le deuxième tour de scrutin ont une durée d'une heure trente : elles sont réparties entre les mêmes
+partis et groupements et selon les mêmes proportions.
 
-L'habilitation est donnée à ces partis ou groupements dans des conditions fixées par décret.
+III. - Tout parti ou groupement présentant au premier tour de scrutin soixante-quinze candidats au moins [*nombre minimum*] a
+accès aux antennes de la radiodiffusion-télévision française pour une durée de sept minutes au premier tour et de cinq
+minutes au second, dès lors qu'aucun de ses candidats n'appartient à l'un des groupements ou partis bénéficiant d'émissions
+au titre du paragraphe II.
+
+L'habilitation est donnée à ces partis ou groupements dans des conditions qui seront fixées par décret.
 
 IV. - Les conditions de production, de programmation et de diffusion des émissions sont fixées, après consultation des
-conseils d'administration des sociétés nationales de télévision et de radiodiffusion, par la Haute Autorité de la
-communication audiovisuelle.
+conseils d'administration des sociétés nationales de télévision et de radiodiffusion, par le conseil supérieur de
+l'audiovisuel.
 
-V. - En ce qui concerne les émissions destinées à être reçues hors métropole, la Haute Autorité de la communication
-audiovisuelle tient compte des délais d'acheminement et des différences d'heures.
+V. - En ce qui concerne les émissions destinées à être reçues hors métropole, le conseil supérieur de l'audiovisuel tient
+compte des délais d'acheminement et des différences d'heures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Cité par**:
 
@@ -5541,7 +5592,7 @@ audiovisuelle tient compte des délais d'acheminement et des différences d'heur
 
 	**Modifié par**:
 
-	  - Loi n°85-1317 1985-12-13 art. 22 V JORF 14 Décembre 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 
 ###### Article L168
@@ -5661,18 +5712,18 @@ Les élections ont lieu le cinquième dimanche qui suit la publication du décre
 
 ###### Article L174
 
-Les voix données aux listes comprenant un candidat qui a fait acte de candidature sur plusieurs listes sont considérées comme
-nulles; ces listes ne peuvent obtenir aucun siège.
+Les voix données au candidat qui a fait acte de candidature dans plusieurs circonscriptions sont considérées comme nulles et
+le candidat ne peut être élu dans aucune circonscription.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-690 du 10 juillet 1985 - art. 12 () JORF 11 JUILLET 1985
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 	**Liens**:
 
@@ -5682,18 +5733,14 @@ nulles; ces listes ne peuvent obtenir aucun siège.
 ###### Article L175
 
 Le recensement général des votes est effectué, pour toute circonscription électorale, au chef-lieu du département, le lundi
-qui suit le scrutin, en présence des représentants des listes, par une commission dont la composition et le fonctionnement
+qui suit le scrutin, en présence des représentants des candidats, par une commission dont la composition et le fonctionnement
 sont précisés par un décret en Conseil d'État.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-690 du 10 juillet 1985 - art. 13 () JORF 11 JUILLET 1985
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Cité par**:
 
@@ -5705,18 +5752,16 @@ sont précisés par un décret en Conseil d'État.
 	  - Code électoral - art. R*105 (M)
 	  - Code électoral - art. R106 (V)
 
+	**Modifié par**:
+
+	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
 
 #### Chapitre IX : Remplacement des députés
 
 ###### Article L178-1
 
-Les élections partielles prévues à l'article L.O. 178 ont lieu selon les règles fixées pour les renouvellements normaux.
-
-Néanmoins, dans tous les cas où la vacance porte sur un seul siège, il y est pourvu par une élection au scrutin uninominal
-majoritaire à deux tours dans le cadre du département. Dans ces cas, les articles L. 124, L. 155, L. 158, L. 162, L. 163, L.
-165, L. 166 et L. 175 ne sont pas applicables à l'élection partielle, qui est régie par les dispositions de articles L. 126,
-L. 154, L. 1 155, L. 158, L. 162, L. 163, L. 165 à L. 167 et L. 175 du présent code dans leur rédaction antérieure à la loi
-n° 85-690 du 10 juillet 1985 et qui sont maintenues en vigueur et annexées au présent code à ce seul effet.
+Les élections partielles prévues à l'article LO. 178 ont lieu selon les règles fixées pour les renouvellements normaux.
 
 **Liens relatifs à cet article**
 
@@ -5724,25 +5769,13 @@ n° 85-690 du 10 juillet 1985 et qui sont maintenues en vigueur et annexées au 
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Loi n°86-825 du 11 juillet 1986 - art. 3 () JORF 12 juillet 1986
+
 	**Cite**:
 
-	  - Loi n°85-690 1985-07-10
-	  - Code électoral - art. L124 (M)
-	  - Code électoral - art. L126 (V)
-	  - Code électoral - art. L154 (M)
-	  - Code électoral - art. L155 (M)
-	  - Code électoral - art. L158 (M)
-	  - Code électoral - art. L162 (M)
-	  - Code électoral - art. L163 (M)
-	  - Code électoral - art. L165 (M)
-	  - Code électoral - art. L166 (M)
-	  - Code électoral - art. L167 (M)
-	  - Code électoral - art. L175 (M)
-	  - Code électoral - art. LO178 (M)
-
-	**Créé par**:
-
-	  - Loi n°85-690 du 10 juillet 1985 - art. 14 () JORF 11 JUILLET 1985
+	  - Code électoral - art. LO178 (VT)
 
 
 ###### Article LO176
