@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1985-12-14
+Version Consolidée au 1985-12-31
 
 # Partie législative
 
@@ -322,17 +322,9 @@ mais exécutoire en France;
 
 ###### Article L6
 
-Ne doivent pas être inscrits sur la liste électorale pendant un délai de cinq années à compter de la date à laquelle la
-condamnation est devenue définitive, les condamnés pour un délit visé à l'article L. 5 (3°), à une peine d'emprisonnement
-sans sursis égale ou supérieure à un mois et inférieure ou égale à trois mois, ou à une peine d'emprisonnement avec sursis
-égale ou supérieure à trois mois et inférieure ou égale à six mois, sous réserve des dispositions de l'article L. 8.
-
-Toutefois les tribunaux, en prononçant les condamnations visées au précédent alinéa, pourront relever les condamnés de cette
-privation temporaire du droit de vote et d'élection.
-
-Sans préjudice des dispositions de l'article L. 5 et du premier alinéa du présent article, ne doivent pas être inscrits sur
-la liste électorale pendant le délai fixé par le jugement ceux auxquels les tribunaux ont interdit le droit de vote et
-d'élection par application des lois qui autorisent cette interdiction.
+Sans préjudice des dispositions de l'article L. 5, ne doivent pas être inscrits sur la liste électorale, pendant le délai
+fixé par le jugement, ceux auxquels les tribunaux ont interdit le droit de vote et d'élection, par application des lois qui
+autorisent cette interdiction.
 
 **Liens relatifs à cet article**
 
@@ -474,70 +466,11 @@ d'élection par application des lois qui autorisent cette interdiction.
 
 	**Modifié par**:
 
-	  - Loi n°75-624 du 11 juillet 1975 - art. 62 () JORF 13 juillet 1975
+	  - Loi n°85-1407 1985-12-30 art. 83 JORF 31 Décembre 1985
 
 	**Cite**:
 
 	  - Code électoral - art. L5 (M)
-	  - Code électoral - art. L8 (Ab)
-
-
-###### Article L7
-
-Ne doivent pas être inscrits sur la liste électorale, pendant un délai de cinq années à compter de la date à laquelle la
-condamnation est devenue définitive, les individus condamnés à une peine supérieure à six jours d'emprisonnement en
-application des articles 283 à 290 du code pénal.
-
-Toutefois, la limitation de l'incapacité à cinq années ne sera pas applicable si le condamné était en état de récidive dans
-les conditions fixées à l'article 287 dudit code.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°46-2769 du 27 novembre 1946 - art. 56 (V)
-	  - Décret n°51-721 du 8 juin 1951 - art. 3 (Ab)
-	  - Décret n°72-350 du 2 mai 1972 - art. 16 (Ab)
-	  - Décret n°82-451 du 28 mai 1982 - art. 14 (V)
-	  - Décret n°82-452 du 28 mai 1982 - art. 10 (VT)
-	  - Loi n°82-471 du 7 juin 1982 - art. 2 (M)
-	  - Décret n°82-970 du 16 novembre 1982 - art. 30 (M)
-	  - Arrêté du 18 juin 1984 - art. 3 (V)
-	  - Décret n°85-565 du 30 mai 1985 - art. 11 (M)
-	  - Décret n°85-565 du 30 mai 1985 - art. 5 (VD)
-	  - Décret n°85-924 du 30 août 1985 - art. 25 (M)
-	  - Décret n°85-1003 du 19 septembre 1985 - art. 12 (Ab)
-	  - Décret n°88-950 du 6 octobre 1988 - art. 7 (Ab)
-	  - Décret n°89-229 du 17 avril 1989 - art. 11 (VD)
-	  - Arrêté du 29 avril 1996 - art. 3 (V)
-	  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 23 (V)
-	  - Décret n°97-813 du 27 août 1997 - art. 7 (Ab)
-	  - Décret n°98-596 du 13 juillet 1998 - art. 8 (V)
-	  - Décret n°98-644 du 22 juillet 1998 - art. 1 (V)
-	  - Arrêté du 21 juin 2004 - art. 3 (V)
-	  - Décret n°2005-1635 du 26 décembre 2005 - art. 6 (V)
-	  - Décret n°2007-730 du 7 mai 2007 - art. 6 (V)
-	  - Arrêté du 10 octobre 2014 - art. 8 (V)
-	  - Code de la mutualité - art. L125-3 (Ab)
-	  - Code de la route. - art. R327-12 (Ab)
-	  - Code de la sécurité sociale. - art. D231-7 (V)
-	  - Code de la sécurité sociale. - art. L231-6 (V)
-	  - Code du travail - art. R1423-15 (VD)
-	  - Code du travail - art. R236-26 (VT)
-	  - Code rural - art. L723-24 (V)
-	  - Code électoral - art. L199 (M)
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Abrogé par**:
-
-	  - Loi n°85-1407 1985-12-30 art. 84, JORF 31 Décembre 1985
-
-	**Cite**:
-
-	  - Code pénal 283 à 290, 287
 
 
 ###### Article L8
@@ -1864,6 +1797,55 @@ incompatibles avec les mandats qui font l'objet du livre I.
 	  - Code électoral - art. L239 (V)
 	  - Code électoral - art. L342 (V)
 	  - Code électoral - art. L558-15 (V)
+
+
+###### Article L46-1
+
+Nul ne peut cumuler plus de deux des mandats électoraux ou fonctions électives énumérés ci-après : représentant à l'Assemblée
+des communautés européennes, conseiller régional, conseiller général, conseiller de Paris, maire d'une commune de 20 000
+habitants ou plus, autre que Paris, adjoint au maire d'une commune de 100 000 habitants ou plus, autre que Paris.
+
+Quiconque se trouve dans ce cas doit faire cesser l'incompatibilité en démissionnant du mandat ou de la fonction de son
+choix. Il dispose à cet effet d'un délai de quinze jours à compter de la date de l'élection qui l'a mis en situation
+d'incompatibilité ou, en cas de contestation, de la date à laquelle le jugement confirmant cette élection est devenu
+définitif. A défaut d'option dans le délai imparti, le mandat ou la fonction acquis ou renouvelé à la date la plus récente
+prend fin de plein droit.
+
+Pour l'application du présent article, la population prise en compte est celle résultant du dernier recensement national
+connu au moment du renouvellement du conseil municipal.
+
+**Nota:**
+
+Loi n° 90-55 du 15 janvier 1990 JORF 16 janvier 1990 art. 17 : "Dans tous les textes législatifs et réglementaires, la
+référence à "l'Assemblée des communautés européennes" est remplacée par la référence au "Parlement européen".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
+	  - Loi n°85-1406 du 30 décembre 1985 - art. 10 (V)
+	  - Loi n°85-1406 du 30 décembre 1985 - art. 5 (Ab)
+	  - Loi n°88-1028 du 9 novembre 1988 - art. 78 (Ab)
+	  - CODE DES COMMUNES. - art. L122-10 (Ab)
+	  - Code général des collectivités territoriales - art. L2122-15 (V)
+	  - Code électoral - art. L221 (V)
+	  - Code électoral - art. L270 (V)
+	  - Code électoral - art. L272-6 (V)
+	  - Code électoral - art. L328-4 (Ab)
+	  - Code électoral - art. L334-12 (Ab)
+	  - Code électoral - art. L360 (V)
+	  - Code électoral - art. L380 (VD)
+	  - Code électoral - art. L388 (VT)
+	  - Code électoral - art. L558-32 (V)
+
+	**Créé par**:
+
+	  - Loi n°85-1406 du 30 décembre 1985 - art. 4 () JORF 31 Décembre 1985
 
 
 #### Chapitre V : Propagande
