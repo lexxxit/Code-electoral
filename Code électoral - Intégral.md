@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-05-11
+Version Consolidée au 2004-05-29
 
 # Partie législative
 
@@ -35757,11 +35757,11 @@ Bourg-en-Bresse.
 
 Alpes-Maritimes
 
-Nice.
+Cannes, Nice, Villeneuve-Loubet.
 
 Bouches-du-Rhône
 
-Marseille.
+Gémenos, Marseille.
 
 Charente-Maritime
 
@@ -35779,33 +35779,29 @@ Côte-d'Or
 
 Dijon.
 
-Deux-Sèvres
+Drôme
 
-Niort.
-
-Essonne
-
-Bures-sur-Yvette, Orsay, Villebon-sur-Yvette.
+Bourg-de-Péage.
 
 Finistère
 
 Brest.
 
+Haute-Garonne
+
+Castanet-Tolosan, Toulouse.
+
 Gironde
 
 Mérignac.
 
-Haute-Garonne
+Hérault
 
-Toulouse.
-
-Hauts-de-Seine
-
-Boulogne-Billancourt, Issy-les-Moulineaux, Suresnes.
+Juvignac.
 
 Ille-et-Vilaine
 
-Rennes.
+Rennes, Saint-Malo.
 
 Isère
 
@@ -35827,25 +35823,41 @@ Morbihan
 
 Lorient, Questembert.
 
+Nord
+
+Dunkerque.
+
 Oise
 
 Beauvais.
+
+Pyrénées-Orientales
+
+Perpignan.
+
+Haut-Rhin
+
+Colmar, Mulhouse.
+
+Rhône
+
+Chazay-d'Azergues, Sainte-Foy-lès-Lyon.
 
 Seine-Maritime
 
 Le Havre.
 
-Seine-Saint-Denis
+Deux-Sèvres
 
-Rosny-sous-Bois.
-
-Val-de-Marne
-
-Marolles-en-Brie.
+Niort.
 
 Var
 
 Six-Fours-les-Plages.
+
+Vaucluse
+
+Orange.
 
 Vendée
 
@@ -35854,6 +35866,26 @@ Les Herbiers.
 Vienne
 
 Vouneuil-sous-Biard.
+
+Vosges
+
+Rambervillers.
+
+Essonne
+
+Bures-sur-Yvette, Evry, Juvisy-sur-Orge, Linas, Orsay, Villebon-sur-Yvette.
+
+Hauts-de-Seine
+
+Boulogne-Billancourt, Issy-les-Moulineaux, Suresnes.
+
+Seine-Saint-Denis
+
+Aulnay-sous-Bois, Rosny-sous-Bois.
+
+Val-de-Marne
+
+Marolles-en-Brie, Saint-Maur-des-Fossés.
 
 Yvelines
 
@@ -35865,9 +35897,9 @@ Versailles.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-238 du 18 mars 2004 - art. 2 () JORF 19 mars 2004
+	  - Décret n°2004-454 du 27 mai 2004 - art. 1 () JORF 29 mai 2004
 
 
 ## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).
