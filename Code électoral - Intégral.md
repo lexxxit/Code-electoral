@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1995-01-21
+Version Consolidée au 1995-02-09
 
 # Partie législative
 
@@ -7682,14 +7682,25 @@ exercent leurs fonctions ou les ont exercées depuis moins de six mois.
 Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
 jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
 
-Est également inéligible, pendant un an, le président de conseil général qui n'a pas déposé l'une des déclarations prévues à
-l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.
+" Sont également inéligibles, pendant un an, le président du conseil général ou le conseiller général visé au deuxième alinéa
+de l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique, qui n'a pas
+déposé l'une des déclarations prévues par ce même article. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: La loi n°95-126 du 8 février 1995 est applicable dans les territoire d'outre-mer et dans la collectivité territoriale de Mayotte
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+	  - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
+
+	**Cite**:
+
+	  - Loi n°88-227 1988 03-11 art. 2
 
 	**Cité par**:
 
@@ -7706,17 +7717,9 @@ l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence fin
 	  - Code électoral - art. L558-11 (V)
 	  - Code électoral - art. L558-15 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 83 () JORF 14 mai 1991
-
-	**Cite**:
-
-	  - Loi n°88-227 1988 03-11 art. 2
+	  - Loi n°95-126 du 8 février 1995 - art. 6 ()
 
 	**Anciens textes**:
 
@@ -8616,8 +8619,8 @@ Ne peuvent être conseillers municipaux :
 
 3° (Abrogé) ;
 
-4° Pour une durée d'un an, le maire qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11
-mars 1988 relative à la transparence financière de la vie politique.
+4° Pour une durée d'un an, le maire ou l'adjoint au maire visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du 11
+mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article.
 
 **Liens relatifs à cet article**
 
@@ -8629,9 +8632,14 @@ mars 1988 relative à la transparence financière de la vie politique.
 
 	  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
+	  - SPEC_APPLI: La loi n°95-126 du 8 février 1995 est applicable dans les territoire d'outre-mer et dans la collectivité territoriale de Mayotte
+
 	**Modifié par**:
 
-	  - Loi n°92-722 du 29 juillet 1992 - art. 22 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°95-126 du 8 février 1995 - art. 6 ()
 
 	**Cité par**:
 
@@ -8797,9 +8805,11 @@ peuvent être réélus avant le délai d'un an, conformément à l'alinéa 3 dud
 ###### Article L236
 
 Tout conseiller municipal qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
-d'inéligibilité prévus par les articles L. 230, L. 231 et L. 232 est immédiatement déclaré démissionnaire par le commissaire
-de la République, sauf réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au
-Conseil d'État conformément aux articles L. 249 et L. 250.
+d'inéligibilité prévus par les articles L. 230, L. 231 et L. 232 est immédiatement déclaré démissionnaire par le préfet, sauf
+réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au Conseil d'État, conformément
+aux articles L. 249 et L. 250. Lorsqu'un conseiller municipal est déclaré démissionnaire d'office à la suite d'une
+condamnation pénale définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques et
+électoraux, le recours éventuel contre l'acte de notification du préfet n'est pas suspensif.
 
 Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller municipal déclaré
 comptable de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa
@@ -8813,7 +8823,11 @@ gestion dans les six mois de l'expiration du délai de production des comptes im
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 41 () JORF 27 juillet 1991
+	  - Loi n°95-125 du 8 février 1995 - art. 78 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-730 1998-08-20 art. 5 : Le dernier alinéa de cet article est applicable dans les territoires d'outre-mer
 
 	**Cite**:
 
@@ -11955,6 +11969,87 @@ devaient y être inscrits à ce jour.
 	  - Code électoral - art. L372 (V)
 
 
+###### Article L340
+
+Ne sont pas éligibles :
+
+1° Les personnes énumérées aux articles L. 195 et L. 196, lorsque leurs fonctions concernent ou ont concerné tout ou partie
+du territoire de la région ;
+
+2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et affectés au secrétariat général pour les
+affaires régionales en qualité de secrétaire général ou de chargé de mission ;
+
+3° Pour une durée d'un an, le président de conseil régional ou le conseiller régional visé au deuxième alinéa de l'article 2
+de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article.
+
+Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller régional s'ils n'exerçait le
+même mandat antérieurement à sa nomination.
+
+Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
+	  - Code électoral - art. L195 (M)
+	  - Code électoral L195, L196 et L199 à L203
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+	  - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
+	  - SPEC_APPLI: La loi n°95-126 du 8 février 1995 est applicable dans les territoire d'outre-mer et dans la collectivité territoriale de Mayotte
+
+	**Modifié par**:
+
+	  - Loi n°95-126 du 8 février 1995 - art. 6 () JORF 9 février 1995
+
+	**Cité par**:
+
+	  - Code électoral - art. L341 (V)
+	  - Code électoral - art. L350 (M)
+	  - Code électoral - art. L351 (M)
+	  - Code électoral - art. L372 (M)
+	  - Code électoral - art. L558-11 (V)
+
+
+###### Article L341
+
+Tout conseiller régional qui, pour une cause survenue postérieurement à son élection, se trouve dans un cas d'inéligibilité
+prévu à l'article précédent ou se trouve frappé d'une des incapacités qui font perdre la qualité d'électeur, est déclaré
+démissionnaire d'office par arrêté du représentant de l'Etat dans la région. Lorsqu'un conseiller régional est déclaré
+démissionnaire d'office à la suite d'une condamnation pénale définitive prononcée à son encontre et entraînant de ce fait la
+perte de ses droits civiques et électoraux, le recours éventuel contre l'arrêté du représentant de l'Etat dans la région
+n'est pas suspensif.
+
+Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller régional déclaré comptable
+de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans
+les six mois de l'expiration du délai de production des comptes imparti par ledit jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 78 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L340 (M)
+
+
 #### Chapitre IV : Incompatibilités
 
 ###### Article L342
@@ -12702,6 +12797,46 @@ l'Assemblée de Corse.
 	  - Code électoral - art. L338 (M)
 
 
+#### Chapitre III : Conditions d'éligibilité et inéligibilités
+
+###### Article L367
+
+Les dispositions des articles L. 339 à L. 341-1 sont applicables à l'élection des conseillers à l'Assemblée de Corse. 
+
+Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la Corse " à la
+place de " de la région ", " Assemblée de Corse " à la place de " conseil régional ", " conseiller à l'Assemblée de Corse " à
+la place de " conseiller régional " et " affaires de Corse " à la place de " affaires régionales ". 
+
+En outre, est inéligible pendant un an le président de l'Assemblée de Corse, le président du conseil exécutif de Corse ou le
+membre de ce conseil visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas déposé
+l'une des déclarations prévues par ce même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: La loi n°95-126 du 8 février 1995 est applicable dans les territoire d'outre-mer et dans la collectivité territoriale de Mayotte
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+	  - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
+
+	**Cite**:
+
+	  - Loi n°88-227 du 11 mars 1988 - art. 2 (VT)
+	  - Code électoral - art. L339 (V)
+
+	**Modifié par**:
+
+	  - Loi n°95-126 du 8 février 1995 - art. 6 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. L372 (V)
+
+
 #### Chapitre IV : Incompatibilités
 
 ###### Article L368
@@ -13256,84 +13391,6 @@ publication des résultats du recensement général de la population.
 
 #### Chapitre III : Conditions d'éligibilité et inéligibilités
 
-###### Article L340
-
-Ne sont pas éligibles :
-
-1° Les personnes énumérées aux articles L. 195 et L. 196, lorsque leurs fonctions concernent ou ont concerné tout ou partie
-du territoire de la région ;
-
-2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et affectés au secrétariat général pour les
-affaires régionales en qualité de secrétaire général ou de chargé de mission.
-
-Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller régional s'ils n'exerçait le
-même mandat antérieurement à sa nomination.
-
-Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux ;
-
-3° Pour une durée d'un an, le président de conseil régional qui n'a pas déposé l'une des déclarations prévues à l'article 2
-de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
-	  - Code électoral - art. L195 (M)
-	  - Code électoral L195, L196 et L199 à L203
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Modifié par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 6 () JORF 14 mai 1991
-
-	**Cité par**:
-
-	  - Code électoral - art. L341 (V)
-	  - Code électoral - art. L350 (M)
-	  - Code électoral - art. L351 (M)
-	  - Code électoral - art. L372 (M)
-	  - Code électoral - art. L558-11 (V)
-
-
-###### Article L341
-
-Tout conseiller régional qui, pour une cause survenue postérieurement à son élection, se trouve dans un cas d'inéligibilité
-prévu à l'article précédent ou se trouve frappé d'une des incapacités qui font perdre la qualité d'électeur, est déclaré
-démissionnaire d'office par arrêté du représentant de l'Etat dans la région.
-
-Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller régional déclaré comptable
-de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans
-les six mois de l'expiration du délai de production des comptes imparti par ledit jugement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Modifié par**:
-
-	  - Loi n°91-716 du 26 juillet 1991 - art. 41 () JORF 27 juillet 1991
-
-	**Cite**:
-
-	  - Code électoral - art. L340 (M)
-
-
 ###### Article L341-1
 
 Est inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits par
@@ -13362,46 +13419,6 @@ l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon dr
 	**Cite**:
 
 	  - Code électoral - art. L52-12 (M)
-
-
-### Titre II : Election des conseillers à l'Assemblée de Corse
-
-#### Chapitre III : Conditions d'éligibilité et inéligibilités
-
-###### Article L367
-
-Les dispositions des articles L. 339 à L. 341-1 sont applicables à l'élection des conseillers à l'Assemblée de Corse.
-
-Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la Corse " à la
-place de " de la région ", " Assemblée de Corse " à la place de " conseil régional ", " conseiller à l'Assemblée de Corse " à
-la place de " conseiller régional " et " affaires de Corse " à la place de " affaires régionales ".
-
-En outre, est inéligible pendant un an le président de l'Assemblée de Corse ou le président du conseil exécutif de Corse qui
-n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence
-financière de la vie politique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
-	  - Code électoral L339 à L341-1
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Créé par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-
-	**Cité par**:
-
-	  - Code électoral - art. L372 (V)
 
 
 ## Dispositions finales
