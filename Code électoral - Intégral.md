@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1994-01-19
+Version Consolidée au 1994-02-02
 
 # Partie législative
 
@@ -4986,43 +4986,6 @@ assesseur ou un délégué ou qui l'aura empêché d'exercer ses prérogatives.
 	  - Code électoral - art. L113 (V)
 
 
-###### Article L116-1
-
-Sans préjudice de l'application de l'article 28 du code pénal, toute personne condamnée en application des articles L. 86 à
-L. 88, L. 91 à L. 104, L. 106 à L. 109, L. 111, L. 113 et L. 116 est, en outre [*infraction - sanction*], privée de ses
-droits civiques pendant deux ans au moins et dix ans au plus.
-
-Le tribunal peut ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement,
-la diffusion d'un message, dont il fixe explicitement les termes, informant le public des motifs et du contenu de sa
-décision, dans un ou plusieurs journaux qu'il désigne, ainsi que son affichage dans les conditions et sous les peines
-prévues, suivant les cas, aux articles 51 et 471 du code pénal, sans toutefois que les frais de cette publicité puissent
-excéder le montant maximum de l'amende encourue.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 21 () JORF 4 janvier 1988
-
-	**Abrogé par**:
-
-	  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
-
-	**Cité par**:
-
-	  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L111 (V)
-	  - Code électoral L86 à L88, L91 à L104, L106 à L109, L111, L113 et L116
-	  - Code pénal 28, 51 et 471
-
-
 ###### Article L117-1
 
 Lorsque la juridiction administrative a retenu, dans sa décision définitive, des faits de fraude électorale, elle communique
@@ -7648,35 +7611,6 @@ Ne peuvent être élus les citoyens qui sont pourvus d'un conseil judiciaire.
 	**Anciens textes**:
 
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 7 (Ab)
-
-
-###### Article L201
-
-Les condamnations prononcées en vertu des articles L. 106, L. 107, L. 108 et L. 109 entraînent l'inéligibilité pour une durée
-de deux ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Loi n°82-214 du 2 mars 1982 - art. 7 (Ab)
-	  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
-	  - Code électoral - art. L233 (VT)
-
-	**Abrogé par**:
-
-	  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L106 (M)
-	  - Code électoral - art. L107 (M)
-	  - Code électoral - art. L108 (M)
-	  - Code électoral - art. L109 (M)
 
 
 ###### Article L202
