@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1991-05-14
+Version Consolidée au 1991-07-16
 
 # Partie législative
 
@@ -19048,6 +19048,47 @@ Cet arrêté est publié quinze jours au moins avant l'élection et ouvre la pé
 
 ## Livre II  : Election des sénateurs des départements
 
+### Titre II : Composition du collège électoral
+
+###### Article R*130-1
+
+Les personnes appelées à remplacer les députés, les conseillers régionaux, les conseillers à l'assemblée de Corse et les
+conseillers généraux dans les conditions prévues par l'article L. 282 doivent être désignées préalablement à l'élection des
+délégués des conseils municipaux et de leurs suppléants.
+
+Le président du conseil général ou le président du conseil régional en accuse réception aux députés, aux conseillers
+régionaux, aux conseillers à l'assemblée de Corse ou aux conseillers généraux remplacés et les notifie au préfet dans les
+vingt-quatre heures.
+
+Par dérogation aux dispositions des alinéas précédents, le président de l'assemblée de Corse désigne les remplaçants des
+conseillers à l'assemblée de Corse qui sont en même temps députés préalablement à l'élection des délégués de l'assemblée de
+Corse.
+
+Les désignations faites en vertu du présent article sont de droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 5 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L282 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R271 (V)
+
+
 ### Titre III : Désignation des délégués des conseils municipaux
 
 ###### Article R*131
@@ -19113,22 +19154,17 @@ Les deux membres présents les plus âgés et les deux membres présents les plu
 
 ###### Article R*134
 
-Les personnes appelées à remplacer les députés, les conseillers régionaux ou les conseillers généraux dans les conditions
-prévues par les articles L. 282 et L. 287 doivent être désignées préalablement à l'élection des délégués ou suppléants.
+Les personnes appelées à remplacer les députés, les conseillers régionaux, les conseillers à l'assemblée de Corse ou les
+conseillers généraux dans les conditions prévues par l'article L. 287 doivent être désignées préalablement à l'élection des
+délégués ou de leurs suppléants.
 
-Le maire désigne les remplaçants présentés par les députés, les conseillers régionaux ou les conseillers généraux en tant que
-délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la liste électorale de la commune
-intéressée.
+Le maire désigne les remplaçants présentés par les députés, les conseillers régionaux, les conseillers à l'assemblée de Corse
+ou les conseillers généraux en tant que délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la
+liste électorale de la commune intéressée.
 
-Le président du conseil général désigne les remplaçants présentés par les conseillers généraux qui sont en même temps députés
-ou conseillers généraux.
-
-Le président du conseil régional désigne les remplaçants présentés par les conseillers régionaux qui sont en même temps
-députés.
-
-Les désignations faites en vertu du présent article sont de droit. Le maire, ou le président du conseil général ou le
-président du conseil régional en accuse réception aux députés, aux conseillers régionaux ou aux conseillers généraux
-remplacés et les notifie au commissaire de la République dans les vingt-quatre heures.
+Les désignations faites en vertu du présent article sont de droit. Le maire en accuse réception aux députés, aux conseillers
+régionaux, aux conseillers à l'assemblée de Corse ou aux conseillers généraux remplacés et les notifie au préfet dans les
+vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
@@ -19136,13 +19172,16 @@ remplacés et les notifie au commissaire de la République dans les vingt-quatre
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15
+
 	**Modifié par**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 2 () JORF 26 novembre 1985
+	  - Décret n°91-653 du 15 juillet 1991 - art. 6 () JORF 16 juillet 1991
 
 	**Cite**:
 
-	  - Code électoral - art. L282 (M)
 	  - Code électoral - art. L287 (M)
 
 
@@ -19248,10 +19287,10 @@ Tout bulletin ne remplissant pas les conditions ci-dessus énoncées est nul.
 
 ###### Article R*139
 
-Les députés, conseillers régionaux et conseillers généraux peuvent voter par procuration, dans les conditions prévues par
-l'article L. 121-12 du code des communes : soit en cas de maladie récemment constatée, soit lorsqu'ils sont retenus hors de
-la commune par des obligations découlant de l'exercice de leur mandat ou de missions qui leur ont été confiées par le
-gouvernement.
+Les députés, conseillers régionaux, conseillers à l'assemblée de Corse et conseillers généraux peuvent voter par procuration,
+dans les conditions prévues par l'article L. 121-12 (deuxième alinéa) du code des communes : soit en cas de maladie dûment
+constatée, soit lorsqu'ils sont retenus hors de la commune par des obligations découlant de l'exercice de leur mandat ou de
+missions qui leur ont été confiées par le gouvernement.
 
 **Liens relatifs à cet article**
 
@@ -19259,9 +19298,17 @@ gouvernement.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15
+
 	**Modifié par**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 3 () JORF 26 novembre 1985
+	  - Décret n°91-653 du 15 juillet 1991 - art. 7 () JORF 16 juillet 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
 
 	**Cite**:
 
@@ -19472,6 +19519,83 @@ du maire, qui précise le lieu de la réunion ainsi que son heure, si elle n'a p
 	**Modifié par**:
 
 	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+
+
+### Titre III bis : Désignation des délégués à l'Assemblée de Corse
+
+###### Article R*148-1
+
+L'élection prévue à l'article L. 293-3 du code électoral a lieu sans débat et au scrutin secret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L293-3 (M)
+
+
+###### Article R*148-2
+
+Dans le cas où, en application du deuxième alinéa de l'article L. 282, un remplaçant a été désigné à un conseiller de
+l'assemblée de Corse cumulant ce mandat avec celui de député, seul ce remplaçant peut figurer sur une liste de candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
+
+	**Abrogé par**:
+
+	  - Décret n°99-232 du 24 mars 1999 - art. 7 (V) JORF 26 mars 1999
+
+	**Cite**:
+
+	  - Code électoral - art. L282 (M)
+
+
+###### Article R*148-3
+
+Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste. Si plusieurs listes ont obtenu la
+même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages.
+En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être proclamés élus.
+
+Si le nombre de candidats figurant sur une liste est inférieur au nombre de sièges qui lui reviennent, le ou les sièges non
+pourvus sont attribués à la ou aux plus fortes moyennes suivantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
 
 
 ### Titre IV : Election des sénateurs
@@ -20300,33 +20424,35 @@ Pierre-et-Miquelon.
 	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-## Livre IV : Election des conseillers régionaux
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse
 
 ###### Article R182
 
-Les conseillers régionaux et les membres de l'assemblée de Corse sont élus dans les conditions fixées par les dispositions du
-titre Ier (partie Réglementaire) du présent code et par les dispositions du présent livre.
+Les conseillers régionaux et les membres de l'Assemblée de Corse sont élus dans les conditions fixées par les dispositions du
+titre Ier du livre Ier (partie réglementaire) du présent code et par les dispositions du présent livre.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral Tivre Ier titre Ier
 
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 
-### Chapitre V : Déclarations de candidatures
+### Titre Ier : Election des conseillers régionaux
+
+#### Chapitre V : Déclarations de candidatures
 
 ###### Article R183
 
-Les déclarations de candidature sont reçues à la préfecture à compter du cinquième lundi qui précède le jour du scrutin.
+Les déclarations de candidatures sont reçues à la préfecture à compter du cinquième lundi qui précède le jour du scrutin.
 
 Elles sont rédigées sur papier libre.
 
@@ -20336,17 +20462,21 @@ Elles sont rédigées sur papier libre.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 
 ###### Article R184
 
-L'état des listes de candidats est arrêté, dans l'ordre du dépot des listes, par le commissaire de la République du
-département et publié au plus tard le troisième samedi qui précède le jour du scrutin.
+L'état des listes de candidats est arrêté, dans l'ordre du dépôt des listes, par le préfet du département et publié au plus
+tard le troisième samedi qui précède le jour du scrutin.
 
-cet état indique pour chaque liste son titre ainsi que les noms et prénoms des candidats, énumérés dans l'ordre de leur
+Cet état indique pour chaque liste son titre ainsi que les nom et prénoms des candidats, énumérés dans l'ordre de leur
 présentation sur la liste, tel qu'il résulte de la déclaration.
 
 **Liens relatifs à cet article**
@@ -20355,9 +20485,13 @@ présentation sur la liste, tel qu'il résulte de la déclaration.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 4 () JORF 26 novembre 1985
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 	**Cité par**:
 
@@ -20365,7 +20499,7 @@ présentation sur la liste, tel qu'il résulte de la déclaration.
 	  - Code électoral - art. R187 (Ab)
 
 
-### Chapitre VI : Propagande
+#### Chapitre VI : Propagande
 
 ###### Article R185
 
@@ -20378,9 +20512,17 @@ installées à compter du quatrième vendredi qui précède le jour du scrutin.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 	**Cite**:
 
@@ -20390,7 +20532,7 @@ installées à compter du quatrième vendredi qui précède le jour du scrutin.
 
 ###### Article R186
 
-Les bulletins de vote comporte le titre de la liste ainsi que les noms et prénoms de chacun des candidats dans l'ordre de
+Les bulletins de vote comportent  le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre de
 leur présentation sur la liste tel qu'il résulte de la publication prévue à l'article R. 184.
 
 **Liens relatifs à cet article**
@@ -20399,9 +20541,13 @@ leur présentation sur la liste tel qu'il résulte de la publication prévue à 
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 	**Cite**:
 
@@ -20412,7 +20558,7 @@ leur présentation sur la liste tel qu'il résulte de la publication prévue à 
 	  - Code électoral - art. R187 (Ab)
 
 
-### Chapitre VI : Opérations de vote
+#### Chapitre VIII : Opérations de vote
 
 ###### Article R187
 
@@ -20436,9 +20582,13 @@ N'entrent pas en compte dans le résultat du dépouillement :
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 	**Cite**:
 
@@ -20454,22 +20604,26 @@ recensement instituée par l'article L. 359, soit par porteur, soit sous pli pos
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code électoral annexe, L359
-
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L359 (V)
 
 
 ###### Article R189
 
-Les dispositions des articles R. 106 à R. 108 sont applicables à la composition et au fonctionnement de la commission
+Les dispositions des articles R. 107 à R. 109 sont applicables à la composition et au fonctionnement de la commission
 instituée par l'article L. 359.
 
 **Liens relatifs à cet article**
@@ -20478,15 +20632,22 @@ instituée par l'article L. 359.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+	  - Décret n°91-653 du 15 juillet 1991 - art. 3 () JORF 16 juillet 1991
 
 	**Cite**:
 
 	  - Code électoral - art. L359 (M)
-	  - Code électoral L359, R106 à R108
+	  - Code électoral L359, R107 à R109
 
+
+#### Chapitre X : Contentieux
 
 ###### Article R190
 
@@ -20499,18 +20660,321 @@ intéressé et au ministre de l'intérieur.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°90-606 1990-07-09 art. 7 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Modifié par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 	**Cite**:
 
-	  - Code électoral - art. L118-3 (M)
+	  - Code électoral - art. L118-3 (VT)
 
 	**Cité par**:
 
 	  - Code électoral - art. R200 (V)
 	  - Code électoral - art. R358 (V)
+
+
+### Titre  II : Election des conseillers à l'Assemblée de Corse
+
+#### Chapitre V : Déclarations de candidature
+
+###### Article R191
+
+Les déclarations de candidature en vue du premier tour de scrutin sont reçues à compter du cinquième lundi qui précède le
+jour de ce scrutin. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le premier
+tour.
+
+Elles sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+
+###### Article R192
+
+L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre du dépôt des listes, par le préfet de
+Corse et publié au plus tard le troisième samedi qui précède le jour du premier tour.
+
+L'état des listes de candidats au second tour est arrêté, s'il y a lieu, dans les mêmes conditions et publié le mercredi qui
+suit le premier tour. Il fait l'objet, le cas échéant, de publications complémentaires lorsqu'il a été fait application du
+dernier alinéa de l'article L. 374.
+
+Pour chacun des deux tours de scrutin, l'état indique pour chaque liste son titre ainsi que les nom et prénoms des candidats,
+énumérés dans l'ordre de leur présentation sur la liste, tel qu'il résulte de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L374 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R196 (V)
+	  - Code électoral - art. R197 (Ab)
+
+
+#### Chapitre VI : Propagande
+
+###### Article R193
+
+Par dérogation aux dispositions de l'article R. 31, la commission de propagande prévue par l'article L. 376 est instituée par
+arrêté du préfet de Corse et installée à compter du quatrième vendredi qui précède le jour du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L376 (V)
+	  - Code électoral - art. R31 (M)
+
+
+###### Article R194
+
+Par dérogation aux dispositions de l'article R. 32, la commission de propagande comprend :
+
+- un magistrat désigné par le premier président de la cour d'appel, président ;
+
+- un fonctionnaire désigné par le préfet de Corse ;
+
+- un fonctionnaire désigné par le trésorier-payeur général de Corse ;
+
+- un fonctionnaire désigné par le chef de service de La Poste compétent pour la Corse.
+
+Le secrétariat est assuré par un fonctionnaire désigné par le préfet de Corse.
+
+Les mandataires des listes de candidats peuvent participer, avec voix consultative, aux travaux de la commission.
+
+Le président fixe, en accord avec le préfet de Corse, le lieu où la commission doit siéger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. R32 (M)
+
+
+###### Article R195
+
+Pour l'application des dispositions des articles R. 34 à R. 38, les attributions dévolues au préfet sont exercées par le
+préfet de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral R34 à R38
+
+
+###### Article R196
+
+Les bulletins de vote comportent le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre de
+leur présentation sur la liste tel qu'il résulte des publications prévues à l'article R. 192.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. R192 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R197 (Ab)
+
+
+#### Chapitre VII : Opérations de vote
+
+###### Article R197
+
+N'entrent pas en compte dans le résultat du dépouillement :
+
+- les bulletins établis au nom d'une liste qui n'a pas fait l'objet de l'une des publications prévues à l'article R. 192 ;
+
+- les bulletins non conformes aux dispositions de l'article R. 196 ;
+
+- les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ;
+
+- les bulletins manuscrits ;
+
+- les circulaires utilisées comme bulletin ;
+
+- les bulletins qui ne sont pas imprimés en caractères noirs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. R192 (V)
+	  - Code électoral - art. R196 (V)
+
+
+###### Article R198
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
+recensement instituée par l'article L. 379 soit par porteur, soit sous pli postal recommandé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L379 (V)
+
+
+###### Article R199
+
+Les dispositions des articles R. 107 à R. 109 sont applicables à la composition et au fonctionnement de la commission
+instituée par l'article L. 379. 
+
+Pour l'application des dispositions de l'article R. 107, les attributions dévolues au préfet sont exercées par le préfet de
+Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L379 (V)
+	  - Code électoral - art. R107 (VT)
+
+
+#### Chapitre X : Contentieux
+
+###### Article R200
+
+Les dispositions de l'article R. 190 sont applicables à l'élection des conseillers à l'Assemblée de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+	**Créé par**:
+
+	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+	**Cite**:
+
+	  - Code électoral - art. R190 (V)
 
 
 # Annexes
