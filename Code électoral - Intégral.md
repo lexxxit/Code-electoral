@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1997-06-01
+Version Consolidée au 1997-11-11
 
 # Partie législative
 
@@ -614,6 +614,128 @@ l'inscription sur les listes électorales.
 	  - Code électoral - art. R5 (V)
 
 
+###### Article L11-1
+
+Sans préjudice de l'application des dispositions de l'article L. 11, sont inscrites d'office sur la liste électorale de la
+commune de leur domicile réel les personnes qui remplissent la condition d'âge depuis la dernière clôture définitive des
+listes électorales ou la rempliront avant la prochaine clôture définitive de ces listes, sous réserve qu'elles répondent aux
+autres conditions prescrites par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°97-1027 du 10 novembre 1997 - art. 1 () JORF 11 novembre 1997
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1997 - art. 1 (V)
+	  - Arrêté du 28 novembre 1997 - art. 6 (V)
+	  - Décret n°97-1109 du 28 novembre 1997 - art. 3 (V)
+	  - Loi organique n°99-209 du 19 mars 1999 - art. 189 (V)
+	  - Loi n°2007-1720 du 7 décembre 2007 - art. 5 (V)
+	  - Code électoral - art. L11-2 (VT)
+	  - Code électoral - art. L17-1 (VT)
+	  - Code électoral - art. R6 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1048 du 1er août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L11
+
+
+###### Article L11-2
+
+Lors de la révision des listes électorales précédant la tenue d'élections générales organisées à leur terme normal au mois de
+mars, les dispositions de l'article L. 11-1 sont applicables aux personnes qui rempliront la condition d'âge entre la clôture
+définitive des listes électorales et la date du scrutin. 
+
+Au cas où des élections générales arrivant à leur terme normal sont organisées postérieurement au mois de mars, sont
+inscrites d'office sur la liste électorale de leur domicile réel les personnes qui remplissent la condition d'âge entre la
+dernière clôture définitive des listes et la date du scrutin, sous réserve qu'elles répondent aux autres conditions
+prescrites par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Créé par**:
+
+	  - Loi n°97-1027 du 10 novembre 1997 - art. 2 () JORF 11 novembre 1997
+
+	**Cité par**:
+
+	  - Décret n°2002-346 du 13 mars 2002 - art. 2 (V)
+	  - Décret n°2002-825 du 3 mai 2002 - art. 4 (V)
+	  - Décret n°2002-888 du 8 mai 2002 - art. 4 (V)
+	  - Décret n°2002-1328 du 5 novembre 2002 - art. 3 (V)
+	  - Décret n°2002-1329 du 5 novembre 2002 - art. 3 (V)
+	  - Décret n°2002-1505 du 23 décembre 2002 - art. 3 (V)
+	  - Décret n°2002-1506 du 23 décembre 2002 - art. 3 (V)
+	  - Décret n°2004-396 du 6 mai 2004 - art. 6 (V)
+	  - Décret n°2007-227 du 21 février 2007 - art. 2 (V)
+	  - Décret n°2007-589 du 24 avril 2007 - art. 4 (V)
+	  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1751 du 14 décembre 2007 - art. 2 (V)
+	  - Décret n°2008-153 du 20 février 2008 - art. 2 (V)
+	  - Décret n°2008-307 du 3 avril 2008 - art. 2 (V)
+	  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
+	  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
+	  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
+	  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
+	  - Décret n°2009-456 du 23 avril 2009 - art. 5 (V)
+	  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
+	  - Décret n°2012-256 du 22 février 2012 - art. 2 (V)
+	  - Décret n°2012-558 du 25 avril 2012 - art. 3 (V)
+	  - Décret n°2013-857 du 26 septembre 2013 - art. 3 (V)
+	  - Décret n°2014-379 du 29 mars 2014 - art. 5 (V)
+	  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
+	  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
+	  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
+	  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
+	  - Décret n°2014-1233 du 23 octobre 2014 - art. 2 (V)
+	  - Décret n°2014-1424 du 28 novembre 2014 - art. 2 (V)
+	  - Décret n°2014-1506 du 15 décembre 2014 - art. 2 (V)
+	  - Décret n°2015-939 du 30 juillet 2015 - art. 2 (V)
+	  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
+	  - Code électoral - art. L16 (V)
+	  - Code électoral - art. L17 (VD)
+	  - Code électoral - art. L17-1 (VT)
+	  - Code électoral - art. R10 (V)
+	  - Code électoral - art. R17 (V)
+	  - Code électoral - art. R7-1 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1048 du 1er août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L11-1
+
+
 ###### Article L12
 
 Les Français et les Françaises établis hors de France et immatriculés au consulat de France peuvent, sur leur demande, être
@@ -750,13 +872,16 @@ Région Sud-Est : Sète, Marseille, Arles, Lyon, Chalon-sur-Saône, Saint-Jean-d
 
 ###### Article L16
 
-Les listes électorales sont permanentes.
+Les listes électorales sont permanentes. 
 
-Elles sont l'objet d'une révision annuelle.
+Elles sont l'objet d'une révision annuelle. 
 
-Un décret détermine les règles et les formes de cette opération.
+Un décret détermine les règles et les formes de cette opération. 
 
-L'élection est faite sur la liste révisée pendant toute l'année qui suit la clôture de la liste.
+L'élection est faite sur la liste révisée pendant toute l'année qui suit la clôture de la liste. 
+
+Toutefois, quand il a été fait application des dispositions du deuxième alinéa de l'article L. 11-2, la liste électorale
+complétée en conséquence entre en vigueur à la date des élections générales.
 
 **Liens relatifs à cet article**
 
@@ -778,21 +903,36 @@ L'élection est faite sur la liste révisée pendant toute l'année qui suit la 
 	  - Code électoral - art. L62-1 (VD)
 	  - Code électoral - art. LO227-3 (VD)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-1027 1997-11-10 art. 2 IV
+
+	**Modifié par**:
+
+	  - Loi n°97-1027 du 10 novembre 1997 - art. 2 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L11-2 (V)
+
 
 ###### Article L17
 
-A chaque bureau de vote est affecté un périmètre géographique.
+A chaque bureau de vote est affecté un périmètre géographique. 
 
 Une liste électorale est dressée pour chaque bureau de vote par une commission administrative constituée pour chacun de ces
-bureaux et composée du maire ou de son représentant, du délégué de l'administration désigné par le préfet, ou sous-préfet, et
-d'un délégué désigné par le président du tribunal de grande instance.
+bureaux et composée du maire ou de son représentant, du délégué de l'administration désigné par le préfet, ou le sous-préfet,
+et d'un délégué désigné par le président du tribunal de grande instance. 
 
 Dans les villes et communes comprenant plus de 10 000 habitants, le délégué de l'administration est choisi par le préfet en
-dehors des membres du conseil municipal de la collectivité intéressée.
+dehors des membres du conseil municipal de la collectivité intéressée. 
+
+Lorsqu'il est fait application des dispositions du deuxième alinéa de l'article L. 11-2, la commission administrative est
+réunie et procède aux inscriptions au plus tard le premier jour du deuxième mois précédant celui des élections générales. 
 
 En outre, une liste générale des électeurs de la commune est dressée, d'après les listes spéciales à chaque bureau de vote,
-par une commission administrative composée du maire, d'un délégué de l'administration désigné par le préfet ou sous-préfet,
-et d'un délégué désigné par le président du tribunal de grande instance.
+par une commission administrative composée du maire, d'un délégué de l'administration désigné par le préfet ou le sous-
+préfet, et d'un délégué désigné par le président du tribunal de grande instance. 
 
 A Paris, Lyon et Marseille, cette liste générale est dressée par arrondissement.
 
@@ -824,13 +964,80 @@ A Paris, Lyon et Marseille, cette liste générale est dressée par arrondisseme
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-1027 1997-11-10 art. 1 IV
+
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 2 () JORF 4 janvier 1989
+	  - Loi n°97-1027 du 10 novembre 1997 - art. 2 ()
 
 	**Cite**:
 
-	  - Code électoral - art. R*16 (M)
+	  - Code électoral - art. L11-2 (V)
+
+
+###### Article L17-1
+
+Pour l'application des dispositions des articles L. 11-1 et L. 11-2, les autorités gestionnaires du fichier du recensement
+établi en application du code du service national et des fichiers des organismes servant les prestations de base des régimes
+obligatoires d'assurance maladie transmettent aux commissions administratives les informations nominatives portant
+exclusivement sur les nom, prénoms, nationalité, date et lieu de naissance et adresse des personnes remplissant la condition
+d'âge mentionnée auxdits articles. Les informations contenues dans les fichiers sont transmises aux commissions
+administratives par l'intermédiaire de l'Institut national de la statistique et des études économiques. 
+
+Les commissions administratives font détruire les informations qui leur sont transmises soit à l'expiration des délais des
+recours prévus aux articles L. 20 et L. 25, soit, dans le cas où un recours a été introduit, après l'intervention de la
+décision définitive. 
+
+Les règles relatives au traitement des informations nominatives prévues au présent article sont fixées dans les conditions
+définies par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code électoral - art. L11-1
+	  - Code électoral - art. L11-2
+	  - Code électoral - art. L20 (VD)
+	  - Code électoral - art. L25 (VT)
+
+	**Cité par**:
+
+	  - Décret n°85-420 du 3 avril 1985 - art. 2 (V)
+	  - Arrêté du 12 février 1996 - art. 3 (V)
+	  - Arrêté du 28 novembre 1997 - art. 1 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 9 (V)
+	  - Loi organique n°99-209 du 19 mars 1999 - art. 189 (V)
+	  - Loi organique n°99-209 du 19 mars 1999 - art. 218-2 (V)
+	  - Code électoral - art. R213-2 (V)
+	  - Code électoral - art. R6 (V)
+	  - Code électoral - art. R7-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-1027 1997-11-10 art. 1 IV
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
+
+	**Créé par**:
+
+	  - Loi n°97-1027 du 10 novembre 1997 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1048 du 1er août 2016 - art. 2
 
 
 ###### Article L18
