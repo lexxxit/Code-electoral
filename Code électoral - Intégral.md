@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-26
 
 # Partie législative
 
@@ -21296,14 +21296,14 @@ listes d'émargement déposées dans les conditions fixées à l'article L 68.
 Pour les personnes résidant en France, les procurations sont établies par acte dressé devant le juge du tribunal d'instance
 de leur résidence ou le juge qui en exerce les fonctions ou le greffier en chef de ce tribunal, ainsi que devant tout
 officier de police judiciaire, autre que les maires et leurs adjoints, que ce juge aura désigné. A la demande de ce
-magistrat, le premier président de la cour d'appel ou le président du tribunal supérieur d'appel peut désigner en outre,
-d'autres magistrats ou d'autres greffier en chef, en activité ou à la retraite.
+magistrat, le premier président de la cour d'appel peut désigner, en outre, d'autres magistrats ou d'autres greffier en chef,
+en activité ou à la retraite.
 
 Les officiers de police judiciaire compétents pour établir les procurations, ou leurs délégués, se déplacent à la demande des
 personnes qui, en raison de maladies ou d'infirmités graves, ne peuvent manifestement comparaître devant eux.
 
-Les délégués des officiers de police judiciaire sont choisis par l'officier de police judiciaire déléguant, avec l'agrément
-du magistrat qui l'a désigné.
+Les délégués des officiers de police judiciaire sont choisis par l'officier de police judiciaire déléguant avec l'agrément du
+magistrat qui l'a désigné.
 
 **Liens relatifs à cet article**
 
@@ -21333,9 +21333,9 @@ du magistrat qui l'a désigné.
 	  - Code électoral - art. R73 (V)
 	  - Code électoral - art. R78 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1235 1985-11-22 art. 6 JORF 26 novembre 1985
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 3 () JORF 26 janvier 2002
 
 
 ###### Article R*72-1
@@ -24409,16 +24409,16 @@ Ces dispositions ne s'appliquent pas aux électeurs de droit qui reçoivent au t
 	  - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à la collectivité territoriale de Mayotte
+## Livre III : Dispositions particulières à Saint-Pierre-et-Miquelon et à Mayotte
 
-### Titre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
+### Titre Ier : Dispositions particulières à Saint-Pierre-et-Miquelon
 
-#### Chapitre Ier : Dispositions communes
+#### Chapitre Ier : Dispositions générales
 
-###### Article R*172
+###### Article R172
 
-Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables à la collectivité
-territoriale de Saint-Pierre-et-Miquelon.
+Les dispositions des livres Ier et II du présent code (partie Réglementaire) sont applicables, conformément à l'article 22 de
+la loi n° 85-595 du 11 juin 1985, à Saint-Pierre-et-Miquelon sous réserve des dispositions du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -24426,33 +24426,122 @@ territoriale de Saint-Pierre-et-Miquelon.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Cite**:
+
+	  - Loi n°85-595 1985-06-11 art. 22
+
 	**Modifié par**:
 
-	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
-	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 	**Cité par**:
 
 	  - Code électoral - art. R176-3 (V)
 
 
-###### Article R*173
+###### Article R172-1
 
-Pour l'application du présent code à la collectivité territoriale de Saint-Pierre-et-Miquelon, il y a lieu de lire :
+Pour l'application des dispositions du présent code (partie Réglementaire) à Saint-Pierre-et-Miquelon, il y a lieu de lire :
 
-1° "Collectivité territoriale" au lieu de : "département";
+1° "Collectivité territoriale" ou "de la collectivité territoriale", au lieu de : "département", d'"arrondissement" ou de :
 
-2° "Représentant de l'Etat" et "services du représentant de l'Etat" au lieu de : "préfet" et de "préfecture";
+"départemental" ;
 
-3° "De la collectivité territoriale" au lieu de :
+2° "Représentant de l'Etat" ou "services du représentant de l'Etat", au lieu de : "préfet", de : "sous-préfet" ou de :
 
-"départementaux";
+"préfecture" et "sous-préfecture" ;
 
-4° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de "tribunal de grande instance";
+3° "Tribunal supérieur d'appel", au lieu de : "cour d'appel" ;
 
-5° "Président du tribunal supérieur d'appel" au lieu de : "premier président de la cour d'appel";
+4° "Tribunal de première instance", au lieu de : "tribunal de grande instance" ou de : "tribunal d'instance" ;
 
-6° "Payeur" au lieu de : "trésorier-payeur général".
+5° "Circonscription électorale", au lieu de : "canton" ;
+
+6° "Payeur", au lieu de : "trésorier-payeur général".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 24 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+	  - Décret n°2004-134 du 12 février 2004 - art. 12 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
+	  - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
+	  - Décret n°2008-170 du 22 février 2008 - art. 5
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+
+###### Article R172-2
+
+Sauf s'il en est disposé autrement par le présent code, le représentant de l'Etat fixe, par arrêté, la date à partir de
+laquelle les déclarations de candidature aux élections prévues au présent titre peuvent être reçues dans ses services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+
+###### Article R172-3
+
+Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
+l'élection, soit au greffe du tribunal administratif, soit au secrétariat du contentieux du Conseil d'Etat, soit au
+secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
+représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
+transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
+à la partie qui le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+
+#### Chapitre II : Dispositions particulières à l'élection du député de Saint-Pierre-et-Miquelon
+
+###### Article R173
+
+En cas de dissolution de l'Assemblée nationale, les déclarations de candidature peuvent, par dérogation aux dispositions de
+l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
+arrêté de ce ministre.
+
+Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat.
+
+Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -24470,36 +24559,34 @@ Pour l'application du présent code à la collectivité territoriale de Saint-Pi
 
 	**Modifié par**:
 
-	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
-	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R*98 (M)
 
 
-###### Article R*174
+#### Chapitre III : Dispositions particulières à l'élection des conseillers généraux de Saint-Pierre-et-Miquelon
 
-Les dispositions du titre II du livre Ier du présent code (partie Réglementaire) sont applicables à l'élection du député de
-Saint-Pierre-et-Miquelon.
+###### Article R174
 
-**Liens relatifs à cet article**
+L'élection des conseillers généraux de Saint-Pierre-et-Miquelon est régie par les dispositions du titre III du livre Ier du
+présent code (partie Réglementaire), sous réserve des dispositions suivantes :
 
-	**Codifié par**:
+1° Les nom et prénoms des candidats figurant aux trois derniers rangs dans la circonscription de Saint-Pierre et au dernier
+rang dans la circonscription de Miquelon-Langlade sont imprimés en caractères plus petits que ceux des autres candidats de la
+liste.
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+2° Pour l'application du premier alinéa de l'article R. 113, les mots : "par un électeur du canton, par un candidat ou par un
+membre du conseil général" sont remplacés par les mots : "par un électeur de la collectivité territoriale ou par un
+candidat".
 
-	**Modifié par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
-	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
-
-
-###### Article R*175
-
-Pour l'application des dispositions du chapitre IX du titre III du livre Ier (partie Réglementaire) il y a lieu de lire :
-
-1° A l'alinéa 1er de l'article R. 113 : "par un électeur de la collectivité territoriale ou par un candidat" au lieu de :
-"par un électeur du canton, par un candidat ou par un membre du conseil général";
-
-2° A l'alinéa 1er de l'article R. 116 : "dans les services du représentant de l'Etat" au lieu de : "au secrétariat de la
-sous-préfecture ou de la préfecture".
+3° Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au
+représentant de l'Etat qui en constate la réception sur un registre et en donne récépissé.
 
 **Liens relatifs à cet article**
 
@@ -24509,73 +24596,25 @@ sous-préfecture ou de la préfecture".
 
 	**Modifié par**:
 
-	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 	**Cite**:
 
 	  - Code électoral - art. R113 (M)
-	  - Code électoral - art. R116 (M)
 
 
-###### Article R*176
+###### Article R174-1
 
-Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au représentant
-de l'Etat qui en constate la réception sur un registre et en donne récépissé.
+Dans le cas d'une élection partielle prévue à l'avant-dernier alinéa de l'article L. 334 pour laquelle le nombre de sièges à
+pourvoir est inférieur à quatre :
 
-**Liens relatifs à cet article**
+1° Les articles R. 109-1 et R. 109-2 sont applicables ;
 
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
-	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
-
-
-###### Article R*177
-
-Les dispositions des chapitres Ier à III du titre IV du livre Ier du présent code (partie Réglementaire) sont applicables à
-l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
-	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
-
-
-###### Article R*178
-
-Les dispositions du livre II du présent code (partie Réglementaire) sont applicables à l'élection du sénateur de Saint-
-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
-	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
-
-
-### Titre II : Dispositions particulières à la collectivité territoriale de Mayotte
-
-#### Chapitre Ier : Dispositions communes
-
-###### Article R*179
-
-Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables dans la collectivité
-territoriale de Mayotte, à l'exception des articles R. 4-1 et R. 20 à R. 22.
+2° Les candidats peuvent se présenter soit isolément, soit sur une liste.
 
 **Liens relatifs à cet article**
 
@@ -24585,62 +24624,454 @@ territoriale de Mayotte, à l'exception des articles R. 4-1 et R. 20 à R. 22.
 
 	**Créé par**:
 
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 	**Cite**:
 
+	  - Code électoral - art. L334 (M)
+	  - Code électoral - art. R109-1 (M)
+	  - Code électoral - art. R109-2 (M)
+
+
+#### Chapitre V : Dispositions particulières à l'élection du sénateur de Saint-Pierre-et-Miquelon
+
+###### Article R175
+
+Les dispositions du titre III bis du livre II du présent code (partie Réglementaire) ne sont pas applicables à l'élection du
+sénateur de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+
+### Titre II : Dispositions particulières à Mayotte
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article R176
+
+Les dispositions du titre Ier, à l'exception des articles R. 4-1 et R. 20 à R. 22, du titre II et des chapitres Ier à III du
+titre IV du livre Ier du présent code (partie Réglementaire) sont, conformément à l'article 3 de la loi n° 2001-616 du 11
+juillet 2001, applicables à Mayotte sous réserve des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 3 (AbD)
+	  - Code électoral - art. R*20 (M)
+	  - Code électoral - art. R*22 (M)
 	  - Code électoral - art. R*4-1 (M)
-	  - Code électoral R4-1, R20 à R22
+
+	**Modifié par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 
-###### Article R*179-1
+###### Article R176-1
 
-Pour l'application du présent code dans la collectivité territoriale de Mayotte, il y a lieu de lire :
+Pour l'application du présent code à Mayotte, il y a lieu de lire :
 
-" 1° "collectivité territoriale de Mayotte", au lieu de :
+1° "Mayotte", au lieu de : "département" ou :
 
-"département" ou : "arrondissement" ;
+"arrondissement" ;
 
-" 2° "représentant du Gouvernement", au lieu de : "préfet" ou :
+2° "Représentant de l'Etat", au lieu de : "préfet" ou :
 
 "sous-préfet" ou : "Institut national de la statistique et des études économiques" ;
 
-" 3° "services du représentant du Gouvernement", au lieu de :
+3° "Services du représentant de l'Etat", au lieu de : "préfecture" ou : "autorité préfectorale" ou : "administration
+préfectorale" ;
 
-"préfecture", ou : "autorité préfectorale", ou : "administration préfectorale" ;
+4° "Tribunal de première instance", au lieu de : "tribunal d'instance" et : "tribunal de grande instance" ;
 
-" 4° "tribunal de première instance", au lieu de : "tribunal d'instance" et "tribunal de grande instance" ;
-
-" 5° "président du tribunal supérieur d'appel", au lieu de :
+5° "Président du tribunal supérieur d'appel", au lieu de :
 
 "premier président de cour d'appel" ;
 
-" 6° "secrétaire général", au lieu de : "secrétaire général de préfecture" ;
+6° "Secrétaire général", au lieu de : "secrétaire général de préfecture" ;
 
-" 7° "receveur des finances", au lieu de : "trésorier-payeur général" ;
+7° "Receveur des finances", au lieu de : "trésorier-payeur général" ;
 
-" 8° "budget du service de la poste", au lieu de : "budget annexe des postes et télécommunications" ;
+8° "Budget du service de la poste", au lieu de : "budget annexe des postes et télécommunications" ;
 
-" 9° "archives de la collectivité territoriale", au lieu de :
+9° "Archives de la collectivité départementale", au lieu de :
 
 "archives départementales" ;
 
-" 10° "code des communes applicable à Mayotte", au lieu de : "code général des collectivités territoriales" ;
+10° "Code des communes applicable à Mayotte", au lieu de : "code général des collectivités territoriales" ;
 
-" 11° "code du travail applicable à Mayotte", au lieu de : "code du travail" ;
+11° "De la collectivité départementale", au lieu de :
 
-" 12° "décisions des autorités compétentes", au lieu de : "arrêté du ministre de la santé" ;
+"départemental" ou : "départementaux" ;
 
-" 13° "de la collectivité territoriale", au lieu de :
+12° "Service des postes", au lieu de : "administration des postes et télécommunications" ;
 
-"départemental", ou : "départementaux" ;
+13° "Chef du service des postes", au lieu de : "directeur départemental des postes et télécommunications" ;
 
-" 14° "service des postes", au lieu de : "administration des postes et télécommunications" ;
-
-" 15° "chef du service des postes", au lieu de : "directeur départemental des postes et télécommunications" ;
-
-" 16° "chef du service de la coordination et de l'action économique", au lieu de : "directeur départemental des enquêtes
+14° "Chef du service de la coordination et de l'action économique", au lieu de : "directeur départemental des enquêtes
 économiques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 25 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+	  - Décret n°2004-134 du 12 février 2004 - art. 12 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
+	  - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
+	  - Décret n°2008-170 du 22 février 2008 - art. 5
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+
+###### Article R176-2
+
+I. - Le fichier mentionné à l'article L. 334-4-1 est tenu par le représentant de l'Etat.
+
+Ce fichier est constitué à partir :
+
+1° Des listes électorales de Mayotte ;
+
+2° Des listes électorales complémentaires établies à Mayotte pour l'application du chapitre Ier bis de la loi du 7 juillet
+1977 relative à l'élection des représentants au Parlement européen ;
+
+3° Des listes électorales complémentaires établies à Mayotte pour l'application des articles LO 227-1 à LO 227-4 ;
+
+Il est mis à jour à partir :
+
+1° Des décisions des commissions administratives chargées de la révision des listes électorales relatives aux inscriptions et
+radiations effectuées sur ces listes ;
+
+2° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ;
+
+3° Des avis de perte ou de recouvrement de la capacité électorale établis par les services du casier judiciaire ;
+
+4° Des avis de décès établis par les mairies ;
+
+5° Des avis reçus de l'Institut national de la statistique et des études économiques, de l'Institut territorial de la
+statistique et des études économiques de la Nouvelle-Calédonie, des représentants de l'Etat chargés du contrôle des listes
+électorales en Polynésie française et dans les îles Wallis et Futuna relatifs aux personnes inscrites sur une liste
+électorale à Mayotte et qui :
+
+a) Soit, étant également inscrites sur une liste électorale hors de Mayotte, doivent être radiées à Mayotte ;
+
+b) Soit sont décédées hors de Mayotte ;
+
+c) Soit ont fait l'objet hors de Mayotte d'une décision les privant de leurs droits civils et politiques.
+
+II. - Les catégories d'informations traitées sont :
+
+1° Identité de l'électeur : nom, prénoms, sexe, nom d'épouse ou de veuve, date et lieu de naissance ;
+
+2° Lieu et date d'inscription sur les listes électorales ;
+
+3° Nature de la liste électorale (générale ou complémentaire) ;
+
+4° Perte des droits civils et politiques, date d'effet et durée ;
+
+5° Acquisition ou perte de la nationalité française ;
+
+6° Nationalité, pour les ressortissants de l'Union européenne autres que les citoyens français ;
+
+7° Décès.
+
+III. - Les destinataires des informations traitées sont :
+
+1° Les maires, pour ce qui concerne leur commune ;
+
+2° L'Institut national de la statistique et des études économiques, l'Institut territorial de la statistique et des études
+économiques de la Nouvelle-Calédonie et, en Polynésie française et dans les îles Wallis et Futuna, le représentant de l'Etat
+chargé du contrôle des listes électorales, pour les informations de la nature de celles qui sont mentionnées au 5° du I.
+
+IV. - Le droit d'accès prévu par les articles 34 et 35 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés s'exerce auprès du représentant de l'Etat.
+
+V. - Le fichier ne peut servir à des fins de recherche de personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°77-729 1977-07-07
+	  - Loi n°78-17 1978-01-06 art. 34, art. 35
+	  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
+	  - Code électoral - art. L334-4-1 (M)
+	  - Code électoral L334-4-1, LO 227-1 à LO 227-4
+
+	**Cité par**:
+
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+
+###### Article R176-3
+
+La commission de propagande prévue aux articles R. 32 et R. 158 est présidée à Mayotte par un magistrat du siège désigné par
+le président du tribunal supérieur d'appel, assisté de trois fonctionnaires désignés par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2012 - art. 1 (V)
+	  - Arrêté du 27 avril 2012 - art. 2 (V)
+	  - Arrêté du 27 avril 2012 - art. 3 (V)
+	  - Arrêté du 4 mars 2014 (V)
+	  - Arrêté du 4 mars 2014 - art. 1 (V)
+	  - Arrêté du 4 mars 2014 - art. 4 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 14 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 15 (V)
+	  - Arrêté du 17 mars 2017 - art. 1 (V)
+	  - Code électoral - art. R176-3-10 (V)
+	  - Code électoral - art. R176-3-3 (V)
+	  - Code électoral - art. R176-3-4 (V)
+	  - Code électoral - art. R176-3-7 (V)
+	  - Code électoral - art. R179-1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R*158 (M)
+	  - Code électoral - art. R32 (M)
+
+
+###### Article R176-4
+
+Pour l'application de l'article R. 41, le représentant de l'Etat peut en outre avancer par arrêté l'heure de clôture du
+scrutin sans que la durée du scrutin puisse être inférieure à dix heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-888 du 8 mai 2002 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R41 (M)
+
+
+###### Article R176-5
+
+Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
+l'élection, soit au greffe du tribunal administratif, soit au secrétariat du contentieux du Conseil d'Etat, soit au
+secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
+représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
+transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
+à la partie qui le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+
+###### Article R176-6
+
+Jusqu'au 30 mai 2009 et par dérogation aux dispositions de l'article R. 60, les électeurs qui ne seraient pas en mesure de
+produire l'un des documents mentionnés dans l'arrêté prévu à cet article pourront néanmoins être admis à voter à l'occasion
+de tout scrutin organisé au suffrage universel à Mayotte si leur identité peut être confirmée par deux électeurs inscrits sur
+la même liste électorale et porteurs de l'un de ces documents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R60 (M)
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député de Mayotte
+
+###### Article R177
+
+En cas de dissolution de l'Assemblée nationale, les déclarations de candidatures peuvent, par dérogation aux dispositions de
+l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
+arrêté de ce ministre.
+
+Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat.
+
+Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R*98 (M)
+
+
+###### Article R177-1
+
+La commission de recensement général des votes prévue par l'article R. 107 est présidée à Mayotte par un magistrat du siège
+appartenant au tribunal supérieur d'appel désigné par le président de cette juridiction, assisté de deux fonctionnaires qu'il
+désigne sur proposition du représentant de l'Etat, d'un conseiller général et d'un fonctionnaire désignés par le représentant
+de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R*107 (M)
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte
+
+###### Article R178
+
+L'élection des conseillers généraux de Mayotte est régie par les dispositions du titre III du livre Ier du présent code
+(partie Réglementaire).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
+
+
+#### Chapitre V : Dispositions applicables à l'élection du sénateur de Mayotte
+
+###### Article R179
+
+Les dispositions du titre III bis du livre II du présent code (partie Réglementaire) ne sont pas applicables à l'élection du
+sénateur de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+
+###### Article R179-1
+
+Le bureau du collège électoral prévu à l'article R. 163 est présidé à Mayotte par un magistrat appartenant au tribunal
+supérieur d'appel désigné par le président de cette juridiction, assisté de deux chefs de service qu'il désigne et des deux
+conseillers généraux les plus âgés présents à l'ouverture du scrutin et non candidats.
 
 **Liens relatifs à cet article**
 
@@ -24656,192 +25087,7 @@ Pour l'application du présent code dans la collectivité territoriale de Mayott
 	  - Arrêté du 4 mars 2014 - art. 4 (V)
 	  - Code électoral - art. R176-4-7 (V)
 
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-
-###### Article R*179-2
-
-La commission de propagande prévue aux articles R. 32 et R. 158 du présent code est présidée à Mayotte par un magistrat du
-siège appartenant à la juridiction de première instance désigné par le président de cette juridiction, assisté de trois
-fonctionnaires désignés par le représentant du Gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Cite**:
-
-	  - Code électoral - art. R*158 (M)
-	  - Code électoral - art. R32 (M)
-
-
-###### Article R*179-3
-
-Pour l'application de l'article R. 41, le représentant du Gouvernement peut en outre avancer par arrêté l'heure de clôture du
-scrutin dans l'ensemble de la collectivité territoriale sans que la durée du scrutin puisse être inférieure à dix heures.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Cite**:
-
-	  - Code électoral - art. R41 (M)
-
-
-#### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Mayotte
-
-###### Article R*179-4
-
-Les dispositions du titre II du livre Ier du présent code (partie Réglementaire) sont applicables à l'élection du député de
-la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-
-###### Article R*179-5
-
-La commission de recensement général des votes prévue par l'article R. 107 du présent code est présidée à Mayotte par un
-magistrat du siège appartenant au tribunal supérieur d'appel désigné par le président de cette juridiction, assisté de deux
-fonctionnaires désignés par lui sur proposition du représentant du Gouvernement et d'un conseiller général et d'un
-fonctionnaire désignés par le représentant du Gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Cite**:
-
-	  - Code électoral - art. R*107 (M)
-
-
-#### Chapitre III : Dispositions relatives à l'élection des conseillers généraux de la collectivité territoriale de Mayotte
-
-###### Article R*179-6
-
-Les dispositions du titre III du livre Ier du présent code (partie Réglementaire) sont applicables à l'élection des
-conseillers généraux de la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-
-#### Chapitre IV : Dispositions relatives à l'élection des conseillers municipaux de la collectivité territoriale de Mayotte
-
-###### Article R*179-7
-
-Les dispositions des chapitres Ier à III du titre IV du présent code (partie Réglementaire) sont applicables à l'élection des
-conseillers municipaux dans la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-
-#### Chapitre V : Dispositions relatives à l'élection du sénateur de la collectivité territoriale de Mayotte
-
-###### Article R*179-8
-
-Les dispositions du livre II du présent code (partie Réglementaire), à l'exception du titre III bis, sont applicables à
-l'élection du sénateur de la collectivé territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-
-###### Article R*179-9
-
-Le bureau du collège électoral prévu à l'article R. 163 du présent code est présidé à Mayotte par un magistrat appartenant au
-tribunal supérieur d'appel désigné par le président de cette juridiction, assisté de deux chefs de service désignés par lui
-et des deux conseillers généraux les plus âgés présents à l'ouverture du scrutin et non candidats. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
 
@@ -25460,6 +25706,2553 @@ Les dispositions de l'article R. 190 sont applicables à l'élection des conseil
 	**Cite**:
 
 	  - Code électoral - art. R190 (V)
+
+
+## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna
+
+### Titre Ier : Dispositions générales
+
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna
+
+###### Article R201
+
+Pour l'application des dispositions du présent code en Nouvelle-Calédonie, il y a lieu de lire :
+
+1° "Nouvelle-Calédonie", au lieu de : "département", et : "de la Nouvelle-Calédonie", au lieu de : "départementaux" ;
+
+2° "Haut-commissaire", au lieu de : "préfet" et de : "autorité préfectorale" ;
+
+3° "Du haut-commissaire", au lieu de : "préfectoral" ;
+
+4° "Services du haut-commissaire", au lieu de : "préfecture" ;
+
+5° "Secrétaire général du haut-commissariat", au lieu de :
+
+"secrétaire général de préfecture" ;
+
+6° "Subdivision administrative territoriale", au lieu de :
+
+"arrondissement" ;
+
+7° "Service du commissaire délégué de la République", au lieu de :
+
+"sous-préfecture" ;
+
+8° "Commissaire délégué de la République", au lieu de :
+
+"sous-préfet" ;
+
+9° "Province", au lieu de : "département" et de : "cantons" ;
+
+10° "Assemblée de province", au lieu de : "conseil général" ;
+
+11° "Membre d'une assemblée de province", au lieu de : "conseiller général" et de : "conseiller régional" ;
+
+12° "Election des membres du congrès et des assemblées de province", au lieu de : "élection des conseillers généraux" ;
+
+13° "Institut territorial de la statistique et des études économiques", au lieu de : "Institut national de la statistique et
+des études économiques" ;
+
+14° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
+
+15° "Chambre territoriale des comptes", au lieu de : "chambre régionale des comptes" ;
+
+16° "Directeur du commerce et des prix", au lieu de : "directeur départemental des enquêtes économiques" ;
+
+17° "Budget de l'office des postes et télécommunications", au lieu de : "budget annexe des postes et télécommunications" ;
+
+18° "Archives de la Nouvelle-Calédonie" ou "archives de la province", au lieu de : "archives départementales".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 21 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+	  - Décret n°2004-134 du 12 février 2004 - art. 12 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
+	  - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R202
+
+Pour l'application des dispositions du présent code en Polynésie française, il y a lieu de lire :
+
+1° "Polynésie française", au lieu de : "département" et : "de la Polynésie", au lieu de : "départemental" ;
+
+2° "Haut-commissaire", au lieu de : "préfet", de : "autorité préfectorale" et de : "Institut national de la statistique et
+des études économiques" ;
+
+3° "Services du haut-commissaire", au lieu de : "préfecture" ;
+
+4° "Secrétaire général", au lieu de : "secrétaire général de préfecture" ;
+
+5° "Services du chef de subdivision administrative", au lieu de : "sous-préfecture" ;
+
+6° "Subdivision administrative", au lieu de : "arrondissement", et : "chef de subdivision administrative", au lieu de :
+"sous-préfet" ;
+
+7° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
+
+8° "Election des membres de l'assemblée de Polynésie française", au lieu de : "élection des conseillers généraux" ;
+
+9° "Membre de l'assemblée de Polynésie française", au lieu de : "conseiller général" et de : "conseiller régional" ;
+
+10° "Circonscriptions électorales", au lieu de : "cantons" ;
+
+11° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
+
+12° "Chambre territoriale des comptes", au lieu de : "chambre régionale des comptes" ;
+
+13° "Chef du service des affaires économiques", au lieu de : "directeur départemental des enquêtes européennes" ;
+
+14° "Budget de l'établissement chargé de la poste", au lieu de : "budget annexe des postes et télécommunications" ;
+
+15° "Archives de la Polynésie française", au lieu de : "archives départementales".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 22 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+	  - Décret n°2004-134 du 12 février 2004 - art. 12 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
+	  - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R203
+
+Pour l'application des dispositions du présent code dans les îles Wallis et Futuna, il y a lieu de lire :
+
+1° "Territoire", au lieu de : "département" ;
+
+2° "Territoriaux", au lieu de : "départementaux" ;
+
+3° "Administrateur supérieur", au lieu de : "préfet", de :
+
+"autorité préfectorale" ou de : "Institut national de la statistique et des études économiques" ;
+
+4° "De l'administrateur supérieur", au lieu de : "préfectoral" ou de : "préfectoraux" ;
+
+5° "Secrétaire général", au lieu de : "secrétaire général de préfecture" ;
+
+6° "Services de l'administrateur supérieur", au lieu de :
+
+"préfecture" ;
+
+7° "Chef de circonscription", au lieu de : "sous-préfet", de :
+
+"maire", de : "administration municipale" ou de :
+
+"municipalité" ;
+
+8° "Services du chef de circonscription", au lieu de :
+
+"sous-préfecture" ;
+
+9° "Siège de circonscription territoriale", au lieu de : "mairie" ou de : "conseil municipal" ;
+
+10° "Tribunal de première instance", au lieu de : "tribunal d'instance".
+
+11° "Circonscription territoriale", au lieu de : "commune".
+
+12° "Membre de l'assemblée territoriale", au lieu de : "conseiller général" et de : "conseiller régional" ;
+
+13° "Archives du territoire", au lieu de : "archives départementales" ;
+
+14° "Directeur du commerce et des prix", au lieu de : "directeur départemental des enquêtes économiques" ;
+
+15° "Office des postes et télécommunications", au lieu de :
+
+"administration des postes et télécommunications" ;
+
+16° "Directeur de l'office des postes et télécommunications", au lieu de : "directeur départemental des postes et
+télécommunications" ;
+
+17° "Conseil du contentieux administratif", au lieu de : "tribunal administratif".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 23 (V)
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+	  - Décret n°2004-134 du 12 février 2004 - art. 12 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
+	  - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
+	  - Décret n°2008-170 du 22 février 2008 - art. 5
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R204
+
+I. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire), à l'exception de l'article R. 4-1 et
+des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2002-105 du 25 janvier
+2002 :
+
+1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française ;
+
+2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ;
+
+3° A l'élection des membres de l'assemblée de Polynésie française ;
+
+4° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
+
+II. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables, dans leur rédaction
+en vigueur à la date du décret n° 2002-105 du 25 janvier 2002, dans les îles Wallis et Futuna :
+
+1° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60, à l'élection du député ;
+
+2° A l'exception des mêmes articles et du chapitre V bis, à l'élection des membres de l'assemblée territoriale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Décret n°2002-105 2002-01-25
+	  - Code électoral - art. R*4-1 (M)
+	  - Code électoral - art. R43 (M)
+	  - Code électoral - art. R60 (M)
+	  - Code électoral R4-1, R20 à R22, R43, R60
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
+	  - Décret n°2016-1819 du 22 décembre 2016 - art. 4
+	  - Code électoral - art. R210 (V)
+
+
+###### Article R205
+
+Pour l'application de l'article R. 39-1 : 
+
+1° La référence au 2 bis de l'article 200 du code général des impôts est remplacée par la référence aux dispositions
+correspondantes applicables localement ; 
+
+2° La somme de 3 000 euros est remplacée par la somme de 363 636 F CFP.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 21 (V)
+	  - Décret n°79-160 du 28 février 1979 - art. 22 (V)
+	  - Décret n°79-160 du 28 février 1979 - art. 23 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200 (VT)
+	  - Code électoral - art. R39-1 (V)
+
+
+###### Article R206
+
+La référence à l'article 27 (deuxième alinéa) du code de l'administration communale doit être remplacée, pour l'application
+du présent code à la Nouvelle-Calédonie, par la référence à l'article L. 121-12 du code des communes de la Nouvelle-Calédonie
+et, pour l'application du même code en Polynésie française, par la référence à l'article L. 121-12 du code des communes
+applicable localement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'administration communale 27
+	  - CODE DES COMMUNES. - art. L121-12 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 23 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
+
+
+###### Article R207
+
+Les représentants de l'Etat et l'Institut national de la statistique et des études économiques procèdent aux échanges
+d'informations nécessaires au contrôle des inscriptions sur les listes électorales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R208
+
+Par dérogation aux dispositions du deuxième alinéa de l'article R. 41 du code électoral, le représentant de l'Etat peut
+avancer l'heure de clôture du scrutin dans une circonscription électorale sans que la durée du scrutin puisse être inférieure
+à dix heures.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-825 du 3 mai 2002 - art. 5 (V)
+	  - Décret n°2002-888 du 8 mai 2002 - art. 5 (V)
+	  - Décret n°2003-95 du 4 février 2003 - art. 5 (V)
+	  - Décret n°2003-389 du 24 avril 2003 - art. 5 (V)
+	  - Décret n°2007-589 du 24 avril 2007 - art. 5 (V)
+	  - Décret n°2007-1468 du 15 octobre 2007 - art. 3 (V)
+	  - Décret n°2007-1469 du 15 octobre 2007 - art. 3 (V)
+	  - Décret n°2012-558 du 25 avril 2012 - art. 4 (V)
+	  - Décret n°2013-857 du 26 septembre 2013 - art. 4 (V)
+	  - Décret n°2014-458 du 7 mai 2014 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R41 (M)
+
+
+###### Article R209
+
+La déclaration de candidature comporte, outre les mentions prévues par le présent code, l'indication de la couleur que les
+candidats choisissent pour leurs bulletins de vote, affiches et circulaires. 
+
+Au cas où la même couleur est choisie par plusieurs candidats ou par plusieurs listes, le représentant de l'Etat détermine
+par arrêté la couleur qui est attribuée à chacun d'entre eux. Cet arrêté est pris après avis d'une commission composée de
+mandataires des candidats ou des listes et présidée par le représentant de l'Etat ou son représentant. 
+
+Cet arrêté peut être contesté dans les trois jours suivant sa notification devant le tribunal administratif ou, à  Wallis-et-
+Futuna, devant le conseil du contentieux administratif. La juridiction statue en premier et dernier ressort dans les trois
+jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Code électoral - art. R233 (V)
+	  - Code électoral - art. R235 (V)
+	  - Code électoral - art. R243 (V)
+	  - Code électoral - art. R248 (V)
+	  - Code électoral - art. R255 (V)
+	  - Code électoral - art. R260 (V)
+
+
+###### Article R210
+
+Sauf s'il en est disposé autrement par le présent code, le représentant de l'Etat fixe, par arrêté, la date à partir de
+laquelle les candidatures aux élections prévues à l'article R. 204 peuvent être reçues dans ses services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R204 (V)
+
+
+###### Article R211
+
+Les protestations formées contre l'une des élections organisées par le présent livre sont déposées, selon la nature de
+l'élection, soit au greffe du tribunal administratif, soit au secrétariat du contentieux du Conseil d'Etat, soit au
+secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
+représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
+transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
+à la partie qui le demande.
+
+Le délai de distance prévu à l'article 643 du nouveau code de procédure civile n'est pas applicable lorsque le Conseil d'Etat
+est compétent en premier et dernier ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R212
+
+Les décisions du Conseil d'Etat prises en application de l'article L. 118-3 sont notifiées dans les huit jours au candidat
+intéressé et au ministre chargé de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3 (V)
+
+
+#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie
+
+###### Article R213
+
+I.-L'institut territorial de la statistique et des études économiques de la Nouvelle-Calédonie (ITSEE) met en oeuvre un
+traitement automatisé d'informations nominatives en vue de la tenue du fichier général des électeurs et électrices inscrits
+en Nouvelle-Calédonie mentionné au VII de l'article 189 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-
+Calédonie : 
+
+Ce fichier est constitué à partir : 
+
+1° Des listes électorales de la Nouvelle-Calédonie ; 
+
+2° Des listes électorales établies en vue de la consultation organisée le 8 novembre 1998 en application de l'article 76 de
+la Constitution et des données ayant permis leur établissement ; 
+
+3° Des listes électorales spéciales à l'élection des membres du congrès et des assemblées de province et de leur tableau
+annexe ; 
+
+4° Des listes électorales complémentaires établies en Nouvelle-Calédonie pour l'application du chapitre Ier bis de la loi n°
+77-808 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen ; 
+
+5° Des listes électorales complémentaires établies en Nouvelle-Calédonie pour l'application des articles LO. 227-1 à LO.
+227-4. 
+
+Il est mis à jour à partir : 
+
+1° Des décisions des commissions administratives chargées de la révision des listes électorales relatives aux inscriptions et
+radiations effectuées sur ces listes ; 
+
+2° Des décisions des commissions administratives spéciales chargées de l'établissement des listes électorales spéciales et de
+leur tableau annexe ; 
+
+3° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ; 
+
+4° Des avis de perte ou de recouvrement de la capacité électorale établis par les services du casier judiciaire ; 
+
+5° Des avis de décès établis par les mairies ; 
+
+6° Des avis reçus de l'Institut national de la statistique et des études économiques et des représentants de l'Etat chargés
+du contrôle des listes électorales à Mayotte, en Polynésie française et dans les îles Wallis-et-Futuna relatifs aux personnes
+inscrites sur une liste électorale en Nouvelle-Calédonie et qui : 
+
+a) Soit, étant également inscrites sur une liste électorale hors de la Nouvelle-Calédonie, doivent être radiées en Nouvelle-
+Calédonie ; 
+
+b) Soit sont décédées hors de la Nouvelle-Calédonie ; 
+
+c) Soit ont fait l'objet hors de la Nouvelle-Calédonie d'une décision les privant de leurs droits civils et politiques. 
+
+II.-Les catégories d'informations traitées sont : 
+
+1° Identité de l'électeur : nom, prénoms, sexe, nom d'épouse ou de veuve, date et lieu de naissance ; 
+
+2° Lieux et dates d'inscription sur la ou les listes électorales ; 
+
+3° Nature de la liste électorale (générale, spéciale ou complémentaire) ; 
+
+4° Date de dépôt de la demande d'inscription sur la ou les listes électorales spéciales ; 
+
+5° Date de l'inscription de l'électeur sur le tableau annexe à la liste électorale spéciale ; 
+
+6° Admission ou non-admission de l'électeur à participer à la consultation du 8 novembre 1998 et motifs de la non-
+admission ; 
+
+7° Perte des droits civils et politiques, date d'effet et durée ; 
+
+8° Acquisition ou perte de la nationalité française ; 
+
+9° Nationalité, pour les ressortissants de l'Union européenne autres que les citoyens français ; 
+
+10° Décès. 
+
+III.-Les destinataires des informations traitées sont : 
+
+1° Le haut-commissaire de la République pour lui permettre d'informer le gouvernement de la Nouvelle-Calédonie de l'évolution
+du corps électoral ; 
+
+2° Les maires de la Nouvelle-Calédonie pour ce qui concerne leur commune ; 
+
+3° L'Institut national de la statistique et des études économiques et, à Mayotte, en Polynésie française et dans les îles
+Wallis et Futuna, le représentant de l'Etat chargé du contrôle des listes électorales, pour les informations de la nature de
+celles qui sont mentionnées au 6° du I ; 
+
+4° Les présidents des commissions administratives spéciales pour la tenue des listes électorales spéciales et de leur tableau
+annexe. 
+
+IV.-Le droit d'accès prévu par les articles 34 et 35 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique et aux
+libertés s'exerce auprès de l'institut territorial de la statistique et des études économiques. 
+
+V.-Le fichier ne peut servir à des fins de recherche de personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
+
+	**Cité par**:
+
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre III : Dispositions propres aux îles Wallis et Futuna
+
+###### Article R213-1
+
+Dans les îles Wallis et Futuna, les présidents des bureaux de vote sont désignés par le chef de circonscription parmi les
+électeurs du village. En cas d'absence, le président est remplacé par un suppléant désigné par lui parmi les électeurs du
+village, ou, à défaut, par le plus âgé des assesseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+### Titre II : Election des députés
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article R214
+
+Les dispositions du titre II du livre Ier du présent code (partie réglementaire), à l'exception des articles R. 98, R. 106 et
+du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2002-105 du 25
+janvier 2002, à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Décret n°2002-105 2002-01-25
+	  - Code électoral - art. R*106 (M)
+	  - Code électoral - art. R*107 (M)
+	  - Code électoral - art. R*98 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre II : Régime des inéligibilités
+
+###### Article R**215
+
+I. - Sont assimilées, pour l'application de l'article LO. 131, même si elles sont exercées par délégation ou à titre
+intérimaire : 
+
+1° Aux fonctions de préfet, les fonctions de haut-commissaire de la République en Nouvelle-Calédonie ou en Polynésie
+française et, dans les îles Wallis et Futuna, les fonctions d'administrateur supérieur ; 
+
+2° Aux fonctions de secrétaire général de préfecture : 
+
+a) En Nouvelle-Calédonie, les fonctions de secrétaire général du haut-commissariat et de secrétaire général adjoint ; 
+
+b) En Polynésie française, les fonctions de secrétaire général et de secrétaire général adjoint ; 
+
+c) Dans les îles Wallis et Futuna, les fonctions de secrétaire général du territoire ; 
+
+3° Aux fonctions de sous-préfet : 
+
+a) En Nouvelle-Calédonie, les fonctions de commissaire délégué de la République et de directeur, directeur adjoint et chef du
+cabinet du haut-commissaire de la République ; 
+
+b) En Polynésie française, les fonctions de chef de subdivision administrative et de directeur, directeur adjoint et chef du
+cabinet du haut-commissaire de la République ; 
+
+c) Dans les îles Wallis et Futuna, les fonctions de chef de circonscription administrative et de chef du cabinet de
+l'administrateur supérieur ; 
+
+4° Aux fonctions de secrétaire général de préfecture ou de sous-préfet : 
+
+a) En Nouvelle-Calédonie, les fonctions de secrétaire général et de secrétaire général adjoint du gouvernement, de secrétaire
+général et de secrétaire général adjoint d'une province ; 
+
+b) En Polynésie française, les fonctions de secrétaire général et de secrétaire général adjoint du gouvernement. 
+
+II. - Pour l'application de l'article LO. 133, sont inéligibles les personnes qui exercent les fonctions suivantes, même par
+délégation ou à titre intérimaire, en Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna : 
+
+1° Par assimilation aux fonctions mentionnées au 1° dudit article, les fonctions d'inspecteur général ou d'inspecteur dans un
+service ou un établissement public de l'Etat, du territoire, de la Nouvelle-Calédonie et des provinces ; 
+
+2° Par assimilation aux fonctions mentionnées au 3° du même article, les fonctions de membre du conseil du contentieux
+administratif dans les îles Wallis et Futuna ; 
+
+3° Par assimilation aux fonctions mentionnées au 6° du même article, les fonctions de vice-recteur ; 
+
+4° Par assimilation aux fonctions mentionnées aux 7°, 9° à 11° et 14° à 18° du même article, les fonctions de chef de
+service, inspecteur général, inspecteur, secrétaire général, secrétaire général adjoint, directeur général, directeur,
+directeur adjoint, sous-directeur, chef de bureau ou de division, chef de subdivision administrative ou de circonscription
+administrative, dans un service ou un établissement public de l'Etat, du territoire, de la Nouvelle-Calédonie et des
+provinces ; 
+
+5° Par assimilation aux fonctions mentionnées au 8° du même article, les fonctions de trésorier-payeur général, trésorier-
+payeur, receveur des finances, payeur du territoire, de la Nouvelle-Calédonie et des provinces ; 
+
+6° Par assimilation aux fonctions mentionnées aux 12° et 13° du même article, les fonctions de directeur, président du
+conseil d'administration ou secrétaire général des organismes du territoire, de la Nouvelle-Calédonie ou des provinces en
+matière de sécurité ou d'aide sociale ou familiale, de crédit immobilier, agricole, industriel, artisanal, social ou de
+crédit aux pêcheurs ou les fonctions de représentant local de la caisse centrale de coopération économique, directeur de
+banque d'émission, directeur local d'une société nationale ou d'une société d'économie mixte ou d'un bureau de recherches ou
+de développement de la production.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. LO131 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R**273 (V)
+
+
+#### Chapitre III : Candidatures
+
+###### Article R216
+
+I.-Sauf le cas de dissolution de l'Assemblée nationale, pour le premier tour de scrutin, les déclarations de candidatures
+sont reçues dans les services du représentant de l'Etat en Nouvelle-Calédonie et dans les îles Wallis et Futuna à partir du
+quatrième lundi qui précède le jour de l'élection, et, en Polynésie française, à partir du lendemain de la publication au
+Journal officiel de la République française du décret portant convocation des électeurs. 
+
+Pour le second tour, les déclarations de candidatures sont reçues à partir de la proclamation des résultats par la commission
+de recensement général des votes. 
+
+II.-En cas de dissolution de l'Assemblée nationale, les déclarations de candidatures peuvent en outre être reçues à Paris
+dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par arrêté de ce ministre. 
+
+Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat. 
+
+Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre IV : Recensement des votes
+
+###### Article R217
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune, ou, dans
+les îles Wallis et Futuna, dans chaque circonscription administrative, accompagné des pièces qui doivent y être annexées, est
+scellé et transmis au président de la commission de recensement général des votes, soit par porteur, soit par pli postal
+recommandé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R218
+
+Le recensement général des votes est effectué dès la fermeture du scrutin au fur et à mesure de l'arrivée des procès-verbaux.
+
+Un arrêté du représentant de l'Etat pris avant l'ouverture du scrutin fixe le délai dans lequel la commission de recensement
+général des votes devra avoir terminé ses travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie
+
+#### Chapitre Ier : Liste électorale spéciale
+
+##### Section 1 : Etablissement de la liste électorale spéciale
+
+###### Article R219
+
+Les dispositions des articles R. 6, R. 7, R. 12 à R. 15-7, R. 17-1, R. 18, R. 19 à R. 22 sont applicables, dans leur
+rédaction en vigueur à la date du décret n° 2001-105 du 25 janvier 2002, à l'établissement de la liste électorale spéciale
+pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R*17-1 (M)
+	  - Code électoral - art. R*18 (M)
+	  - Code électoral - art. R*6 (M)
+	  - Code électoral - art. R*7 (M)
+	  - Code électoral R6, R7, R12 à R15-7, R17-1, R18, R19 à R22
+	  - Décret n°2001-105 2002-01-25
+
+
+###### Article R220
+
+Pour les élections au congrès et aux assemblées de province, la commission administrative spéciale, instituée au II de
+l'article 189 de la loi organique n° 99-209 du 19 mars 1999, établit chaque année la liste électorale spéciale à l'élection
+des membres du congrès et des assemblées de province à partir de la liste électorale en vigueur, de la liste électorale
+spéciale de l'année précédente et du tableau annexe des électeurs qui ne sont pas inscrits sur la liste électorale spéciale. 
+
+A ce titre : 
+
+1° Elle inscrit sur la liste électorale spéciale, à leur demande, les électeurs satisfaisant aux conditions prévues à
+l'article 188 de la loi organique n° 99-209 du 19 mars 1999 ; 
+
+2° Elle procède à l'inscription d'office des personnes âgées de dix-huit ans, dans les conditions prévues aux III et IV de
+l'article 189 de la même loi organique ; 
+
+3° Elle met à jour le tableau annexe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 188 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Code électoral - art. R221 (V)
+
+
+###### Article R221
+
+Les demandes d'inscription sur la liste électorale spéciale sont déposées auprès de la mairie du domicile des intéressés
+jusqu'au dernier jour ouvrable de décembre inclus, le samedi étant considéré comme jour ouvrable. Elles sont accompagnées de
+tous les éléments de nature à prouver que les intéressés remplissent les conditions mentionnées au 1° de l'article R. 220.
+
+L'autorité municipale transmet les demandes et la liste mentionnées au premier alinéa à la commission administrative
+spéciale, qui procède aux inscriptions et aux radiations du 1er mars au 30 avril au plus tard.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R220 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R229 (V)
+
+
+###### Article R222
+
+La commission administrative spéciale tient un registre de toutes ses décisions et y mentionne les motifs et pièces à
+l'appui.
+
+Lorsque la commission refuse d'inscrire un électeur sur la liste électorale spéciale, sa décision est notifiée à l'intéressé
+dans les deux jours et au plus tard le 25 mars, par écrit et à domicile, par les soins de l'administration municipale. Il est
+fait mention de cette notification et de sa date sur le registre prévu au premier alinéa.
+
+L'avis de notification précise les motifs de la décision. Il informe l'électeur que, dès réception de cet avis et au plus
+tard le 1er avril, il peut présenter des observations à la commission. Au vu de ces observations, la commission prend, le 4
+avril au plus tard, une nouvelle décision notifiée dans les deux jours à l'intéressé, dans les mêmes formes que celles
+prévues à l'alinéa précédent.
+
+L'avis de notification informe également l'intéressé, que dans les dix jours de la publication de la liste électorale
+spéciale prévue à l'article R. 224 qui interviendra le 5 avril, il pourra contester la décision de refus devant le tribunal
+de première instance de Nouméa ou ses sections détachées de Koné et de Lifou dans les conditions prévues à l'article R. 225.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R224 (M)
+	  - Code électoral - art. R225 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R230 (V)
+
+
+###### Article R223
+
+La commission administrative spéciale met également à jour le tableau annexe mentionné à l'article 189 de la loi organique n°
+99-209 du 19 mars 1999 :
+
+1° En inscrivant à ce tableau annexe les électeurs inscrits sur la liste électorale générale qui ne remplissent pas encore la
+condition de domicile prévue au b ou au c du I de l'article 188 de la même loi organique ainsi que ceux qui, inscrits sur la
+liste électorale, n'ont pas sollicité leur inscription sur la liste électorale spéciale ;
+
+2° En retirant de ce tableau annexe les électeurs qui remplissent la condition de domicile prévue au b du I dudit article 188
+pour être inscrits sur la liste électorale spéciale ainsi que les électeurs décédés et tous ceux qui ne remplissent plus les
+conditions prévues pour figurer sur le tableau.
+
+La commission administrative spéciale informe l'électeur inscrit au tableau annexe de cette inscription au plus tard le 30
+avril.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 188 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R224
+
+La liste électorale spéciale et le tableau annexe sont signés de tous les membres de la commission administrative spéciale et
+déposés au secrétariat de la mairie le 5 avril. Le jour même du dépôt, ils sont tenus à la disposition du public et affichés
+par le maire aux lieux accoutumés, où ils doivent demeurer pendant dix jours.
+
+Le même jour, une copie de la liste électorale spéciale, du tableau annexe et du procès-verbal constatant l'accomplissement
+des formalités prescrites par l'alinéa précédent est transmise par le maire au chef de la subdivision administrative qui
+l'adresse, dans les deux jours, avec ses observations, au haut-commissaire. A la même date, le délégué de l'administration
+adresse au chef de subdivision administrative ou au haut-commissaire un compte rendu du déroulement des travaux de la
+commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Code électoral - art. R222 (M)
+	  - Code électoral - art. R227 (V)
+
+
+###### Article R225
+
+La liste électorale spéciale et le tableau annexe peuvent faire l'objet de recours en application des dispositions des
+articles R. 12 à R. 15-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R12 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R222 (V)
+	  - Code électoral - art. R226 (V)
+
+
+###### Article R226
+
+Le dernier jour ouvrable d'avril, la commission administrative spéciale opère toutes les rectifications qui ont été
+régulièrement ordonnées à la suite de recours formés en application de l'article R. 225 et transmet au haut-commissaire les
+tableaux de ces rectifications. Elle arrête définitivement la liste électorale spéciale et le tableau annexe, dont elle
+adresse une copie au haut-commissaire.
+
+Les minutes de la liste électorale spéciale et du tableau annexe restent déposées au secrétariat de la mairie. Les tableaux
+rectificatifs transmis au haut-commissaire restent déposés dans les services du haut-commissariat avec la copie de la liste
+électorale spéciale et du tableau annexe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R225 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R227 (V)
+
+
+###### Article R227
+
+Tout électeur peut prendre connaissance de la liste électorale spéciale, des tableaux rectificatifs et du tableau annexe
+mentionnés aux articles R. 224 et R. 226, à la mairie ou auprès des services du haut-commissaire pour l'ensemble des communes
+de Nouvelle-Calédonie. Il peut reproduire ces documents à ses frais à condition de s'engager à ne pas en faire un usage
+commercial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R224 (M)
+	  - Code électoral - art. R226 (M)
+
+
+###### Article R228
+
+La liste électorale spéciale et le tableau annexe restent tels qu'ils ont été arrêtés jusqu'au dernier jour d'avril de
+l'année suivante, sous réserve des changements résultant de décisions du tribunal de première instance ou d'arrêts de la Cour
+de cassation, des radiations des électeurs décédés et de celles qui auront été faites en cours d'année en application du IV
+de l'article 189 de la loi organique n° 99-209 du 19 mars 1999.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+##### Section 2 : Inscription en dehors des périodes de révision
+
+###### Article R229
+
+Sont recevables en dehors de la période prévue au premier alinéa de l'article R. 221 : 
+
+1° Les demandes d'inscription sur la liste électorale spéciale formées en application de l'avant-dernier alinéa du IV de
+l'article 189 de la loi organique n° 99-209 du 19 mars 1999 ; 
+
+2° Les demandes d'inscription sur la liste électorale spéciale formées en cas de dissolution ou d'élection partielle
+mentionnées au V du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
+	  - Code électoral - art. R221 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Code électoral - art. R230 (V)
+
+
+###### Article R230
+
+Les demandes mentionnées à l'article R. 229 sont recevables jusqu'au vingtième jour précédant celui du scrutin. Elles sont
+transmises sans délai par l'autorité municipale à la commission administrative spéciale qui statue dans les dix jours et au
+plus tard quinze jours avant le scrutin. 
+
+Lorsque la commission refuse d'inscrire un électeur, sa décision est notifiée dans les deux jours à l'intéressé, par écrit et
+à domicile, par les soins de l'administration municipale. Il est fait mention de cette notification et de sa date sur le
+registre prévu au premier alinéa de l'article R. 222. 
+
+L'avis de notification précise les motifs de la décision. Il informe l'électeur qu'il peut, dans les dix jours suivant la
+notification et au plus tard huit jours avant le scrutin, contester la décision de refus devant le tribunal de première
+instance de Nouméa ou ses sections détachées de Koné et de Lifou.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R222 (V)
+	  - Code électoral - art. R229 (V)
+
+
+##### Section 3 : Carte électorale spéciale
+
+###### Article R231
+
+Une carte électorale d'un modèle spécial, valable pour les élections au congrès et aux assemblées de province, est délivrée à
+tout électeur inscrit sur la liste électorale spéciale.
+
+La carte électorale spéciale comporte la mention : Election au congrès et aux assemblées de province de la Nouvelle-
+Calédonie.
+
+Les modalités d'application du présent article sont fixées par un arrêté du ministre chargé de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 9 février 2004
+	  - TXT_SOURCE: Arrêté du 9 février 2004 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 février 2004 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 9 février 2004 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 9 février 2004 - art. 1 (V)
+
+
+#### Chapitre II : Candidatures et bulletins de vote
+
+###### Article R232
+
+Les déclarations de candidature sont rédigées sur papier libre et déposées dans les services du haut-commissaire à partir du
+quatrième lundi précédant le scrutin et au plus tard le vingt et unième jour précédant la date de scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R233
+
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre du dépôt des
+listes pour chaque province, par le haut-commissaire et publié au Journal officiel de la Nouvelle-Calédonie au plus tard le
+troisième samedi précédant la date du scrutin. Il est notifié aux maires.
+
+Cet état indique par circonscription et pour chaque liste :
+
+1° Le titre de la liste ;
+
+2° Les nom, prénoms et sexe des candidats énumérés dans l'ordre de leur présentation sur la liste tel qu'il résulte de la
+déclaration.
+
+Il indique également, le cas échéant :
+
+1° L'emblème choisi par la liste pour ses bulletins de vote ;
+
+2° La couleur choisie par la liste pour ses bulletins de vote ou celle qui lui a été attribuée en application de l'article R.
+209.
+
+**Nota:**
+
+Décret n° 2009-430 du 20 avril 2009 article 9 : L'article R. 233 dans sa rédaction issue du présent décret entre en vigueur
+le 1er juillet 2009
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
+	  - Code électoral - art. R235 (V)
+	  - Code électoral - art. R238 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R209 (V)
+
+
+###### Article R234
+
+Lorsque, à la suite du décès d'un candidat, il y a lieu à application du deuxième alinéa de l'article L. 400, il est
+immédiatement procédé à la publication par le haut-commissaire de la modification intervenue dans la composition de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L400 (V)
+
+
+###### Article R235
+
+Les bulletins de vote comportent le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre
+résultant de la publication prévue à l'article R. 233. 
+
+Les nom et prénoms des candidats figurant aux dix derniers rangs sont imprimés en caractères plus petits que ceux des autres
+candidats de la liste. 
+
+Les bulletins de vote doivent être imprimés sur du papier de la couleur choisie par la liste ou attribuée à celle-ci en
+application des dispositions de l'article R. 209. Ceux qui ne répondent pas à ces conditions ne sont pas acceptés par la
+commission de propagande prévue à l'article R. 237.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R209 (V)
+	  - Code électoral - art. R233 (V)
+	  - Code électoral - art. R237 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R238 (V)
+
+
+###### Article R236
+
+En cas de scrutin uninominal, toute candidature est soumise aux mêmes conditions d'enregistrement, sous réserve des
+adaptations imposées par ce mode de scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre III : Propagande
+
+###### Article R237
+
+Les dispositions de l'article R. 32 ne sont pas applicables aux élections au congrès et aux assemblées de province de la
+Nouvelle-Calédonie.
+
+La commission de propagande prévue dans chaque province par l'article L. 403 est instituée par arrêté du haut-commissaire
+publié au Journal officiel de la Nouvelle-Calédonie et installée dès l'ouverture de la campagne électorale.
+
+Elle comprend :
+
+1° Un magistrat désigné par le premier président de la cour d'appel, président ;
+
+2° Un fonctionnaire désigné par le haut-commissaire ;
+
+3° Un fonctionnaire désigné par le trésorier-payeur général ;
+
+4° Un fonctionnaire désigné par le directeur de l'office des postes et télécommunications.
+
+Les mandataires des listes peuvent participer, avec voix consultative, aux travaux de la commission instituée dans leur
+province.
+
+Le secrétariat de la commission est assuré par un fonctionnaire désigné par le haut-commissaire.
+
+Le président fixe, en accord avec le haut-commissaire, le lieu où la commission doit siéger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L403 (V)
+	  - Code électoral - art. R32 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R235 (V)
+
+
+#### Chapitre IV : Opérations de vote et recensement
+
+###### Article R238
+
+N'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal, outre les bulletins visés à
+l'article L. 391 : 
+
+1° Les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue à l'article R. 233 ; 
+
+2° Les bulletins non conformes aux dispositions de l'article R. 235 ; 
+
+3° Les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ; 
+
+4° Les bulletins qui ne sont pas imprimés en caractères noirs ; 
+
+5° Les circulaires utilisées comme bulletins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L391 (V)
+	  - Code électoral - art. R233 (V)
+	  - Code électoral - art. R235 (V)
+
+
+###### Article R239
+
+La commission de recensement général des votes prévue par l'article L. 406 est instituée au chef-lieu de chaque province par
+arrêté du haut-commissaire publié au Journal officiel de la Nouvelle-Calédonie. Elle comprend trois magistrats, dont le
+président de la commission, désignés par le premier président de la cour d'appel et un fonctionnaire désigné par le haut-
+commissaire. 
+
+L'arrêté instituant la commission fixe la date à laquelle celle-ci est installée et la date à laquelle elle doit avoir achevé
+ses travaux. 
+
+Un représentant de chacune des listes de candidats peut assister aux opérations de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L406 (V)
+
+
+###### Article R240
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+accompagné des pièces qui doivent y être annexées, y compris les feuilles d'émargement, est scellé et transmis par le
+président du bureau de vote à la commission de recensement général des votes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R241
+
+Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
+verbaux.
+
+La commission procède, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux.
+
+La commission détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans la province par le nombre de
+sièges à pourvoir au congrès. Il est attribué à chaque liste autant de sièges de membres du congrès que le nombre de
+suffrages de la liste contient de fois le quotient électoral. Les sièges non répartis sont attribués selon la règle de la
+plus forte moyenne. A cet effet, les sièges sont conférés successivement à celle des listes pour laquelle la division du
+nombre de suffrages recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus fort résultat.
+
+Dans le cas où deux listes ont la même moyenne et qu'il ne reste plus qu'un siège à pourvoir, le siège est attribué à la
+liste qui a reçu le plus grand nombre de suffrages. Lorsque deux listes ont la même moyenne et le même nombre de suffrages,
+le siège est attribué au plus âgé des candidats.
+
+Il est ensuite procédé de la même manière pour l'attribution des sièges à l'assemblée de province.
+
+Les opérations de recensement général des votes et celles de l'attribution des sièges sont constatées par un procès-verbal,
+dressé en deux exemplaires et signé par tous les membres de la commission.
+
+Le président de la commission proclame les résultats de l'élection en public.
+
+Les résultats de l'élection sont publiés au Journal officiel de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+### Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française
+
+#### Chapitre Ier : Candidatures et bulletins de vote
+
+###### Article R242
+
+Les déclarations de candidature à l'assemblée de la Polynésie française sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R243
+
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre de dépôt des
+listes pour chaque circonscription, par le haut-commissaire de la République et publié au Journal officiel de la Polynésie
+française au plus tard quatre jours après la date de clôture du dépôt des listes. Il est notifié aux maires.
+
+Cet état indique, par circonscription et pour chaque liste :
+
+1° Le titre de la liste ;
+
+2° Les nom et prénoms des candidats énumérés dans l'ordre de leur présentation sur la liste tel qu'il résulte de la
+déclaration.
+
+Il indique également le cas échéant :
+
+1° L'emblème choisi par la liste pour ses bulletins de vote ;
+
+2° La couleur choisie par la liste pour ses bulletins de vote ou celle qui lui a été attribuée en application des
+dispositions de l'article R. 209.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R209 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R245 (V)
+	  - Code électoral - art. R250 (V)
+
+
+###### Article R244
+
+Lorsque, à la suite du décès d'un candidat, il y a lieu à application du deuxième alinéa de l'article L. 409, il est
+immédiatement procédé à la publication par le haut-commissaire de la République de la modification intervenue dans la
+composition de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L409 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R250 (V)
+
+
+###### Article R245
+
+Les bulletins de vote comportent le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre
+résultant de la publication prévue à l'article R. 243.
+
+Les nom et prénoms des candidats figurant aux deux derniers rangs sont imprimés en caractères plus petits que ceux des autres
+candidats de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R243 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R250 (V)
+
+
+###### Article R246
+
+En cas de scrutin uninominal, toute candidature est soumise aux mêmes conditions d'enregistrement, sous réserve des
+adaptations imposées par ce mode de scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre II : Propagande
+
+###### Article R247
+
+La commission de propagande prévue à l'article L. 413 est instituée dans chaque circonscription par arrêté du haut-
+commissaire de la République publié au Journal officiel de la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L413 (V)
+
+
+###### Article R248
+
+Les bulletins de vote doivent être imprimés sur du papier de la couleur choisie par la liste ou déterminée en application des
+dispositions de l'article R. 209.
+
+Les bulletins de vote qui ne répondent pas aux conditions prévues à l'alinéa précédent ne sont pas acceptés par la commission
+de propagande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R209 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R250 (V)
+
+
+###### Article R249
+
+Pour tenir compte des difficultés d'acheminement du courrier postal propres à certains archipels, les bulletins de vote
+peuvent être mis à la disposition des électeurs par les candidats, par l'intermédiaire du réseau internet. Ces bulletins
+doivent, pour pouvoir être valablement utilisés, être de dimensions et d'une présentation strictement identiques à celles des
+bulletins agréés par la commission de propagande, à l'exception de la couleur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Code électoral - art. R250 (V)
+
+
+#### Chapitre III : Opérations de vote et recensement
+
+###### Article R250
+
+N'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal :
+
+1° Les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue aux articles R. 243 et R. 244 ;
+
+2° Les bulletins qui ne répondent pas aux dispositions des articles R. 245 et R. 248, sans préjudice de l'application de
+l'article R. 249 ;
+
+3° Les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ;
+
+4° Les bulletins qui ne sont pas imprimés en caractères noirs ;
+
+5° Les circulaires utilisées comme bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R243 (M)
+	  - Code électoral - art. R244 (M)
+	  - Code électoral - art. R245 (M)
+	  - Code électoral - art. R248 (M)
+	  - Code électoral - art. R249 (M)
+
+
+###### Article R251
+
+La commission de recensement général des votes mentionnée à l'article L. 416 est instituée par arrêté du haut-commissaire de
+la République publié au Journal officiel de la Polynésie française.
+
+La commission comprend trois magistrats, dont le président de la commission, désignés par le premier président de la cour
+d'appel, et un fonctionnaire désigné par le haut-commissaire.
+
+L'arrêté instituant la commission fixe la date à laquelle la commission est installée et celle à laquelle elle doit avoir
+achevé ses travaux.
+
+Un représentant de chacune des listes de candidats peut assister aux opérations de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L416 (V)
+
+
+###### Article R252
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+accompagné des pièces qui y sont régulièrement annexées, y compris les feuilles d'émargement, est scellé et transmis au
+président de la commission de recensement général des votes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R253
+
+Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
+verbaux.
+
+La commission procède, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux.
+
+La commission détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans la circonscription par le
+nombre de sièges à pourvoir à l'assemblée. Il est attribué à chaque liste autant de sièges de membres de l'assemblée que le
+nombre de suffrages de la liste contient de fois le quotient électoral. Les sièges non répartis sont attribués selon la règle
+de la plus forte moyenne. A cet effet, les sièges sont conférés successivement à celle des listes pour laquelle la division
+du nombre de suffrages recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus fort
+résultat.
+
+Dans le cas où deux listes ont la même moyenne et qu'il ne reste plus qu'un siège à pourvoir, le siège est attribué à la
+liste qui a reçu le plus grand nombre de suffrages. Lorsque deux listes ont la même moyenne et le même nombre de suffrages,
+le siège est attribué au plus âgé des candidats.
+
+Les opérations de recensement des votes et celles de l'attribution des sièges sont constatées par un procès-verbal, dressé en
+deux exemplaires et signé par tous les membres de la commission.
+
+Le président de la commission proclame les résultats de l'élection en public.
+
+Les résultats de l'élection sont publiés au Journal officiel de la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna
+
+#### Chapitre Ier : Candidatures et bulletins de vote
+
+###### Article R254
+
+Les déclarations de candidature à l'assemblée territoriale sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R255
+
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre de dépôt des
+listes pour chaque circonscription, par l'administrateur supérieur et publié au Journal officiel du territoire au plus tard
+le troisième samedi qui précède le jour du scrutin.
+
+Cet état indique, par circonscription et pour chaque liste :
+
+1° Le titre de la liste ;
+
+2° Les nom et prénoms des candidats énumérés dans l'ordre de leur présentation sur la liste tel qu'il résulte de la
+déclaration.
+
+Il indique également le cas échéant :
+
+1° L'emblème choisi par la liste pour ses bulletins de vote ;
+
+2° La couleur choisie par la liste pour ses bulletins de vote ou celle qui lui a été attribuée en application des
+dispositions de l'article R. 209.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R209 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R257 (V)
+	  - Code électoral - art. R261 (V)
+
+
+###### Article R256
+
+En cas de décès d'un candidat, il est immédiatement procédé à la publication par l'administrateur supérieur de la
+modification intervenue dans la composition de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Code électoral - art. R261 (V)
+
+
+###### Article R257
+
+Les bulletins de vote comportent le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre
+résultant de la publication prévue à l'article R. 255.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R255 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R261 (V)
+
+
+###### Article R258
+
+En cas de scrutin uninominal, toute candidature est soumise aux mêmes conditions d'enregistrement, sous réserve des
+adaptations imposées par ce mode de scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre II : Propagande
+
+###### Article R259
+
+La commission de propagande prévue à l'article L. 424 est instituée dans chaque circonscription par arrêté de
+l'administrateur supérieur publié au Journal officiel du territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L424 (V)
+
+
+###### Article R260
+
+Les bulletins de vote doivent être imprimés sur du papier de la couleur choisie par la liste ou déterminée en application des
+dispositions de l'article R. 209. 
+
+Les bulletins de vote qui ne répondent pas aux conditions prévues à l'alinéa précédent ne sont pas acceptés par la commission
+de propagande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R209 (V)
+
+
+#### Chapitre III : Opérations de vote et recensement
+
+###### Article R261
+
+N'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal :
+
+1° Les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue aux articles R. 255 et R. 256 ;
+
+2° Les bulletins qui ne répondent pas aux dispositions de l'article R. 257 ;
+
+3° Les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ;
+
+4° Les bulletins qui ne sont pas imprimés en caractères noirs ;
+
+5° Les circulaires utilisées comme bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R255 (V)
+	  - Code électoral - art. R256 (V)
+	  - Code électoral - art. R257 (V)
+
+
+###### Article R262
+
+La commission de recensement général des votes mentionnée à l'article L. 427 est instituée par arrêté de l'administrateur
+supérieur, publié au Journal officiel du territoire. Cet arrêté fixe la date à laquelle la commission est installée et celle
+à laquelle elle doit avoir achevé ses travaux. 
+
+Un représentant de chacune des listes de candidats peut assister aux opérations de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L427 (V)
+
+
+###### Article R263
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque village,
+accompagné des pièces qui y sont régulièrement annexées, y compris les feuilles d'émargement, est scellé et transmis au
+président de la commission de recensement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R264
+
+Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
+verbaux.
+
+La commission procède, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux.
+
+La commission détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans la circonscription par le
+nombre de sièges à pourvoir à l'assemblée territoriale. Il est attribué à chaque liste autant de sièges de membres de
+l'assemblée territoriale que le nombre de suffrages de la liste contient de fois le quotient électoral. Les sièges non
+répartis sont attribués selon la règle de la plus forte moyenne. A cet effet, les sièges sont conférés successivement à celle
+des listes pour laquelle la division du nombre de suffrages recueillis par le nombre de sièges qui lui ont déjà été
+attribués, plus un, donne le plus fort résultat.
+
+Dans le cas où deux listes ont la même moyenne et qu'il ne reste plus qu'un siège à pourvoir, le siège est attribué à la
+liste qui a reçu le plus grand nombre de suffrages. Lorsque les deux listes ont la même moyenne et le même nombre de
+suffrages, le siège est attribué au plus âgé des candidats.
+
+Les opérations de recensement et celles de l'attribution des sièges sont constatées par un procès-verbal, dressé en deux
+exemplaires et signé par tous les membres de la commission.
+
+Le président de la commission proclame les résultats de l'élection en public.
+
+Les résultats de l'élection sont publiés au Journal officiel du territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française
+
+#### Chapitre Ier : Dispositions communes
+
+###### Article R265
+
+Les dispositions des chapitres Ier et II du titre IV du livre Ier du présent code (partie réglementaire), dans leur rédaction
+en vigueur à la date du décret n° 2002-105 du 25 janvier 2002, sont applicables à l'élection des membres des conseils
+municipaux en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes :
+
+1° Pour l'application du deuxième alinéa de l'article R. 124, il y a lieu de lire : "haut-commissaire de la République" au
+lieu de :
+
+"conseil général" ;
+
+2° Par dérogation au premier alinéa de l'article R. 119, le délai de recours contentieux contre l'élection est porté à quinze
+jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Décret n°2002-105 2002-01-25
+	  - Code électoral - art. R119 (M)
+	  - Code électoral - art. R124 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie
+
+###### Article R266
+
+Les dispositions des articles R. 127-1, R. 128 et R. 128-1 sont applicables à l'élection des conseillers municipaux des
+communes de 3 500 habitants et plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R127-1 (V)
+	  - Code électoral - art. R128 (M)
+	  - Code électoral - art. R128-1 (M)
+
+
+###### Article R267
+
+Les résultats des scrutins sont publiés au Journal officiel de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre III : Dispositions particulières à la Polynésie française
+
+###### Article R268
+
+Les dispositions des articles R. 127-1, R. 128 et R. 128-1 sont applicables à l'élection des conseillers municipaux des
+communes de 2 500 habitants et plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R127-1 (V)
+	  - Code électoral - art. R128 (M)
+	  - Code électoral - art. R128-1 (M)
+
+
+###### Article R269
+
+Pour l'application de l'article L. 438, les candidatures doivent être déposées au plus tard le deuxième vendredi qui précède
+le jour du scrutin, à minuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 3 () JORF 13 octobre 2006
+
+	**Cite**:
+
+	  - Code électoral - art. L438 (M)
+
+
+###### Article R270
+
+Les résultats des scrutins sont publiés au Journal officiel de la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article R271
+
+Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction en vigueur à
+la date du décret n° 2002-105 du 25 janvier 2002, les dispositions suivantes du livre II du code électoral (partie
+Réglementaire) :
+
+1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164 et R. 169 ;
+
+2° Chapitres Ier et IV à VII du titre IV ;
+
+3° Titre VI.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Décret n°2002-105 2002-01-25
+	  - Code électoral - art. R*130-1 (M)
+	  - Code électoral - art. R*150 (M)
+	  - Code électoral - art. R*151 (M)
+	  - Code électoral - art. R*164 (M)
+	  - Code électoral - art. R*169 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Arrêté du 3 septembre 2014 (V)
+	  - Arrêté du 26 septembre 2014 (V)
+
+
+###### Article R272
+
+Sont applicables à l'élection des sénateurs dans les îles Wallis et Futuna, dans leur rédaction en vigueur à la date du
+décret n° 2002-105 du 25 janvier 2002, les dispositions suivantes du livre II du code électoral (partie réglementaire) :
+
+1° Chapitres Ier et IV à VII du titre IV, à l'exception de l'article R. 154 ;
+
+2° Titre VI.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cite**:
+
+	  - Décret n°2002-105 2002-01-25
+	  - Code électoral - art. R*154 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cité par**:
+
+	  - Arrêté du 3 septembre 2014 (V)
+	  - Arrêté du 26 septembre 2014 (V)
+
+
+#### Chapitre II : Régime des inéligibilités
+
+###### Article R**273
+
+Les dispositions de l'article R. ** 215 sont applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie
+française et dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R**215 (V)
+
+
+#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française
+
+###### Article R274
+
+Les personnes appelées à remplacer dans les conditions prévues à l'article L. 444 les députés et, en Nouvelle-Calédonie, les
+membres d'une assemblée de province ou, en Polynésie française, les membres de l'assemblée de Polynésie française doivent
+être désignés préalablement à l'élection des délégués et de leurs suppléants.
+
+Le maire désigne les remplaçants présentés par les députés et ceux désignés, en Nouvelle-Calédonie, par les membres des
+assemblées de province ou, en Polynésie française, par les membres de l'assemblée de la Polynésie française, en tant que
+délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la liste électorale de la commune
+intéressée.
+
+Les désignations faites en vertu du présent article sont de droit. Le maire en accuse réception aux députés et en Nouvelle-
+Calédonie aux membres des assemblées de province ou en Polynésie française, aux membres de l'assemblée de Polynésie française
+remplacés, et les notifie au haut-commissaire dans les vingt-quatre heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L444 (V)
+
+
+###### Article R275
+
+Les députés, les membres d'une assemblée de province de Nouvelle-Calédonie et les membres de l'assemblée de Polynésie
+française peuvent voter par procuration, dans les conditions prévues pour la Nouvelle-Calédonie, par l'article L. 121-12 du
+code des communes de la Nouvelle-Calédonie et, pour la Polynésie française, par l'article L. 121-12 du code des communes
+applicable localement, soit en cas de maladie dûment constatée, soit lorsqu'ils sont retenus hors de la commune par des
+obligations découlant de l'exercice de leur mandat ou de missions qui leur ont été confiées par le gouvernement de la
+République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-12 (M)
+
+
+###### Article R276
+
+Si un délégué élu décède ou est dans l'incapacité de participer à l'élection par suite de maladie ou d'empêchement grave, son
+mandat de délégué est attribué :
+
+1° Dans les communes de moins de 9 000 habitants, au premier suppléant dans l'ordre de la liste ;
+
+2° Dans les communes de 9 000 habitants et plus, au suppléant de la même liste dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre IV : Propagande
+
+###### Article R277
+
+Pour l'application en Polynésie française du c de l'article R. 157 :
+
+1° Les circulaires et les bulletins de vote peuvent être adressés par les candidats aux membres du collège électoral par la
+voie du courrier électronique ou mis à leur disposition par l'intermédiaire du réseau internet lorsque les modalités
+d'acheminement du courrier par voie postale dans certains archipels ne permettent pas la réception de ces documents dans le
+délai de quatre jours ;
+
+2° L'enveloppe fermée contenant la circulaire et les bulletins de vote peut être remise en mains propres aux membres du
+collège électoral avant le vote.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R*157 (M)
+
+
+#### Chapitre V : Opérations préparatoires au scrutin
+
+###### Article R278
+
+Pour l'application de l'article R. 162, la liste des électeurs est celle qui est définie à l'article L. 441.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L441 (V)
+	  - Code électoral - art. R162 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R283 (V)
+
+
+#### Chapitre VI : Opérations de vote
+
+###### Article R279
+
+Pour l'application de l'article R. 163 dans les îles Wallis et Futuna, le président du collège électoral est assisté de deux
+agents de l'administration qu'il désigne et des deux membres de l'assemblée territoriale les plus âgés présents à l'ouverture
+du scrutin et non candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R163 (V)
+
+
+###### Article R280
+
+Le vote a lieu au scrutin secret ; les électeurs composant le collège électoral ont seuls accès à la salle de vote.
+Toutefois, un représentant de chaque candidat a le droit d'assister aux opérations de vote, de dépouillement, de recensement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+###### Article R281
+
+Si les enveloppes réglementaires prévues à l'article R. 167 font défaut, le président du collège électoral est tenu de les
+remplacer par d'autres d'un type uniforme. Ce remplacement doit être mentionné au procès-verbal auquel doivent être jointes
+cinq de ces enveloppes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R167 (V)
+
+
+###### Article R282
+
+Conformément à l'article L. 448, les députés, les membres des assemblées de province en Nouvelle-Calédonie, les membres de
+l'assemblée de la Polynésie française ou les membres de l'assemblée territoriale des îles Wallis et Futuna qui peuvent
+exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant de l'Etat.
+
+Cette demande doit préciser que l'intéressé sera, le jour de l'élection, absent du territoire.
+
+Elle est immédiatement enregistrée par le représentant de l'Etat.
+
+La procuration jointe à la demande est rédigée sur papier non timbré et revêtue de la signature de l'intéressé. Elle ne peut
+être établie qu'au profit d'un membre du collège électoral auquel appartient le mandant.
+
+Le représentant de l'Etat avise immédiatement le ou les mandants dont la procuration n'est pas valable.
+
+Le représentant de l'Etat transmet les demandes valables au président du bureau de vote.
+
+Mention en est faite immédiatement au tableau des électeurs sénatoriaux.
+
+Le mandataire n'est admis à voter que s'il présente la procuration.
+
+La procuration est irrévocable. Cependant, dans le cas où le mandant se présente personnellement pour participer au scrutin,
+la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà été utilisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L448 (V)
+
+
+###### Article R283
+
+Pour l'application de l'article R. 171 aux électeurs mentionnés à l'article R. 278, l'indemnité forfaitaire ne peut être
+versée et les frais de transport ne peuvent être remboursés que pour le déplacement effectué dans les limites territoriales
+de la circonscription de vote.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
+renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
+scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R*171 (M)
+	  - Code électoral - art. R278 (V)
 
 
 # Annexes
