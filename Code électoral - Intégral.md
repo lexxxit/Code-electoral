@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1993-09-01
 
 # Partie législative
 
@@ -55,29 +55,7 @@ n'étant dans aucun cas d'incapacité prévu par la loi.
 
 ###### Article L5
 
-Ne doivent pas être inscrits sur la liste électorale :
-
-1° les individus condamnés pour crime;
-
-2° ceux condamnés à une peine d'emprisonnement sans sursis, ou à une peine d'emprisonnement avec sursis d'une durée
-supérieure à un mois, assortie ou non d'une amende, pour vol, escroquerie, abus de confiance, délits punis des peines du vol,
-de l'escroquerie ou de l'abus de confiance, soustraction commise par les dépositaires de deniers publics, faux témoignage,
-faux certificat prévu par l'article 161 du code pénal, corruption et trafic d'influence prévus par les articles 177, 178 et
-179 du code pénal, ou attentats aux moeurs prévus par les articles 330, 331, 334 et 334 bis du code pénal, ou faux en
-écriture privée, de commerce ou de banque prévus par les articles 150 et 151 du code pénal, délits prévus par les articles
-425, 433, 437 et 488 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales;
-
-3° ceux condamnés à plus de trois mois d'emprisonnement sans sursis, ou à une peine d'emprisonnement d'une durée supérieure à
-six mois avec sursis, pour un délit autre que ceux énumérés au 2°, sous réserve des dispositions de l'article L. 8;
-
-3° bis ceux condamnés pour infraction aux articles L. 86 à L. 88, L. 91 à L. 104, L. 106 à L. 109, L. 111 à L. 113 et L. 116;
-
-4° ceux qui sont en état de contumace;
-
-5° les personnes condamnées à la faillite personnelle ou dont la faillite a été déclarée par un jugement rendu à l'étranger
-mais exécutoire en France;
-
-6° les majeurs en tutelle.
+Ne doivent pas être inscrits sur les listes électorales les majeurs sous tutelle.
 
 **Liens relatifs à cet article**
 
@@ -300,31 +278,15 @@ mais exécutoire en France;
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24
-	  - Code électoral - art. L116 (M)
-	  - Code électoral - art. L8 (Ab)
-	  - Code électoral - art. L86 (M)
-	  - Code électoral - art. L87 (V)
-	  - Code électoral - art. L88 (M)
-	  - Code électoral L86, L87, L88, L91 à L104, L106 à L109, L111 à L113, L116
-	  - Code pénal 150, 151
-
 	**Modifié par**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 220 () JORF 26 janvier 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: loi 85-98 1985-01-26 art. 242, art. 243
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 159 ()
 
 
 ###### Article L6
 
-Sans préjudice des dispositions de l'article L. 5, ne doivent pas être inscrits sur la liste électorale, pendant le délai
-fixé par le jugement, ceux auxquels les tribunaux ont interdit le droit de vote et d'élection, par application des lois qui
-autorisent cette interdiction.
+Ne doivent pas être inscrits sur la liste électorale, pendant le délai fixé par le jugement, ceux auxquels les tribunaux ont
+interdit le droit de vote et d'élection, par application des lois qui autorisent cette interdiction.
 
 **Liens relatifs à cet article**
 
@@ -466,38 +428,7 @@ autorisent cette interdiction.
 
 	**Modifié par**:
 
-	  - Loi n°85-1407 1985-12-30 art. 83 JORF 31 Décembre 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L5 (M)
-
-
-###### Article L8
-
-N'empêchent pas l'inscription sur la liste électorale :
-
-1° les condamnations pour délit d'imprudence, hors le cas de délit de fuite concomitant;
-
-2° les condamnations prononcées pour infractions, autres que les infractions à la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales, qui sont qualifiées délits mais dont cependant la répression n'est pas subordonnée à la preuve de la
-mauvaise foi de leurs auteurs et qui ne sont passibles que d'une amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Décret n°72-350 du 2 mai 1972 - art. 16 (Ab)
-	  - Code électoral - art. L5 (M)
-	  - Code électoral - art. L6 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 161 ()
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 160 ()
 
 
 #### Chapitre II : Listes électorales
@@ -5090,31 +5021,6 @@ excéder le montant maximum de l'amende encourue.
 	  - Code électoral - art. L111 (V)
 	  - Code électoral L86 à L88, L91 à L104, L106 à L109, L111, L113 et L116
 	  - Code pénal 28, 51 et 471
-
-
-###### Article L117
-
-Les dispositions des articles 109 à 113 du code pénal sont applicables dans la mesure où elles ne sont pas contraires aux
-dispositions du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 162 ()
-
-	**Cite**:
-
-	  - Code pénal 109, 110, 111, 112, 113
 
 
 ###### Article L117-1
