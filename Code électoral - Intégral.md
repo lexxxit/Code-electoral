@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-05-29
+Version Consolidée au 2004-06-22
 
 # Partie législative
 
@@ -2244,7 +2244,7 @@ applicables que sous réserve des dispositions de la loi locale du 10 juillet 19
 Il est interdit de distribuer ou faire distribuer, le jour du scrutin, des bulletins, circulaires et autres documents.
 
 A partir de la veille du scrutin à zéro heure, il est interdit de diffuser ou de faire diffuser par tout moyen de
-communication audiovisuelle tout message ayant le caractère de propagande électorale.
+communication au public par voie électronique tout message ayant le caractère de propagande électorale.
 
 **Liens relatifs à cet article**
 
@@ -2273,7 +2273,7 @@ communication audiovisuelle tout message ayant le caractère de propagande élec
 
 	**Modifié par**:
 
-	  - Loi n°85-1317 1985-12-13 art. 22 JORF 14 Décembre 1985
+	  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
 
 	**Liens**:
 
@@ -2474,9 +2474,9 @@ caractère interprétatif.
 ###### Article L52-2
 
 En cas d'élections générales, aucun résultat d'élection, partiel ou définitif, ne peut être communiqué au public par la voie
-de la presse ou par tout moyen de communication audiovisuelle, en métropole, avant la fermeture du dernier bureau de vote sur
-le territoire métropolitain. Il en est de même dans les départements d'outre-mer avant la fermeture du dernier bureau de vote
-dans chacun des départements concernés.
+de la presse ou par tout moyen de communication au public par voie électronique, en métropole, avant la fermeture du dernier
+bureau de vote sur le territoire métropolitain. Il en est de même dans les départements d'outre-mer avant la fermeture du
+dernier bureau de vote dans chacun des départements concernés.
 
 En cas d'élections partielles, les mêmes dispositions s'appliquent jusqu'à la fermeture du dernier bureau de vote de la
 circonscription territoriale intéressée.
@@ -2487,10 +2487,6 @@ circonscription territoriale intéressée.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
-
-	  - Loi n°85-1317 1985-12-13 art. 22 III JORF 14 décembre 1985
-
 	**Cité par**:
 
 	  - Arrêté du 7 mars 1986 - art. Annexe I art. 6 (V)
@@ -2499,6 +2495,10 @@ circonscription territoriale intéressée.
 	  - Décret n°2005-238 du 17 mars 2005 - art. 11 (V)
 	  - Décret n°2005-238 du 17 mars 2005 - art. 2 (V)
 	  - Code électoral - art. L89 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
 
 
 ###### Article L52-3
