@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1986-02-16
+Version Consolidée au 1986-03-16
 
 # Partie législative
 
@@ -4683,6 +4683,49 @@ la magistrature, l'exercice des fonctions de magistrat est incompatible avec l'e
 	  - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
 
 
+###### Article LO141
+
+Le mandat de député est incompatible avec l'exercice de plus d'un des mandats électoraux ou fonctions électives énumérés ci-
+après :
+
+représentant à l'assemblée des communautés européennes, conseiller régional, conseiller général, conseiller de Paris, maire
+d'une commune de 20000 habitants ou plus autre que Paris, adjoint au maire d'une commune de 100000 habitants ou plus autre
+que Paris *nombre*.
+
+Pour l'application du présent article, la population prise en compte est celle résultant du dernier recensement national
+connu au moment du renouvellement du conseil municipal.
+
+**Nota:**
+
+Loi n° 90-55 du 15 janvier 1990 JORF 16 janvier 1990 art. 17 : "Dans tous les textes législatifs et réglementaires, la
+référence à "l'Assemblée des communautés européennes" est remplacée par la référence au "Parlement européen" .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 1 () JORF 31 décembre 1985 en vigueur le 16 mars 1986
+
+	**Cité par**:
+
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 4 (Ab)
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 6 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-11 (V)
+	  - Code général des collectivités territoriales - art. L2122-18 (VD)
+	  - Code général des collectivités territoriales - art. L4231-3 (V)
+	  - Code général des collectivités territoriales - art. LO6162-9 (VT)
+	  - Code général des collectivités territoriales - art. LO6462-8 (V)
+	  - Code électoral - art. LO151 (VD)
+	  - Code électoral - art. LO151-1 (V)
+	  - Code électoral - art. LO319 (VD)
+	  - Code électoral - art. LO328-2 (Ab)
+	  - Code électoral - art. LO334-7-1 (Ab)
+
+
 ###### Article LO142
 
 L'exercice des fonctions publiques non électives est incompatible avec le mandat de député.
@@ -4929,24 +4972,28 @@ portées à un an d'emprisonnement et 50 000 F d'amende.
 ###### Article LO151
 
 Le député qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés au présent code doit, dans les
-quinze jours [*délai*] qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du Conseil
-constitutionnel, se démettre des fonctions incompatibles avec son mandat ou, s'il est titulaire d'un emploi public, demander
-à être placé dans la position spéciale prévue par son statut.
+quinze jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du Conseil
+constitutionnel, se démettre des fonctions ou mandats incompatibles avec son mandat parlementaire ou, s'il est titulaire d'un
+emploi public, demander à être placé dans la position spéciale prévue par son statut.
 
-Dans le même délai, le parlementaire doit déclarer au bureau de l'Assemblée à laquelle il appartient toute activité
+A l'expiration du délai prévu au premier alinéa ci-dessus, le député qui se trouve dans un des cas d'incompatibilité visés à
+l'article L.O. 141 est déclaré démissionnaire d'office par le Conseil constitutionnel à la requête du bureau de l'Assemblée
+nationale ou du garde des sceaux, ministre de la justice.
+
+Dans le délai prévu au premier alinéa ci-dessus, le député doit déclarer au bureau de l'Assemblée nationale toute activité
 professionnelle qu'il envisage de conserver. De même il doit, en cours de mandat, déclarer toute activité professionnelle
 nouvelle qu'il envisage d'exercer.
 
 Le bureau examine si les activités ainsi déclarées sont compatibles avec le mandat parlementaire. S'il y a doute sur la
-compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le bureau de l'Assemblée intéressée,
-le garde des sceaux, ministre de la Justice ou le parlementaire lui-même, saisit le Conseil constitutionnel qui apprécie
-souverainement si le parlementaire intéressé se trouve dans un cas d'incompatibilité.
+compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le bureau de l'Assemblée nationale,
+le garde des sceaux, ministre de la Justice ou le député lui-même, saisit le Conseil constitutionnel qui apprécie
+souverainement si le député intéressé se trouve dans un cas d'incompatibilité.
 
-Dans l'affirmative, le parlementaire doit régulariser sa situation dans le délai de quinze jours à compter de la notification
-qui lui est faite de la décision du Conseil constitutionnel. A défaut, le Conseil constitutionnel le déclare démissionnaire
+Dans l'affirmative, le député doit régulariser sa situation dans le délai de quinze jours à compter de la notification qui
+lui est faite de la décision du Conseil constitutionnel. A défaut, le Conseil constitutionnel le déclare démissionnaire
 d'office de son mandat.
 
-Le député qui a méconnu les dispositions des articles L. O. 149 et L. O. 150 est déclaré démissionnaire d'office, sans délai,
+Le député qui a méconnu les dispositions des articles L.O. 149 et L.O. 150 est déclaré démissionnaire d'office, sans délai,
 par le Conseil constitutionnel, à la requête du bureau de l'Assemblée nationale ou du garde des sceaux, ministre de la
 Justice.
 
@@ -4957,6 +5004,11 @@ La démission d'office est aussitôt notifiée au président de l'Assemblée nat
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 2 () JORF 31 Décembre 1985 en vigueur le 16 mars 1986
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 6 (V) JORF 31 Décembre 1985 en vigueur le 16 mars 1986
 
 	**Cité par**:
 
@@ -4972,8 +5024,45 @@ La démission d'office est aussitôt notifiée au président de l'Assemblée nat
 
 	**Cite**:
 
+	  - Code électoral - art. L141 (Ab)
 	  - Code électoral - art. LO149 (M)
 	  - Code électoral - art. LO150 (M)
+
+
+###### Article LO151-1
+
+Tout député qui acquiert un mandat ou une fonction élective propre à le placer dans un des cas d'incompatibilité visés à
+l'article L.O. 141 postérieurement à son élection à l'Assemblée nationale dispose, pour démissionner du mandat ou de la
+fonction de son choix, d'un délai de quinze jours à compter de la date de l'élection qui l'a mis en situation
+d'incompatibilité ou, en cas de contestation, de la date à laquelle le jugement confirmant cette élection est devenu
+définitif. A défaut d'option dans le délai imparti, le mandat ou la fonction acquis ou renouvelé à la date la plus récente
+prend fin de plein droit.
+
+Pour l'application du présent article, lorsque les élections législatives ou sénatoriales sont organisées le même jour que
+d'autres élections, ces dernières sont réputées postérieures quel que soit le moment de la proclamation des résultats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 2 () JORF 31 Décembre 1985 en vigueur le 16 mars 1986
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 6 (V) JORF 31 Décembre 1985 en vigueur le 16 mars 1986
+
+	**Cité par**:
+
+	  - Décret n°2016-899 du 1er juillet 2016 (V)
+	  - CODE DES COMMUNES. - art. L122-10 (Ab)
+	  - Code général des collectivités territoriales - art. L2122-15 (V)
+	  - Code électoral - art. L221 (V)
+	  - Code électoral - art. LO151-2 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L141 (Ab)
 
 
 ###### Article LO152
@@ -9149,9 +9238,13 @@ lorsqu'elle se présente sur la même liste que lui.
 
 ###### Article LO297
 
-Les causes d'incompatibilité sont les mêmes que pour l'élection à l'Assemblée nationale.
+Les dispositions du chapitre IV du titre II du livre Ier du présent code sont applicables aux sénateurs.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral livre I titre II chapitre IV
 
 	**Cité par**:
 
@@ -9164,6 +9257,11 @@ Les causes d'incompatibilité sont les mêmes que pour l'élection à l'Assembl�
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 5 () JORF 31 Décembre 1985 en vigueur le 16 mars 1986
+	  - Loi n°85-1405 du 30 décembre 1985 - art. 6 (V) JORF 31 Décembre 1985 en vigueur le 16 mars 1986
 
 
 #### Chapitre IV : Déclarations de candidatures
