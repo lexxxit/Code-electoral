@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-02-13
+Version Consolidée au 2004-02-28
 
 # Partie législative
 
@@ -26089,8 +26089,8 @@ télécommunications" ;
 ###### Article R204
 
 I. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire), à l'exception de l'article R. 4-1 et
-des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2002-105 du 25 janvier
-2002 :
+des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2004-191 du 27 février
+2004 :
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française ;
 
@@ -26101,7 +26101,7 @@ des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la
 4° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
 II. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables, dans leur rédaction
-en vigueur à la date du décret n° 2002-105 du 25 janvier 2002, dans les îles Wallis et Futuna :
+en vigueur à la date du décret n° 2004-191 du 27 février 2004, dans les îles Wallis et Futuna :
 
 1° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60, à l'élection du député ;
 
@@ -26115,15 +26115,15 @@ en vigueur à la date du décret n° 2002-105 du 25 janvier 2002, dans les îles
 
 	**Cite**:
 
-	  - Décret n°2002-105 2002-01-25
+	  - Décret n°2004-191 2004-02-27
 	  - Code électoral - art. R*4-1 (M)
 	  - Code électoral - art. R43 (M)
 	  - Code électoral - art. R60 (M)
 	  - Code électoral R4-1, R20 à R22, R43, R60
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 1 () JORF 28 février 2004
 
 	**Cité par**:
 
@@ -26490,8 +26490,8 @@ village, ou, à défaut, par le plus âgé des assesseurs.
 ###### Article R214
 
 Les dispositions du titre II du livre Ier du présent code (partie réglementaire), à l'exception des articles R. 98, R. 106 et
-du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2002-105 du 25
-janvier 2002, à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2004-191 du 27
+février 2004, à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -26501,14 +26501,14 @@ janvier 2002, à l'élection des députés en Nouvelle-Calédonie, en Polynésie
 
 	**Cite**:
 
-	  - Décret n°2002-105 2002-01-25
+	  - Décret n°2004-191 2004-02-27
 	  - Code électoral - art. R*106 (M)
 	  - Code électoral - art. R*107 (M)
 	  - Code électoral - art. R*98 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 1 () JORF 28 février 2004
 
 
 #### Chapitre II : Régime des inéligibilités
@@ -26670,7 +26670,7 @@ général des votes devra avoir terminé ses travaux.
 ###### Article R219
 
 Les dispositions des articles R. 6, R. 7, R. 12 à R. 15-7, R. 17-1, R. 18, R. 19 à R. 22 sont applicables, dans leur
-rédaction en vigueur à la date du décret n° 2001-105 du 25 janvier 2002, à l'établissement de la liste électorale spéciale
+rédaction en vigueur à la date du décret n° 2004-191 du 27 février 2004, à l'établissement de la liste électorale spéciale
 pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
@@ -26679,18 +26679,18 @@ pour les élections au congrès et aux assemblées de province de la Nouvelle-Ca
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
-
 	**Cite**:
 
+	  - Décret n°2004-191 2004-02-27
 	  - Code électoral - art. R*17-1 (M)
 	  - Code électoral - art. R*18 (M)
 	  - Code électoral - art. R*6 (M)
 	  - Code électoral - art. R*7 (M)
 	  - Code électoral R6, R7, R12 à R15-7, R17-1, R18, R19 à R22
-	  - Décret n°2001-105 2002-01-25
+
+	**Modifié par**:
+
+	  - Décret n°2004-191 du 27 février 2004 - art. 1 () JORF 28 février 2004
 
 
 ###### Article R220
@@ -26764,16 +26764,16 @@ La commission administrative spéciale tient un registre de toutes ses décision
 l'appui.
 
 Lorsque la commission refuse d'inscrire un électeur sur la liste électorale spéciale, sa décision est notifiée à l'intéressé
-dans les deux jours et au plus tard le 25 mars, par écrit et à domicile, par les soins de l'administration municipale. Il est
+dans les deux jours et au plus tard le 11 mars, par écrit et à domicile, par les soins de l'administration municipale. Il est
 fait mention de cette notification et de sa date sur le registre prévu au premier alinéa.
 
 L'avis de notification précise les motifs de la décision. Il informe l'électeur que, dès réception de cet avis et au plus
-tard le 1er avril, il peut présenter des observations à la commission. Au vu de ces observations, la commission prend, le 4
-avril au plus tard, une nouvelle décision notifiée dans les deux jours à l'intéressé, dans les mêmes formes que celles
-prévues à l'alinéa précédent.
+tard le 18 mars, il peut présenter des observations à la commission. Au vu de ces observations, la commission prend, le 21
+mars au plus tard, une nouvelle décision notifiée dans les deux jours à l'intéressé, dans les mêmes formes que celles prévues
+à l'alinéa précédent.
 
 L'avis de notification informe également l'intéressé, que dans les dix jours de la publication de la liste électorale
-spéciale prévue à l'article R. 224 qui interviendra le 5 avril, il pourra contester la décision de refus devant le tribunal
+spéciale prévue à l'article R. 224 qui interviendra le 22 mars, il pourra contester la décision de refus devant le tribunal
 de première instance de Nouméa ou ses sections détachées de Koné et de Lifou dans les conditions prévues à l'article R. 225.
 
 **Liens relatifs à cet article**
@@ -26782,9 +26782,9 @@ de première instance de Nouméa ou ses sections détachées de Koné et de Lifo
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 	**Cite**:
 
@@ -26809,7 +26809,7 @@ liste électorale, n'ont pas sollicité leur inscription sur la liste électoral
 pour être inscrits sur la liste électorale spéciale ainsi que les électeurs décédés et tous ceux qui ne remplissent plus les
 conditions prévues pour figurer sur le tableau.
 
-La commission administrative spéciale informe l'électeur inscrit au tableau annexe de cette inscription au plus tard le 30
+La commission administrative spéciale informe l'électeur inscrit au tableau annexe de cette inscription au plus tard le 16
 avril.
 
 **Liens relatifs à cet article**
@@ -26823,15 +26823,15 @@ avril.
 	  - Loi n°99-209 du 19 mars 1999 - art. 188 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 
 ###### Article R224
 
 La liste électorale spéciale et le tableau annexe sont signés de tous les membres de la commission administrative spéciale et
-déposés au secrétariat de la mairie le 5 avril. Le jour même du dépôt, ils sont tenus à la disposition du public et affichés
+déposés au secrétariat de la mairie le 22 mars. Le jour même du dépôt, ils sont tenus à la disposition du public et affichés
 par le maire aux lieux accoutumés, où ils doivent demeurer pendant dix jours.
 
 Le même jour, une copie de la liste électorale spéciale, du tableau annexe et du procès-verbal constatant l'accomplissement
@@ -26846,9 +26846,9 @@ commission.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 	**Cité par**:
 
@@ -26883,10 +26883,10 @@ articles R. 12 à R. 15-7.
 
 ###### Article R226
 
-Le dernier jour ouvrable d'avril, la commission administrative spéciale opère toutes les rectifications qui ont été
-régulièrement ordonnées à la suite de recours formés en application de l'article R. 225 et transmet au haut-commissaire les
-tableaux de ces rectifications. Elle arrête définitivement la liste électorale spéciale et le tableau annexe, dont elle
-adresse une copie au haut-commissaire.
+Le 30 avril au plus tard, la commission administrative spéciale opère toutes les rectifications qui ont été régulièrement
+ordonnées à la suite de recours formés en application de l'article R. 225 et transmet au haut-commissaire les tableaux de ces
+rectifications. Elle arrête définitivement la liste électorale spéciale et le tableau annexe, dont elle adresse une copie au
+haut-commissaire.
 
 Les minutes de la liste électorale spéciale et du tableau annexe restent déposées au secrétariat de la mairie. Les tableaux
 rectificatifs transmis au haut-commissaire restent déposés dans les services du haut-commissariat avec la copie de la liste
@@ -26898,9 +26898,9 @@ rectificatifs transmis au haut-commissaire restent déposés dans les services d
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 	**Cite**:
 
@@ -26936,8 +26936,9 @@ commercial.
 
 ###### Article R228
 
-La liste électorale spéciale et le tableau annexe restent tels qu'ils ont été arrêtés jusqu'au dernier jour d'avril de
-l'année suivante, sous réserve des changements résultant de décisions du tribunal de première instance ou d'arrêts de la Cour
+La liste électorale spéciale et le tableau annexe restent tels qu'ils ont été arrêtés jusqu'à la date de l'année suivante à
+laquelle la commission administrative arrête la nouvelle liste électorale spéciale et le nouveau tableau annexe, et au plus
+tard le 30 avril, sous réserve des changements résultant de décisions du tribunal de première instance ou d'arrêts de la Cour
 de cassation, des radiations des électeurs décédés et de celles qui auront été faites en cours d'année en application du IV
 de l'article 189 de la loi organique n° 99-209 du 19 mars 1999.
 
@@ -26951,9 +26952,9 @@ de l'article 189 de la loi organique n° 99-209 du 19 mars 1999.
 
 	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 
 ##### Section 2 : Inscription en dehors des périodes de révision
@@ -27057,7 +27058,7 @@ Les modalités d'application du présent article sont fixées par un arrêté du
 ###### Article R232
 
 Les déclarations de candidature sont rédigées sur papier libre et déposées dans les services du haut-commissaire à partir du
-quatrième lundi précédant le scrutin et au plus tard le vingt et unième jour précédant la date de scrutin.
+quatrième lundi précédant le scrutin et au plus tard à dix-huit heures le vingt et unième jour précédant la date de scrutin.
 
 **Liens relatifs à cet article**
 
@@ -27065,9 +27066,9 @@ quatrième lundi précédant le scrutin et au plus tard le vingt et unième jour
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 
 ###### Article R233
@@ -27942,7 +27943,7 @@ Les résultats de l'élection sont publiés au Journal officiel du territoire.
 ###### Article R265
 
 Les dispositions des chapitres Ier et II du titre IV du livre Ier du présent code (partie réglementaire), dans leur rédaction
-en vigueur à la date du décret n° 2002-105 du 25 janvier 2002, sont applicables à l'élection des membres des conseils
+en vigueur à la date du décret n° 2004-191 du 27 février 2004, sont applicables à l'élection des membres des conseils
 municipaux en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes :
 
 1° Pour l'application du deuxième alinéa de l'article R. 124, il y a lieu de lire : "haut-commissaire de la République" au
@@ -27961,13 +27962,13 @@ jours.
 
 	**Cite**:
 
-	  - Décret n°2002-105 2002-01-25
+	  - Décret n°2004-191 2004-02-27
 	  - Code électoral - art. R119 (M)
 	  - Code électoral - art. R124 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2004-191 du 27 février 2004 - art. 1 () JORF 28 février 2004
 
 
 #### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie
