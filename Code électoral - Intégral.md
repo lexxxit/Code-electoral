@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2001-01-04
+Version Consolidée au 2001-04-04
 
 # Partie législative
 
@@ -18793,7 +18793,8 @@ Dans chaque commune les cartes électorales sont établies par le maire.
 
 Elles doivent obligatoirement comporter :
 
-- les mentions figurant sur la liste électorale en application des articles L. 18 et L. 19;
+- les mentions figurant sur la liste électorale en application des articles L. 18 et L. 19 ainsi que le code postal du
+domicile, de la résidence ou de l'adresse de l'organisme d'accueil de l'électeur;
 
 - le numéro d'inscription de l'électeur sur la liste;
 
@@ -18805,15 +18806,15 @@ Elles doivent obligatoirement comporter :
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-
 	**Cité par**:
 
 	  - Décret n°79-160 du 28 février 1979 - art. 2-4 (V)
 	  - Code du travail - art. R513-13 (Ab)
 	  - Code électoral - art. R117-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-284 du 2 avril 2001 - art. 12 ()
 
 	**Cite**:
 
@@ -18825,17 +18826,14 @@ Elles doivent obligatoirement comporter :
 
 Les cartes électorales sont distribuées au domicile des électeurs, par les soins du maire.
 
-Cette distribution doit être achevée en toute hypothèse trois jours avant le jour du scrutin.
+Cette distribution doit être achevée trois jours avant le jour du scrutin et au plus tard le 1er juillet suivant la révision
+annuelle.
 
 Les cartes qui n'ont pu être remises à leur titulaire font retour à la mairie.
 
-Elle y sont conservées à la disposition des intéressés jusqu'au jour du scrutin inclus, si la mairie se trouve constituer
-dans la commune l'unique bureau de vote.
-
-Dans les communes où existent plusieurs bureaux de vote, elles sont remises le jour du scrutin au bureau de vote intéressé et
-y sont tenues à la disposition de leur titulaire. Dans l'un et l'autre cas elles ne peuvent être délivrées à l'électeur que
-sur le vu de pièces d'identité, ou après authentification de son identité par deux témoins inscrits sur les listes du même
-bureau de vote.
+Elles sont remises le jour du scrutin au bureau de vote intéressé et y sont tenues à la disposition de leur titulaire. Elles
+ne peuvent être délivrées à l'électeur que sur le vu d'une pièce d'identité ou après authentification de son identité par
+deux témoins inscrits sur les listes du même bureau de vote.
 
 Procès-verbal de cette opération est alors dressé, signé par le titulaire, et, le cas échéant, par les témoins et paraphé par
 le bureau.
@@ -18845,8 +18843,11 @@ mentionnées nominativement sur le procès-verbal des opérations de vote, auque
 prévus à l'alinéa précédent.
 
 Les cartes non retirées sont mises sous pli cacheté, portant l'indication de leur nombre, et ce pli, paraphé par les membres
-du bureau, est déposé à la mairie; il ne peut être ouvert que par la commission administrative lors de la plus prochaine
-révision des listes électorales.
+du bureau, est déposé à la mairie; il ne peut être ouvert que par la commission administrative à partir du 1er septembre.
+
+Lorsqu'au 1er septembre aucun scrutin n'a eu lieu dans l'année et si les électeurs n'ont pas été, à cette date, convoqués
+pour un scrutin, les cartes non distribuées et retournées en mairie sont aussitôt mises à la disposition de la commission
+administrative pour les besoins de la révision des listes.
 
 Cette commission tient compte, dans ses travaux, des indications qui ont motivé le retour de la carte à la mairie, ainsi que
 des indications fournies par les électeurs qui ont dû retirer directement leur carte au bureau de vote.
@@ -18857,15 +18858,15 @@ des indications fournies par les électeurs qui ont dû retirer directement leur
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-
 	**Cité par**:
 
 	  - Décret n°79-160 du 28 février 1979 - art. 2-4 (V)
 	  - Code électoral - art. R117-3 (M)
 	  - Code électoral - art. R24-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-284 du 2 avril 2001 - art. 13 ()
 
 
 #### Chapitre V : Propagande
@@ -19416,7 +19417,7 @@ départementale comprenant :
 
 - le trésorier-payeur général ou son représentant;
 
-- le directeur départemental des enquêtes économiques ou son représentant;
+le directeur départemental de la concurrence, de la consommation et de la répression des fraudes ou son représentant;
 
 - un représentant des organisations professionnelles des imprimeurs ou des afficheurs désigné par le préfet selon la nature
 des tarifs à établir.
@@ -19426,10 +19427,13 @@ La commission peut proposer des tarifs différents dans les diverses circonscrip
 En ce qui concerne l'impression, les tarifs ne peuvent s'appliquer qu'à des documents présentant les caractéristiques
 suivantes et excluant tous travaux de photogravure (clichés, simili ou trait) :
 
-- affiches de format 594 x 841 mm et affiches de format 297 x 420 mm : papier frictionné couleur, 64 grammes au mètre carré,
-afnor II/1, sans travaux de repiquage;
+- affiches de format 594 mm x 841 mm et affiches de format 297 mm x 420 mm ;
 
-- circulaires et bulletins de vote : papier blanc satiné, 56 grammes au mètre carré, afnor II/1.
+- circulaires et bulletins de vote sur papier blanc.
+
+Lorsqu'un candidat fait imprimer les affiches, circulaires et bulletins de vote dans un département autre que celui où il se
+présente, le remboursement des frais correspondants s'effectue dans la limite du tarif le moins élevé de ces deux
+départements.
 
 **Liens relatifs à cet article**
 
@@ -19466,8 +19470,8 @@ afnor II/1, sans travaux de repiquage;
 
 	**Modifié par**:
 
-	  - Décret n°72-1251 1972-12-29 art. 4 JORF 31 décembre 1972
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2001-284 2001-04-02 art. 14 I, II, III jorf 4 avril 2001
+	  - Décret n°2001-284 du 2 avril 2001 - art. 14 ()
 
 	**Liens**:
 
@@ -20743,7 +20747,7 @@ paru douteuse, ou a été contestée par des électeurs ou par les délégués d
 ###### Article R66-1
 
 Dans les bureaux de vote dotés d'une machine à voter, il est procédé au dénombrement des suffrages immédiatement après la
-clôture du scrutin, conformément aux dispositions prévues par le second alinéa de l'article L. 65. Ce dénombrement est
+clôture du scrutin, conformément aux dispositions prévues par le dernier alinéa de l'article L. 65. Ce dénombrement est
 assimilé au dépouillement du scrutin pour l'application du présent code.
 
 **Liens relatifs à cet article**
@@ -20751,15 +20755,6 @@ assimilé au dépouillement du scrutin pour l'application du présent code.
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°69-746 1969-07-24 art. 10 JORF 26 juillet 1969
-
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-	  - Décret n°76-285 1976-03-26 art. 3 JORF 1er avril 1976
 
 	**Cité par**:
 
@@ -20772,6 +20767,10 @@ assimilé au dépouillement du scrutin pour l'application du présent code.
 	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
 	  - Code général des collectivités territoriales - art. R1112-8 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2001-284 du 2 avril 2001 - art. 15 ()
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L174 (M)
@@ -20782,7 +20781,7 @@ assimilé au dépouillement du scrutin pour l'application du présent code.
 
 	**Cite**:
 
-	  - Code électoral - art. L65 (M)
+	  - Code électoral - art. L65 (V)
 
 
 ###### Article R67
@@ -22117,7 +22116,7 @@ l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait êtr
 dans le département au 1er janvier de l'année de l'élection.
 
 En outre, s'il n'est pas maire, conseiller général, conseiller régional, député ou sénateur, le candidat doit produire un
-titre d'identité ou, à défaut, une fiche d'état civil établissant qu'il aura vingt et un ans révolus le jour de l'élection.
+titre d'identité établissant qu'il aura dix-huit ans révolus le jour de l'élection.
 
 La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant
 le juge de l'élection.
@@ -22136,9 +22135,9 @@ le juge de l'élection.
 	  - Code électoral - art. R191 (V)
 	  - Code électoral - art. R351 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-80 du 8 février 1989 - art. 9 () JORF 10 février 1989 en vigueur le 1er mars 1989
+	  - Décret n°2001-284 du 2 avril 2001 - art. 2 ()
 
 
 #### Chapitre VII : Opérations de vote
@@ -23051,7 +23050,8 @@ maire, qui précise le lieu de la réunion ainsi que son heure, si elle n'a pas 
 Nul ne peut être nommé délégué, suppléant ou remplaçant s'il ne jouit de ses droits civiques et politiques.
 
 Seuls peuvent être élus délégués ou suppléants d'un conseil municipal les conseillers municipaux et les électeurs inscrits
-sur la liste électorale de la commune intéressée.
+sur la liste électorale de la commune intéressée. Toutefois, dans les communes de moins de 3 500 habitants, seuls les
+conseillers municipaux peuvent être élus suppléants.
 
 **Liens relatifs à cet article**
 
@@ -23061,7 +23061,7 @@ sur la liste électorale de la commune intéressée.
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°2001-284 du 2 avril 2001 - art. 3 ()
 
 
 ###### Article R*133
@@ -23119,64 +23119,10 @@ vingt-quatre heures.
 	  - Code électoral - art. L287 (M)
 
 
-###### Article R*135
-
-Dans les communes de moins de 9000 habitants les délégués et leurs suppléants sont élus au scrutin majoritaire à trois tours.
-
-Aux deux premiers tours, la majorité absolue est exigée ; au troisième tour, la majorité relative suffit. En cas d'égalité
-des voix, le plus âgé est élu.
-
-Aussitôt après l'élection des délégués, le conseil municipal procède à l'élection des suppléants selon les mêmes formes.
-
-Le vote par procuration est admis dans les conditions prévues par l'article L. 2121-20 du code général des collectivités
-territoriales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2121-20 (V)
-
-
-###### Article R*136
-
-Dans les communes de 9000 habitants à 30999 habitants jusqu'à 30999 habitants), les conseils municipaux n'élisent que des
-suppléants.
-
-Dans les communes de 31000 habitants et plus, les conseils municipaux élisent des délégués supplémentaires et des suppléants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
-
-
 ###### Article R*137
 
-Tout conseiller ou groupe de conseillers municipaux peut présenter une liste de candidats comprenant un nombre de noms
-inférieur ou égal au total des délégués titulaires et suppléants à élire ; ces listes de candidats doivent être déposées sur
-le bureau du conseil municipal avant l'ouverture de la séance réservée à l'élection des délégués et suppléants.
+Dans les communes de 3 500 habitants et plus, les listes de candidats doivent être déposées auprès du bureau électoral prévu
+à l'article R. 133 avant l'ouverture du scrutin en vue de l'élection des délégués et des suppléants.
 
 Les listes de candidats ainsi déposées doivent indiquer :
 
@@ -23192,7 +23138,11 @@ Les listes de candidats ainsi déposées doivent indiquer :
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°2001-284 du 2 avril 2001 - art. 4 ()
+
+	**Cite**:
+
+	  - Code électoral - art. R*133 (M)
 
 	**Cité par**:
 
@@ -23201,12 +23151,16 @@ Les listes de candidats ainsi déposées doivent indiquer :
 
 ###### Article R*138
 
-L'élection des délégués et celle des suppléants ont lieu simultanément sur une même liste.
+Dans les mêmes communes l'élection des délégués et celle des suppléants ont lieu simultanément sur une même liste.
 
 Les conseillers ne peuvent voter que pour une seule liste sans adjonction ni radiation de noms et sans modification de
 l'ordre de présentation des candidats.
 
-Tout bulletin ne remplissant pas les conditions ci-dessus énoncées est nul.
+Lorsque le nombre de candidats délégués ou suppléants sur une même liste est supérieur à deux cents, la liste complète des
+candidats de la liste est affichée dans la salle de vote et les bulletins ne comportent que le nom de la liste et du candidat
+tête de liste.
+
+La méconnaissance des dispositions ci-dessus entraîne la nullité des bulletins de la liste en cause.
 
 **Liens relatifs à cet article**
 
@@ -23216,43 +23170,14 @@ Tout bulletin ne remplissant pas les conditions ci-dessus énoncées est nul.
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
-
-
-###### Article R*139
-
-Les députés, conseillers régionaux, conseillers à l'assemblée de Corse et conseillers généraux peuvent voter par procuration,
-dans les conditions prévues par l'article L. 121-12 (deuxième alinéa) du code des communes : soit en cas de maladie dûment
-constatée, soit lorsqu'ils sont retenus hors de la commune par des obligations découlant de l'exercice de leur mandat ou de
-missions qui leur ont été confiées par le gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15
-
-	**Modifié par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 7 () JORF 16 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-12 (M)
+	  - Décret n°2001-284 2001-04-02 art. 5 I, II jorf 4 avril 2001
+	  - Décret n°2001-284 du 2 avril 2001 - art. 5 ()
 
 
 ###### Article R*140
 
-Le bureau attribue successivement les mandats de délégués et de suppléants conformément aux dispositions des articles R. 141
-et R. 142 et procède à la proclamation des candidats élus.
+Dans les mêmes communes le bureau attribue successivement les mandats de délégués et de suppléants conformément aux
+dispositions des articles R. 141 et R. 142 et procède à la proclamation des candidats élus.
 
 **Liens relatifs à cet article**
 
@@ -23262,7 +23187,7 @@ et R. 142 et procède à la proclamation des candidats élus.
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°2001-284 du 2 avril 2001 - art. 6 ()
 
 	**Cite**:
 
@@ -23275,19 +23200,18 @@ et R. 142 et procède à la proclamation des candidats élus.
 Le bureau détermine le quotient électoral, successivement pour les délégués et les suppléants, en divisant le nombre des
 suffrages exprimés dans la commune par le nombre des mandats de délégués, puis par le nombre des mandats de suppléants.
 
-Il est attribué à chaque liste autant de mandats de délégués et de mandats de suppléants que le nombre de suffrages de la
-liste contient de fois le quotient électoral correspondant.
+Il est attribué à chaque liste autant de mandats de délégués et de suppléants que le nombre de suffrages de la liste contient
+de fois le quotient électoral correspondant.
 
-Les mandats de délégués et ceux de suppléants, non répartis par application des dispositions précédentes, sont attribués
-successivement aux listes qui comportent les plus grands restes.
+Les mandats de délégués et de suppléants non répartis par application des dispositions de l'alinéa précédent sont conférés
+successivement à celle des listes pour laquelle la division du nombre de suffrages recueillis par le nombre de mandats qui
+lui ont déjà été attribués, plus un, donne le plus fort résultat.
 
-Lorsqu'une liste a obtenu un nombre de voix inférieur au quotient, ce nombre de voix tient lieu de reste.
+Au cas où il ne reste qu'un seul mandat à attribuer et si deux listes ont la même moyenne, le mandat revient à la liste qui a
+obtenu le plus grand nombre de suffrages.
 
-Au cas où il n'y a plus à attribuer qu'un seul mandat de délégué ou de suppléant, si deux listes ont le même reste, le mandat
-revient à la liste qui a obtenu le plus grand nombre de suffrages.
-
-Si les deux listes en cause ont également recueilli le même nombre de suffrages, le mandat de délégué ou celui de suppléant
-est attribué au plus àgé des deux candidats susceptibles d'être proclamés élus.
+Si les deux listes en cause ont également recueilli le même nombre de suffrages, le mandat de délégué ou de suppléant est
+attribué au plus àgé des deux candidats susceptibles d'être proclamés élus.
 
 **Liens relatifs à cet article**
 
@@ -23297,7 +23221,8 @@ est attribué au plus àgé des deux candidats susceptibles d'être proclamés �
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°2001-284 2001-04-02 art. 7 I, II jorf 4 avril 2001
+	  - Décret n°2001-284 du 2 avril 2001 - art. 7 ()
 
 	**Cité par**:
 
@@ -23609,8 +23534,8 @@ enregistrée est arrêtée et publiée par le préfet quatre jours au plus tard 
 
 ###### Article R*153
 
-Les déclarations de candidatures pour le deuxième tour doivent être déposées à la préfecture avant l'heure fixée pour
-l'ouverture du scrutin et affichées dans la salle de vote avant le commencement des opérations.
+Les déclarations de candidatures pour le deuxième tour doivent être déposées à la préfecture le jour du scrutin au plus tard
+à quinze heures et affichées dans la salle de vote avant quinze heures trente.
 
 **Liens relatifs à cet article**
 
@@ -23620,7 +23545,7 @@ l'ouverture du scrutin et affichées dans la salle de vote avant le commencement
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°2001-284 du 2 avril 2001 - art. 8 ()
 
 
 #### Chapitre V : Propagande
@@ -23927,8 +23852,12 @@ En cas d'empêchement, le premier président de la cour d'appel désignera des s
 
 ###### Article R*164
 
-Quel que soit le nombre des membres du collège électoral, le bureau composé comme il est dit à l'article précédent répartit
-les électeurs par ordre alphabétique en sections de vote comprenant au moins cent électeurs.
+Le tableau des électeurs sénatoriaux, établi par ordre alphabétique, constitue la liste d'émargement mentionnée à l'article
+L. 314-1. Cette liste est divisée, selon le même ordre, par le préfet, au plus tard la veille du scrutin, en sections de vote
+comprenant au moins cent électeurs.
+
+Dès la clôture du scrutin, la liste d'émargement est signée par tous les membres du bureau du collège électoral composé comme
+il est dit à l'article R. 163. Il est aussitôt procédé au dénombrement des émargements.
 
 **Liens relatifs à cet article**
 
@@ -23938,7 +23867,12 @@ les électeurs par ordre alphabétique en sections de vote comprenant au moins c
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°2001-284 du 2 avril 2001 - art. 9 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L314-1 (M)
+	  - Code électoral - art. R*163 (M)
 
 	**Cité par**:
 
@@ -23951,6 +23885,9 @@ les électeurs par ordre alphabétique en sections de vote comprenant au moins c
 Le bureau du collège électoral constitue le bureau de la première section. Les présidents et assesseurs des autres sections
 sont nommés par le bureau. Ils sont pris, ainsi que le secrétaire, parmi les électeurs de la section.
 
+Un assesseur est chargé dans chaque section de vote de veiller à l'application des dispositions prévues au dernier alinéa de
+l'article L. 314-1.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -23959,7 +23896,11 @@ sont nommés par le bureau. Ils sont pris, ainsi que le secrétaire, parmi les �
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°2001-284 du 2 avril 2001 - art. 10 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L314-1 (M)
 
 	**Liens**:
 
@@ -24053,7 +23994,7 @@ Dans le cas de scrutin majoritaire, le président précise s'il y a lieu à un n
 
 ###### Article R*169
 
-Dans les départements qui élisent au moins cinq sénateurs, il est fait application de la représentation proportionnelle avec
+Dans les départements qui élisent au moins trois sénateurs, il est fait application de la représentation proportionnelle avec
 répartition complémentaire suivant la règle de la plus forte moyenne, conformément aux dispositions ci-après.
 
 Le bureau détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans le département par le nombre des
@@ -24078,16 +24019,16 @@ candidats susceptibles d'être proclamés élus.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
-
 	**Cité par**:
 
 	  - Décret n°83-734 du 9 août 1983 - art. 13 (Ab)
 	  - Décret n°2014-290 du 4 mars 2014 - art. 38 (V)
 	  - Code électoral - art. R271 (V)
 	  - Code électoral - art. R272 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-284 du 2 avril 2001 - art. 11 ()
 
 
 ###### Article R*170
@@ -24247,8 +24188,6 @@ Saint-Pierre-et-Miquelon.
 
 ###### Article R*175
 
-Il n'est pas exigé de nouveau cautionnement de la part des candidats se représentant au second tour de scrutin.
-
 Pour l'application des dispositions du chapitre IX du titre III du livre Ier (partie Réglementaire) il y a lieu de lire :
 
 1° A l'alinéa 1er de l'article R. 113 : "par un électeur de la collectivité territoriale ou par un candidat" au lieu de :
@@ -24265,8 +24204,7 @@ sous-préfecture ou de la préfecture".
 
 	**Modifié par**:
 
-	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
-	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
+	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
 
 	**Cite**:
 
@@ -24765,9 +24703,7 @@ N'entrent pas en compte dans le résultat du dépouillement :
 
 - les bulletins manuscrits ;
 
-- les circulaires utilisées comme bulletin ;
-
-- les bulletins qui ne sont pas imprimés en caractère noirs.
+- les circulaires utilisées comme bulletin.
 
 **Liens relatifs à cet article**
 
@@ -24781,7 +24717,11 @@ N'entrent pas en compte dans le résultat du dépouillement :
 
 	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 13 () JORF 13 octobre 2006
 
 	**Cite**:
 
@@ -25115,8 +25055,6 @@ N'entrent pas en compte dans le résultat du dépouillement :
 
 - les circulaires utilisées comme bulletin ;
 
-- les bulletins qui ne sont pas imprimés en caractères noirs.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -25127,9 +25065,13 @@ N'entrent pas en compte dans le résultat du dépouillement :
 
 	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+	  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 13 () JORF 13 octobre 2006
 
 	**Cite**:
 
