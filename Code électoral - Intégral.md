@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1999-12-29
+Version Consolidée au 2000-03-07
 
 # Partie législative
 
@@ -7848,8 +7848,8 @@ Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasse
 
 ###### Article L194-1
 
-Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller général s'il n'exerçait le
-même mandat antérieurement à sa nomination.
+Pendant la durée de leurs fonctions, le Médiateur de la République et le Défenseur des enfants ne peuvent être candidats à un
+mandat de conseiller général s'ils n'exerçaient le même mandat antérieurement à leur nomination.
 
 **Liens relatifs à cet article**
 
@@ -7857,15 +7857,15 @@ même mandat antérieurement à sa nomination.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
-
-	  - Loi n°73-6 du 3 janvier 1973 - art. 4 () JORF 4 janvier 1973
-
 	**Cité par**:
 
 	  - Loi n°82-214 du 2 mars 1982 - art. 7 (Ab)
 	  - Loi n°82-1171 du 31 décembre 1982 - art. 13 (Ab)
 	  - Loi n°2011-334 du 29 mars 2011 - art. 23 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-196 du 6 mars 2000 - art. 7 ()
 
 
 ###### Article L195
@@ -9129,8 +9129,8 @@ mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par 
 
 ###### Article L230-1
 
-Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller municipal s'il n'exerçait le
-même mandat antérieurement à sa nomination.
+Pendant la durée de leurs fonctions, le Médiateur de la République et le Défenseur des enfants ne peuvent être candidats à un
+mandat de conseiller municipal s'ils n'exerçaient le même mandat antérieurement à leur nomination.
 
 **Liens relatifs à cet article**
 
@@ -9138,9 +9138,9 @@ même mandat antérieurement à sa nomination.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°73-6 du 3 janvier 1973 - art. 5 () JORF 4 janvier 1973
+	  - Loi n°2000-196 du 6 mars 2000 - art. 8 ()
 
 
 ###### Article L231
@@ -13183,8 +13183,8 @@ affaires régionales en qualité de secrétaire général ou de chargé de missi
 3° Pour une durée d'un an, le président de conseil régional ou le conseiller régional visé au deuxième alinéa de l'article 2
 de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article.
 
-Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller régional s'ils n'exerçait le
-même mandat antérieurement à sa nomination.
+Pendant la durée de leurs fonctions, le Médiateur de la République et le Défenseur des enfants ne peuvent être candidats à un
+mandat de conseiller régional s'ils n'exerçaient le même mandat antérieurement à leur nomination.
 
 Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux.
 
@@ -13200,15 +13200,9 @@ Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers r�
 	  - Code électoral - art. L195 (M)
 	  - Code électoral L195, L196 et L199 à L203
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-	  - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
-	  - SPEC_APPLI: La loi n°95-126 du 8 février 1995 est applicable dans les territoire d'outre-mer et dans la collectivité territoriale de Mayotte
-
 	**Modifié par**:
 
-	  - Loi n°95-126 du 8 février 1995 - art. 6 () JORF 9 février 1995
+	  - Loi n°2000-196 du 6 mars 2000 - art. 9 ()
 
 	**Cité par**:
 
