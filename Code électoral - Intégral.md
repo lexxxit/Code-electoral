@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1995-12-20
+Version Consolidée au 1996-01-30
 
 # Partie législative
 
@@ -11906,6 +11906,33 @@ Dans toutes les régions, les collèges électoraux sont convoqués le même jou
 	  - Code général des collectivités territoriales - art. L4132-1 (V)
 
 
+###### Article L337
+
+L'effectif des conseils régionaux et la répartition des sièges à pourvoir entre les départements de chaque région sont fixés
+conformément au tableau n° 7 annexé au présent code.
+
+La révision du nombre des conseillers régionaux a lieu au cours de la session ordinaire du Parlement qui suit la publication
+des résultats du recensement général de la population.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral annexe tableau n°7
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°96-62 du 29 janvier 1996 - art. 4 ()
+
+
 #### Chapitre II : Mode de scrutin
 
 ###### Article L338
@@ -13365,36 +13392,6 @@ Des décrets en Conseil d'Etat détermineront les conditions d'application du pr
 ## Livre IV : Election des conseillers régionaux et des conseillers de l'Assemblée de Corse
 
 ### Titre Ier : Election des conseillers régionaux
-
-#### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers
-
-###### Article L337
-
-L'effectif des conseils régionaux et la répartition des sièges à pourvoir entre les départements de chaque région sont fixés
-conformément au tableau n° 7 annexé au présent code.
-
-La révision du nombre des conseillers régionaux a lieu au cours de la première session ordinaire du Parlement qui suit la
-publication des résultats du recensement général de la population.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral annexe tableau n°7
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Modifié par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
-
 
 #### Chapitre III : Conditions d'éligibilité et inéligibilités
 
