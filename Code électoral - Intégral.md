@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1976-04-01
+Version Consolidée au 1976-07-17
 
 # Partie législative
 
@@ -6506,6 +6506,32 @@ renouvellement général des conseils municipaux.
 ## Livre II : Election des sénateurs des départements
 
 ### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs
+
+###### Article LO274
+
+Le nombre des sénateurs est de trois cent seize pour les départements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi organique 76-98 1976-01-31 art. 2 JORF 1er février 1976
+	  - Loi organique 76-643 1976-07-16 art. 1 JORF 17 juillet 1976
+
+	**Cité par**:
+
+	  - Loi n°76-1217 du 28 décembre 1976 - art. 1 (Ab)
+	  - Code électoral - art. LO334-2 (Ab)
+	  - Code électoral - art. LO438-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°64-1084 1964-10-24
+
 
 ###### Article LO275
 
