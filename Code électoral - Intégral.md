@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2003-12-19
+Version Consolidée au 2004-01-10
 
 # Partie législative
 
@@ -23894,13 +23894,9 @@ Les élections prévues aux articles L. 293-1 et L. 293-2 du code électoral ont
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
 	**Modifié par**:
 
-	  - Décret n°99-232 du 24 mars 1999 - art. 6 ()
+	  - Décret n°2004-30 du 9 janvier 2004 - art. 16 () JORF 10 janvier 2004
 
 	**Cite**:
 
@@ -23923,13 +23919,9 @@ pourvus sont attribués à la ou aux plus fortes moyennes suivantes.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Créé par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
+	  - Décret n°2004-30 du 9 janvier 2004 - art. 16 () JORF 10 janvier 2004
 
 
 ### Titre IV : Election des sénateurs
@@ -24496,8 +24488,8 @@ Dans le cas de scrutin majoritaire, le président précise s'il y a lieu à un n
 
 ###### Article R*169
 
-Dans les départements qui élisent au moins trois sénateurs, il est fait application de la représentation proportionnelle avec
-répartition complémentaire suivant la règle de la plus forte moyenne, conformément aux dispositions ci-après.
+Dans les départements où sont élus quatre sénateurs ou plus, il est fait application de la représentation proportionnelle
+avec répartition complémentaire suivant la règle de la plus forte moyenne, conformément aux dispositions ci-après.
 
 Le bureau détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans le département par le nombre des
 sénateurs à élire.
@@ -24530,7 +24522,7 @@ candidats susceptibles d'être proclamés élus.
 
 	**Modifié par**:
 
-	  - Décret n°2001-284 du 2 avril 2001 - art. 11 ()
+	  - Décret n°2004-30 du 9 janvier 2004 - art. 17 () JORF 10 janvier 2004
 
 
 ###### Article R*170
@@ -25319,13 +25311,13 @@ titre Ier du livre Ier (partie réglementaire) du présent code et par les dispo
 
 #### Chapitre V : Déclarations de candidatures
 
-###### Article R*183
+###### Article R183
 
 Les déclarations de candidature en vue du premier tour de scrutin sont reçues à compter du cinquième lundi qui précède le
 jour de ce premier tour. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le
 premier tour.
 
-Elles sont rédigées sur papier libre.
+Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section départementale.
 
 **Liens relatifs à cet article**
 
@@ -25333,26 +25325,24 @@ Elles sont rédigées sur papier libre.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
 	**Modifié par**:
 
-	  - Décret n°99-232 du 24 mars 1999 - art. 1 ()
+	  - Décret n°2004-30 du 9 janvier 2004 - art. 2 () JORF 10 janvier 2004
 
 
 ###### Article R184
 
 L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre du dépôt des listes, par le préfet de
-région et publié au plus tard le troisième samedi qui précède le jour de ce premier tour.
+région et publié par ses soins, ainsi que par les préfets des autres départements de la région, au plus tard le troisième
+samedi qui précède le jour de ce premier tour.
 
-L'état des listes de candidats au second tour est, s'il y a lieu, arrêté dans les mêmes conditions et publié le mercredi qui
-suit le premier tour. Il fait l'objet, le cas échéant, de publications complémentaires lorsqu'il a été fait application du
+L'état des listes de candidats au second tour est, s'il y a lieu, arrêté et publié dans les mêmes conditions au plus tard le
+mercredi qui suit le premier tour. Il fait l'objet de publications supplémentaires lorsqu'il a été fait application du
 quatrième alinéa de l'article L. 351.
 
-Pour chacun des deux tours, l'état indique pour chaque liste son titre ainsi que les nom et prénoms des candidats, énumérés
-dans l'ordre de leur présentation sur la liste, tel qu'il résulte de la déclaration.
+Pour chaque tour, l'état indique le titre de la liste, l'ordre des sections départementales ainsi que les nom et prénoms du
+candidat désigné tête de liste, puis les noms et prénoms de tous les candidats composant la liste, répartis par section
+départementale et énumérés dans l'ordre de présentation.
 
 **Liens relatifs à cet article**
 
@@ -25360,13 +25350,9 @@ dans l'ordre de leur présentation sur la liste, tel qu'il résulte de la décla
 
 	  - Décret n°64-1087 1964-10-27 art. 2 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
 	**Modifié par**:
 
-	  - Décret n°99-232 du 24 mars 1999 - art. 2 ()
+	  - Décret n°2004-30 du 9 janvier 2004 - art. 3 () JORF 10 janvier 2004
 
 	**Cite**:
 
@@ -25411,8 +25397,9 @@ installées à compter du quatrième vendredi qui précède le jour du scrutin.
 
 ###### Article R186
 
-Les bulletins de vote comportent  le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre de
-leur présentation sur la liste tel qu'il résulte de la publication prévue à l'article R. 184.
+Les bulletins de vote comportent le titre de la liste, les nom et prénoms du candidat désigné tête de liste ainsi que les nom
+et prénoms de chacun des candidats composant la liste, répartis par section départementale et dans l'ordre de présentation
+tel qu'il résulte de la publication prévue par l'article R. 184.
 
 **Liens relatifs à cet article**
 
@@ -25420,17 +25407,13 @@ leur présentation sur la liste tel qu'il résulte de la publication prévue à 
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
 	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+	  - Décret n°2004-30 du 9 janvier 2004 - art. 4 () JORF 10 janvier 2004
 
 	**Cite**:
 
-	  - Code électoral - art. R184 (M)
+	  - Code électoral - art. R184 (V)
 
 	**Cité par**:
 
