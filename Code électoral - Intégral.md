@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2000-04-22
+Version Consolidée au 2000-06-07
 
 # Partie législative
 
@@ -6767,8 +6767,8 @@ L'incompatibilité ne prend pas effet si le Gouvernement est démissionnaire ava
 
 ###### Article L154
 
-Les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leurs nom, prénoms, date et lieu de
-naissance, domicile et profession.
+Les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leurs nom, prénoms, sexe, date et lieu
+de naissance, domicile et profession.
 
 **Liens relatifs à cet article**
 
@@ -6786,18 +6786,22 @@ naissance, domicile et profession.
 
 	**Modifié par**:
 
-	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+	  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
 
 
 ###### Article L155
 
-Cette déclaration doit également indiquer les nom, prénoms, date et lieu de naissance, domicile et profession de la personne
-appelée à remplacer le candidat élu en cas de vacance du siège. Elle doit être accompagnée de l'acceptation écrite du
-remplaçant ; celui-ci doit remplir les conditions d'éligibilité exigées des candidats.
-
-Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de candidatures.
+Cette déclaration doit également indiquer les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de la
+personne appelée à remplacer le candidat élu en cas de vacance du siège. Elle doit être accompagnée de l'acceptation écrite
+du remplaçant; celui-ci doit remplir les conditions d'éligibilité exigées des candidats. Nul ne peut figurer en qualité de
+remplaçant sur plusieurs déclarations de candidatures *interdiction*.
 
 Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
+
+**Nota:**
+
+Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
 
 **Liens relatifs à cet article**
 
@@ -6816,7 +6820,7 @@ Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
 
 	**Modifié par**:
 
-	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+	  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
 
 
 ###### Article L156
@@ -8438,8 +8442,9 @@ soit sur la réclamation de tout électeur.
 
 ###### Article L210-1
 
-Tout candidat à l'élection au conseil général doit obligatoirement, avant le premier tour, souscrire une déclaration de
-candidature dans les conditions prévues par un décret en Conseil d'Etat.
+Tout candidat à l'élection au conseil général doit obligatoirement, avant chaque tour de scrutin, souscrire une déclaration
+de candidature dans les conditions prévues par un décret en Conseil d'Etat. Cette déclaration, revêtue de la signature du
+candidat, énonce les nom, prénoms, sexe, date et lieu de naissance, domicile et profession.
 
 A cette déclaration sont jointes les pièces propres à prouver que le candidat répond aux conditions d'éligibilité prévues par
 l'article L. 194.
@@ -8462,6 +8467,11 @@ suffrages au premier tour peut se maintenir au second.
 Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
 premier tour peuvent se maintenir au second.
 
+**Nota:**
+
+NOTA : Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8470,7 +8480,7 @@ premier tour peuvent se maintenir au second.
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 28 () JORF 4 janvier 1989 en vigueur le 1er mars 1989
+	  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
 
 	**Cité par**:
 
@@ -10319,7 +10329,9 @@ Nul ne peut être candidat dans plus d'une circonscription électorale, ni sur p
 
 ###### Article L264
 
-Une déclaration de candidature est obligatoire pour chaque tour de scrutin.
+Une déclaration de candidature est obligatoire pour chaque tour de scrutin. Sur chacune des listes, l'écart entre le nombre
+des candidats de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe entier de six candidats dans l'ordre de
+présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
 
 Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10
 % du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des candidats
@@ -10331,6 +10343,11 @@ Les candidats ayant figuré sur une même liste au premier tour ne peuvent figur
 de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture ou à la sous-préfecture par la
 personne ayant eu la qualité de responsable de la liste constituée par ces candidats au premier tour.
 
+**Nota:**
+
+NOTA : Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10339,9 +10356,7 @@ personne ayant eu la qualité de responsable de la liste constituée par ces can
 
 	**Modifié par**:
 
-	  - Loi n°75-1333 1975-12-31 art. 2 JORF 3 janvier 1976
-	  - Loi n°76-665 1976-07-19 art. 6 JORF 20 juillet 1976
-	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 en en vigueur le 13 mars 1983
+	  - Loi n°2000-493 du 6 juin 2000 - art. 2 ()
 
 	**Cité par**:
 
@@ -10357,11 +10372,11 @@ fixées aux articles L. 260, L. 263 et L. 264. Il en est délivré récépissé.
 Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
 candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
 personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
-second tour. La liste déposée indique expressément :
+second tours. La liste déposée indique expressément [*mentions obligatoires*] :
 
 1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
 Le dépôt de la liste doit être assorti, pour le premier tour, de l'ensemble des mandats des candidats qui y figurent ainsi
 que des documents officiels qui justifient qu'ils satisfont aux conditions posées par les deux premiers alinéas de l'article
@@ -10378,10 +10393,15 @@ Récépissé ne peut être délivré que si les conditions énumérées au prés
 visés au quatrième alinéa établissent que les candidats satisfont aux conditions d'éligibilité posées par les deux premiers
 alinéas de l'article L. 228.
 
-En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose de vingt-quatre heures pour saisir
-le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête.
+En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose de vingt-quatre heures [*délai*]
+pour saisir le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête.
 
 Faute par le tribunal administratif d'avoir statué dans ce délai, le récépissé est délivré.
+
+**Nota:**
+
+Loi n° 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
 
 **Liens relatifs à cet article**
 
@@ -10393,11 +10413,6 @@ Faute par le tribunal administratif d'avoir statué dans ce délai, le récépis
 
 	  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
 
-	**Modifié par**:
-
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 26 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 27 () JORF 4 janvier 1989
-
 	**Cité par**:
 
 	  - Décret n°91-739 du 18 juillet 1991 - art. 20 (Ab)
@@ -10405,6 +10420,10 @@ Faute par le tribunal administratif d'avoir statué dans ce délai, le récépis
 	  - Code de commerce - art. R713-11 (V)
 	  - Code électoral - art. R128 (V)
 	  - Code électoral - art. R128-3 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2000-493 du 6 juin 2000 - art. 2 ()
 
 	**Cite**:
 
@@ -11557,8 +11576,8 @@ Les dispositions du chapitre IV du titre II du livre Ier du présent code sont a
 
 ###### Article L298
 
-Les candidats sont tenus de faire une déclaration revêtue de leur signature énonçant leurs nom, prénoms, date et lieu de
-naissance, domicile et profession.
+Les candidats sont tenus de faire une déclaration revêtue de leur signature énonçant leurs nom, prénoms, sexe, date et lieu
+de naissance, domicile et profession.
 
 **Liens relatifs à cet article**
 
@@ -11574,23 +11593,36 @@ naissance, domicile et profession.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
+
 
 ###### Article L299
 
 Dans les départements où les élections ont lieu au scrutin majoritaire, chaque candidat doit mentionner dans sa déclaration
-de candidature les nom, prénoms, date et lieu de naissance, domicile et profession de la personne appelée à le remplacer
-comme sénateur dans les cas prévus à l'article L. O. 319. Il doit y joindre l'acceptation écrite du remplaçant, lequel doit
-remplir les conditions d'éligibilité exigées des candidats.
+de candidature les nom, sexe, prénoms, date et lieu de naissance, domicile et profession de la personne appelée à le
+remplacer comme sénateur dans les cas prévus à l'article L. O. 319. Il doit y joindre l'acceptation écrite du remplaçant,
+lequel doit remplir les conditions d'éligibilité exigées des candidats.
 
 Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de candidature. Nul ne peut être à la fois candidat
 et remplaçant d'un autre candidat. Nul ne peut désigner pour le second tour de scrutin une personne autre que celle qui
 figurait sur sa déclaration de candidature lors du premier tour.
+
+**Nota:**
+
+Loi n° 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
 
 	**Cité par**:
 
@@ -11605,7 +11637,8 @@ figurait sur sa déclaration de candidature lors du premier tour.
 ###### Article L300
 
 Dans les départements où les élections ont lieu à la représentation proportionnelle, la liste des candidats doit comporter
-autant de noms qu'il y a de sièges à pourvoir.
+autant de noms qu'il y a de sièges à pourvoir. Sur chacune des listes, l'écart entre le nombre des candidats de chaque sexe
+ne peut être supérieur à un. Chaque liste est composée alternativement d'un candidat de chaque sexe.
 
 Outre les renseignements mentionnés à l'article L. 298, la déclaration doit indiquer le titre de la liste et l'ordre de
 présentation des candidats.
@@ -11616,6 +11649,11 @@ Aucun retrait de candidature n'est admis après la date limite de dépôt des ca
 
 En cas de décès de l'un des candidats au cours de la campagne électorale, les autres candidats de la liste auront le droit de
 le remplacer jusqu'à la veille de l'ouverture du scrutin par un nouveau candidat au rang qui leur conviendra.
+
+**Nota:**
+
+Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -11628,6 +11666,10 @@ le remplacer jusqu'à la veille de l'ouverture du scrutin par un nouveau candida
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-493 du 6 juin 2000 - art. 3 ()
 
 	**Cite**:
 
@@ -12421,7 +12463,9 @@ proclamés élus.
 
 Nul ne peut être candidat dans plus d'une circonscription électorale, ni sur plus d'une liste.
 
-Une déclaration de candidature est obligatoire pour chaque tour de scrutin.
+Une déclaration de candidature est obligatoire pour chaque tour de scrutin. Sur chacune des listes, l'écart entre le nombre
+des candidats de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe entier de six candidats dans l'ordre de
+présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
 
 Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à dix
 pour cent du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des
@@ -12433,6 +12477,11 @@ Les candidats ayant figuré sur une même liste au premier tour ne peuvent figur
 de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture par la personne ayant eu la qualité de
 responsable de la liste constituée par ces candidats au premier tour.
 
+**Nota:**
+
+NOTA : Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12441,8 +12490,7 @@ responsable de la liste constituée par ces candidats au premier tour.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2000-493 du 6 juin 2000 - art. 8 ()
 
 	**Cité par**:
 
@@ -12466,7 +12514,7 @@ figurent. La liste déposée indique expressément.
 
 1° Le titre de la liste présentée;
 
-2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
 compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
@@ -12480,6 +12528,11 @@ articles L. 331, L. 331-2 et du présent article.
 
 Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
 
+**Nota:**
+
+NOTA : Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12488,8 +12541,7 @@ Récépissé ne peut être délivré que si les conditions énumérées au prés
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2000-493 du 6 juin 2000 - art. 8 ()
 
 	**Cite**:
 
@@ -13679,7 +13731,9 @@ plusieurs régions est déclaré démissionnaire de ses mandats par arrêtés de
 
 ###### Article L346
 
-Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin.
+Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin. Sur chacune des
+listes, l'écart entre le nombre des candidats         de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe
+entier de six candidats dans l'ordre de présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
 
 [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 98-407 DC du 14 janvier
 1999.]
@@ -13694,6 +13748,11 @@ Les candidats ayant figuré sur une même liste au premier tour ne peuvent figur
 choix de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture de région par le candidat tête
 de la liste sur laquelle ils figuraient au premier tour.
 
+**Nota:**
+
+Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13706,7 +13765,7 @@ de la liste sur laquelle ils figuraient au premier tour.
 
 	**Modifié par**:
 
-	  - Loi n°99-36 du 19 janvier 1999 - art. 4 ()
+	  - Loi n°2000-493 du 6 juin 2000 - art. 5 ()
 
 	**Cité par**:
 
@@ -13724,10 +13783,15 @@ Elle est faite collectivement pour chaque liste par le candidat tête de liste o
 
 1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, date et lieu de naissance, domicile et profession de chacun des candidats.
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
 Pour chaque tour de scrutin, la déclaration comporte la signature de chaque candidat, sauf, pour le second tour, lorsque la
 composition d'une liste n'a pas été modifiée.
+
+**Nota:**
+
+Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -13741,7 +13805,7 @@ composition d'une liste n'a pas été modifiée.
 
 	**Modifié par**:
 
-	  - Loi n°99-36 du 19 janvier 1999 - art. 5 ()
+	  - Loi n°2000-493 du 6 juin 2000 - art. 5 ()
 
 	**Cite**:
 
@@ -14430,37 +14494,17 @@ arrêtés des représentants de l'Etat dans les collectivités concernées.
 
 ###### Article L370
 
-Une déclaration de candidature est obligatoire pour chaque liste de candidats et chaque tour de scrutin.
+Une déclaration de candidature est obligatoire pour chaque liste de candidats et chaque tour de scrutin. Sur chacune des
+listes, l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe entier de
+six candidats dans l'ordre de présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
 
 La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
 porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité territoriale.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Créé par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
-
-	**Cité par**:
-
-	  - Code électoral - art. L372 (V)
-
-
-###### Article L372
-
-Les déclarations de candidature sont déposées selon les modalités et dans les délais prévus à l'article L. 350. Elles sont
-enregistrées si elles satisfont aux conditions prévues aux articles L. 339, L. 340, L. 348, L. 367 et L. 370.
-
-Les dispositions des articles L. 351 et L. 352 sont applicables.
+Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -14474,22 +14518,50 @@ Les dispositions des articles L. 351 et L. 352 sont applicables.
 
 	**Modifié par**:
 
-	  - Loi n°99-36 du 19 janvier 1999 - art. 18 (V)
+	  - Loi n°2000-493 du 6 juin 2000 - art. 6 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. L372 (V)
+
+
+###### Article L372
+
+Les déclarations de candidature sont déposées selon les modalités et dans les délais prévus à l'article L. 350. Elles sont
+enregistrées si elles satisfont aux conditions prévues aux articles L. 339, L. 340, L. 347, L. 348, L. 367 et L. 370. 
+
+Les dispositions des articles L. 351 et L. 352 sont applicables.
+
+**Nota:**
+
+Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
 	**Cité par**:
 
 	  - Loi n°99-36 du 19 janvier 1999 - art. 18 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2000-493 du 6 juin 2000 - art. 6 ()
+
 	**Cite**:
 
-	  - Code électoral - art. L339 (M)
-	  - Code électoral - art. L340 (M)
-	  - Code électoral - art. L348 (M)
-	  - Code électoral - art. L350 (M)
-	  - Code électoral - art. L351 (M)
-	  - Code électoral - art. L352 (M)
-	  - Code électoral - art. L367 (M)
-	  - Code électoral - art. L370 (M)
+	  - Code électoral - art. L339 (V)
+	  - Code électoral - art. L347 (V)
+	  - Code électoral - art. L351 (V)
+	  - Code électoral - art. L367 (V)
+	  - Code électoral - art. L370 (V)
 
 
 ###### Article L373
