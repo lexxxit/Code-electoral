@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1991-01-01
+Version Consolidée au 1991-05-14
 
 # Partie législative
 
@@ -1816,9 +1816,9 @@ incompatibles avec les mandats qui font l'objet du livre I.
 
 ###### Article L46-1
 
-Nul ne peut cumuler plus de deux des mandats électoraux ou fonctions électives énumérés ci-après : représentant à l'Assemblée
-des communautés européennes, conseiller régional, conseiller général, conseiller de Paris, maire d'une commune de 20 000
-habitants ou plus, autre que Paris, adjoint au maire d'une commune de 100 000 habitants ou plus, autre que Paris.
+Nul ne peut cumuler plus de deux des mandats électoraux ou fonctions électives énumérés ci-après : représentant au parlement
+européen, conseiller régional, conseiller de Paris, maire d'une commune de 20 000 habitants ou plus, autre que Paris, adjoint
+au maire d'une commune de 100 000 habitants ou plus, autre que Paris.
 
 Quiconque se trouve dans ce cas doit faire cesser l'incompatibilité en démissionnant du mandat ou de la fonction de son
 choix. Il dispose à cet effet d'un délai de quinze jours à compter de la date de l'élection qui l'a mis en situation
@@ -1829,10 +1829,8 @@ prend fin de plein droit.
 Pour l'application du présent article, la population prise en compte est celle résultant du dernier recensement national
 connu au moment du renouvellement du conseil municipal.
 
-**Nota:**
-
-Loi n° 90-55 du 15 janvier 1990 JORF 16 janvier 1990 art. 17 : "Dans tous les textes législatifs et réglementaires, la
-référence à "l'Assemblée des communautés européennes" est remplacée par la référence au "Parlement européen".
+Pour l'application des règles déterminées aux précédents alinéas, le mandat de conseiller à l'Assemblée de Corse est assimilé
+au mandat de conseiller régional.
 
 **Liens relatifs à cet article**
 
@@ -1858,9 +1856,13 @@ référence à "l'Assemblée des communautés européennes" est remplacée par l
 	  - Code électoral - art. L388 (VT)
 	  - Code électoral - art. L558-32 (V)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°85-1406 du 30 décembre 1985 - art. 4 () JORF 31 Décembre 1985
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 8 () JORF 14 mai 1991
 
 
 #### Chapitre V : Propagande
@@ -2616,6 +2618,9 @@ Election des conseillers :
 Le plafond des dépenses pour l'élection des députés est de 500 000 F par candidat. Il est ramené à 400 000 F dans les
 circonscriptions dont la population est inférieure à 80 000 habitants.
 
+Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de
+Corse.
+
 Ces plafonds sont actualisés tous les trois ans par décret, en fonction de l'indice du coût de la vie de l'Institut national
 de la statistique et des études économiques.
 
@@ -2662,9 +2667,13 @@ de la statistique et des études économiques.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 9 () JORF 14 mai 1991
 
 	**Cite**:
 
@@ -7665,7 +7674,12 @@ ou ont exercé leurs fonctions depuis moins de six mois ;
 directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil général et de conseil régional
 dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
-Les délais mentionnés aux troisième (2°) à dix-neuvième (18°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
+19° Les membres du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse,
+les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité
+territoriale de Corse et de ses établissements publics dans les départements de la Corse-du-Sud et de la Haute-Corse, s'ils y
+exercent leurs fonctions ou les ont exercées depuis moins de six mois.
+
+Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
 jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
 
 Est également inéligible, pendant un an, le président de conseil général qui n'a pas déposé l'une des déclarations prévues à
@@ -7692,9 +7706,13 @@ l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence fin
 	  - Code électoral - art. L558-11 (V)
 	  - Code électoral - art. L558-15 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 22 () JORF 4 janvier 1989
+	  - Loi n°91-428 du 13 mai 1991 - art. 83 () JORF 14 mai 1991
 
 	**Cite**:
 
@@ -8698,28 +8716,31 @@ même mandat antérieurement à sa nomination.
 Ne sont pas éligibles dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins de trois ans les préfets de
 région et les préfets, depuis moins d'un an les sous-préfets, les secrétaires généraux de préfecture, les directeurs de
 cabinet de préfet, les sous-préfets chargés de mission auprès d'un préfet et les secrétaires généraux ou chargés de mission
-pour les affaires régionales.
+pour les affaires régionales ou pour les affaires de Corse.
 
 Ne peuvent être élus conseillers municipaux dans les communes situées dans le ressort où ils exercent ou ont exercé leurs
 fonctions depuis moins de six mois :
 
-1° Les magistrats des cours d'appel ;
+1° Les magistrats des cours d'appel  ;
 
-2° Les membres des tribunaux administratifs et des chambres régionales des comptes ;
+2° Les membres des tribunaux administratifs et des chambres régionales des comptes  ;
 
 3° Les officiers des armées de terre, de mer et de l'air, dans les communes comprises dans le ressort de leur commandement
-territorial ;
+territorial  ;
 
-4° Les magistrats des tribunaux de grande instance et d'instance ;
+4° Les magistrats des tribunaux de grande instance et d'instance  ;
 
-5° Les fonctionnaires des corps actifs de la police nationale ;
+5° Les fonctionnaires des corps actifs de la police nationale  ;
 
-6° Les comptables des deniers communaux et les entrepreneurs de services municipaux ;
+6° Les comptables des deniers communaux et les entrepreneurs de services municipaux  ;
 
-7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
+7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture  ;
 
 8° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
-directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional ;
+directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional, les membres
+du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse, les directeurs
+généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité territoriale de Corse
+et de ses établissements publics ;
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et
 ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
@@ -8739,11 +8760,6 @@ Les délais mentionnés aux alinéas ci-dessus ne sont pas opposables aux candid
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°77-122 du 10 février 1977 - art. 5 (M)
-	  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
-
 	**Cité par**:
 
 	  - Ordonnance n°77-122 du 10 février 1977 - art. 5 (MMN)
@@ -8757,9 +8773,13 @@ Les délais mentionnés aux alinéas ci-dessus ne sont pas opposables aux candid
 	  - Code électoral - art. L428 (VD)
 	  - Code électoral - art. L437 (VD)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 23 () JORF 4 janvier 1989
+	  - Loi n°91-428 du 13 mai 1991 - art. 83 () JORF 14 mai 1991
 
 
 ###### Article L233
@@ -10292,13 +10312,16 @@ Les sièges des sénateurs représentant les départements sont répartis confor
 
 Les sénateurs sont élus dans chaque département par un collège électoral composé :
 
-1° des députés;
+1° des députés ;
 
-2° des conseillers régionaux élus dans le département;
+2° des conseillers régionaux élus dans le département ;
 
-3° des conseillers généraux;
+3° des conseillers généraux ;
 
 4° des délégués des conseils municipaux ou des suppléants de ces délégués.
+
+Toutefois, dans les deux départements de Corse, des conseillers à l'Assemblée de Corse désignés dans les conditions prévues
+au titre III bis du présent livre sont substitués aux conseillers régionaux.
 
 **Liens relatifs à cet article**
 
@@ -10317,15 +10340,20 @@ Les sénateurs sont élus dans chaque département par un collège électoral co
 	  - Code électoral - art. L556 (V)
 	  - Code électoral - art. L557 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
 	**Modifié par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 3 () JORF 11 JUILLET 1985
+	  - Loi n°91-428 du 13 mai 1991 - art. 10 () JORF 14 mai 1991
 
 
 ###### Article L281
 
-Les députés, les conseillers régionaux  et les conseillers généraux qui ont été proclamés par les commissions de recensement
-sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote même si leur élection est contestée.
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux qui ont été
+proclamés par les commissions de recensement sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote
+même si leur élection est contestée.
 
 **Liens relatifs à cet article**
 
@@ -10333,18 +10361,22 @@ sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote 
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
 	**Modifié par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 4 () JORF 11 JUILLET 1985
+	  - Loi n°91-428 du 13 mai 1991 - art. 11 () JORF 14 mai 1991
 
 
 ###### Article L282
 
-Dans le cas où un conseiller général  est député ou conseiller régional, un remplaçant lui est désigné, sur sa présentation,
-par le président du conseil général.
+Dans le cas où un conseiller général est député, conseiller régional ou conseiller à l'Assemblée de Corse, un remplaçant lui
+est désigné, sur sa présentation, par le président du conseil général.
 
-Dans le cas où un conseiller régional  est député, un remplaçant lui est désigné, sur sa présentation par le président du
-conseil régional.
+Dans le cas où un conseiller régional ou un conseiller à l'Assemblée de Corse est député, un remplaçant lui est désigné, sur
+sa présentation, par le président du conseil régional ou celui de l'Assemblée de Corse.
 
 **Liens relatifs à cet article**
 
@@ -10359,9 +10391,13 @@ conseil régional.
 	  - Code électoral - art. R*148-2 (Ab)
 	  - Code électoral - art. R130-1 (VT)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
 	**Modifié par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 5 () JORF 11 JUILLET 1985
+	  - Loi n°91-428 du 13 mai 1991 - art. 12 () JORF 14 mai 1991
 
 
 ### Titre III : Désignation des délégués des conseils municipaux
@@ -10461,11 +10497,11 @@ par cinq titulaires ou fraction de cinq.
 
 ###### Article L287
 
-Le choix des conseils municipaux ne peut porter ni sur un député, ni sur un conseiller régional, ni sur un conseiller
-général.
+Le choix des conseils municipaux ne peut porter ni sur un député, ni sur un conseiller régional, ni sur un conseiller à
+l'Assemblée de Corse, ni sur un conseiller général.
 
-Au cas où un député, un conseiller régional  ou un conseiller général serait délégué de droit comme conseiller municipal, un
-remplaçant lui est désigné par le maire sur sa présentation.
+Au cas où un député, un conseiller régional, un conseiller à l'Assemblée de Corse ou un conseiller général serait délégué de
+droit comme conseiller municipal, un remplaçant lui est désigné par le maire sur sa présentation.
 
 **Liens relatifs à cet article**
 
@@ -10473,9 +10509,13 @@ remplaçant lui est désigné par le maire sur sa présentation.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
 	**Modifié par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 6 () JORF 11 JUILLET 1985
+	  - Loi n°91-428 du 13 mai 1991 - art. 13 () JORF 14 mai 1991
 
 	**Cité par**:
 
@@ -10611,6 +10651,111 @@ compléter.
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+
+### Titre III bis : Désignation des délégués de l'Assemblée de Corse
+
+###### Article L293-1
+
+Le décret convoquant les électeurs sénatoriaux fixe le jour auquel devront être désignés les délégués de l'Assemblée de
+Corse. Un intervalle de quinze jours au moins doit séparer cette élection de celle des sénateurs. Le jour fixé ne peut être
+celui prévu à l'article L. 283.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VD)
+	  - Code électoral - art. L293-2 (M)
+	  - Code électoral - art. R148-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L283 (M)
+
+
+###### Article L293-2
+
+Au jour fixé en application des dispositions de l'article L. 293-1, l'Assemblée de Corse détermine le nombre de ses membres
+appelés à faire partie du collège électoral de chacun des deux départements de Corse. A cet effet, son effectif est réparti
+proportionnellement à la population desdits départements, telle qu'elle résulte du plus récent recensement général de la
+population avec application de la règle du plus fort reste.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (V)
+	  - Code électoral - art. R*148-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L293-1 (M)
+
+
+###### Article L293-3
+
+L'Assemblée de Corse procède à la désignation de ceux de ses membres appelés à la représenter au sein du collège électoral du
+département le plus peuplé.
+
+Chaque conseiller ou groupe de conseillers à l'Assemblée peut présenter avec l'accord des intéressés une liste de candidats
+en nombre au plus égal à celui des sièges à pourvoir.
+
+L'élection a lieu au scrutin de liste sans rature ni panachage. Les sièges sont répartis selon la règle de la représentation
+proportionnelle à la plus forte moyenne.
+
+Les conseillers à l'Assemblée non désignés en application des dispositions qui précèdent font partie de plein droit du
+collège électoral du département le moins peuplé.
+
+Le représentant de l'Etat dans la collectivité territoriale de Corse notifie au représentant de l'Etat dans chaque
+département de la collectivité territoriale les noms des conseillers à l'Assemblée de Corse désignés pour son département en
+vue de l'établissement du tableau des électeurs sénatoriaux mentionné à l'article L. 292.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L292 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R*148-1 (M)
 
 
 ### Titre IV : Election des sénateurs
@@ -11754,29 +11899,1370 @@ du sénateur de Saint-Pierre-et-Miquelon.
 	  - Loi organique 86-957 1986-08-13 art. 7 JORF 14 août 1986
 
 
-## Livre IV : Election des conseillers régionaux
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse
 
 ###### Article L335
 
-Les conseillers régionaux et les membres de l'assemblée de Corse sont élus dans les conditions fixées par les dispositions du
-titre I du livre 1er du présent code et par celles du présent livre.
+Les conseillers régionaux et les membres de l'Assemblée de Corse sont élus dans les conditions fixées par les dispositions du
+titre Ier du livre Ier du présent code et par celles du présent livre.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral LIVRE I, TITRE I
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+
+
+### Titre Ier : Election des conseillers régionaux
+
+#### Chapitre II : Mode de scrutin
+
+###### Article L338
+
+Les conseillers régionaux sont élus dans chaque département au scrutin de liste, à la représentation proportionnelle à la
+plus forte moyenne, sans panachage ni vote préférentiel.
+
+Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste. Toutefois, les listes qui n'ont pas
+obtenu un nombre de voix au moins égal à 5 % des suffrages exprimés ne sont pas admises à répartition des sièges.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L338-1 (VD)
+	  - Code électoral - art. L347 (V)
+	  - Code électoral - art. L366 (V)
+
+
+#### Chapitre III : Conditions d'éligibilité et inéligibilités
+
+###### Article L339
+
+Nul ne peut être élu conseiller régional s'il n'est pas âgé de vingt et un ans révolus.
+
+Sont éligibles au conseil régional tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y être
+inscrits avant le jour de l'élection, qui sont domiciliés dans la région ou ceux qui, sans y être domiciliés, y sont inscrits
+au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait l'élection, ou justifient qu'ils
+devaient y être inscrits à ce jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L350 (V)
+	  - Code électoral - art. L351 (V)
+	  - Code électoral - art. L367 (V)
+	  - Code électoral - art. L372 (V)
+
+
+#### Chapitre IV : Incompatibilités
+
+###### Article L342
+
+Le mandat de conseiller régional est incompatible, dans toute la France, avec les fonctions énumérées à l'article L. 46 et
+aux 1° et 6° de l'article L. 195.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L195 (VT)
+	  - Code électoral - art. L46 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. L344 (V)
+	  - Code électoral - art. L368 (VD)
+
+
+###### Article L343
+
+Le mandat de conseiller régional est incompatible avec les fonctions d'agent salarié de la région.
+
+La même incompatibilité existe à l'égard des entrepreneurs des services régionaux ainsi qu'à l'égard des agents salariés des
+établissements publics et agences créés par les régions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°83-597 du 7 juillet 1983 - art. 8 (Ab)
+	  - Loi n°2009-1572 du 17 décembre 2009 - art. 21 (V)
+	  - Code de commerce - art. L711-17 (V)
+	  - Code général des collectivités territoriales - art. L1524-5 (V)
+	  - Code général des collectivités territoriales - art. L1862-1 (V)
+	  - Code électoral - art. L344 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+
+###### Article L344
+
+Tout conseiller régional qui, au moment de son élection, est placé dans l'une des situations prévues aux articles L. 342 et
+L. 343 dispose d'un délai d'un mois à partir de la date à laquelle son élection est devenue définitive pour démissionner de
+son mandat ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Il fait connaître son option par écrit au
+représentant de l'Etat dans la région, qui en informe le président du conseil régional. A défaut d'option dans le délai
+imparti, il est réputé démissionnaire de son mandat ; cette démission est constatée par arrêté du représentant de l'Etat dans
+la région.
+
+Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
+A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
+conseiller régional est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat dans la région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L342 (M)
+	  - Code électoral - art. L343 (M)
+
+
+###### Article L345
+
+Nul ne peut être membre de plusieurs conseils régionaux.
+
+A défaut de leur avoir fait connaître son option dans les trois jours de son élection, le conseiller régional élu dans
+plusieurs régions est déclaré démissionnaire de ses mandats par arrêtés des représentants de l'Etat dans les régions où il a
+été élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+
+#### Chapitre V : Déclarations de candidature
+
+###### Article L346
+
+Une déclaration de candidature est obligatoire pour chaque liste de candidats.
+
+Elle résulte du dépôt à la préfecture d'une liste comprenant autant de candidats qu'il y a de sièges à pourvoir dans le
+département.
+
+Toutefois, dans les départements comportant un nombre de sièges à pourvoir égal ou inférieur à cinq, cette liste comprend un
+nombre de candidats égal au nombre de sièges à pourvoir augmenté de deux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L347 (V)
+	  - Code électoral - art. L350 (V)
+
+
+###### Article L347
+
+La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
+porteur d'un mandat écrit établi par ce candidat.
+
+Elle comporte la signature de chaque candidat et indique expressément :
+
+1° Le titre de la liste ;
+
+2° Les noms, prénoms, date et lieu de naissance, domicile et profession de chaque candidat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L350 (V)
+	  - Code électoral - art. L372 (V)
+
+
+###### Article L348
+
+Nul ne peut être candidat sur plus d'une liste.
+
+Est nul et non avenu l'enregistrement de listes portant le nom d'une ou plusieurs personnes figurant sur une autre liste de
+candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L347 (V)
+	  - Code électoral - art. L351 (V)
+	  - Code électoral - art. L372 (M)
+
+
+###### Article L350
+
+Les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du scrutin, à midi. Il en
+est donné récépissé provisoire.
+
+Elles sont enregistrées si les conditions prévues aux articles L. 339, L. 340 et L. 346 à L. 349 sont remplies. Le refus
+d'enregistrement est motivé.
+
+Un récépissé définitif est délivré par le représentant de l'Etat dans le département, après enregistrement, au plus tard le
+quatrième vendredi qui précède le jour du scrutin, à midi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L339 (M)
+	  - Code électoral - art. L340 (M)
+	  - Code électoral L339, L340, L346 à L349
+
+	**Cité par**:
+
+	  - Code électoral - art. L372 (M)
+
+
+###### Article L351
+
+Le candidat placé en tête de liste, ou son mandataire, dispose d'un délai de quarante-huit heures pour contester le refus
+d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
+peut être contestée qu'à l'occasion d'un recours contre l'élection.
+
+Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions des articles L. 339, L. 340 ou L. 348, la
+liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal administratif
+confirmant le refus.
+
+Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°88-291 du 28 mars 1988 - art. 27 (Ab)
+	  - Code électoral - art. L372 (V)
+	  - Code électoral - art. R184 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L339 (M)
+	  - Code électoral - art. L340 (M)
+	  - Code électoral - art. L348 (M)
+
+
+###### Article L352
+
+Aucun retrait de candidat n'est accepté après le dépôt de la liste.
+
+Il n'est pas pourvu au remplacement d'un candidat décédé après ce dépôt.
+
+Les listes complètes peuvent être retirées au plus tard le quatrième samedi précédant le scrutin à midi. La déclaration de
+retrait est signée par la majorité des candidats de la liste. Le cautionnement est remboursé sur présentation de l'accusé de
+réception de la déclaration de retrait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L372 (M)
+
+
+#### Chapitre VI : Propagande
+
+###### Article L353
+
+La campagne électorale est ouverte à partir du deuxième lundi qui précède le jour du scrutin et prend fin le samedi précédant
+le scrutin, à minuit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°61-814 du 29 juillet 1961 - art. 13-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+
+###### Article L354
+
+Dans chaque département, une commission de propagande, dont la composition et le fonctionnement sont fixés par décret en
+Conseil d'Etat, est chargée d'assurer l'envoi et la distribution des documents de propagande électorale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°61-814 du 29 juillet 1961 - art. 13-9 (Ab)
+	  - Loi n°88-82 du 22 janvier 1988 - art. 134 (Ab)
+	  - Décret n°2000-36 du 12 janvier 2000 - art. 8 (Ab)
+	  - Code électoral - art. L355 (V)
+	  - Code électoral - art. R185 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+
+###### Article L355
+
+L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 354
+ainsi que celles qui résultent de leur fonctionnement. 
+
+Sont remboursés aux listes ayant obtenu au moins 5 % des suffrages exprimés : le coût du papier, l'impression des bulletins
+de vote, affiches, circulaires et les frais d'affichage. Un décret en Conseil d'Etat détermine la nature et le nombre des
+bulletins, affiches et circulaires dont le coût est remboursé ; il détermine également le montant des frais d'affichage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L354 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. L377 (V)
+
+
+###### Article L356
+
+Les articles L. 165, L. 211 et L. 215 sont applicables à l'élection des conseillers régionaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L165 (V)
+	  - Code électoral - art. L211 (V)
+	  - Code électoral - art. L215 (V)
+
+
+#### Chapitre VII : Opérations préparatoires au scrutin
+
+###### Article L357
+
+Les collèges électoraux sont convoqués par décret publié au moins cinq semaines avant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Décret n°2015-939 du 30 juillet 2015 (V)
+
+
+#### Chapitre VIII : Opérations de vote
+
+###### Article L358
+
+Les voix données aux listes comprenant un candidat qui a fait acte de candidature sur plusieurs listes sont considérées comme
+nulles ; ces listes ne peuvent obtenir aucun siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L379 (VD)
+
+
+###### Article L359
+
+Le recensement général des votes est effectué, pour chaque département, au chef-lieu du département, le lundi qui suit le
+scrutin, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés par
+un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°88-82 du 22 janvier 1988 - art. 134 (Ab)
+	  - Décret n°88-267 du 22 mars 1988 - art. 8 (Ab)
+	  - Décret n°89-290 du 9 mai 1989 - art. 9 (Ab)
+	  - Code électoral - art. R188 (V)
+	  - Code électoral - art. R189 (VD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+
+#### Chapitre IX : Remplacement des conseillers régionaux
+
+###### Article L360
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller régional élu sur
+cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Le représentant de l'Etat dans la région notifie le nom de ce remplaçant au président du conseil régional.
+
+Le mandat de la personne ayant remplacé un conseiller régional dont le siège était devenu vacant expire lors du
+renouvellement du conseil régional qui suit son entrée en fonction.
+
+Lorsque les dispositions du premier alinéa du présent article ne peuvent être appliquées, le siège demeure vacant jusqu'au
+prochain renouvellement du conseil régional. Toutefois, si le tiers des sièges de conseillers régionaux élus dans un
+département vient à être vacant par suite du décès de leurs titulaires, il est procédé au renouvellement intégral des
+conseillers régionaux élus dans ce département dans les trois mois qui suivent la dernière vacance pour cause de décès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L361 (V)
+	  - Code électoral - art. L380 (M)
+	  - Code électoral - art. L381 (VD)
+	  - Code électoral - art. L46-1 (MMN)
+
+
+#### Chapitre X : Contentieux
+
+###### Article L361
+
+Les élections au conseil régional peuvent être contestées dans les dix jours suivant la proclamation des résultats par tout
+candidat ou tout électeur du département devant le Conseil d'Etat statuant au contentieux.
+
+Le même droit est ouvert au représentant de l'Etat dans le département s'il estime que les conditions et les formes
+légalement prescrites n'ont pas été respectées.
+
+L'éligibilité d'un candidat devenu conseiller régional par application des dispositions du premier alinéa de l'article L. 360
+peut être contestée dans le délai de dix jours à compter de la date à laquelle ce candidat a remplacé le conseiller régional
+dont le siège est devenu vacant.
+
+La constatation par le Conseil d'Etat de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection
+que du ou des élus inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L311-3 (V)
+	  - Code électoral - art. L381 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. L360 (M)
+
+
+###### Article L362
+
+Le conseiller régional dont l'élection est contestée reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la
+réclamation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+
+###### Article L363
+
+En cas d'annulation de l'ensemble des opérations électorales dans un département, il est procédé à de nouvelles élections
+dans ce département dans un délai de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+
+### Titre II : Election des conseillers à l'Assemblée de Corse
+
+#### Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres
+
+###### Article L364
+
+L'Assemblée de Corse est composée de cinquante et un membres élus pour six ans. Ils sont rééligibles.
+
+Elle se renouvelle intégralement.
+
+Les élections ont lieu le même jour que les élections des conseils régionaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Loi n°2010-145 du 16 février 2010 - art. 2 (Ab)
+	  - Décret n°2015-939 du 30 juillet 2015 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
+	  - Code général des collectivités territoriales - art. L4422-2 (V)
+
+
+#### Chapitre II : Mode de scrutin
+
+###### Article L365
+
+La Corse forme une circonscription électorale unique. 
+
+Les conseillers à l'Assemblée de Corse sont élus au scrutin de liste à deux tours avec dépôt de listes complètes comportant
+autant de noms que de sièges à pourvoir, sans adjonction ni suppression de nom et sans modification de l'ordre de
+présentation sous réserve des dispositions du deuxième alinéa de l'article L. 373.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
 	**Créé par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L373 (V)
 
 
-### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers
+###### Article L366
+
+Au premier tour de scrutin, il est attribué trois sièges à la liste qui a obtenu la majorité absolue des suffrages. Les
+autres sièges sont répartis entre toutes les listes en présence, à la représentation proportionnelle à la plus forte moyenne,
+sous réserve de l'application des dispositions du troisième alinéa.
+
+Si aucune liste n'a recueilli au premier tour la majorité absolue des suffrages exprimés, il est procédé à un second tour. Il
+est attribué trois sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
+arrivées en tête, ces trois sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
+attribution opérée, les autres sièges sont répartis conformément aux dispositions de la deuxième phrase de l'alinéa
+précédent.
+
+Les dispositions des deuxième et troisième alinéas de l'article L. 338 sont applicables à l'élection des conseillers à
+l'Assemblée de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L338 (M)
+
+
+#### Chapitre IV : Incompatibilités
+
+###### Article L368
+
+Les dispositions des articles L. 342 à L. 344 sont applicables aux conseillers à l'Assemblée de Corse. 
+
+Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la collectivité
+territoriale " à la place de " de la région " et de " régionaux ", " de l'Assemblée de Corse " à la place de " du conseil
+régional ", " conseiller à l'Assemblée de Corse " à la place de " conseiller régional " et la " collectivité territoriale " à
+la place de " les régions ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L342 (V)
+
+
+###### Article L369
+
+Nul ne peut être conseiller à l'Assemblée de Corse et conseiller régional.
+
+A défaut de leur avoir fait connaître son option dans les trois jours de son élection, celui qui se trouve dans cette
+situation est déclaré démissionnaire de ses mandats de conseiller à l'Assemblée de Corse et de conseiller régional par
+arrêtés des représentants de l'Etat dans les collectivités concernées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+
+#### Chapitre V : Déclarations de candidature
+
+###### Article L370
+
+Une déclaration de candidature est obligatoire pour chaque liste de candidats et chaque tour de scrutin.
+
+La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
+porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité territoriale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L372 (V)
+
+
+###### Article L371
+
+Les dispositions de l'article L. 349 sont applicables.
+
+Toutefois, aucun cautionnement n'est exigé des listes des candidats au second tour de scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Abrogé par**:
+
+	  - Loi n°99-36 du 19 janvier 1999 - art. 18 (V)
+
+	**Cité par**:
+
+	  - Loi n°99-36 du 19 janvier 1999 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L349 (M)
+
+
+###### Article L372
+
+Les déclarations de candidature sont déposées selon les modalités et dans les délais prévus à l'article L. 350. Elles sont
+enregistrées si elles satisfont aux conditions prévues aux articles L. 339, L. 340, L. 348, L. 349, L. 367 et L. 370.
+
+Les dispositions des articles L. 351 et L. 352 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Loi n°99-36 du 19 janvier 1999 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L339 (M)
+	  - Code électoral - art. L340 (M)
+	  - Code électoral - art. L348 (M)
+	  - Code électoral - art. L349 (M)
+	  - Code électoral - art. L350 (M)
+	  - Code électoral - art. L351 (M)
+	  - Code électoral - art. L352 (M)
+	  - Code électoral - art. L367 (M)
+	  - Code électoral - art. L370 (M)
+
+
+###### Article L373
+
+Seules peuvent se présenter au second tour de scrutin les listes ayant obtenu au premier tour un nombre de suffrages au moins
+égal à 5 p. 100 du total des suffrages exprimés.
+
+Ces listes peuvent être modifiées dans leur composition pour intégrer des candidats ayant figuré au premier tour sur d'autres
+listes, sous réserve que celles-ci ne se maintiennent pas au second tour. En cas de fusion entre plusieurs listes, l'ordre de
+présentation des candidats peut être également modifié.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
+choix de la liste sur laquelle ils seront candidats est notifié au représentant de l'Etat dans la collectivité territoriale
+de Corse par le candidat placé en tête de la liste constituée pour le premier tour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. L365 (V)
+	  - Code électoral - art. L374 (V)
+
+
+###### Article L374
+
+Les déclarations de candidature en vue du second tour doivent être déposées à la préfecture de la collectivité territoriale
+de Corse au plus tard le mardi suivant le premier tour à dix-huit heures. Un récépissé définitif est délivré immédiatement
+aux listes répondant aux conditions fixées à l'article L. 373. Il vaut enregistrement. Tout refus d'enregistrement est
+motivé. 
+
+En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose d'un délai de vingt-quatre heures
+pour saisir le tribunal administratif qui statue en premier et dernier ressort, dans les trois jours du dépôt de la requête.
+Faute par le tribunal d'avoir statué dans ce délai, le récépissé est délivré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L373 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R192 (V)
+
+
+#### Chapitre VI : Propagande
+
+###### Article L375
+
+La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci. Elle
+prend fin le samedi précédent le scrutin à minuit.
+
+La campagne électorale pour le second tour commence le lundi suivant le premier tour à midi et s'achève le samedi suivant à
+minuit.
+
+Les antennes du service public de télévision et de radiodiffusion en Corse sont mises à la disposition des listes dont la
+candidature a été régulièrement enregistrée, pour une durée totale de trois heures à la télévision et de trois heures à la
+radio.
+
+Ces durées sont réparties également entre les listes.
+
+Les horaires des émissions et les modalités de leur réalisation sont fixés par le Conseil supérieur de l'audiovisuel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+
+###### Article L376
+
+Une commission de propagande dont la composition et le fonctionnement sont fixés par décret en Conseil d'Etat est chargée
+d'assurer l'envoi et la distribution des documents de propagande électorale.
+
+Les documents de propagande sont déposés au plus tard le deuxième jeudi qui précède le jour du scrutin, à midi, auprès de
+cette commission.
+
+Les listes n'ayant pas effectué ce dépôt ne sont pas admises pour la dernière semaine précédant le jour du scrutin à la
+répartition des temps d'antenne prévue à l'article précédent.
+
+Chaque liste de candidats peut désigner un mandataire qui participe aux travaux de la commission avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code électoral - art. R193 (Ab)
+
+
+###### Article L377
+
+Les dispositions des articles L. 355 et L. 356 sont applicables à l'élection des conseillers à l'Assemblée de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L355 (V)
+
+
+#### Chapitre VII : Opérations préparatoires au scrutin
+
+###### Article L378
+
+Le collège électoral est convoqué par décret publié au moins cinq semaines avant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+
+#### Chapitre VIII : Opérations de vote
+
+###### Article L379
+
+Le recensement général des votes est effectué au chef-lieu de la collectivité territoriale le lundi qui suit le scrutin,
+avant midi, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés
+par un décret en Conseil d'Etat. 
+
+Les dispositions de l'article L. 358 sont applicables à l'élection des conseillers à l'Assemblée de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cite**:
+
+	  - Code électoral - art. L358 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. R198 (V)
+	  - Code électoral - art. R199 (V)
+
+
+#### Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse
+
+###### Article L380
+
+Les dispositions de l'article L. 360 sont applicables dans les conditions suivantes :
+
+1° Les mots " en Corse ", " de l'Assemblée de Corse " et " conseiller à l'Assemblée de Corse " sont substitués respectivement
+aux mots " dans la région ", " du conseil régional " et " conseiller régional " ;
+
+2° La deuxième phrase du quatrième alinéa est ainsi rédigée :
+
+" Toutefois, si le tiers des sièges de l'Assemblée de Corse vient à être vacant par suite du décès de leur titulaire,
+l'Assemblée est intégralement renouvelée dans les trois mois de la dernière vacance ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 30 (Ab)
+	  - Code général des collectivités territoriales - art. L4422-14 (T)
+	  - Code général des collectivités territoriales - art. L4422-18 (VD)
+	  - Code électoral - art. L381 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. L360 (M)
+
+
+#### Chapitre X : Contentieux
+
+###### Article L381
+
+Les élections à l'Assemblée de Corse peuvent être contestées dans les dix jours suivant la proclamation des résultats par
+tout candidat ou tout électeur d'une commune de Corse devant le Conseil d'Etat statuant au contentieux. 
+
+Le même droit est ouvert au représentant de l'Etat dans la collectivité territoriale de Corse s'il estime que les conditions
+et les formes légalement prescrites n'ont pas été respectées. 
+
+L'éligibilité d'un candidat devenu conseiller à l'Assemblée de Corse par application des dispositions du premier alinéa de
+l'article L. 360 et de l'article L. 380 peut être contestée dans le délai de dix jours à compter de la date à laquelle ce
+candidat a remplacé le conseiller à l'Assemblée de Corse dont le siège est devenu vacant. 
+
+Les dispositions du dernier alinéa de l'article L. 361 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L311-3 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L360 (V)
+	  - Code électoral - art. L361 (V)
+	  - Code électoral - art. L380 (V)
+
+
+###### Article L382
+
+Le conseiller à l'Assemblée de Corse dont l'élection est contestée reste en fonctions jusqu'à ce qu'il ait été définitivement
+statué sur la réclamation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+
+###### Article L383
+
+En cas d'annulation de l'ensemble des opérations électorales, il est procédé à de nouvelles élections dans les trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+
+
+### Titre III : Conditions  d'application des titre Ier et II
+
+###### Article L384
+
+Des décrets en Conseil d'Etat détermineront les conditions d'application du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Créé par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+
+
+## Livre IV : Election des conseillers régionaux et des conseillers de l'Assemblée de Corse
+
+### Titre Ier : Election des conseillers régionaux
+
+#### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers
 
 ###### Article L336
 
@@ -11794,11 +13280,12 @@ Les élections ont lieu en même temps que le renouvellement des conseils géné
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°90-1103 1990-12-11 art. 9, art. 12
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
 	**Modifié par**:
 
-	  - Loi n°90-1103 du 11 décembre 1990 - art. 6 () JORF 13 décembre 1990
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
 
 	**Cité par**:
 
@@ -11825,70 +13312,17 @@ publication des résultats du recensement général de la population.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
+	**Modifié par**:
 
-### Chapitre II : Mode de scrutin
-
-###### Article L338
-
-Les conseillers régionaux sont élus dans chaque département au scrutin de liste, à la représentation proportionnelle à la
-plus forte moyenne, sans panachage ni vote préférentiel.
-
-Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste. Toutefois, les listes qui n'ont pas
-obtenu un nombre de voix au moins égal à 5 % des suffrages exprimés ne sont pas admises à répartition des sièges.
-
-Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
-grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
-proclamés élus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Code électoral - art. L338-1 (VD)
-	  - Code électoral - art. L347 (V)
-	  - Code électoral - art. L366 (V)
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
 
 
-### Chapitre III : Conditions d'éligibilité et inéligibilités
-
-###### Article L339
-
-Nul ne peut être élu conseiller régional s'il n'est pas âgé de vingt et un ans révolus.
-
-Sont éligibles au conseil régional tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y être
-inscrits avant le jour de l'élection, qui sont domiciliés dans la région ou ceux qui, sans y être domiciliés, y sont inscrits
-au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait l'élection, ou jusfifient qu'ils
-devaient y être inscrits à ce jour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Code électoral - art. L350 (V)
-	  - Code électoral - art. L351 (V)
-	  - Code électoral - art. L367 (V)
-	  - Code électoral - art. L372 (V)
-
+#### Chapitre III : Conditions d'éligibilité et inéligibilités
 
 ###### Article L340
 
@@ -11905,9 +13339,8 @@ même mandat antérieurement à sa nomination.
 
 Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux ;
 
-3° Pour une durée d'un an, le président de conseil régional ou le président de l'assemblée de Corse qui n'a pas déposé l'une
-des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie
-politique.
+3° Pour une durée d'un an, le président de conseil régional qui n'a pas déposé l'une des déclarations prévues à l'article 2
+de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.
 
 **Liens relatifs à cet article**
 
@@ -11919,11 +13352,17 @@ politique.
 
 	  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
 	  - Code électoral - art. L195 (M)
-	  - Code électoral L195, 196 et L199 à 203
+	  - Code électoral L195, L196 et L199 à L203
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 30 () JORF 4 janvier 1989
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 6 () JORF 14 mai 1991
 
 	**Cité par**:
 
@@ -11946,9 +13385,14 @@ démissionnaire d'office par arrêté du représentant de l'Etat dans la région
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
 
 	**Cite**:
 
@@ -11966,9 +13410,14 @@ l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon dr
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 7 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
 
 	**Cité par**:
 
@@ -11980,216 +13429,16 @@ l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon dr
 	  - Code électoral - art. L52-12 (M)
 
 
-### Chapitre IV : Incompatibilités
-
-###### Article L342
-
-Le mandat de conseiller régional es incompatible, dans toute la France, avec les fonctions énumérées à l'article L. 46 et aux
-1° et 6° de l'article L. 195.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 11 (V)
-
-	**Cité par**:
-
-	  - Code électoral - art. L344 (V)
-	  - Code électoral - art. L368 (VD)
-
-	**Cite**:
-
-	  - Code électoral - art. L46 (V)
-	  - Code électoral L195 1° et 6°
-
-
-###### Article L343
-
-Le mandat de conseiller régional est incompatible avec les fonctions d'agent salarié de la région.
-
-La même incompatibilité existe à l'égard des entrepreneurs des services régionaux ainsi qu'à l'égard des agents salariés des
-établissements publics et agences créés par les régions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Loi n°83-597 du 7 juillet 1983 - art. 8 (Ab)
-	  - Loi n°2009-1572 du 17 décembre 2009 - art. 21 (V)
-	  - Code de commerce - art. L711-17 (V)
-	  - Code général des collectivités territoriales - art. L1524-5 (V)
-	  - Code général des collectivités territoriales - art. L1862-1 (V)
-	  - Code électoral - art. L344 (M)
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 11 (V)
-
-
-###### Article L344
-
-Tout conseiller régional qui, au moment de son élection, est placé dans l'une des situations prévues aux articles L. 342 et
-L. 343 dispose d'un délai d'un mois à partir de la date à laquelle son élection est devenue définitive pour démissionner de
-son mandat ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Il fait connaître son option par écrit au
-représentant de l'Etat dans la région, qui en informe le président du conseil régional. A défaut d'option dans le délai
-imparti, il est réputé démissionnaire de son mandat ; cette démission est constatée par arrêté du représentant de l'Etat dans
-la région.
-
-Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
-A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
-conseiller régional est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat dans la région.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 11 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L342 (M)
-	  - Code électoral - art. L343 (M)
-
-
-###### Article L345
-
-Nul ne peut être membre de plusieurs conseils régionaux.
-
-A défaut de leur avoir fait connaître son option dans les trois jours de son élection, le conseiller régional élu dans
-plusieurs régions est déclaré démissionnaire de ses mandats par arrêtés des représentants de l'Etat dans les régions où il a
-été élu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°85-692 du 10 juillet 1985 - art. 11 (V)
-
-
-### Chapitre V : Déclarations de candidature.
-
-###### Article L346
-
-Une déclaration de candidature est obligatoire pour chaque liste de candidats.
-
-Elle résulte du dépôt à la préfecture d'une liste comprenant autant de candidats qu'il y a de sièges à pourvoir dans le
-département.
-
-Toutefois, dans les départements comportant un nombre de sièges à pourvoir égal ou inférieur à cinq, cette liste comprend un
-nombre de candidats égal au nombre de sièges à pourvoir augmenté de deux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°86-16 du 6 janvier 1986 - art. 39 () JORF 8 janvier 1986
-
-	**Cité par**:
-
-	  - Code électoral - art. L347 (V)
-	  - Code électoral - art. L350 (V)
-
-
-###### Article L347
-
-La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
-porteur d'un mandat écrit établi par ce candidat.
-
-Elle comporte la signature de chaque candidat et indique expressément :
-
-1° Le titre de la liste ;
-
-2° Les noms, prénoms, date et lieu de naissance, domicile et profession de chaque candidat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 1 () JORF 4 janvier 1989
-
-	**Cité par**:
-
-	  - Code électoral - art. L350 (V)
-	  - Code électoral - art. L372 (V)
-
-
-###### Article L348
-
-Nul ne peut être candidat sur plus d'une liste.
-
-Est nul et non avenu l'enregistrement de listes portant le nom d'une ou plusieurs personnes figurant sur une autre liste de
-candidats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Code électoral - art. L347 (V)
-	  - Code électoral - art. L351 (V)
-	  - Code électoral - art. L372 (M)
-
+#### Chapitre V : Déclarations de candidature
 
 ###### Article L349
 
 Le candidat tête de liste ou son mandataire verse entre les mains du trésorier-payeur-général du département, agissant en
-qualité de préposé de la Caisse des dépôts et consignations, un cautionnement [*montant*] de 500 F par siège à pourvoir.
+qualité de préposé de la Caisse des dépôts et consignations, un cautionnement de 500 F par siège à pourvoir.
 
 Le récépissé de versement du cautionnement est joint à la déclaration de candidature.
 
-Le cautionnement est remboursé aux listes ayant obtenu au moins 5 % de suffrages exprimés [*pourcentage minimum*].
+Le cautionnement est remboursé aux listes ayant obtenu au moins 5 % de suffrages exprimés.
 
 Sont prescrits et acquis au Trésor public les cautionnements, non réclamés dans le délai d'un an à dater de leur dépôt.
 
@@ -12199,9 +13448,20 @@ Sont prescrits et acquis au Trésor public les cautionnements, non réclamés da
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+
+	**Modifié par**:
+
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
 
 	**Cité par**:
 
@@ -12210,386 +13470,246 @@ Sont prescrits et acquis au Trésor public les cautionnements, non réclamés da
 	  - Code électoral - art. L372 (M)
 
 
-###### Article L350
+### Titre II : Election des conseillers à l'Assemblée de Corse
 
-Les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du scrutin, à midi. Il en
-est donné récépissé provisoire.
+#### Chapitre III : Conditions d'éligibilité et inéligibilités
 
-Elles sont enregistrées si les conditions prévues aux articles L. 339, L. 340 et L. 346 à L. 349 sont remplies. Le refus
-d'enregistrement est motivé.
+###### Article L367
 
-Un récépissé définitif est délivré par le représentant de l'Etat dans le département, après enregistrement, au plus tard le
-quatrième vendredi qui précède le jour du scrutin, à midi.
+Les dispositions des articles L. 339 à L. 341-1 sont applicables à l'élection des conseillers à l'Assemblée de Corse.
+
+Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la Corse " à la
+place de " de la région ", " Assemblée de Corse " à la place de " conseil régional ", " conseiller à l'Assemblée de Corse " à
+la place de " conseiller régional " et " affaires de Corse " à la place de " affaires régionales ".
+
+En outre, est inéligible pendant un an le président de l'Assemblée de Corse ou le président du conseil exécutif de Corse qui
+n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence
+financière de la vie politique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
 
 	**Cite**:
 
-	  - Code électoral - art. L339 (M)
-	  - Code électoral - art. L340 (M)
-	  - Code électoral L346 à L349
+	  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
+	  - Code électoral L339 à L341-1
 
-	**Cité par**:
+	**Liens**:
 
-	  - Code électoral - art. L372 (M)
-
-
-###### Article L351
-
-Le candidat placé en tête de liste, ou son mandataire, dispose d'un délai de quarante-huit heures pour contester le refus
-d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
-peut être contestée qu'à l'occasion d'un recours contre l'élection.
-
-Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions des articles L. 339, L. 340 ou L. 348, la
-liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal administratif
-confirmant le refus    Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif,
-saisi par le candidat tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
 	**Créé par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
 
 	**Cité par**:
 
-	  - Décret n°88-291 du 28 mars 1988 - art. 27 (Ab)
 	  - Code électoral - art. L372 (V)
-	  - Code électoral - art. R184 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L339 (M)
-	  - Code électoral - art. L340 (M)
-	  - Code électoral - art. L348 (M)
 
 
-###### Article L352
+## Dispositions finales
 
-Aucun retrait de candidat n'est accepté après le dépôt de la liste.
+###### Article L385
 
-Il n'est pas pourvu au remplacement d'un candidat décédé après ce dépôt.
+Le présent code se substitue, dans les conditions prévues par l'article 34 de la Constitution et l'article 7 de la loi n°
+55-328 du 30 mars 1955, aux dispositions législatives suivantes :
 
-Les listes complètes peuvent être retirées au plus tard le quatrième samedi précédant le scrutin à midi. La déclaration de
-retrait est signée par la majorité des candidats de la liste. Le cautionnement est remboursé sur présentation de l'accusé de
-réception de la déclaration de retrait.
+- code électoral : articles 5 (2°), 12, 13, 14, 87, 94 (alinéas 1er et 2), 200-1, 214, 248, 252, 267 (alinéa 2) ;
+
+- décret organique du 2 février 1852, article 3 (alinéas 1er et 2), article 4 (alinéa 1er, première phase), article 12
+(alinéa 1er), articles 15 à 18, 19 (alinéas 1er à 3), articles 15 à 18, 19 (alinéas 1er à 3), articles 31 à 36, 37, (alinéa
+1er, première phase et alinéa 2), articles 40 à 47, 37, articles 50 et 51, article 54 (partie) ;
+
+- loi du 5 mai 1855 sur l'organisation municipale, article 27, article 37, article 45, (alinéas 1er et 3), article 46 (alinéa
+1er, partie, et alinéa 2, partie) ;
+
+- loi du 14 avril 1871 relative aux élections municipales, article 7 (alinéa 1er), article 17 ;
+
+- loi du 10 août 1871, articles 4 à 12, 14, 15, articles 17 et 18, article 22 ;
+
+- loi du 7 juillet 1874, article 1er (alinéas 1er), 2, 3, 5, 6, 7), articles 2 à 4 (alinéas 1er et 2) ;
+
+- loi du 31 juillet 1875, article 1er (partie) ;
+
+- loi du 30 novembre 1875, article 3 (alinéa 3), article 4 (alinéa 1er, première phrase), article 5 (alinéa 2 et alinéa 3,
+partie), article 22 (alinéa 2) ;
+
+- loi du 5 avril 1884, article 11, article 12 (alinéas 1er, 2 et 3), article 14 (alinéas 1er et 2, alinéa 3 (sauf le 3°),
+(alinéas 4 et 5), article 15 (alinéas 1er et 2), articles 16, 20, 24, 28, 30 et 31, article 32 (partie), article 33, article
+34 (sauf le 3°), article 35, article 36 (alinéa 1er), article 37 (alinéas 1er et alinéa 3, partie), article 38 (alinéas 1er),
+article 40 (alinéas 1er, 7 et 8), articles 41 et 42 ;
+
+- loi du 17 juillet 1889, article 4, article 5 (deuxième phrase), article 6 ;
+
+- loi du 23 juillet 1891, article 1er ;
+
+- loi du 2 avril 18961, article 1er ;
+
+- loi du 8 juillet 1901 ;
+
+- loi du 2 avril 1903 ;
+
+- loi du 6 juillet 1905 ;
+
+- loi du 12 janvier 1909 ayant pour but de combattre les épizooties, article 4 (alinéa 4) ;
+
+- loi du 21 août 1912 relative à l'enseignement départemental et communal de l'agriculture, article 10 ;
+
+- loi du 29 juillet 1913, article 1er (alinéas 1er à 5 et 7), article 3 à 7, article 8 (partie), article 9, article 12
+(alinéas 1er à 3), articles 13 et 14 ;
+
+- loi du 20 mars 1914, article 1er (alinéas 1er, 2 et 4), article 2 et article 3 (alinéas 1er à 3) ;
+
+- loi du 31 mars 1914, articles 1er et 2 (sauf le dernier alinéa), article 3 à 5, article 7 ;
+
+- loi du 31 mars 1914 ayant pour objet de réprimer les actes de corruption dans les opérations électorales, articles 1er à 3,
+article 4 (alinéas 1er), article 9 (alinéas 1er, deuxième phrase), article 10 et 11 ;
+
+- loi du 8 juin 1923 ;
+
+- décret du 5 novembre 1926, articles 43 et 44, articles 56 et 57 ;
+
+- loi du 31 mars 1928 relative au recrutement de l'armée, article 7, alinéa 1er ;
+
+- loi du 17 juillet 1928, articles 2 et 3 ;
+
+- loi du 20 juillet 1928 ;
+
+- loi du 24 juillet 1928 ;
+
+- loi du 9 avril 1929 ;
+
+- loi du 8 janvier 1930 ;
+
+- loi du 25 mars 1932, article 2 (alinéa 1er, deuxième phrase, et alinéa 2), article 4 ;
+
+- loi du 2 avril 1932 ;
+
+- décret du 8 septembre 1934, article 5 (alinéa 3) ;
+
+- loi du 30 décembre 1935, article 1er ;
+
+- loi du 9 mars 1936, article unique (partie) ;
+
+- loi du 13 novembre 1936 relative aux premières mesures de réforme des finances départementales et communales, article 7
+(alinéa 1er, partie), et article 11 (alinéa 1er, partie) ;
+
+- loi du 31 décembre 1938 ;
+
+- décret du 29 juillet 1939, article 127 ;
+
+- ordonnance du 21 avril 1944, articles 17, 18 et 18 quater ;
+
+- ordonnance du 6 avril 1945, article 2 (partie) ;
+
+- ordonnance n° 45-1839 du 17 août 1945, article 2, article 3 (alinéa 1er) et article 4 ;
+
+- loi n° 46-210 du 16 février 1946, article 1er ;
+
+- loi n° 46-667 du 12 avril 1946, article 1er (alinéa 1er, partie, alinéa 2), articles 2, 6, 8, 9 et 10 ;
+
+- loi n° 46-668 du 12 avril 1946, articles 2, 5, 9, 10 (alinéas 1er et 4), 11 (première phrase), 13 (première phrase), 14 et
+15 ;
+
+- loi n° 46-669 du 12 avril 1946, article 1er ;
+
+- loi n° 46-880 du 2 mai 1946, article unique (alinéa 2) ;
+
+- loi n° 46-1889 du 28 aout 1946, articles 1er, 6 à 8, 9 (alinéa 1er), 10 et 12 à 17 ;
+
+- loi n° 46-2173 du 1er octobre 1946 ;
+
+- loi n° 46-2151 du 5 octobre 1946, article 3 (première phrase), article 4 (alinéa 1er, partie), article 6 (partie), article
+10 bis (alinéas 1er et 2) et article 34 ;
+
+- loi n° 46-2175 du 8 octobre 1946 ;
+
+- loi n° 47-1732 du 5 septembre 1947, articles 11 et 12, 23, 25 (partie) 25 bis (alinéa 1er) 25 ter, 26, 27, 30 ;
+
+- loi n° 48-1516 du 26 septembre 1948, article 96 (alinéa 1er) ;
+
+- loi n° 48-1531 du 29 septembre 1948, article 1er ;
+
+- loi n° 49-285 du 2 mars 1949, articles 3, 5, 7, 9 et 12 ;
+
+- loi n° 49-1102 du 2 août 1949, article 1er (alinéa 2) ;
+
+- loi n° 50-1548 du 16 décembre 1950, articles 5, 7 (alinéa 2), 11 et 12 (alinéas 1er, 2 et 5) ;
+
+- loi n° 51-519 du 9 mai 1951, articles 2 (partie), 4 (première phrase), 9 (partie) ;
+
+- loi n° 53-46 du 3 février 1953, article 21 ;
+
+- loi n° 53-252 du 1er avril 1953, article 1er ;
+
+- loi n° 53-681 du 6 août 1953, article 19 (partie) ;
+
+- loi n° 54-790 du 6 août 1954, articles 1er et 2 ;
+
+- loi n° 54-853 du 31 août 1954, article 3 (partie) ;
+
+- loi n° 55-328 du 30 mars 1955, articles 1er à 4, 6 (alinéa 2, deuxième phrase) ;
+
+- loi n° 58-90 du 4 février 1958, article 1er ;
+
+- ordonnance n° 58-945 du 13 octobre 1958, articles 1er à 5 et 7 à 25 ;
+
+- ordonnance n° 58-977 du 20 octobre 1958, article 9 ;
+
+- ordonnance n° 58-998 du 24 octobre 1958, articles 1er à 5, 6 (alinéas 1er à 4 et 6), 7 à 11, 12 (alinéas 1er, 3 et 4), 13 à
+20 ;
+
+- ordonnance n° 58-1015 du 29 octobre 1958, articles 1er ;
+
+- ordonnance n° 58-1065 du 7 novembre 1958, articles 1er à 6 ;
+
+- ordonnance n° 58-1097 du 15 novembre 1958, article 1er (alinéa 1er) et articles 2 à 8 ;
+
+- ordonnance n° 58-1098 du 15 novembre 1958, articles 1er à 12, 14 (alinéa 3) 15 (alinéa 2) (partie) 3 et 4), 16 à 22, 23
+(alinéas 1er, 2 et 5), 24 à 26, (alinéa 1er, première phrase), 28, (alinéa 4), 30 à 34 et 50 ;
+
+- ordonnance n° 58-1327 du 23 décembre 1958, article 1er ;
+
+- ordonnance n° 59-224 du 4 février 1959, articles 1er à 4 ;
+
+- ordonnance n° 59-229 du 4 février 1959, article 2 ;
+
+- ordonnance n° 59-230 du 4 février 1959, article 1er (alinéa 1er) ;
+
+- ordonnance n° 59-231 du 4 février 1959, article 5 ;
+
+- ordonnance n° 59-260 du 4 février 1959, article 19 ;
+
+- loi n° 61-1147 du 29 décembre 1961 ;
+
+- loi n° 62-807 du 18 juillet 1962 ;
+
+- loi n° 64-620 du 27 juin 1964, articles 1er, 2 et 4 à 8 ;
+
+- loi n° 64-707 du 10 juillet 1964, article 3 (alinéa 2, partie).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
 
 	**Cité par**:
 
-	  - Code électoral - art. L372 (M)
-
-
-### Chapitre VI : Propagande
-
-###### Article L353
-
-La campagne électorale est ouverte à partir du deuxième lundi qui précède le jour du scrutin et prend fin le samedi précédant
-le scrutin, à minuit.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°61-814 du 29 juillet 1961 - art. 13-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Loi n°77-729 du 7 juillet 1977 - art. 26 (VD)
+	  - Code électoral - art. L439 (V)
+	  - Code électoral - art. L558-46 (VD)
 
 	**Créé par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
 
+	**Nouveaux textes**:
 
-###### Article L354
-
-Dans chaque département, une commission de propagande, dont la composition et le fonctionnement sont fixés par décret en
-Conseil d'Etat, est chargée d'assurer l'envoi et la distribution des documents de propagande électorale.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°61-814 du 29 juillet 1961 - art. 13-9 (Ab)
-	  - Loi n°88-82 du 22 janvier 1988 - art. 134 (Ab)
-	  - Décret n°2000-36 du 12 janvier 2000 - art. 8 (Ab)
-	  - Code électoral - art. L355 (V)
-	  - Code électoral - art. R185 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-
-###### Article L355
-
-L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 354
-ainsi que celles qui résultent de leur fonctionnement.
-
-Sont remboursés aux listes ayant obtenu au moins 5 % des suffrages exprimés : le coût du papier, l'impression des bulletins
-de vote, affiches, circulaires et les frais d'affichage. Un décret en Conseil d'Etat détermine la nature et le nombre des
-bulletins, affiches et circulaires dont le coût est remboursé ; il détermine également le montant des frais d'affichage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L354 (M)
-
-	**Cité par**:
-
-	  - Code électoral - art. L377 (V)
-
-
-###### Article L356
-
-Les articles L. 165, L. 211 et L. 215 sont applicables à l'élection des conseillers régionaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cite**:
-
-	  - Code électoral - art. L165 (M)
-	  - Code électoral - art. L211 (V)
-	  - Code électoral - art. L215 (M)
-
-
-### Chapitre VII : Opérations préparatoires au scrutin
-
-###### Article L357
-
-Les collèges électoraux sont convoqués par décret publié au moins cinq semaines avant la date du scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Décret n°2015-939 du 30 juillet 2015 (V)
-
-
-### Chapitre VIII : Opérations de vote
-
-###### Article L358
-
-Les voix données aux listes comprenant un candidat qui a fait acte de candidature sur plusieurs listes sont considérées comme
-nulles ; ces listes ne peuvent obtenir aucun siège.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Code électoral - art. L379 (VD)
-
-
-###### Article L359
-
-Le recensement général des votes est effectué, pour chaque département, au chef-lieu du département, le lundi qui suit le
-scrutin, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés par
-un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Loi n°88-82 du 22 janvier 1988 - art. 134 (Ab)
-	  - Décret n°88-267 du 22 mars 1988 - art. 8 (Ab)
-	  - Décret n°89-290 du 9 mai 1989 - art. 9 (Ab)
-	  - Code électoral - art. R188 (V)
-	  - Code électoral - art. R189 (VD)
-
-
-### Chapitre IX : Remplacement des conseillers régionaux
-
-###### Article L360
-
-Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller régional élu sur
-cette liste dont le siège devient vacant pour quelque cause que ce soit.
-
-Le représentant de l'Etat dans la région notifie le nom de ce remplaçant au président du conseil régional.
-
-Le mandat de la personne ayant remplacé un conseiller régional dont le siège était devenu vacant expire lors du
-renouvellement du conseil régional qui suit son entrée en fonction.
-
-Lorsque les dispositions du premier alinéa du présent article ne peuvent être appliquées, le siège demeure vacant jusqu'au
-prochain renouvellement du conseil régional. Toutefois, si le tiers des sièges de conseillers régionaux élus dans un
-département vient à être vacant par suite du décès de leurs titulaires, il est procédé au renouvellement intégral des
-conseillers régionaux élus dans ce département dans les trois mois qui suivent la dernière vacance pour cause de décès.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Code électoral - art. L361 (V)
-	  - Code électoral - art. L380 (M)
-	  - Code électoral - art. L381 (VD)
-	  - Code électoral - art. L46-1 (MMN)
-
-
-### Chapitre X : Contentieux
-
-###### Article L361
-
-Les élections au conseil régional peuvent être contestées dans les dix jours suivant la proclamation des résultats pour tout
-candidat ou tout électeur du département devant le Conseil d'Etat statuant au contentieux.
-
-Le même droit est ouvert au représentant de l'Etat dans le département s'il estime que les conditions et les formes
-légalement prescrites n'ont pas été respectées.
-
-L'éligibilité d'un candidat devenu conseiller régional par application des dispositions du premier alinéa de l'article L. 360
-peut être contestée dans le délai de dix jours à compter de la date à laquelle ce candidat a remplacé le conseiller régional
-dont le siège est devenu vacant.
-
-La constatation par le Conseil d'Etat de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection
-que du ou des élus inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. L311-3 (V)
-	  - Code électoral - art. L381 (VD)
-
-	**Cite**:
-
-	  - Code électoral - art. L360 (M)
-
-
-###### Article L362
-
-Le conseiller régional dont l'élection est contestée reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la
-réclamation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-
-###### Article L363
-
-En cas d'annulation de l'ensemble des opérations électorales dans un département, il est procédé à de nouvelles élections
-dans ce département dans un délai de trois mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-
-### Chapitre XI : Conditions d'applications
-
-###### Article L364
-
-Des décrets en Conseil d'Etat détermineront les conditions d'application du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
-
-	**Cité par**:
-
-	  - Loi n°2010-145 du 16 février 2010 - art. 2 (Ab)
-	  - Décret n°2015-939 du 30 juillet 2015 (V)
-	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
-	  - Code général des collectivités territoriales - art. L4422-2 (V)
+	  - Code électoral - art. L450 (T)
 
 
 # Partie réglementaire
