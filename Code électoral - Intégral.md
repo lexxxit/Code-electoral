@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1976-01-03
+Version Consolidée au 1976-02-08
 
 # Partie législative
 
@@ -7509,28 +7509,5 @@ Toutefois, dans les six mois qui précèdent le renouvellement du conseil géné
 	  - Code électoral - art. L328-4 (Ab)
 	  - Code électoral - art. L333-4 (Ab)
 	  - Code électoral - art. R174-1 (Ab)
-
-
-# Partie réglementaire
-
-## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements
-
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux
-
-#### Chapitre VI : Vote
-
-##### Section 4 : Vote par correspondance
-
-###### Article R81 à R93
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-	**Abrogé par**:
-
-	  - Décret n°76-128 du 6 février 1976, art. 10 v. init.
 
 
