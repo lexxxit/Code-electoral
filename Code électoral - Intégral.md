@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-02-28
+Version Consolidée au 2004-03-02
 
 # Partie législative
 
@@ -3254,6 +3254,9 @@ Pour l'application de l'article L. 52-11, les frais de transport aérien, mariti
 les candidats aux élections législatives et aux élections régionales à l'intérieur de chacun des départements d'outre-mer, ne
 sont pas inclus dans le plafond des dépenses.
 
+Par dérogation aux dispositions du deuxième alinéa, en Guadeloupe, en Guyane, en Martinique et à La Réunion, le compte de
+campagne peut également être déposé à la préfecture ou la sous-préfecture.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3291,18 +3294,14 @@ sont pas inclus dans le plafond des dépenses.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-	  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
-
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 6 () JORF 9 décembre 2003
+	  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
 
 	**Cite**:
 
-	  - Code électoral L52-4 et L52-11
+	  - Code électoral - art. L52-11 (M)
+	  - Code électoral - art. L52-4 (M)
 
 
 ###### Article L52-13
@@ -12659,6 +12658,30 @@ Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon
 	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
+###### Article L328-1-2
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à Saint-Pierre-et-Miquelon, le compte de campagne
+peut également être déposé à la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12 (M)
+
+
 ###### Article LO328-1
 
 Pour l'application du présent code à la collectivité territoriale de Saint-Pierre-et-Miquelon, il y a lieu de lire :
@@ -13600,6 +13623,37 @@ département.
 	**Cite**:
 
 	  - Code électoral - art. L141 (Ab)
+
+
+#### Chapitre Ier : Dispositions applicables à l'élection du député, des conseillers généraux et de conseillers municipaux à Mayotte
+
+###### Article L334-7
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à Mayotte, le compte de campagne peut également
+être déposé à la préfecture.
+
+**Nota:**
+
+La numérotation du présent article résulte d'une erreur purement matérielle ; elle n'affecte pas le contenu de l'article L.
+334-7, issu de l'ordonnance n° 2000-350 du 19 avril 2000, qui figure dans le chapitre suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12 (M)
 
 
 #### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte
@@ -15634,44 +15688,40 @@ et des études économiques " ;
 
 Pour l'application des dispositions du présent code en Polynésie française, il y a lieu de lire :
 
-1° "Polynésie française" au lieu de : "département" ;
+1° " Polynésie française "  au lieu de : " département "  ;
 
-2° "haut-commissaire" au lieu de : "préfet" et de : "Institut national de la statistique et des études économiques" ;
+2° " haut-commissaire  "  au lieu de :  " préfet "  et de :  " Institut national de la statistique et des études économiques
+"  ;
 
-3° "services du haut-commissaire" au lieu de : "préfecture" ;
+3°  " services du haut-commissaire "  au lieu de :  " préfecture "  ;
 
-4° "subdivision administrative" au lieu de : "arrondissement" et "chef de subdivision administrative" au lieu de : "sous-
-préfet" ;
+4°  " subdivision administrative "  au lieu de :  " arrondissement "  et  " chef de subdivision administrative "  au lieu
+de :  " sous-préfet "  ;
 
-5° "secrétaire général" au lieu de : "secrétaire général de préfecture" ;
+5°  " secrétaire général du haut commissariat "  au lieu de :  " secrétaire général de préfecture "  ;
 
-6° "tribunal de première instance" au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
+6°  " tribunal de première instance "  au lieu de :  " tribunal d'instance "  et de :  " tribunal de grande instance "  ;
 
-7° "services du chef de subdivision administrative" au lieu de :
+7°  " services du chef de subdivision administrative "  au lieu de :  " sous-préfecture "  ;
 
-"sous-préfecture" ;
+8°  " représentant à l'assemblée de la Polynésie française "  au lieu de :  " conseiller général "  ;
 
-8° "membre de l'assemblée de Polynésie française" au lieu de :
+9°  " élection des représentants de l'assemblée de la Polynésie française "  au lieu de :  " élection des conseillers
+généraux "  ;
 
-"conseiller général" ;
+10°  " circonscriptions électorales "  au lieu de :  " cantons "  ;
 
-9° "élection des membres de l'assemblée de Polynésie française" au lieu de : "élection des conseillers généraux" ;
+11°  " chambre territoriale des comptes "  au lieu de :  " chambre régionale des comptes "  ;
 
-10° "circonscriptions électorales" au lieu de : "cantons" ;
+12°  " budget de l'établissement chargé de la poste "  au lieu de :  " budget annexe des postes et télécommunications "  ;
 
-11° "chambre territoriale des comptes" au lieu de : "chambre régionale des comptes" ;
-
-12° "budget de l'établissement chargé de la poste" au lieu de :
-
-"budget annexe des postes et télécommunications" ;
-
-13° "archives de la Polynésie française" au lieu de : "archives départementales".
+13°  " archives de la Polynésie française "  au lieu de :  " archives départementales " .
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Cité par**:
 
@@ -15681,9 +15731,9 @@ préfet" ;
 	  - Code électoral - art. L558-46 (VD)
 	  - Code électoral - art. L562 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2004-193 2004-02-27 art. 14 1° JORF 2 mars 2004
 
 
 ###### Article L387
@@ -15747,8 +15797,8 @@ applicables à l'élection :
 2° Des membres du congrès et des assemblées de province de la Nouvelle-Calédonie, sous réserve de l'application des
 dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
-3° Des membres de l'assemblée de la Polynésie française, sous réserve des dispositions de la loi n° 52-117 du 21 octobre 1952
-relative à la composition et à la formation de l'assemblée de la Polynésie française ;
+3° Des représentants à l'assemblée de la Polynésie française, sous réserve des dispositions de la loi organique n° 2004-192
+du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
 
 4° Des membres de l'assemblée territoriale des îles Wallis et Futuna, sous réserve des dispositions de la section III du
 titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-mer ;
@@ -15761,15 +15811,15 @@ titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis
 
 	  - Loi n°61-814 1961-07-29
 	  - Loi n°99-209 1999-03-19
+	  - Loi n°2004-192 2004-02-27
 	  - Code électoral - art. L15 (V)
 	  - Code électoral - art. L15-1 (M)
 	  - Code électoral - art. L46-1 (M)
 	  - Code électoral - art. L66 (V)
-	  - Loi n°52-117 1952-10-21
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Cité par**:
 
@@ -15777,9 +15827,9 @@ titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis
 	  - Code électoral - art. L390 (V)
 	  - Code électoral - art. L391 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2004-193 2004-02-27 art. 14 2° JORF 2 mars 2004
 
 
 ###### Article L389
@@ -15890,10 +15940,10 @@ des conseillers municipaux en Polynésie française.
 
 Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier :
 
-1° Dans l'article L. 52-8, les sommes de 30 000 F, 1 000 F et 100 000 F sont respectivement remplacées par les sommes de 545
-000 francs CFP, de 18 180 francs CFP et de 1 818 000 francs CFP.
+1° Dans l'article L. 52-8, les sommes de 4 600 euros, 150 euros et 15 000 euros sont respectivement remplacées par les sommes
+de 545 000 francs CFP, de 18 180 francs CFP et de 1 818 000 francs CFP.
 
-2° Dans l'article L. 52-10, la somme de 20 000 F est remplacée par la somme de 363 600 francs CFP.
+2° Dans l'article L. 52-10, la somme de 3 000 euros est remplacée par la somme de 363 600 francs CFP.
 
 3° Pour la Nouvelle-Calédonie et la Polynésie française, le tableau du deuxième alinéa de l'article L. 52-11 est remplacé par
 le tableau suivant :
@@ -15908,19 +15958,19 @@ Fraction de la population
 de la circonscription
 
 </td>
-      <td colspan="3" width="454">
+      <td width="454" colspan="3">
 
 Plafond par habitant des dépenses électorales (en Francs CFP)
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="227">
+      <td width="227" colspan="2">
 
 Election des conseillers municipaux
 
 </td>
-      <td valign="top" rowspan="2" width="227">
+      <td width="227" valign="top" rowspan="2">
 
 Election des membres du congrès et des assemblées de province de la Nouvelle-Calédonie et de l'assemblée de la Polynésie
 Française
@@ -15954,24 +16004,24 @@ N'excédant pas 15 000 habitants
 146
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 200
 
 </td>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 127
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 De 15 001 à 30 000 habitants
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 128
 
@@ -15988,12 +16038,12 @@ De 15 001 à 30 000 habitants
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 De 30 001 à 60 000 habitants
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 110
 
@@ -16003,14 +16053,14 @@ De 30 001 à 60 000 habitants
 146
 
 </td>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 91
 
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Plus de 60 000 habitants
 
@@ -16020,7 +16070,7 @@ Plus de 60 000 habitants
 100
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 137
 
@@ -16054,6 +16104,34 @@ candidats aux élections législatives en Nouvelle-Calédonie, en Polynésie fra
 l'assemblée territoriale des îles Wallis et Futuna, ne sont pas inclus dans le plafond des dépenses électorales fixé par
 l'article L. 52-11.
 
+7° Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, le compte de campagne peut également être déposé
+auprès des services du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 annexe II JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
+
+	**Cité par**:
+
+	  - Décret n°2001-213 du 8 mars 2001 - art. 36 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (VD)
+	  - Code des communes de la Nouvelle-Calédonie - art. L125-7 (V)
+
+
+###### Article L392-2
+
+Dans l'année qui suit le renouvellement général de l'Assemblée nationale ou de l'assemblée de la Polynésie française, la
+Commission nationale des comptes de campagne et des financements politiques dépose sur le bureau des assemblées un rapport
+d'évaluation de la part des coûts de transport dans l'ensemble des dépenses électorales réalisées pour la campagne en
+Polynésie française.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -16062,13 +16140,7 @@ l'article L. 52-11.
 
 	**Créé par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
-	**Cité par**:
-
-	  - Décret n°2001-213 du 8 mars 2001 - art. 36 (V)
-	  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (VD)
-	  - Code des communes de la Nouvelle-Calédonie - art. L125-7 (V)
+	  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
 
 
 ###### Article L393
@@ -16185,21 +16257,38 @@ Montant des amendes
 	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
-### Titre II : Election des députés
+###### Article LO384-1
 
-###### Article L394
+Les dispositions ayant valeur de loi organique du présent code sont applicables en Nouvelle-Calédonie, en Polynésie française
+et dans les îles Wallis et Futuna. Pour leur application, il y a lieu de lire :
 
-La répartition des députés élus en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis-et-Futuna s'effectue
-comme suit :
+1° Pour la Nouvelle-Calédonie :
 
-Nouvelle-Calédonie : 2 ;
+a) " Nouvelle-Calédonie " au lieu de : " département " ;
 
-Polynésie française : 2 ;
+b) " haut-commissaire de la République " et " services du haut-commissaire de la République " au lieu de : " préfet " et "
+préfecture " ;
 
-Iles Wallis-et-Futuna : 1.
+c) " commissaire délégué de la République " au lieu de : " sous-préfet " ;
 
-La Nouvelle-Calédonie et la Polynésie française comprennent chacune deux circonscriptions. Ces circonscriptions sont
-délimitées conformément au tableau n° 1 bis annexé au présent code.
+2° Pour la Polynésie française :
+
+a) " Polynésie française " au lieu de : " département " ;
+
+b) " haut-commissaire de la République " et " services du haut-commissaire de la République " au lieu de : " préfet " et "
+préfecture " ;
+
+c) " chef de subdivision administrative " au lieu de : " sous-préfet " ;
+
+d) " tribunal de première instance " au lieu de : " tribunal d'instance " et de : " tribunal de grande instance " ;
+
+3° Pour les îles Wallis et Futuna :
+
+a) " Wallis-et-Futuna " au lieu de : " département " ;
+
+b) " administrateur supérieur " et " services de l'administrateur supérieur " au lieu de : " préfet " et " préfecture " ;
+
+c) " chef de circonscription territoriale " au lieu de : " sous-préfet ".
 
 **Liens relatifs à cet article**
 
@@ -16209,11 +16298,64 @@ délimitées conformément au tableau n° 1 bis annexé au présent code.
 
 	**Créé par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
+
+
+###### Article LO392-1
+
+Le fichier général des électeurs inscrits sur les listes électorales de la Polynésie française est régi par les dispositions
+de l'article 189 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française ci-
+après reproduites :
+
+" Art. 189. - L'Institut de la statistique de la Polynésie française tient un fichier général des électeurs inscrits sur les
+listes électorales de la Polynésie française, y compris pour l'élection des conseils municipaux et des représentants au
+Parlement européen, en vue de contrôler les inscriptions sur les listes électorales.
+
+Pour l'exercice de ces attributions, l'Institut de la statistique agit pour le compte de l'Etat. Il est placé sous l'autorité
+du haut-commissaire de la République.
+
+Une convention entre l'Etat et la Polynésie française précise les modalités d'application du présent article dans le respect
+des conditions prévues par la législation en vigueur relative à l'informatique, aux fichiers et aux libertés. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
+
+
+### Titre II : Election des députés
+
+###### Article L394
+
+La Nouvelle-Calédonie et la Polynésie française comprennent chacune deux circonscriptions. Ces circonscriptions sont
+délimitées conformément au tableau n° 1 bis annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral annexe
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 33 2° JORF 2 mars 2004
 
 	**Cité par**:
 
 	  - Loi n°2004-193 du 27 février 2004 - art. 33 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 3 (V)
 
 
 ###### Article L395
@@ -16257,13 +16399,20 @@ Calédonie, de la Polynésie française, et des îles Wallis et Futuna en prése
 ###### Article L397
 
 Par dérogation aux articles L. 55 et L. 173 et sous réserve du délai prévu au deuxième alinéa de l'article 12 de la
-Constitution, en Polynésie française, les élections ont lieu le quatrième samedi qui suit la publication du décret convoquant
-les électeurs.
+Constitution, en Polynésie française, les élections ont lieu le sixième samedi qui suit la publication du décret convoquant
+les électeurs. 
 
 Par dérogation à l'article L. 56, le second tour de scrutin a lieu le deuxième samedi suivant le premier tour. Les
 déclarations de candidatures pour le second tour sont déposées, au plus tard, le mardi suivant le premier tour, à minuit.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 12 (V)
+	  - Code électoral - art. L173 (V)
+	  - Code électoral - art. L55 (V)
+	  - Code électoral - art. L56 (V)
 
 	**Codifié par**:
 
@@ -16274,15 +16423,78 @@ déclarations de candidatures pour le second tour sont déposées, au plus tard,
 	  - Loi n°77-808 du 19 juillet 1977 - art. 14 (V)
 	  - Loi n°2016-508 du 25 avril 2016 - art. 6
 
+	**Modifié par**:
+
+	  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
+
+
+###### Article LO393-1
+
+Deux députés à l'Assemblée nationale sont élus en Nouvelle-Calédonie.
+
+Deux députés à l'Assemblée nationale sont élus en Polynésie française.
+
+Un député à l'Assemblée nationale est élu dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
 	**Créé par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
+
+	**Abrogé par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
+
+
+###### Article LO394-1
+
+Les dispositions ayant valeur de loi organique du titre II du livre Ier, à l'exception de l'article LO 119, sont applicables
+à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
 
 	**Cite**:
 
-	  - Code électoral - art. L173 (M)
-	  - Code électoral - art. L55 (V)
-	  - Code électoral - art. L56 (V)
+	  - Code électoral - art. LO119 (M)
+
+
+###### Article LO394-2
+
+Pour l'application des dispositions des articles LO 131 et LO 133, un décret pris après avis conforme du Conseil d'Etat
+déterminera celles des fonctions exercées en Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna qui
+sont assimilées, quelle que soit la collectivité dont elles relèvent, aux fonctions énumérées auxdits articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
+
+	**Cite**:
+
+	  - Code électoral - art. LO131 (V)
+	  - Code électoral - art. LO133 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. LO438-3 (V)
 
 
 ### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie
@@ -16531,9 +16743,9 @@ II. - La déclaration mentionne :
 4° Le cas échéant, la couleur et l'emblème choisis par la liste pour l'impression de ses bulletins de vote en application de
 l'article L. 390.
 
-III. - Chaque liste doit comprendre un nombre de candidats égal au nombre de sièges à pourvoir, augmenté de deux.
+III. - Abrogé.
 
-IV. - Nul ne peut être candidat sur plusieurs listes ni dans plusieurs circonscriptions.
+IV. - Abrogé.
 
 V. - En cas de scrutin uninominal, toute candidature est soumise aux mêmes conditions d'enregistrement, sous réserve des
 adaptations imposées par ce mode de scrutin.
@@ -16542,11 +16754,11 @@ adaptations imposées par ce mode de scrutin.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2004-193 2004-02-27 art. 15 2° JORF 2 mars 2004
 
 	**Cite**:
 
@@ -16628,27 +16840,6 @@ tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premi
 	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
-###### Article L411
-
-Les collèges électoraux sont convoqués par arrêté du haut-commissaire. La date des élections est fixée par décret.
-
-Il doit y avoir un intervalle de soixante-dix jours francs entre la date de la convocation et celle de l'élection.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
-	**Abrogé par**:
-
-	  - Loi n°2004-193 2004-02-27 art. 15 2° JORF 2 mars 2004
-
-
 ###### Article L412
 
 La campagne électorale est ouverte à partir du sixième vendredi qui précède le jour du scrutin et prend fin le samedi
@@ -16686,16 +16877,37 @@ Une commission de propagande est chargée d'assurer l'envoi et la distribution d
 
 ###### Article L414
 
-Les antennes de la société nationale chargée du service public de la communication audiovisuelle sont mises à la disposition
-des listes dont la candidature a été régulièrement enregistrée, pour une durée totale de trois heures à la télévision et de
-trois heures à la radio.
+I. - En Polynésie française, les antennes de la société nationale chargée du service public de la communication audiovisuelle
+outre-mer sont mises à la disposition des listes dont la candidature a été régulièrement enregistrée.
 
-Ces durées sont réparties également entre les listes. Les listes présentées dans des circonscriptions différentes peuvent
-décider d'utiliser en commun leur temps d'antenne.
+II. - Une durée d'émission de trois heures à la télévision et de trois heures à la radio est mise à la disposition des listes
+présentées par les partis et groupements politiques représentés à l'assemblée de la Polynésie française.
 
-Les conditions de production, de programmation et de diffusion des émissions sont fixées par le Conseil supérieur de
+Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque liste en fonction de la représentation des partis
+et groupements politiques à l'assemblée de la Polynésie française. Cette représentation est constatée au vu de la déclaration
+individuelle de rattachement faite par chaque élu sortant au plus tard deux mois avant la date d'expiration du mandat de
+l'assemblée de la Polynésie française.
+
+Les listes peuvent décider d'utiliser en commun leur temps de parole.
+
+Chaque liste dispose d'une durée minimale de cinq minutes à la télévision et de cinq minutes à la radio.
+
+III. - Une durée maximale d'émission de trente minutes à la télévision et de trente minutes à la radio est mise à la
+disposition des autres listes.
+
+Cette durée est répartie également entre ces listes par le Conseil supérieur de l'audiovisuel, sans qu'une liste ne puisse
+bénéficier de plus de cinq minutes à la télévision et de cinq minutes à la radio.
+
+IV. - Les conditions de production, de programmation et de diffusion des émissions sont fixées par le Conseil supérieur de
 l'audiovisuel. Celui-ci adresse des recommandations aux exploitants des autres services de communication audiovisuelle
-autorisés dans le territoire. Il désigne un représentant dans le territoire pendant toute la durée de la campagne électorale.
+autorisés en Polynésie française. Il désigne un représentant en Polynésie française pendant toute la durée de la campagne.
+
+V. - Les dispositions qui précèdent sont applicables en cas d'élection partielle consécutive à l'annulation globale des
+opérations électorales dans une circonscription ou aux vacances visées au II de l'article 107 de la loi organique n° 2004-192
+du 27 février 2004  portant statut d'autonomie de la Polynésie française. Dans ce cas, le temps est réduit, par
+circonscription, à une heure au lieu de trois heures et à quinze minutes au lieu de trente minutes. Les déclarations
+individuelles de rattachement prévues au deuxième alinéa du II doivent être faites dans les huit jours suivant l'événement
+qui a rendu cette élection nécessaire.
 
 **Liens relatifs à cet article**
 
@@ -16703,9 +16915,13 @@ autorisés dans le territoire. Il désigne un représentant dans le territoire p
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2004-192 2004-02-27 art. 107
+
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 15 1° JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -16716,7 +16932,7 @@ autorisés dans le territoire. Il désigne un représentant dans le territoire p
 ###### Article L415
 
 Le coût du papier, l'impression des bulletins de vote, des affiches et des circulaires et les frais d'affichage sont
-remboursés aux listes ayant obtenu au moins 5 % des suffrages exprimés. Un arrêté du haut-commissaire de la République fixe
+remboursés aux listes ayant obtenu au moins 3 % des suffrages exprimés. Un arrêté du haut-commissaire de la République fixe
 le barème et les modalités suivant lesquels ces dépenses sont remboursées par l'Etat.
 
 Les dépenses liées à la campagne audiovisuelle officielle sont à la charge de l'Etat.
@@ -16727,9 +16943,29 @@ Les dépenses liées à la campagne audiovisuelle officielle sont à la charge d
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 15 3° JORF 2 mars 2004
+
+
+###### Article L415-1
+
+Pour l'application du deuxième alinéa de l'article L. 52-11-1, les mots : "5 % des suffrages exprimés au premier tour de
+scrutin" sont remplacés par les mots : "3 % des suffrages exprimés".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
 	**Créé par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2004-193 2004-02-27 art. 15 4° JORF 2 mars 2004
+
+	**Cite**:
+
+	  - Code électoral - art. L52-11-1 (M)
 
 
 ###### Article L416
@@ -16751,20 +16987,251 @@ Le recensement général des votes est effectué par une commission, en présenc
 	  - Code électoral - art. R251 (V)
 
 
-###### Article L417
+###### Article LO406-1
 
-Les élections à l'assemblée de la Polynésie française peuvent être contestées, dans les quinze jours de la proclamation des
-résultats, par tout candidat ou par tout électeur de la circonscription électorale devant le Conseil d'Etat statuant au
+La composition et la formation de l'assemblée de la Polynésie française sont régies par les dispositions de la section 1 du
+chapitre II du titre IV de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie
+française ci-après reproduites :
+
+Art. 103. - L'assemblée de la Polynésie française est élue au suffrage universel direct.
+
+Art. 104. - L'assemblée de la Polynésie française est composée de cinquante-sept membres élus pour cinq ans et rééligibles.
+Elle se renouvelle intégralement.
+
+Les pouvoirs de l'assemblée de la Polynésie française expirent lors de la première réunion de l'assemblée nouvellement élue
+en application des dispositions du premier alinéa du I de l'article 107. Cette disposition n'est pas applicable en cas de
+dissolution.
+
+La Polynésie française est divisée en circonscriptions électorales. Chaque circonscription dispose d'un minimum de
+représentation. Ce minimum est fixé à trois sièges. Les sièges sont répartis de la manière suivante dans les circonscriptions
+ci-après désignées :
+
+1° La circonscription des îles du Vent comprend les communes de :
+
+Arue, Faaa, Hitiaa O Te Ra, Mahina, Moorea-Maiao, Paea, Papara, Papeete, Pirae, Punaauia, Taiarapu-Est, Taiarapu-Ouest et
+Teva I Uta. Elle élit trente-sept représentants ;
+
+2° La circonscription des îles Sous-le-Vent comprend les communes de : Bora-Bora, Huahine, Maupiti, Tahaa, Taputapuatea,
+Tumaraa et Uturoa. Elle élit huit représentants ;
+
+3° La circonscription des îles Tuamotu de l'Ouest comprend les communes de Arutua, Fakarava, Manihi, Rangiroa et Takaroa.
+Elle élit trois représentants ;
+
+4° La circonscription des îles Gambier et Tuamotu de l'Est comprend les communes de : Anaa, Fangatau, Gambier, Hao, Hikueru,
+Makemo, Napuka, Nukutavake, Pukapuka, Reao, Tatakoto et Tureia. Elle élit trois représentants ;
+
+5° La circonscription des îles Marquises comprend les communes de : Fatu-Hiva, Hiva-Oa, Nuku-Hiva, Tahuata, Ua-Huka et Ua-
+Pou. Elle élit trois représentants ;
+
+6° La circonscription des îles Australes comprend les communes de : Raivavae, Rapa, Rimatara, Rurutu et Tubuai. Elle élit
+trois représentants.
+
+Les limites des communes auxquelles se réfèrent les dispositions précédentes sont celles qui résultent des dispositions en
+vigueur à la date de promulgation de la présente loi organique.
+
+Art. 105. - I. - L'élection des représentants à l'assemblée de la Polynésie française a lieu, dans chaque circonscription, au
+scrutin de liste à un tour sans adjonction, ni suppression de noms et sans modification de l'ordre de présentation.
+
+Il est attribué à la liste qui a recueilli la majorité des suffrages exprimés un nombre de sièges égal au tiers du nombre de
+sièges à pourvoir arrondi à l'entier supérieur.
+
+Cette attribution opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant
+la règle de la plus forte moyenne.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci est attribué à la liste qui a obtenu le
+plus grand nombre de suffrages. En cas d'égalité des suffrages, le siège est attribué au plus âgé des candidats susceptibles
+d'être proclamés élus.
+
+II. - Sont seules admises à la répartition des sièges les listes ayant obtenu au moins 3 % des suffrages exprimés.
+
+Les sièges sont attribués aux candidats selon l'ordre de présentation sur chaque liste.
+
+Art. 106. - Chaque liste est composée alternativement d'un candidat de chaque sexe.
+
+Chaque liste comporte un nombre de candidats égal au nombre de sièges à pourvoir, augmenté du même nombre que le nombre de
+sièges à pourvoir, dans la limite de dix.
+
+Nul ne peut être candidat sur plus d'une liste.
+
+Art. 107. - I. - Les élections pour le renouvellement intégral de l'assemblée de la Polynésie française sont organisées dans
+les deux mois qui précèdent l'expiration du mandat des membres sortants.
+
+Elles sont organisées dans les trois mois qui suivent l'annulation globale des opérations électorales, la démission de tous
+les membres de l'assemblée ou la dissolution de l'assemblée. Ce délai commence à courir, soit à compter de la lecture de
+l'arrêt du Conseil d'Etat, soit à compter de la réception des démissions par le président de l'assemblée, soit à compter de
+la publication au Journal officiel de la République française du décret de dissolution.
+
+Les électeurs sont convoqués par décret. Le décret est publié au Journal officiel de la Polynésie française quatre semaines
+au moins avant la date du scrutin.
+
+II. - Lorsqu'un siège de représentant à l'assemblée de la Polynésie française devient vacant pour quelque cause que ce soit,
+il est pourvu par le candidat venant immédiatement après le dernier élu sur la liste dont le membre sortant est issu.
+
+Lorsque l'application de cette règle ne permet pas de combler une vacance, il est procédé dans les trois mois à une élection
+partielle, au scrutin uninominal majoritaire à un tour lorsque la vacance porte sur un seul siège, au scrutin de liste
+majoritaire à un tour lorsque la vacance porte sur deux sièges, et dans les conditions fixées à l'article 105 lorsque la
+vacance porte sur trois sièges ou plus. Les nouveaux représentants sont élus pour la durée du mandat restant à courir.
+
+Toutefois, aucune élection partielle ne peut avoir lieu dans les six mois qui précèdent l'expiration normale du mandat des
+représentants à l'assemblée de la Polynésie française.
+
+Les électeurs sont convoqués par arrêté du haut-commissaire après consultation du président de la Polynésie française.
+L'arrêté est publié au Journal officiel de la Polynésie française quatre semaines au moins avant la date du scrutin.
+
+Art. 108. - Sont éligibles à l'assemblée de la Polynésie française les personnes âgées de dix-huit ans révolus, jouissant de
+leurs droits civils et politiques, n'étant dans aucun cas d'incapacité prévu par la loi et inscrites sur une liste électorale
+en Polynésie française ou justifiant qu'elles remplissent les conditions pour y être inscrites au jour de l'élection.
+
+Art. 109. - I. - Sont inéligibles à l'assemblée de la Polynésie française :
+
+1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président et les membres de
+l'assemblée, le président de la Polynésie française et les autres membres du gouvernement de la Polynésie française qui n'ont
+pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars 1988 relative à la transparence
+financière de la vie politique ;
+
+2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
+application des lois qui autorisent cette privation ;
+
+3° Les hauts-commissaires de la République, les secrétaires généraux, secrétaires généraux adjoints du haut-commissariat, les
+directeurs du cabinet du haut-commissaire et les chefs de subdivisions administratives en exercice ou qui ont exercé leurs
+fonctions en Polynésie française depuis moins de trois ans ;
+
+4° Les personnes déclarées inéligibles en application de l'article L. 118-3 du code électoral ;
+
+5° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
+nomination.
+
+II. - En outre, ne peuvent être élus membres de l'assemblée de la Polynésie française s'ils exercent leurs fonctions en
+Polynésie française ou s'ils les ont exercées depuis moins de six mois :
+
+1° Les magistrats des juridictions administratives et des juridictions judiciaires ;
+
+2° Les membres des corps d'inspection et de contrôle de l'Etat ;
+
+3° Les directeurs et chefs de service de l'Etat ;
+
+4° Le secrétaire général du gouvernement de la Polynésie française et les secrétaires généraux des institutions, les
+directeurs généraux, inspecteurs généraux, inspecteurs, directeurs, directeurs adjoints de la Polynésie française ou de l'un
+de ses établissements publics et le directeur du cabinet du président de la Polynésie française.
+
+III. - Ne peuvent pas non plus être élus membres de l'assemblée de la Polynésie française, exclusivement dans la
+circonscription où ils exercent ou ont exercé depuis moins de six mois leurs fonctions :
+
+1° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie en activité en Polynésie
+française ;
+
+2° Les fonctionnaires des corps actifs de police en activité en Polynésie française ;
+
+3° Les chefs de circonscription administrative de la Polynésie française ;
+
+4° Les agents et comptables de la Polynésie française agissant en qualité de fonctionnaire employés à l'assiette, à la
+perception et au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature.
+
+Art. 110. - Les employeurs sont tenus de laisser à leurs salariés candidats à l'assemblée de la Polynésie française le temps
+nécessaire pour participer à la campagne électorale dans la limite de dix jours ouvrables.
+
+Sur demande de l'intéressé, la durée de ses absences est imputée sur celle du congé payé annuel dans la limite des droits
+qu'il a acquis à ce titre à la date du scrutin. Lorsqu'elles ne sont pas imputées sur le congé payé annuel, les absences ne
+sont pas rémunérées ; elles donnent alors lieu à récupération en accord avec l'employeur.
+
+La durée de ces absences est assimilée à une période de travail effectif pour la détermination des droits à congés payés
+ainsi que des droits liés à l'ancienneté.
+
+Art. 111. - I. - Le mandat de représentant à l'assemblée de la Polynésie française est incompatible :
+
+1° Avec la qualité de président de la Polynésie française ou de membre du gouvernement ou du conseil économique, social et
+culturel ;
+
+2° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
+alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
+Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
+le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional, de conseiller de Paris
+ou de membre de l'Assemblée de Corse ;
+
+3° Avec les fonctions de militaire de carrière ou assimilé en activité de service ou servant au-delà de la durée légale ;
+
+4° Avec les fonctions de magistrat des juridictions administratives ou des juridictions judiciaires et avec les fonctions
+publiques non électives ;
+
+5° Avec les fonctions de directeur ou de président d'établissement public, lorsqu'elles sont rémunérées.
+
+II. - Un représentant à l'assemblée de la Polynésie française ne peut cumuler son mandat avec plus d'un des mandats
+suivants :
+
+conseiller municipal, député ou sénateur, représentant au Parlement européen.
+
+Si le candidat appelé à remplacer un représentant à l'assemblée de la Polynésie française se trouve dans l'un des cas
+d'incompatibilité mentionnés au présent II, il dispose d'un délai de trente jours à compter de la vacance pour faire cesser
+l'incompatibilité en démissionnant de la fonction ou du mandat de son choix. A défaut d'option dans le délai imparti, le
+haut-commissaire constate l'incompatibilité et le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
+
+III. - Un représentant à l'assemblée de la Polynésie française élu dans une autre circonscription de la Polynésie française
+cesse, de ce fait même, de représenter la première des deux circonscriptions dans laquelle il a été élu. Toutefois, en cas de
+contestation de la nouvelle élection, la vacance du siège n'est proclamée qu'à compter de la décision du Conseil d'Etat
+statuant sur le recours ; jusqu'à l'intervention de cette décision, l'élu peut participer aux travaux de l'assemblée au titre
+de son seul nouveau mandat.
+
+Art. 112. - I. - Tout représentant à l'assemblée de la Polynésie française dont l'inéligibilité se révélera après
+l'expiration du délai pendant lequel son élection peut être contestée ou qui, pendant la durée de son mandat, se trouvera
+frappé de l'une des incapacités qui fait perdre la qualité d'électeur est déclaré démissionnaire par arrêté du haut-
+commissaire soit d'office, soit sur la réclamation de tout électeur.
+
+II. - Tout représentant à l'assemblée de la Polynésie française qui, au moment de son élection, se trouve dans l'un des cas
+d'incompatibilité prévus au présent titre dispose d'un délai d'un mois à partir de la date à laquelle son élection est
+devenue définitive pour démissionner de son mandat ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Il
+fait connaître son option par écrit au haut-commissaire qui en informe le président de l'assemblée concernée. A défaut
+d'option dans le délai imparti, il est réputé démissionnaire de son mandat ; cette démission est constatée par arrêté du
+haut-commissaire soit d'office, soit sur réclamation de tout électeur.
+
+Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
+A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
+représentant à l'assemblée de la Polynésie française est déclaré démissionnaire de son mandat par le haut-commissaire soit
+d'office, soit sur réclamation de tout électeur.
+
+Art. 113. - I. - Le représentant à l'assemblée de la Polynésie française qui a la qualité d'agent public au moment de son
+élection est placé en dehors du cadre de l'administration ou du corps auquel il appartient dans les conditions prévues par le
+statut ou le contrat qui le régit. Il est, à l'expiration de son mandat, réintégré à sa demande, selon le cas, dans le cadre
+ou le corps auquel il appartenait avant son élection à l'assemblée de la Polynésie française, éventuellement en surnombre, ou
+dans l'entreprise du secteur public qui l'employait sous un régime de droit public ou de droit privé.
+
+II. - Lorsque le représentant à l'assemblée de la Polynésie française a la qualité de salarié à la date de son élection, il
+peut bénéficier, à sa demande, d'une suspension de son contrat de travail. Cette demande est satisfaite de plein droit dès
+lors que le salarié justifie, à la date de l'élection, d'une ancienneté minimale d'une année dans l'entreprise.
+
+Art. 114. - La démission d'un représentant à l'assemblée de la Polynésie française est adressée au président de l'assemblée,
+qui en informe immédiatement le haut-commissaire et le président de la Polynésie française. Cette démission prend effet dès
+sa réception par le président de l'assemblée.
+
+Art. 115. - Le représentant à l'assemblée de la Polynésie française qui manque à une session ordinaire sans excuse légitime
+admise par l'assemblée de la Polynésie française est déclaré démissionnaire d'office par l'assemblée lors de la dernière
+séance de la session.
+
+Le représentant à l'assemblée de la Polynésie française présumé absent au sens de l'article 112 du code civil est
+provisoirement remplacé à l'assemblée, dès l'intervention du jugement constatant la présomption d'absence, par le candidat
+venant immédiatement après le dernier élu sur la liste dont le présumé absent est issu.
+
+Art. 116. - Les élections à l'assemblée de la Polynésie française peuvent être contestées dans les quinze jours suivant la
+proclamation des résultats, par tout candidat ou tout électeur de la circonscription, devant le Conseil d'Etat statuant au
 contentieux.
 
-Le même droit est ouvert au haut-commissaire de la République s'il estime que les conditions et les formes légalement
-prescrites n'ont pas été respectées.
+Le même droit est ouvert au haut-commissaire s'il estime que les conditions et les formes légalement prescrites n'ont pas été
+respectées.
 
-La constatation par le Conseil d'Etat de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection
-que du ou des élus inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+La proclamation du candidat devenu représentant à l'assemblée de la Polynésie française par application du premier alinéa du
+II de l'article 107 peut être contestée dans le délai de quinze jours à compter de la date à laquelle ce candidat a remplacé
+le représentant à l'assemblée de la Polynésie française dont le siège est devenu vacant.
 
-Le membre de l'assemblée dont l'élection est contestée reste en fonction jusqu'à ce qu'il ait été définitivement statué sur
-la réclamation.
+La constatation par le Conseil d'Etat de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de l'élection
+que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+
+Le représentant à l'assemblée de la Polynésie française dont l'élection est contestée reste en fonction jusqu'à ce qu'il ait
+été définitivement statué sur la réclamation.
+
+Art. 117. - Les recours contre les arrêtés mentionnés à l'article 112 et contre les délibérations mentionnées à l'article 115
+sont portés devant le Conseil d'Etat statuant au contentieux. Ils sont suspensifs. Toutefois, le recours n'est pas suspensif
+lorsqu'un représentant à l'assemblée de la Polynésie française est déclaré démissionnaire d'office à la suite d'une
+condamnation pénale devenue définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques,
+civils et de famille.
 
 **Liens relatifs à cet article**
 
@@ -16772,13 +17239,14 @@ la réclamation.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Cite**:
+
+	  - Loi n°2004-192 2004-02-27 art. 103, art. 104, art. 105, art. 106, art. 107, art. 108, art. 109, art. 110, art. 111, art. 112, art. 113, art. 114, art. 115, art. 116, art. 117
+	  - Code électoral 107
+
 	**Créé par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
-	**Abrogé par**:
-
-	  - Loi n°2004-193 2004-02-27 art. 15 2° JORF 2 mars 2004
+	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
 
 
 ### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna
@@ -17281,34 +17749,6 @@ Les dispositions du chapitre III du titre IV du livre Ier du présent code, à l
 l'article L. 261, sont applicables aux communes du territoire de la Polynésie française de 3 500 habitants et plus qui ne
 sont pas composées de communes associées.
 
-En outre, dans les communes de 2 500 habitants et plus, nul ne peut être candidat sur plus d'une liste ni dans plus d'une
-circonscription électorale. Une déclaration de candidature est obligatoire pour le premier tour de scrutin. Cette déclaration
-de candidature résulte du dépôt auprès des services du représentant de l'Etat d'une liste dont il est délivré récépissé. La
-déclaration est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet,
-chaque candidat établit un mandat signé par lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
-personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste. La liste déposée indique
-expressément le titre de la liste présentée et les nom, prénoms, sexe, date et lieu de naissance de chacun des candidats.
-
-Le dépôt de la liste doit être assorti de l'ensemble des mandats des candidats qui y figurent ainsi que des documents
-officiels qui justifient qu'ils satisfont aux conditions posées par les deux premiers alinéas de l'article L. 228.
-
-Cette déclaration comporte la signature de chaque candidat, sous réserve de la possibilité pour tout candidat de compléter la
-déclaration collective non signée par lui par une déclaration individuelle faite dans le même délai et portant sa signature.
-
-Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies et si les documents officiels
-visés au quatrième alinéa établissent que les candidats satisfont aux conditions d'éligibilité posées par les deux premiers
-alinéas de l'article L. 228.
-
-En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose de vingt-quatre heures pour saisir
-le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête.
-
-Faute par le tribunal administratif d'avoir statué dans ce délai, le récépissé est délivré.
-
-**Nota:**
-
-Loi 2002-276 2002-02-27 art. 64 II : Ces dispositions entreront en vigueur à l'occasion du prochain renouvellement général
-des conseils municipaux qui suivra la promulgation de la présente loi.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -17317,7 +17757,7 @@ des conseils municipaux qui suivra la promulgation de la présente loi.
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 64 ()
+	  - Loi n°2004-193 2004-02-27 art. 33 1° JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -17325,6 +17765,10 @@ des conseils municipaux qui suivra la promulgation de la présente loi.
 	  - Décret n°2014-310 du 7 mars 2014 (V)
 	  - Code général des collectivités territoriales - art. L2573-5 (V)
 	  - Code électoral - art. R269 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. L261 (V)
 
 
 ### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
