@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-03-02
+Version Consolidée au 2004-03-19
 
 # Partie législative
 
@@ -21135,6 +21135,32 @@ rapportent y sont annexées après avoir été paraphées par les membres du bur
 	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
+###### Article R53
+
+Des machines à voter peuvent être utilisées dans les bureaux de vote des communes figurant sur la liste annexée à la partie
+Réglementaire du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°89-80 du 8 février 1989 - art. 11 (V)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+
+	**Créé par**:
+
+	  - Décret n°2004-238 du 18 mars 2004 - art. 1 () JORF 19 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
+
+
 ###### Article R54
 
 Les enveloppes électorales sont fournies par l'administration préfectorale. Elles sont opaques, non gommées et de type
@@ -35745,6 +35771,129 @@ résultent des dispositions en vigueur à la date de publication de ladite loi".
 	  - Décret n°97-21 du 13 janvier 1997 - art. 1 (V)
 	  - Décret n°97-21 du 13 janvier 1997 - art. 2 (V)
 	  - Loi n°86-97 1986-11-24 art. 3
+
+
+## Liste des communes où est autorisée l'utilisation de machines à voter
+
+###### Article Annexe
+
+Ain
+
+Bourg-en-Bresse.
+
+Alpes-Maritimes
+
+Nice.
+
+Bouches-du-Rhône
+
+Marseille.
+
+Charente-Maritime
+
+Royan.
+
+Cher
+
+Bourges.
+
+Corrèze
+
+Brive-la-Gaillarde.
+
+Côte-d'Or
+
+Dijon.
+
+Deux-Sèvres
+
+Niort.
+
+Essonne
+
+Bures-sur-Yvette, Orsay, Villebon-sur-Yvette.
+
+Finistère
+
+Brest.
+
+Gironde
+
+Mérignac.
+
+Haute-Garonne
+
+Toulouse.
+
+Hauts-de-Seine
+
+Boulogne-Billancourt, Issy-les-Moulineaux, Suresnes.
+
+Ille-et-Vilaine
+
+Rennes.
+
+Isère
+
+Grenoble, Meylan.
+
+Loiret
+
+La Ferté-Saint-Aubin.
+
+Marne
+
+Châlons-en-Champagne.
+
+Meurthe-et-Moselle
+
+Vandoeuvre-lès-Nancy.
+
+Morbihan
+
+Lorient, Questembert.
+
+Oise
+
+Beauvais.
+
+Seine-Maritime
+
+Le Havre.
+
+Seine-Saint-Denis
+
+Rosny-sous-Bois.
+
+Val-de-Marne
+
+Marolles-en-Brie.
+
+Var
+
+Six-Fours-les-Plages.
+
+Vendée
+
+Les Herbiers.
+
+Vienne
+
+Vouneuil-sous-Biard.
+
+Yvelines
+
+Versailles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2004-238 du 18 mars 2004 - art. 2 () JORF 19 mars 2004
 
 
 ## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).
