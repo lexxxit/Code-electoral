@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1980-12-24
 
 # Partie législative
 
@@ -8351,6 +8351,46 @@ L. 40.
 	**Cite**:
 
 	  - Code électoral - art. L40 (V)
+
+
+###### Article R*17-1
+
+Les délais prévus aux articles L. 20, R. 8, R. 10 et R. 12 sont calculés et prorogés ainsi qu'il est dit à l'article R. 15-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°69-747 1969-07-24 art. 9 JORF 26 juillet 1969
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°80-1075 1980-12-24 art. 6 JORF 24 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°76-950 du 14 octobre 1976 - art. 15 (Ab)
+	  - Décret n°90-1163 du 24 décembre 1990 - art. 6 (Ab)
+	  - Décret n°2000-255 du 20 mars 2000 - art. 13 (Ab)
+	  - Code électoral - art. R*17-2 (M)
+	  - Code électoral - art. R219 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L20 (V)
+	  - Code électoral - art. R*10 (M)
+	  - Code électoral - art. R*12 (M)
+	  - Code électoral - art. R*8 (M)
+	  - Code électoral - art. R15-7 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Nouveau code de procédure civile 640, 641, 642
 
 
 ##### Section 3 : Inscription en dehors des périodes de révision
