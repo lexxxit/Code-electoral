@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-01-28
 
 # Partie législative
 
@@ -13485,16 +13485,17 @@ Le pourvoi est jugé comme affaire urgente.
 ###### Article R124
 
 Le tableau des opérations de sectionnement électoral prévu à l'article L. 255 est publié dans les communes intéressées, avant
-la convocation des électeurs, par les soins du commissaire de la République qui détermine, d'après le chiffre des électeurs
-inscrits dans chaque section, le nombre des conseillers que la loi lui attribue.
+la convocation des électeurs, par les soins du préfet qui détermine, d'après le chiffre des électeurs inscrits dans chaque
+section, le nombre des conseillers que la loi lui attribue.
 
 Le sectionnement adopté par le conseil général est représenté par un plan déposé à la préfecture et à la mairie de la commune
 intéressée. Tout électeur peut le consulter et en prendre copie.
 
 Avis de ce dernier dépôt est donné aux intéressés par voie d'affiche à la porte de la mairie.
 
-Les demandes et propositions, délibérations de conseils municipaux et procès-verbaux d'enquête sont remis au conseil général
-à l'ouverture de la session.
+Le nombre des conseillers à élire dans les sections électorales prévues par l'article L. 255-1 qui correspondent à des
+communes associées est déterminé par le chiffre de la population de chaque commune associée et publié comme il est dit au
+premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -13504,11 +13505,17 @@ Les demandes et propositions, délibérations de conseils municipaux et procès-
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°83-47 1983-01-27 ART. 2 JORF 28 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-47 1983-01-27 ART. 6 : les dispositions du présent décret s'appliqueront lors du prochain renouvellement général des conseils municipaux
+	  - SPEC_APPLI: Code électoral R127-1 : champ d'application
 
 	**Cite**:
 
 	  - Code électoral - art. L255 (M)
+	  - Code électoral - art. L255-1 (V)
 
 	**Cité par**:
 
@@ -13518,6 +13525,46 @@ Les demandes et propositions, délibérations de conseils municipaux et procès-
 
 
 #### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus
+
+##### Section 1 : Mode de scrutin
+
+###### Article R127-1
+
+Les dispositions de l'article R. 124 sont applicables dans les communes dont la population est comprise entre 3 500 et 30 000
+habitants.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°83-47 1983-01-27 ART. 4 JORF 28 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-47 1983-01-27 ART. 6 : les dispositions du présent décret s'appliqueront lors du prochain renouvellement général des conseils municipaux
+
+	**Cite**:
+
+	  - Code électoral - art. R124 (M)
+
+	**Cité par**:
+
+	  - Code électoral - art. R266 (Ab)
+	  - Code électoral - art. R268 (Ab)
+	  - Code électoral - art. R269 (V)
+
 
 ##### Section 2 : Déclarations de candidatures
 
