@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1979-05-13
+Version Consolidée au 1979-07-17
 
 # Partie législative
 
@@ -7217,6 +7217,37 @@ de l'ancien département de Seine-et-Oise, tel qu'il est déterminé à l'articl
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+
+#### Chapitre II : Conditions d'éligibilité et inéligibilités
+
+###### Article LO296
+
+Nul ne peut être élu au Sénat s'il n'est âgé de trente-cinq ans révolus.
+
+Les autres conditions d'éligibilité et les inéligibilités sont les mêmes que pour l'élection à l'Assemblée nationale.
+
+Toutefois, pour l'application de l'alinéa précédent, n'est pas réputée faire acte de candidature contre un sénateur devenu
+membre du Gouvernement la personne qui a été appelée à le remplacer dans les conditions prévues à l'article L.O.319
+lorsqu'elle se présente sur la même liste que lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°79-633 1979-07-26 article unique JORF 17 juillet 1979
+
+	**Cité par**:
+
+	  - Loi n°83-499 du 17 juin 1983 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. LO319 (V)
 
 
 #### Chapitre III : Incompatibilités
