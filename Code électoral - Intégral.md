@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1995-01-19
 
 # Partie législative
 
@@ -16999,23 +16999,11 @@ de France, l'autorité consulaire peut déléguer les compétences qui lui sont 
 police judiciaire des forces armées et aux autorités qui ont qualité pour exercer des attributions d'officier de police
 judiciaire conformément à l'article 88 du même code.
 
-Les procurations données par les personnes se trouvant en Andorre sont établies par acte dressé devant le président du
-tribunal supérieur du coprince français d'Andorre, président du tribunal de grande instance de Perpignan, et, en cas
-d'empêchement de celui-ci et sur sa délégation, devant un magistrat français membre desdits tribunaux.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°77-134 1977-02-11 art. 3 JORF 13 février 1977
-
-	**Modifié par**:
-
-	  - Décret n°81-280 1981-03-27 art. 5 JORF 28 mars 1981
 
 	**Cité par**:
 
@@ -17029,6 +17017,15 @@ d'empêchement de celui-ci et sur sa délégation, devant un magistrat français
 	  - Décret n°2015-1407 du 5 novembre 2015 - art. Annexe 1 (V)
 	  - Code de la sécurité sociale. - art. R214-21 (P)
 	  - Code électoral - art. R72-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-57 1995-01-18 art. 4 :
+	  - SPEC_APPLI: Les dispositions du décret 95-57 1995-01-18 art. 4 sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
+
+	**Modifié par**:
+
+	  - Décret n°95-57 du 18 janvier 1995 - art. 3 ()
 
 	**Cite**:
 
@@ -17208,6 +17205,10 @@ Les indications portées à l'encre rouge sur la liste électorale sont reprodui
 A la réception d'une procuration valable pour un seul scrutin, le maire porte ces indications sur la liste d'émargement
 seulement.
 
+Lorsque la liste électorale et la liste d'émargement sont éditées par des moyens informatiques, les mentions prévues aux
+alinéas précédents peuvent être portées en noir, sous réserve que les caractères utilisés se distinguent avec netteté de ceux
+qui sont utilisés pour l'édition des autres indications figurant sur la liste.
+
 Le volet de la procuration est annexé à la liste électorale. Si la procuration est valable pour un seul scrutin, ce volet est
 conservé en mairie pendant quatre mois après expiration des délais prescrits pour l'exercice des recours contre l'élection.
 
@@ -17219,11 +17220,6 @@ préjudice des dispositions de l'alinéa précédent.
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°76-128 1976-02-06 art. 5 JORF 8 février 1976
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 	**Cité par**:
 
@@ -17238,6 +17234,15 @@ préjudice des dispositions de l'alinéa précédent.
 	  - Code de la sécurité sociale. - art. R214-60 (P)
 	  - Code électoral - art. R176-2 (V)
 	  - Code électoral - art. R176-2-4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-57 1995-01-18 art. 4 :
+	  - SPEC_APPLI: Les dispositions du décret 95-57 1995-01-18 art. 4 sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
+
+	**Modifié par**:
+
+	  - Décret n°95-57 du 18 janvier 1995 - art. 1 ()
 
 
 ###### Article R*76-1
