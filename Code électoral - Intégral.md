@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1999-05-30
+Version Consolidée au 1999-12-29
 
 # Partie législative
 
@@ -12745,16 +12745,17 @@ Pour l'application de ces dispositions organiques, il y a lieu de lire :
 Les dispositions du titre III du livre Ier du présent code sont applicables à Mayotte, à l'exception du troisième alinéa de
 l'article L. 192, des articles L. 207 et L. 212 et sous réserve des dispositions suivantes.
 
+Le conseil général de Mayotte est renouvelé en même temps que les conseils généraux des départements.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+	  - Loi n°99-1121 1999-12-28 art. 19 jorf 29 décembre 1999
 
 	**Cite**:
 
