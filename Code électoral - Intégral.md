@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1998-05-26
+Version Consolidée au 1998-07-31
 
 # Partie législative
 
@@ -868,6 +868,36 @@ Région Sud-Est : Sète, Marseille, Arles, Lyon, Chalon-sur-Saône, Saint-Jean-d
 	  - Code électoral - art. R*1 (M)
 
 
+###### Article L15-1
+
+Les citoyens qui ne peuvent fournir la preuve d'un domicile ou d'une résidence et auxquels la loi n'a pas fixé une commune de
+rattachement sont, sur leur demande, inscrits sur la liste électorale de la commune où est situé l'organisme d'accueil
+agréé :
+
+- dont l'adresse figure depuis au moins six mois sur leur carte nationale d'identité ;
+
+- ou qui leur a fourni une attestation établissant leur lien avec lui depuis au moins six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 81 ()
+
+	**Cité par**:
+
+	  - Arrêté du 16 octobre 2006 - art. 6 (V)
+	  - Code électoral - art. L16 (VD)
+	  - Code électoral - art. L18 (V)
+	  - Code électoral - art. L388 (VD)
+	  - Code électoral - art. R*1 (M)
+	  - Code électoral - art. R4-1 (Ab)
+
+
 ##### Section 2 : Etablissement et révision des listes électorales
 
 ###### Article L16
@@ -1044,17 +1074,16 @@ définies par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
 
 La commission administrative chargée de la révision de la liste électorale doit faire figurer sur cette dernière les nom,
 prénoms, domicile ou résidence de tous les électeurs. L'indication de domicile ou de résidence comporte obligatoirement
-l'indication de la rue et du numéro là où il en existe.
+l'indication de la rue et du numéro là où il en existe. 
+
+Toutefois, pour les électeurs mentionnés à l'article L. 15-1, l'indication du domicile ou de la résidence est remplacée par
+celle de l'adresse de l'organisme d'accueil au titre duquel ils ont été inscrits sur la liste électorale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°69-419 1969-05-10 art. 3 JORF 11 mai 1969
 
 	**Cité par**:
 
@@ -1077,6 +1106,14 @@ l'indication de la rue et du numéro là où il en existe.
 	  - Code électoral - art. R340 (V)
 	  - Code électoral - art. R53 (Ab)
 	  - Code électoral - art. R99 (V)
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 81 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L15-1 (V)
 
 
 ###### Article L19
