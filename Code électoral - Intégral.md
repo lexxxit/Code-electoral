@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1982-01-30
+Version Consolidée au 1982-03-03
 
 # Partie législative
 
@@ -5923,6 +5923,45 @@ Chaque canton du département élit un membre du conseil général.
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 4 (Ab)
 
 
+###### Article L192
+
+Les conseillers généraux sont élus pour six ans : ils sont renouvelés par moitié tous les trois ans et sont indéfiniment
+rééligibles.
+
+Les élections ont lieu au mois de mars.
+
+Dans tous les départements, les collèges électoraux sont convoqués le même jour.
+
+En cas de renouvellement intégral, à la réunion qui suit ce renouvellement, le conseil général divise les cantons du
+département en deux séries, en répartissant, autant que possible dans une proportion égale, les cantons de chaque
+arrondissement dans chacune des séries et il procède ensuite à un tirage au sort pour régler l'ordre du renouvellement des
+séries.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-213 1982-03-02 art. 58 IX JORF 3 mars 1982
+
+	**Cité par**:
+
+	  - Loi n°94-44 du 18 janvier 1994 - art. 8 (V)
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 2 (V)
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 3 (V)
+	  - Loi n°2010-145 du 16 février 2010 - art. 1 (Ab)
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 21 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 39
+	  - Code général des collectivités territoriales - art. L3121-2 (VD)
+	  - Code électoral - art. L221 (VD)
+	  - Code électoral - art. L328-4 (M)
+	  - Code électoral - art. L334-8 (Ab)
+
+
 #### Chapitre II : Mode de scrutin
 
 ###### Article L193
@@ -6005,6 +6044,84 @@ même mandat antérieurement à sa nomination.
 	  - Loi n°82-214 du 2 mars 1982 - art. 7 (Ab)
 	  - Loi n°82-1171 du 31 décembre 1982 - art. 13 (Ab)
 	  - Loi n°2011-334 du 29 mars 2011 - art. 23 (V)
+
+
+###### Article L195
+
+Ne peuvent être élus membres du conseil général :
+
+1° Les commissaires et commissaires-adjoints de la République, secrétaires généraux et secrétaires en chef de sous-
+préfecture, dans le département où ils exercent leurs fonctions;
+
+2° Les magistrats du siège et du parquet des cours d'appel, dans le ressort de leur juridiction;
+
+3° Les membres des tribunaux administratifs et des chambres régionales des comptes, dans le ressort de leur juridiction;
+
+4° Les magistrats des tribunaux de grande instance et d'instance, dans le ressort de leur juridiction;
+
+5° Les officiers des armées de terre, de mer et de l'air dans l'étendue de toute circonscription comprise dans le ressort où,
+dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois;
+
+6° Les fonctionnaires des corps actifs de police dans les cantons où ils exercent leurs fonctions;
+
+7° Dans les départements où ils exercent leurs fonctions : les ingénieurs en chef, ingénieurs en chef adjoints et ingénieurs
+des ponts et chaussées;
+
+8° Les ingénieurs du service ordinaire des mines, dans les cantons de leur ressort;
+
+9° Les recteurs d'académie, dans le ressort de l'académie;
+
+10° Les inspecteurs d'académie et les inspecteurs de l'enseignement primaire dans le département où ils exercent leurs
+fonctions;
+
+11° Les agents et comptables de tout ordre, employés à l'assiette, à la perception et au recouvrement des contributions
+directes ou indirectes, et au paiement des dépenses publiques de toute nature, dans le département où ils exercent leurs
+fonctions;
+
+12° Les directeurs départementaux et inspecteurs principaux des postes et télécommunications, dans le département où ils
+exercent leurs fonctions;
+
+13° Les ingénieurs en chef chargés de la direction d'un établissement du service des manufactures de tabac, les inspecteurs
+des manufactures de tabac et les directeurs du service de la culture et des magasins de tabac, dans le département où ils
+exercent leurs fonctions;
+
+14° Les ingénieurs en chef, ingénieurs principaux, ingénieurs des travaux et autres agents du génie rural, des eaux et des
+forêts dans les cantons de leur ressort;
+
+15° Les inspecteurs des instruments de mesure dans les cantons de leur ressort;
+
+16° Les directeurs départementaux et inspecteurs de l'action sanitaire et sociale dans le département où ils exercent leurs
+fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°69-419 1969-05-10 art. 17 JORF 11 mai 1969
+	  - Loi n°82-213 du 2 mars 1982 - art. 86 () JORF 3 mars 1982
+
+	**Cité par**:
+
+	  - Loi n°82-214 du 2 mars 1982 - art. 7 (Ab)
+	  - Loi n°82-1171 du 31 décembre 1982 - art. 13 (Ab)
+	  - Loi n°82-1171 du 31 décembre 1982 - art. 15 (Ab)
+	  - Loi n°88-1262 du 30 décembre 1988 - art. 40 (V)
+	  - Code général des collectivités territoriales - art. L4432-4 (Ab)
+	  - Code général des collectivités territoriales - art. L4432-5 (Ab)
+	  - Code électoral - art. L205 (VD)
+	  - Code électoral - art. L206 (VD)
+	  - Code électoral - art. L340 (V)
+	  - Code électoral - art. L342 (V)
+	  - Code électoral - art. L558-11 (V)
+	  - Code électoral - art. L558-15 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 8 (Ab)
 
 
 ###### Article L196
@@ -6337,6 +6454,47 @@ Nul ne peut être membre de plusieurs conseils généraux.
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 11 (Ab)
 
 
+###### Article L209
+
+Le conseiller général élu dans plusieurs cantons est tenu de déclarer son option au président du conseil général dans les
+trois jours qui suivent la plus prochaine réunion du conseil général et, en cas de contestation, soit à partir de la date à
+laquelle la décision du tribunal administratif est devenue définitive, soit à partir de la notification de la décision du
+Conseil d'Etat.
+
+A défaut d'option dans ce délai, le conseil général détermine, en séance publique, et par la voie du sort, à quel canton le
+conseiller appartiendra.
+
+Lorsque le nombre des conseillers non domiciliés dans le département dépasse le quart du conseil, le conseil général procède
+de la même façon pour désigner celui ou ceux dont l'élection doit être annulée. Si une question préjudicielle s'élève sur le
+domicile, le conseil général sursoit et le tirage au sort est fait par le bureau du conseil général réuni à cet effet.
+
+En cas de division d'un canton en plusieurs circonscriptions électorales, le conseiller général représentant le canton divisé
+a le droit d'opter pour l'une des nouvelles circonscriptions créées à l'intérieur de l'ancien canton dans les dix jours qui
+suivront la promulgation du décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-213 1982-03-02 art. 58 IX JORF 3 mars 1982
+
+	**Abrogé par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 12
+
+	**Cité par**:
+
+	  - Code électoral - art. L221 (VT)
+
+	**Anciens textes**:
+
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 17 (Ab)
+
+
 ###### Article L210
 
 Tout conseiller général qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
@@ -6612,6 +6770,51 @@ Il doit y avoir un intervalle de quinze jours francs entre la date de la convoca
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+
+#### Chapitre VIII : Remplacement des conseillers généraux
+
+###### Article L221
+
+En cas de vacance par décès, option, démission, par une des causes énumérées aux articles L. 205, L. 209 et L. 210 et à
+l'alinéa 1 de l'article 19 de la loi du 10 août 1871 ou par toute autre cause, les électeurs doivent être réunis dans le
+délai de trois mois.
+
+Toutefois, si le renouvellement d'une série sortante doit avoir lieu dans les trois mois de la vacance, l'élection partielle
+se fait à la même époque.
+
+Le président du conseil général est chargé de veiller à l'exécution du présent article. Il adresse ses réquisitions au
+commissaire de la République et, s'il y a lieu, au ministre de l'Intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-213 1982-03-02 art. 58 IX JORF 3 mars 1982
+
+	**Cite**:
+
+	  - Loi n°1871-08-10 ART. 19
+	  - Code électoral - art. L205 (M)
+	  - Code électoral - art. L209 (V)
+	  - Code électoral - art. L210 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 5 (V)
+	  - Code électoral - art. L210-1 (VD)
+	  - Code électoral - art. L328 (M)
+	  - Code électoral - art. L328-4 (M)
+	  - Code électoral - art. R110 (VD)
+	  - Code électoral - art. R112-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. R112 (M)
 
 
 #### Chapitre IX : Contentieux
