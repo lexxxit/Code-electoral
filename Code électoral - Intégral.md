@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1996-02-24
+Version Consolidée au 1996-04-11
 
 # Partie législative
 
@@ -2295,8 +2295,10 @@ de 9 000 habitants et à l'élection des conseillers municipaux dans les commune
 
 L'association de financement électorale doit être déclarée selon les modalités prévues par l'article 5 de la loi du 1er
 juillet 1901 relative au contrat d'association. La déclaration doit être accompagnée de l'accord écrit du candidat. Le
-candidat ne peut être membre de sa propre association de financement électorale. L'expert-comptable chargé de la présentation
-du compte de campagne ne peut exercer les fonctions de président ou de trésorier de cette association. "
+candidat ne peut être membre de l'association de financement qui le soutient ; dans le cas d'un scrutin de liste, aucun
+membre de la liste ne peut être membre de l'association de financement qui soutient le candidat tête de la liste sur laquelle
+il figure. L'expert-comptable chargé de la présentation du compte de campagne ne peut exercer les fonctions de président ou
+de trésorier de cette association.
 
 L'association de financement électorale est tenue d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses
 opérations financières. Les comptes de l'association sont annexés au compte de campagne du candidat qu'elle a soutenu ou au
@@ -2350,7 +2352,7 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 
 	**Modifié par**:
 
-	  - Loi n°95-65 du 19 janvier 1995 - art. 2 ()
+	  - Loi n°96-300 du 10 avril 1996 - art. 2 () JORF 11 avril 1996
 
 	**Cite**:
 
@@ -2361,7 +2363,8 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 
 Le candidat déclare par écrit à la préfecture de son domicile le nom du mandataire financier qu'il choisit. La déclaration
 doit être accompagnée de l'accord exprès du mandataire désigné. L'expert-comptable chargé de la présentation du compte de
-campagne ne peut exercer cette fonction. "
+campagne ne peut exercer cette fonction. Dans le cas d'un scrutin de liste, aucun membre de la liste ne peut être le
+mandataire financier du candidat tête de la liste sur laquelle il figure.
 
 Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses opérations
 financières. L'intitulé du compte précise que le titulaire agit en qualité de mandataire financier du candidat, nommément
@@ -2370,9 +2373,9 @@ candidat tête de liste lorsque le candidat qui l'a désigné figure sur cette l
 
 Le mandataire financier ne peut recueillir de fonds que pendant la période prévue à l'article L. 52-4.
 
-Les fonctions du mandataire financier cessent de plein droit [*délai*] trois mois après le dépôt du compte de campagne du
-candidat qui l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les délais légaux, à l'expiration du
-délai de dépôt des candidatures.
+Les fonctions du mandataire financier cessent de plein droit trois mois après le dépôt du compte de campagne du candidat qui
+l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les délais légaux, à l'expiration du délai de dépôt
+des candidatures.
 
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif apparaît,
 il est dévolu, sur décision du candidat, soit à une association de financement d'un parti politique, soit à un ou plusieurs
@@ -2405,7 +2408,7 @@ l'actif net. Il en va de même lorsque la dévolution n'est pas acceptée.
 
 	**Modifié par**:
 
-	  - Loi n°95-65 du 19 janvier 1995 - art. 3 ()
+	  - Loi n°96-300 du 10 avril 1996 - art. 2 ()
 
 	**Cite**:
 
@@ -5300,12 +5303,15 @@ l'expiration du délai fixé au deuxième alinéa de l'article L. 52-12.
 
 ###### Article L118-3
 
-Saisi par la commission instituée par l'article L. 52-14, le juge de l'élection constate, le cas échéant, l'inéligibilité
-d'un candidat. S'il s'agit d'un candidat proclamé élu, il annule son élection ou, si l'élection n'a pas été contestée, le
-déclare démissionnaire d'office.
+Saisi par la commission instituée par l'article L. 52-14, le juge de l'élection peut déclarer inéligible pendant un an le
+candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du plafond des dépenses
+électorales. 
 
-Le juge de l'élection peut également déclarer inéligible pendant un an le candidat dont le compte de campagne, le cas échéant
-après réformation, fait apparaître un dépassement du plafond des dépenses électorales.
+Dans les autres cas, le juge de l'élection peut ne pas prononcer l'inéligibilité du candidat dont la bonne foi est établie,
+ou relever le candidat de cette inéligibilité. 
+
+Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il annule son élection ou, si l'élection n'a pas été
+contestée, le déclare démissionnaire d'office.
 
 **Liens relatifs à cet article**
 
@@ -5313,9 +5319,9 @@ après réformation, fait apparaître un dépassement du plafond des dépenses �
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 6 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Loi n°96-300 du 10 avril 1996 - art. 3 ()
 
 	**Cité par**:
 
@@ -5340,7 +5346,7 @@ après réformation, fait apparaître un dépassement du plafond des dépenses �
 
 	**Cite**:
 
-	  - Code électoral - art. L52-14 (M)
+	  - Code électoral - art. L52-14 (V)
 
 
 ### Titre II : Dispositions spéciales à l'élection des députés
@@ -7754,8 +7760,8 @@ cessation de leurs fonctions.
 
 ###### Article L197
 
-Est inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits par
-l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
+prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
 
 **Liens relatifs à cet article**
 
@@ -7769,9 +7775,9 @@ l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon dr
 	  - Loi n°88-227 du 11 mars 1988 - art. 9-1-A (MMN)
 	  - Code électoral - art. L233 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 7 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Loi n°96-300 du 10 avril 1996 - art. 3 ()
 
 	**Cite**:
 
@@ -8826,8 +8832,8 @@ Les dispositions des articles L. 199 et L. 201 à L. 203 sont applicables.
 
 ###### Article L234
 
-Est inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits par
-l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
+prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
 
 **Liens relatifs à cet article**
 
@@ -8835,13 +8841,9 @@ l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon dr
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°82-974 1982-11-19 art. 18 JORF 20 novembre 1982
-
-	**Créé par**:
-
-	  - Loi n°90-55 du 15 janvier 1990 - art. 7 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Loi n°96-300 du 10 avril 1996 - art. 3 ()
 
 	**Cite**:
 
@@ -12144,6 +12146,35 @@ les six mois de l'expiration du délai de production des comptes imparti par led
 	  - Code électoral - art. L340 (M)
 
 
+###### Article L341-1
+
+Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
+prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°96-300 du 10 avril 1996 - art. 3 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. L350 (V)
+	  - Code électoral - art. L351 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12 (VT)
+
+
 #### Chapitre IV : Incompatibilités
 
 ###### Article L342
@@ -13447,42 +13478,6 @@ Des décrets en Conseil d'Etat détermineront les conditions d'application du pr
 	**Créé par**:
 
 	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-
-
-## Livre IV : Election des conseillers régionaux et des conseillers de l'Assemblée de Corse
-
-### Titre Ier : Election des conseillers régionaux
-
-#### Chapitre III : Conditions d'éligibilité et inéligibilités
-
-###### Article L341-1
-
-Est inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits par
-l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Modifié par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
-
-	**Cité par**:
-
-	  - Code électoral - art. L350 (V)
-	  - Code électoral - art. L351 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L52-12 (M)
 
 
 ## Dispositions finales
