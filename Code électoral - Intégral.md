@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1986-08-14
+Version Consolidée au 1986-10-01
 
 # Partie législative
 
@@ -18073,5 +18073,59 @@ Total
 
 	  - Loi n°75-1333 du 31 décembre 1975, art. 3 v. init.
 	  - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
+
+
+## Election des sénateurs
+
+###### Article Annexe tableau n° 5
+
+(1) Répartition à titre transitoire des sièges de sénateurs entre les séries (2).
+
+REPRESENTATION DES DEPARTEMENTS :
+
+SERIE A : Ain à Indre, Guyane.
+
+SERIE B : Indre-et-Loire à Pyrénées-Orientales, Réunion.
+
+SERIE C : Bas-Rhin à Yonne, Essonne à Yvelines, Guadeloupe, Martinique.
+
+REPRESENTATION DE LA NOUVELLE-CALEDONIE, des collectivités d'outre-mer et des Français établis hors de France.
+
+SERIE A : Polynésie française, Iles Wallis et Futuna. Français établis hors de France.
+
+SERIE B : Nouvelle-Calédonie. Français établis hors de France.
+
+SERIE C : Mayotte. Saint-Pierre-et-Miquelon. Français établis hors de France.
+
+(1) Loi n° 2003-697 du 30 juillet 2003, article 2 :
+
+I. - La série 1 est composée des sièges de l'ancienne série B et des sièges des sénateurs de l'ancienne série C dont la durée
+du mandat a été fixée pour le renouvellement partiel de 2004 à six ans.
+
+La série 2 est composée des sièges de l'ancienne série A et des sièges des sénateurs de l'ancienne série C dont la durée du
+mandat a été fixée pour le renouvellement partiel de 2004 à neuf ans.
+
+II - Une loi votée avant le renouvellement partiel de 2004 mettra à jour le tableau n° 5 annexé au code électoral à la suite
+du découpage des séries 1 et 2 par tirage au sort.
+
+III - Les dispositions du I entreront en vigueur à compter du renouvellement partiel de 2010.
+
+(2) Loi n° 2003-697 du 30 juillet 2003, article 2-IV.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral annexe
+	  - Loi n°2003-697 2003-07-30 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+
+	**Modifié par**:
+
+	  - Loi n°66-504 du 12 juillet 1966, v. init.
+	  - Loi n°86-958 1986-08-13 art. 10 JORF 14 août 1986 rectificatif JORF du 1er octobre 1986
 
 
