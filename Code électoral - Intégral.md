@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1976-07-20
+Version Consolidée au 1977-02-13
 
 # Partie législative
 
@@ -7801,6 +7801,49 @@ l'autorité compétente et ceux qui ont perdu les qualités requises par la loi 
 	  - Code électoral - art. L40 (V)
 
 
+###### Article R*8
+
+La commission administrative tient un registre de toutes ses décisions et y mentionne les motifs et pièces à l'appui.
+
+Lorsque la commission administrative refuse d'inscrire un électeur, cette décision est notifiée dans les deux jours à
+l'intéressé par écrit et à domicile par les soins de l'administration municipale ; l'avis de notification précise les motifs
+de la décision, la date de la publication de la liste électorale ou du tableau rectificatif et informe l'intéressé que dans
+les dix jours de la publication de cette liste ou de ce tableau il pourra contester ladite décision devant le tribunal
+d'instance, conformément aux dispositions de l'article L. 25 du code électoral. Mention de cette notification et de sa date
+est faite sur le registre prévu à l'alinéa précédent.
+
+Il est procédé à ces mêmes formalités auprès de toutes parties intéressées lorsque la commission administrative radie
+d'office un électeur pour d'autres causes que le décès ou lorsqu'elle prend une décision à l'égard d'une inscription qui a
+été contestée devant elle; toutefois dans ces cas, la notification à l'électeur informe en outre celui-ci qu'il peut
+présenter des observations, dans les vingt-quatre heures, à la commission administrative, conformément à l'article L. 23 du
+code électoral. Au vu de ces observations, la commission administrative prend une nouvelle décision, notifiée dans les mêmes
+formes et délais que ceux prévus à l'alinéa 2 du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-747 1969-07-24 art. 3 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°77-134 1977-02-11 art. 2 JORF 13 février 1977
+
+	**Cité par**:
+
+	  - Décret n°90-1163 du 24 décembre 1990 - art. 3 (Ab)
+	  - Code forestier - art. R221-11 (M)
+	  - Code électoral - art. R17-1 (Ab)
+	  - Code électoral - art. R5 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L23 (V)
+	  - Code électoral - art. L25 (V)
+
+
 ###### Article R*10
 
 Le tableau contenant les additions et retranchements opérés par la commission administrative est signé de tous les membres de
@@ -10256,6 +10299,76 @@ listes d'émargement déposées dans les conditions fixées à l'article L 68.
 
 ##### Section 3 : Vote par procuration
 
+###### Article R*72
+
+Pour les personnes résidant en France, les procurations sont établies par acte dressé devant le juge du tribunal d'instance
+de leur résidence ou le juge qui en exerce les fonctions, ainsi que devant tout officier de police judiciaire, autre que les
+maires et leurs adjoints, que ce juge aura désigné. A la demande de ce magistrat, le premier président de la cour d'appel ou
+le président du tribunal supérieur d'appel peut désigner en outre d'autres magistrats en activité ou à la retraite.
+
+Les officiers de police judiciaire compétents pour établir les procurations, ou leurs délégués, se déplacent à la demande des
+personnes qui, en raison de maladies ou d'infirmités graves, ne peuvent manifestement comparaître devant eux.
+
+Les délégués des officiers de police judiciaire sont choisis par l'officier de police judiciaire déléguant, avec l'agrément
+du magistrat qui l'a désigné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-128 1976-02-06 art. 2 JORF 8 février 1976
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°77-134 1977-02-11 art. 3 JORF 13 février 1977
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°85-904 du 27 août 1985 - art. 16 (Ab)
+	  - Décret n°87-376 du 11 juin 1987 - art. 23 (V)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 43 (V)
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+	  - Arrêté du 17 avril 2012 - art. 1 (V)
+	  - Décret n°2012-500 du 17 avril 2012 (V)
+	  - Décret n°2014-290 du 4 mars 2014 - art. 52 (V)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+	  - Code général des collectivités territoriales - art. D6232-5 (V)
+	  - Code général des collectivités territoriales - art. D6332-5 (V)
+	  - Code général des collectivités territoriales - art. R1112-6 (V)
+	  - Code électoral - art. R176-2 (V)
+	  - Code électoral - art. R72-1 (V)
+	  - Code électoral - art. R72-2 (V)
+	  - Code électoral - art. R73 (V)
+	  - Code électoral - art. R78 (V)
+
+
+###### Article R*72-2
+
+Pour les marins de l'État en campagne lointaine, et pour les marins du commerce et de la pêche embarqués au long cours ou à
+la grande pêche, les procurations sont établies par acte dressé devant le commandant du bâtiment ou le capitaine du navire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°77-134 1977-02-11 art. 3 JORF 13 février 1977
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+
+
 ###### Article R*74
 
 La validité de la procuration est, au choix du mandant, limitée à un seul scrutin ou fixée à une année, à compter de la date
@@ -10373,6 +10486,40 @@ préjudice des dispositions de l'alinéa précédent.
 	  - Code de la sécurité sociale. - art. R214-60 (P)
 	  - Code électoral - art. R176-2 (V)
 	  - Code électoral - art. R176-2-4 (V)
+
+
+###### Article R*76-1
+
+Au fur et à mesure de la réception des volets de procuration, le maire inscrit sur un registre ouvert à cet effet les noms et
+prénoms du mandant et du mandataire, le nom et la qualité de l'autorité qui a dressé l'acte de procuration et la date de son
+établissement ainsi que la durée de validité de la procuration. Le registre est tenu à la disposition de tout électeur
+requérant.
+
+Le défaut de réception par le maire du volet d'une procuration fait obstacle à ce que le mandataire participe au scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°76-128 1976-02-06 art. 6 JORF 8 février 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°77-134 1977-02-11 art. 5 JORF 13 février 1977
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°83-679 du 26 juillet 1983 - art. 6 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+	  - Code de la sécurité sociale. - art. R214-60 (P)
 
 
 ###### Article R*77
