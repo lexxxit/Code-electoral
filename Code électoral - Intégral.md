@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1995-01-20
+Version Consolidée au 1995-01-21
 
 # Partie législative
 
@@ -429,6 +429,84 @@ interdit le droit de vote et d'élection, par application des lois qui autorisen
 	**Modifié par**:
 
 	  - Loi n°92-1336 du 16 décembre 1992 - art. 160 ()
+
+
+###### Article L7
+
+Ne doivent pas être inscrites sur la liste électorale, pendant un délai de cinq ans à compter de la date à laquelle la
+condamnation est devenue définitive, les personnes condamnées pour l'une des infractions prévues par les articles 432-10 à
+432-16, 
+433-1, 433-2, 
+433-3 et 433-4 du code pénal ou pour le délit de recel de l'une de ces infractions, défini par les articles 321-1 et 321-2 du
+code pénal.
+
+**Nota:**
+
+Le Conseil constitutionnel, dans sa décision n° 2010-6/7 QPC du 11 juin 2010 (NOR : CSCX1015594S), a déclaré l'article L. 7
+du code électoral contraire à la Constitution.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 56 (V)
+	  - Décret n°51-721 du 8 juin 1951 - art. 3 (Ab)
+	  - Décret n°72-350 du 2 mai 1972 - art. 16 (Ab)
+	  - Décret n°82-451 du 28 mai 1982 - art. 14 (V)
+	  - Décret n°82-452 du 28 mai 1982 - art. 10 (VT)
+	  - Loi n°82-471 du 7 juin 1982 - art. 2 (M)
+	  - Décret n°82-970 du 16 novembre 1982 - art. 30 (M)
+	  - Arrêté du 18 juin 1984 - art. 3 (V)
+	  - Décret n°85-565 du 30 mai 1985 - art. 11 (M)
+	  - Décret n°85-565 du 30 mai 1985 - art. 5 (VD)
+	  - Décret n°85-924 du 30 août 1985 - art. 25 (M)
+	  - Décret n°85-1003 du 19 septembre 1985 - art. 12 (Ab)
+	  - Décret n°88-950 du 6 octobre 1988 - art. 7 (Ab)
+	  - Décret n°89-229 du 17 avril 1989 - art. 11 (VD)
+	  - Arrêté du 29 avril 1996 - art. 3 (V)
+	  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 23 (V)
+	  - Décret n°97-813 du 27 août 1997 - art. 7 (Ab)
+	  - Décret n°98-596 du 13 juillet 1998 - art. 8 (V)
+	  - Décret n°98-644 du 22 juillet 1998 - art. 1 (V)
+	  - Arrêté du 21 juin 2004 - art. 3 (V)
+	  - Décret n°2005-1635 du 26 décembre 2005 - art. 6 (V)
+	  - Décret n°2007-730 du 7 mai 2007 - art. 6 (V)
+	  - Arrêté du 10 octobre 2014 - art. 8 (V)
+	  - Code de la mutualité - art. L125-3 (Ab)
+	  - Code de la route. - art. R327-12 (Ab)
+	  - Code de la sécurité sociale. - art. D231-7 (V)
+	  - Code de la sécurité sociale. - art. L231-6 (V)
+	  - Code du travail - art. R1423-15 (VD)
+	  - Code du travail - art. R236-26 (VT)
+	  - Code rural - art. L723-24 (V)
+	  - Code électoral - art. L199 (M)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
+	**Créé par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 10 ()
+
+	**Abrogé par**:
+
+	  - Décision n°2010-6/7 QPC du 11 juin 2010, v. init.
+
+	**Cite**:
+
+	  - Code pénal - art. 321-1 (V)
+	  - Code pénal - art. 321-2 (V)
+	  - Code pénal - art. 432-10 (V)
+	  - Code pénal - art. 433-1 (V)
+	  - Code pénal - art. 433-2 (V)
+	  - Code pénal - art. 433-3 (V)
+	  - Code pénal - art. 433-4 (V)
 
 
 #### Chapitre II : Listes électorales
@@ -2156,7 +2234,7 @@ Chaque candidat ou liste de candidats peut faire imprimer un emblème sur ses bu
 Pendant l'année précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où l'élection a été
 acquise, un candidat à cette élection ne peut avoir recueilli des fonds en vue du financement de sa campagne que par
 l'intermédiaire d'un mandataire nommément désigné par lui, qui est soit une association de financement électorale, soit une
-personne physique dénommée "le mandataire financier".
+personne physique dénommée "le mandataire financier". Un même mandataire ne peut être commun à plusieurs candidats.
 
 Lorsque le candidat a décidé de recourir à une association de financement électorale ou à un mandataire financier, il ne peut
 régler les dépenses occasionnées par sa campagne électorale que par leur intermédiaire, à l'exception du montant du
@@ -2203,15 +2281,22 @@ de 9 000 habitants et à l'élection des conseillers municipaux dans les commune
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
+	**Modifié par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 1 ()
 
 
 ###### Article L52-5
 
 L'association de financement électorale doit être déclarée selon les modalités prévues par l'article 5 de la loi du 1er
-juillet 1901 relative au contrat d'association. La déclaration doit être accompagnée de l'accord écrit du candidat.
+juillet 1901 relative au contrat d'association. La déclaration doit être accompagnée de l'accord écrit du candidat. Le
+candidat ne peut être membre de sa propre association de financement électorale. L'expert-comptable chargé de la présentation
+du compte de campagne ne peut exercer les fonctions de président ou de trésorier de cette association. "
 
 L'association de financement électorale est tenue d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses
 opérations financières. Les comptes de l'association sont annexés au compte de campagne du candidat qu'elle a soutenu ou au
@@ -2258,9 +2343,14 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 7 () JORF 30 janvier 1993
+	  - Loi n°95-65 du 19 janvier 1995 - art. 2 ()
 
 	**Cite**:
 
@@ -2270,7 +2360,8 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 ###### Article L52-6
 
 Le candidat déclare par écrit à la préfecture de son domicile le nom du mandataire financier qu'il choisit. La déclaration
-doit être accompagnée de l'accord exprès du mandataire désigné.
+doit être accompagnée de l'accord exprès du mandataire désigné. L'expert-comptable chargé de la présentation du compte de
+campagne ne peut exercer cette fonction. "
 
 Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses opérations
 financières. L'intitulé du compte précise que le titulaire agit en qualité de mandataire financier du candidat, nommément
@@ -2279,9 +2370,9 @@ candidat tête de liste lorsque le candidat qui l'a désigné figure sur cette l
 
 Le mandataire financier ne peut recueillir de fonds que pendant la période prévue à l'article L. 52-4.
 
-Les fonctions du mandataire financier cessent de plein droit trois mois après le dépôt du compte de campagne du candidat qui
-l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les délais légaux, à l'expiration du délai de dépôt
-des candidatures.
+Les fonctions du mandataire financier cessent de plein droit [*délai*] trois mois après le dépôt du compte de campagne du
+candidat qui l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les délais légaux, à l'expiration du
+délai de dépôt des candidatures.
 
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif apparaît,
 il est dévolu, sur décision du candidat, soit à une association de financement d'un parti politique, soit à un ou plusieurs
@@ -2307,9 +2398,14 @@ l'actif net. Il en va de même lorsque la dévolution n'est pas acceptée.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 7 ()
+	  - Loi n°95-65 du 19 janvier 1995 - art. 3 ()
 
 	**Cite**:
 
@@ -2352,24 +2448,21 @@ scrutin plurinominal, à une association à laquelle un ou plusieurs candidats a
 
 ###### Article L52-8
 
-Les dons consentis par des personnes dûment identifiées pour le financement de la campagne d'un candidat ou de plusieurs
-candidats lors d'une même élection ne peuvent excéder 30 000 F s'ils émanent d'une personne physique et 10 % du plafond des
-dépenses électorales dans la limite de 500 000 F s'ils émanent d'une personne morale autre qu'un parti ou groupement
-politique. La liste exhaustive des personnes morales, à l'exception des partis ou groupements politiques, qui ont consenti
-des dons à un candidat est jointe au compte de campagne du candidat prévu par l'article L. 52-12, avec l'indication du
-montant de chacun de ces dons. "
+Les dons consentis par une personne physique dûment identifiée pour le financement de la campagne d'un ou plusieurs candidats
+lors des mêmes élections ne peuvent excéder 30 000 F.
+
+Les personnes morales, à l'exception des partis ou groupements politiques, ne peuvent participer au financement de la
+campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des
+biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués.
 
 Tout don de plus de 1 000 F consenti à un candidat en vue de sa campagne doit être versé par chèque.
 
-Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du montant des dépenses autorisées lorsque ce
-montant est égal ou supérieur à 100 000 F en application de l'article L. 52-11.
-
-Les personnes morales de droit public, les personnes morales de droit privé dont la majorité du capital appartient à une ou
-plusieurs personnes morales de droit public ou les casinos, cercles et maisons de jeux ne peuvent effectuer, directement ou
-indirectement, aucun don en vue du financement de la campagne d'un candidat.
-
 Aucun candidat ne peut recevoir, directement ou indirectement, pour quelque dépense que ce soit, des contributions ou aides
 matérielles d'un Etat étranger ou d'une personne morale de droit étranger.
+
+Par dérogation au premier alinéa de l'article L. 52-1, les candidats ou les listes de candidats peuvent recourir à la
+publicité par voie de presse pour solliciter les dons autorisés par le présent article. La publicité ne peut contenir
+d'autres mentions que celles propres à permettre le versement du don.
 
 **Liens relatifs à cet article**
 
@@ -2393,13 +2486,18 @@ matérielles d'un Etat étranger ou d'une personne morale de droit étranger.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 9 ()
+	  - Loi n°95-65 du 19 janvier 1995 - art. 4 () JORF 21 janvier 1995
 
 	**Cite**:
 
-	  - Code électoral - art. L52-11 (M)
+	  - Code électoral - art. L52-1 (M)
 
 
 ###### Article L52-9
@@ -2468,88 +2566,110 @@ tableau ci-après :
 
 - N'excédant pas 15 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 8.
+
+- Listes présentes au second tour : 11.
+
 Election des conseillers :
 
-- municipaux : 11
+- généraux : 4,2.
 
-- généraux : 6
-
-- régionaux : 5.
+- régionaux : 3,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 15 001 à 30 000 habitants : 
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 7.
+
+- Listes présentes au second tour : 10.
+
 Election des conseillers :
 
-- municipaux : 10
+- généraux : 3,5
 
-- généraux : 5
-
-- régionaux : 5.
+- régionaux : 3,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 30 001 à 60 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 6.
+
+- Listes présentes au second tour : 8.
+
 Election des conseillers :
 
-- municipaux : 9
+- généraux : 2,8.
 
-- généraux : 4
-
-- régionaux : 5.
+- régionaux : 3,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 60 001 à 100 000 habitants : 
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 5,5.
+
+- Listes présentes au second tour : 7,5.
+
 Election des conseillers :
 
-- municipaux : 8
+- généraux : 2.
 
-- généraux : 3
-
-- régionaux : 5.
+- régionaux : 3,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 100 001 à 150 000 habitants : 
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 5.
+
+- Listes présentes au second tour : 7.
+
 Election des conseillers :
 
-- municipaux : 7
-
-- généraux : 3
-
-- régionaux : 4.
+- régionaux : 2,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 150 001 à 250 000 habitants : 
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 4,5.
+
+- Listes présentes au second tour : 5,5.
+
 Election des conseillers :
 
-- municipaux : 6
-
-- généraux : 3
-
-- régionaux : 3.
+- régionaux : 2.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - Excédant 250 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 3,5.
+
+- Listes présentes au second tour : 5.
+
 Election des conseillers :
 
-- municipaux : 5
+- régionaux : 1,5.
 
-- généraux : 3
-
-- régionaux : 2.
-
-" Le plafond des dépenses pour l'élection des députés est de 250 000 F par candidat. Il est majoré de 1 F par habitant de la
-circonscription. "
+Le plafond des dépenses pour l'élection des députés est de 250 000 F par candidat. Il est majoré de 1 F par habitant de la
+circonscription.
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de
 Corse.
@@ -2603,13 +2723,64 @@ de la statistique et des études économiques.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 10 ()
+	  - Loi n°95-65 du 19 janvier 1995 - art. 5 ()
 
 	**Cite**:
 
+	  - Code électoral - art. L52-4 (M)
+
+
+###### Article L52-11-1
+
+Les dépenses électorales des candidats aux élections auxquelles l'article L. 52-4 est applicable font l'objet d'un
+remboursement forfaitaire de la part de l'Etat égal à 50 p. 100 de leur plafond de dépenses. Ce remboursement ne peut excéder
+le montant des dépenses des candidats retracées dans leur compte de campagne.
+
+Le remboursement forfaitaire n'est pas versé aux candidats qui ont obtenu moins de 5 p. 100 des suffrages exprimés au premier
+tour de scrutin ni à ceux qui ne se sont pas conformés aux prescriptions des articles L. 52-11 et L. 52-12 ou dont le compte
+de campagne a été rejeté ou qui n'ont pas déposé leur déclaration de situation patrimoniale, s'ils sont astreints à cette
+obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°77-729 du 7 juillet 1977 - art. 2 (V)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 22 (Ab)
+	  - Décret n°97-1191 du 19 décembre 1997 - art. ANNEXE (V)
+	  - Code de commerce - art. R713-12 (V)
+	  - Code de commerce. - art. A713-7 (V)
+	  - Code électoral - art. L118-2 (V)
+	  - Code électoral - art. L330-9 (V)
+	  - Code électoral - art. L415-1 (V)
+	  - Code électoral - art. L52-15 (VD)
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. R110-1 (V)
+	  - Code électoral - art. R175-5 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
+	**Créé par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 6 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L52-11 (M)
+	  - Code électoral - art. L52-12 (M)
 	  - Code électoral - art. L52-4 (M)
 
 
@@ -2617,16 +2788,19 @@ de la statistique et des études économiques.
 
 Chaque candidat ou candidat tête de liste soumis au plafonnement prévu à l'article L. 52-11 est tenu d'établir un compte de
 campagne retraçant, selon leur origine, l'ensemble des recettes perçues et, selon leur nature, l'ensemble des dépenses
-engagées ou effectuées en vue de l'élection, par lui-même ou pour son compte, au cours de la période mentionnée à l'article
-L. 52-4. Sont réputées faites pour son compte les dépenses exposées directement au profit du candidat et avec l'accord, même
-tacite, de celui-ci, par les personnes physiques ou morales, les groupements et partis qui lui apportent leur soutien. Le
-candidat estime et inclut, en recettes et en dépenses, les avantages directs ou indirects, les prestations de services et
-dons en nature dont il a bénéficié.
+engagées ou effectuées en vue de l'élection, hors celles de la campagne officielle par lui-même ou pour son compte, au cours
+de la période mentionnée à l'article L. 52-4. Sont réputées faites pour son compte les dépenses exposées directement au
+profit du candidat et avec l'accord de celui-ci, par les personnes physiques qui lui apportent leur soutien, ainsi que par
+les partis et groupements politiques qui ont été créés en vue de lui apporter leur soutien ou qui lui apportent leur soutien.
+Le candidat estime et inclut, en recettes et en dépenses, les avantages directs ou indirects, les prestations de services et
+dons en nature dont il a bénéficié. Le compte de campagne doit être en équilibre ou excédentaire et ne peut présenter un
+déficit.
 
-Dans les deux mois qui suivent le tour de scrutin où l'élection a été acquise, chaque candidat ou candidat tête de liste
-présent au premier tour dépose à la préfecture son compte de campagne et ses annexes, présentés par un membre de l'ordre des
-experts-comptables et des comptables agréés et accompagné des justificatifs de ses recettes ainsi que des factures, devis et
-autres documents de nature à établir le montant des dépenses payées ou engagées par le candidat ou pour son compte.
+Dans les deux mois qui suivent le tour de scrutin où l'élection a été acquise [*délai*], chaque candidat ou candidat tête de
+liste présent au premier tour dépose à la préfecture son compte de campagne et ses annexes, présentés par un membre de
+l'ordre des experts-comptables et des comptables agréés et accompagné des justificatifs de ses recettes ainsi que des
+factures, devis et autres documents de nature à établir le montant des dépenses payées ou engagées par le candidat ou pour
+son compte.
 
 Le montant du cautionnement n'est pas compris dans les dépenses. Sous réserve du règlement de dépenses engagées avant le
 premier tour de scrutin, le compte de campagne des candidats présents au seul premier tour ne peut retracer de dépenses
@@ -2636,9 +2810,11 @@ période mentionnée à l'article L. 52-4 doit être déduite des charges retrac
 Le compte de campagne et ses annexes sont transmis à la Commission nationale des comptes de campagne et des financements
 politiques.
 
-La commission assure la publication des comptes de campagne dans une forme simplifiée. Pour chaque candidat, la publication
-comporte la liste exhaustive des personnes morales qui lui ont consenti des dons, avec l'indication du montant de chacun de
-ces dons. "
+La commission assure la publication des comptes de campagne dans une forme simplifiée.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -2677,9 +2853,14 @@ ces dons. "
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 9 ()
+	  - Loi n°95-65 du 19 janvier 1995 - art. 7 ()
 
 	**Cite**:
 
@@ -2848,7 +3029,7 @@ Lorsque le montant d'une dépense déclarée dans le compte de campagne ou ses a
 pratiqués, la Commission nationale des comptes de campagne et des financements politiques évalue la différence et l'inscrit
 d'office dans les dépenses de campagne après avoir invité le candidat à produire toute justification utile à l'appréciation
 des circonstances. La somme ainsi inscrite est réputée constituer un don, au sens de l'article L. 52-8, effectué par la ou
-les personnes physiques ou morales concernées.
+les personnes physiques concernées. 
 
 La commission procède de même pour tous les avantages directs ou indirects, les prestations de services et dons en nature
 dont a bénéficié le candidat.
@@ -2863,13 +3044,17 @@ dont a bénéficié le candidat.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+
+	**Modifié par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 7 ()
 
 	**Cite**:
 
-	  - Code électoral - art. L52-8 (M)
+	  - Code électoral - art. L52-8 (V)
 
 
 ###### Article L52-18
@@ -6376,13 +6561,24 @@ sa candidature n'est pas enregistrée.
 Les déclarations de candidatures doivent être déposées, en double exemplaire, à la préfecture au plus tard vingt et un jours
 avant celui de l'ouverture du scrutin.
 
-Il est donné au déposant un reçu provisoire de déclaration.
+La déclaration de candidature est remise personnellement par le candidat ou son suppléant.
+
+Un reçu provisoire de déclaration est donné au déposant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
+	**Modifié par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 9 ()
 
 	**Cité par**:
 
@@ -6391,43 +6587,6 @@ Il est donné au déposant un reçu provisoire de déclaration.
 	  - Code électoral - art. L163 (M)
 	  - Code électoral - art. L330-5 (V)
 	  - Code électoral - art. R*100 (M)
-
-
-###### Article L158
-
-Chaque candidat doit verser entre les mains du trésorier-payeur général, agissant en qualité de préposé de la caisse des
-dépôts et consignations, un cautionnement de 1 000 F.
-
-Le cautionnement est remboursé aux candidats qui ont obtenu à l'un des deux tours 5 % des suffrages exprimés.
-
-Sont prescrits et acquis au Trésor public les cautionnements non réclamés dans le délai d'un an à dater de leur dépôt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-	**Cité par**:
-
-	  - Décret n°86-170 du 6 février 1986 - art. 12 (Ab)
-	  - Décret n°86-170 du 6 février 1986 - art. 5 (Ab)
-	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
-	  - Code électoral - art. L168 (V)
-	  - Code électoral - art. L178-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
-
-	**Abrogé par**:
-
-	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
 
 
 ###### Article L159
@@ -6661,19 +6820,10 @@ Les candidats désignent un mandataire qui participe aux travaux de cette commis
 ###### Article L167
 
 L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 166
-ainsi que celles qui résultent de leur fonctionnement.
+ainsi que celles qui résultent de leur fonctionnement. 
 
 En outre, il est remboursé aux candidats ayant obtenu au moins 5 % des suffrages exprimés le coût du papier, l'impression des
 bulletins de vote, affiches, circulaires ainsi que les frais d'affichage.
-
-Les autres dépenses électorales des candidats ayant obtenu au moins 5 p. 100 des suffrages exprimés au premier tour font
-l'objet d'un remboursement forfaitaire de la part de l'Etat égal au cinquième du plafond prévu à l'article L. 52-11.
-
-Ce remboursement ne peut excéder le montant des dépenses du candidat, retracées dans son compte de campagne.
-
-Le remboursement forfaitaire prévu à l'alinéa précédent n'est pas effectué aux candidats qui ne se sont pas conformés aux
-prescriptions des articles L. 52-11 et L. 52-12 et aux candidats élus qui n'ont pas déposé la déclaration prévue à l'article
-L.O. 135-1.
 
 **Liens relatifs à cet article**
 
@@ -6681,25 +6831,24 @@ L.O. 135-1.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - TXT_ASSOCIE: Code électoral - art. R39 (M)
+
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 12 ()
+	  - Loi n°95-65 du 19 janvier 1995 - art. 11 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L166 (V)
 
 	**Cité par**:
 
 	  - Code électoral - art. L168 (M)
 	  - Code électoral - art. L178-1 (M)
 	  - Code électoral - art. R174-4 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L52-11 (M)
-	  - Code électoral - art. L52-12 (M)
-	  - Code électoral L52-11, L52-12, L166 et LO135-1
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code électoral - art. R39 (M)
 
 
 ###### Article L167-1
@@ -8066,39 +8215,6 @@ documents de propagande électorale.
 	  - Code électoral - art. L217 (V)
 
 
-###### Article L213
-
-Chaque candidat, ou son représentant, en faisant la déclaration de candidature exigée pour bénéficier des dispositions de
-l'article L. 216 doit justifier avoir versé entre les mains du trésorier-payeur général, du receveur particulier des finances
-ou d'un comptable du Trésor, agissant en qualité de préposé de la caisse des dépôts et consignations, un cautionnement de 50
-F.
-
-Ce cautionnement est remboursé aux candidats qui ont recueilli au moins 5 % des suffrages exprimés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
-
-	**Abrogé par**:
-
-	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
-	  - Code électoral - art. L214 (Ab)
-	  - Code électoral - art. L216 (VD)
-	  - Code électoral - art. L328 (M)
-	  - Code électoral - art. L328-4 (M)
-
-
 ###### Article L214
 
 Sont prescrits et acquis au Trésor public, dans le délai d'un an à dater de leur dépôt, les cautionnements versés à la caisse
@@ -8925,37 +9041,6 @@ exigées pour bénéficier des moyens de propagande et qui ont obtenu au moins 5
 	**Cite**:
 
 	  - Code électoral - art. L242 (V)
-
-
-###### Article L244
-
-Dans les communes de 2 500 habitants et plus, un mandataire de chaque liste doit verser avant les élections, entre les mains
-du trésorier-payeur général ou du receveur municipal agissant en qualité de préposé de la caisse des dépôts et consignations,
-un cautionnement de 5 F par candidat.
-
-Le cautionnement est remboursé aux listes qui ont recueilli au moins 5 % des suffrages.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
-	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-
-	**Cité par**:
-
-	  - Ordonnance n°77-122 du 10 février 1977 - art. 11 (Ab)
-	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
-	  - Code électoral - art. L245 (Ab)
-	  - Code électoral - art. L273 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
 
 
 ###### Article L245
@@ -13277,47 +13362,6 @@ l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon dr
 	**Cite**:
 
 	  - Code électoral - art. L52-12 (M)
-
-
-#### Chapitre V : Déclarations de candidature
-
-###### Article L349
-
-Le candidat tête de liste ou son mandataire verse entre les mains du trésorier-payeur-général du département, agissant en
-qualité de préposé de la Caisse des dépôts et consignations, un cautionnement de 500 F par siège à pourvoir.
-
-Le récépissé de versement du cautionnement est joint à la déclaration de candidature.
-
-Le cautionnement est remboursé aux listes ayant obtenu au moins 5 % de suffrages exprimés.
-
-Sont prescrits et acquis au Trésor public les cautionnements, non réclamés dans le délai d'un an à dater de leur dépôt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-
-	**Modifié par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
-
-	**Cité par**:
-
-	  - Loi n°95-65 du 19 janvier 1995 - art. 8 (V)
-	  - Code électoral - art. L371 (Ab)
-	  - Code électoral - art. L372 (M)
 
 
 ### Titre II : Election des conseillers à l'Assemblée de Corse
