@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2000-03-07
+Version Consolidée au 2000-04-06
 
 # Partie législative
 
@@ -2015,14 +2015,18 @@ Les dépenses résultant des cartes électorales sont à la charge de l'Etat.
 
 ###### Article L44
 
-Tout Français et toute Française ayant vingt-trois ans accomplis peuvent faire acte de candidature et être élus, sous réserve
-des cas d'incapacité ou d'inéligibilité prévus par la loi.
+Tout Français et toute Française ayant la qualité d'électeur peut faire acte de candidature et être élu, sous réserve des cas
+d'incapacité ou d'inéligibilité prévus par la loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-295 du 5 avril 2000 - art. 1 ()
 
 	**Cité par**:
 
@@ -2070,21 +2074,22 @@ incompatibles avec les mandats qui font l'objet du livre I.
 
 ###### Article L46-1
 
-Nul ne peut cumuler plus de deux des mandats électoraux ou fonctions électives énumérés ci-après : représentant au parlement
-européen, conseiller régional, conseiller de Paris, maire d'une commune de 20 000 habitants ou plus, autre que Paris, adjoint
-au maire d'une commune de 100 000 habitants ou plus, autre que Paris.
+Nul ne peut cumuler plus de deux des mandats électoraux énumérés ci-après : conseiller régional, conseiller à l'Assemblée de
+Corse, conseiller général, conseiller de Paris, conseiller municipal.
 
-Quiconque se trouve dans ce cas doit faire cesser l'incompatibilité en démissionnant du mandat ou de la fonction de son
-choix. Il dispose à cet effet d'un délai de quinze jours à compter de la date de l'élection qui l'a mis en situation
+Quiconque se trouve dans ce cas doit faire cesser l'incompatibilité en démissionnant d'un des mandats qu'il détenait
+antérieurement. Il dispose à cet effet d'un délai de trente jours à compter de la date de l'élection qui l'a mis en situation
 d'incompatibilité ou, en cas de contestation, de la date à laquelle le jugement confirmant cette élection est devenu
-définitif. A défaut d'option dans le délai imparti, le mandat ou la fonction acquis ou renouvelé à la date la plus récente
-prend fin de plein droit.
+définitif. A défaut d'option ou en cas de démission du dernier mandat acquis dans le délai imparti, le mandat ou la fonction
+acquis ou renouvelé à la date la plus ancienne prend fin de plein droit.
 
-Pour l'application du présent article, la population prise en compte est celle résultant du dernier recensement national
-connu au moment du renouvellement du conseil municipal.
-
-Pour l'application des règles déterminées aux précédents alinéas, le mandat de conseiller à l'Assemblée de Corse est assimilé
-au mandat de conseiller régional.
+Par dérogation aux dispositions de l'alinéa précédent, quiconque se trouve placé en situation d'incompatibilité du fait de
+son élection comme membre d'un conseil municipal d'une commune à laquelle s'appliquent les dispositions du chapitre II du
+titre IV du livre Ier du présent code doit faire cesser cette incompatibilité en démissionnant du mandat de son choix. Il
+dispose à cet effet d'un délai de trente jours à compter de la proclamation de l'élection qui l'a placé en situation
+d'incompatibilité ou, en cas de contestation, de la date à laquelle la décision juridictionnelle confirmant cette élection
+est devenue définitive. A défaut d'option dans le délai imparti, il est réputé avoir renoncé au mandat acquis ou renouvelé à
+la date la plus ancienne.
 
 **Liens relatifs à cet article**
 
@@ -2116,7 +2121,7 @@ au mandat de conseiller régional.
 
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 8 () JORF 14 mai 1991
+	  - Loi n°2000-295 du 5 avril 2000 - art. 2 ()
 
 
 #### Chapitre V : Propagande
@@ -5758,8 +5763,13 @@ En cas d'égalité de suffrages, le plus âgé des candidats est élu.
 
 ###### Article LO127
 
-Tout citoyen qui a la qualité d'électeur peut être élu à l'Assemblée nationale dans les conditions et sous les réserves
-énoncées aux articles suivants.
+Tout citoyen qui a vingt-trois ans révolus et la qualité d'électeur peut être élu à l'Assemblée nationale dans les conditions
+et sous les réserves énoncées aux articles suivants.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
@@ -5771,6 +5781,10 @@ Tout citoyen qui a la qualité d'électeur peut être élu à l'Assemblée natio
 
 	  - Loi n°77-729 du 7 juillet 1977 - art. 5 (V)
 	  - Décret n°84-558 du 4 juillet 1984 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-294 du 5 avril 2000 - art. 1 () JORF 6 avril 2000
 
 
 ###### Article LO128
@@ -6220,6 +6234,29 @@ Il ne peut en aucun cas participer aux travaux de deux assemblées.
 	  - Code électoral - art. LO319 (VD)
 
 
+###### Article LO137-1
+
+Le mandat de député est incompatible avec celui de représentant au Parlement européen.
+
+Tout député élu membre du Parlement européen cesse de ce fait même d'exercer son mandat de parlementaire national. Toutefois,
+en cas de contestation, la vacance du siège n'est proclamée qu'après la décision juridictionnelle confirmant l'élection. En
+attendant cette décision, l'intéressé ne peut participer aux travaux de l'Assemblée nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°2000-294 du 5 avril 2000 - art. 2 ()
+
+	**Cité par**:
+
+	  - Code électoral - art. LO178 (VD)
+
+
 ###### Article LO138
 
 Toute personne ayant la qualité de remplaçant d'un député ou d'un sénateur perd cette qualité si elle est élue député.
@@ -6235,8 +6272,6 @@ Toute personne ayant la qualité de remplaçant d'un député ou d'un sénateur 
 
 Le mandat de député est incompatible avec la qualité de membre du conseil économique et social.
 
-Il est également incompatible avec l'exercice des fonctions de membre du Conseil du gouvernement d'un territoire d'outre-mer.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -6248,6 +6283,10 @@ Il est également incompatible avec l'exercice des fonctions de membre du Consei
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°2000-294 du 5 avril 2000 - art. 16 ()
 
 
 ###### Article LO140
@@ -6272,20 +6311,9 @@ la magistrature, l'exercice des fonctions de magistrat est incompatible avec l'e
 
 ###### Article LO141
 
-Le mandat de député est incompatible avec l'exercice de plus d'un des mandats électoraux ou fonctions électives énumérés ci-
-après :
-
-représentant à l'assemblée des communautés européennes, conseiller régional, conseiller à l'Assemblée de Corse conseiller
-général, conseiller de Paris, maire d'une commune de 20000 habitants ou plus autre que Paris, adjoint au maire d'une commune
-de 100000 habitants ou plus autre que Paris.
-
-Pour l'application du présent article, la population prise en compte est celle résultant du dernier recensement national
-connu au moment du renouvellement du conseil municipal.
-
-**Nota:**
-
-Loi n° 90-55 du 15 janvier 1990 JORF 16 janvier 1990 art. 17 : "Dans tous les textes législatifs et réglementaires, la
-référence à "l'Assemblée des communautés européennes" est remplacée par la référence au "Parlement européen" .
+Le mandat de député est incompatible avec l'exercice de plus d'un des mandats énumérés ci-après : conseiller régional,
+conseiller à l'Assemblée de Corse, conseiller général, conseiller de Paris, conseiller municipal d'une commune d'au moins 3
+500 habitants.
 
 **Liens relatifs à cet article**
 
@@ -6310,7 +6338,7 @@ référence à "l'Assemblée des communautés européennes" est remplacée par l
 
 	**Modifié par**:
 
-	  - Loi n°95-62 du 19 janvier 1995 - art. 10 () JORF 20 janvier 1995
+	  - Loi n°2000-294 du 5 avril 2000 - art. 3 ()
 
 
 ###### Article LO142
@@ -6592,32 +6620,32 @@ portées à un an d'emprisonnement et 50 000 F d'amende.
 
 ###### Article LO151
 
-Le député qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés au présent code doit, dans les deux
-mois qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du Conseil constitutionnel, se
-démettre des fonctions ou mandats incompatibles avec son mandat parlementaire ou, s'il est titulaire d'un emploi public,
-demander à être placé dans la position spéciale prévue par son statut.
+Le député qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés au présent code doit, dans les
+trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du Conseil
+constitutionnel, se démettre des fonctions ou mandats incompatibles avec son mandat parlementaire ou, s'il est titulaire d'un
+emploi public, demander à être placé dans la position spéciale prévue par son statut.
 
 A l'expiration du délai prévu au premier alinéa ci-dessus, le député qui se trouve dans un des cas d'incompatibilité visés à
 l'article L.O. 141 est déclaré démissionnaire d'office par le Conseil constitutionnel à la requête du bureau de l'Assemblée
 nationale ou du garde des sceaux, ministre de la justice.
 
-" Dans le délai prévu au premier alinéa ci-dessus, tout député est tenu de déposer sur le bureau de l'Assemblée nationale une
+Dans le délai prévu au premier alinéa ci-dessus, tout député est tenu de déposer sur le bureau de l'Assemblée nationale une
 déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
 général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
-déclarer, dans les mêmes formes, tout élément de nature à modifier sa déclaration initiale. "
+déclarer, dans les mêmes formes, tout élément de nature à modifier sa déclaration initiale.
 
 Le bureau examine si les activités ainsi déclarées sont compatibles avec le mandat parlementaire. S'il y a doute sur la
 compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le bureau de l'Assemblée nationale,
 le garde des sceaux, ministre de la Justice ou le député lui-même, saisit le Conseil constitutionnel qui apprécie
 souverainement si le député intéressé se trouve dans un cas d'incompatibilité.
 
-Dans l'affirmative, le député doit régulariser sa situation dans le délai de quinze jours à compter de la notification qui
+Dans l'affirmative, le député doit régulariser sa situation dans le délai de trente jours à compter de la notification qui
 lui est faite de la décision du Conseil constitutionnel. A défaut, le Conseil constitutionnel le déclare démissionnaire
 d'office de son mandat.
 
-" Le député qui n'a pas procédé à la déclaration prévue au troisième alinéa ou qui a méconnu les dispositions des articles
-L.O. 149 et L.O. 150 est déclaré démissionnaire d'office, sans délai, par le Conseil constitutionnel, à la requête du bureau
-de l'Assemblée nationale ou du garde des sceaux, ministre de la justice. "
+Le député qui n'a pas procédé à la déclaration prévue au troisième alinéa ou qui a méconnu les dispositions des articles L.O.
+149 et L.O. 150 est déclaré démissionnaire d'office, sans délai, par le Conseil constitutionnel, à la requête du bureau de
+l'Assemblée nationale ou du garde des sceaux, ministre de la justice.
 
 La démission d'office est aussitôt notifiée au président de l'Assemblée nationale. Elle n'entraîne pas d'inéligibilité.
 
@@ -6641,7 +6669,7 @@ La démission d'office est aussitôt notifiée au président de l'Assemblée nat
 
 	**Modifié par**:
 
-	  - Loi n°95-63 du 19 janvier 1995 - art. 6 ()
+	  - Loi n°2000-294 du 5 avril 2000 - art. 4 ()
 
 	**Cite**:
 
@@ -6652,12 +6680,11 @@ La démission d'office est aussitôt notifiée au président de l'Assemblée nat
 
 ###### Article LO151-1
 
-Tout député qui acquiert un mandat ou une fonction élective propre à le placer dans un des cas d'incompatibilité visés à
-l'article L.O. 141 postérieurement à son élection à l'Assemblée nationale dispose, pour démissionner du mandat ou de la
-fonction de son choix, d'un délai de quinze jours à compter de la date de l'élection qui l'a mis en situation
-d'incompatibilité ou, en cas de contestation, de la date à laquelle le jugement confirmant cette élection est devenu
-définitif. A défaut d'option dans le délai imparti, le mandat ou la fonction acquis ou renouvelé à la date la plus récente
-prend fin de plein droit.
+Tout député qui acquiert un mandat électoral propre à le placer dans un des cas d'incompatibilité visés à l'article LO 141
+postérieurement à son élection à l'Assemblée nationale dispose, pour démissionner du mandat de son choix, d'un délai de
+trente jours à compter de la date de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de contestation, de la
+date à laquelle le jugement confirmant cette élection est devenu définitif. A défaut d'option dans le délai imparti, le
+mandat acquis ou renouvelé à la date la plus récente prend fin de plein droit.
 
 Pour l'application du présent article, lorsque les élections législatives ou sénatoriales sont organisées le même jour que
 d'autres élections, ces dernières sont réputées postérieures quel que soit le moment de la proclamation des résultats.
@@ -6668,10 +6695,9 @@ d'autres élections, ces dernières sont réputées postérieures quel que soit 
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-1405 du 30 décembre 1985 - art. 2 () JORF 31 Décembre 1985 en vigueur le 16 mars 1986
-	  - Loi n°85-1405 du 30 décembre 1985 - art. 6 (V) JORF 31 Décembre 1985 en vigueur le 16 mars 1986
+	  - Loi n°2000-294 du 5 avril 2000 - art. 5 ()
 
 	**Cité par**:
 
@@ -7821,7 +7847,7 @@ candidats obtiennent le même nombre de suffrages, l'élection est acquise au pl
 
 ###### Article L194
 
-Nul ne peut être élu conseiller général s'il n'est âgé de vingt et un ans révolus.
+Nul ne peut être élu conseiller général s'il n'est âgé de dix-huit ans révolus.
 
 Sont éligibles au conseil général tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y être
 inscrits avant le jour de l'élection, qui sont domiciliés dans le département, et ceux qui, sans y être domiciliés, y sont
@@ -7830,6 +7856,10 @@ qu'ils devaient y être inscrits à ce jour, ou ont hérité depuis la même ép
 
 Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasser le quart du nombre total dont le conseil doit
 être composé.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -7844,6 +7874,10 @@ Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasse
 	  - Code électoral - art. L210-1 (VD)
 	  - Code électoral - art. L224-15 (VD)
 	  - Code électoral - art. L224-8 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2000-295 du 5 avril 2000 - art. 4 ()
 
 
 ###### Article L194-1
@@ -9168,11 +9202,11 @@ territorial  ;
 
 7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture  ;
 
-8° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
-directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional, les membres
-du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse, les directeurs
-généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité territoriale de Corse
-et de ses établissements publics ;
+8° Les directeurs de cabinet du président du conseil général et du président du conseil régional, les directeurs généraux,
+les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional, le
+directeur de cabinet du président de l'assemblée et le directeur de cabinet du président du conseil exécutif de Corse, les
+directeurs généraux, les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de la collectivité
+territoriale de Corse et de ses établissements publics ;.
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et
 ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
@@ -9211,7 +9245,7 @@ Les délais mentionnés aux alinéas ci-dessus ne sont pas opposables aux candid
 
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 83 () JORF 14 mai 1991
+	  - Loi n°2000-295 du 5 avril 2000 - art. 5 ()
 
 
 ###### Article L233
@@ -12170,11 +12204,10 @@ La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée à l
 Les dispositions organiques du titre II du livre Ier du présent code, à l'exception de l'article L.O. 119, sont applicables
 au député de Saint-Pierre-et-Miquelon.
 
+Pour l'application de l'article LO 141, le mandat de conseiller général de Saint-Pierre-et-Miquelon est assimilé au mandat de
+conseiller général d'un département.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral Titre II, livre I
 
 	**Codifié par**:
 
@@ -12182,8 +12215,12 @@ au député de Saint-Pierre-et-Miquelon.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
+	  - Loi n°2000-294 du 5 avril 2000 - art. 7 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L141 (Ab)
+	  - Code électoral - art. LO119 (M)
 
 
 #### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon.
@@ -12192,7 +12229,16 @@ au député de Saint-Pierre-et-Miquelon.
 
 Les articles L. 191, L. 192, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
+Pour l'application de l'article L. 46-1 du présent code, ainsi que de l'article 6-3 de la loi n° 77-729 du 7 juillet 1977
+relative à l'élection des représentants au Parlement européen, le mandat de conseiller général de Saint-Pierre-et-Miquelon
+est assimilé au mandat de conseiller général d'un département.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral l191, L192, L193, L210-1, L213, L221, L46-1
+	  - Loi n°77-729 du 7 juillet 1977 - art. 6-3 (M)
 
 	**Codifié par**:
 
@@ -12200,17 +12246,7 @@ Les articles L. 191, L. 192, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas appl
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 17 ()
-
-	**Cite**:
-
-	  - Code électoral - art. L191 (V)
-	  - Code électoral - art. L192 (M)
-	  - Code électoral - art. L193 (V)
-	  - Code électoral - art. L210-1 (M)
-	  - Code électoral - art. L213 (Ab)
-	  - Code électoral - art. L221 (M)
+	  - Loi n°2000-295 du 5 avril 2000 - art. 28 ()
 
 	**Anciens textes**:
 
@@ -12714,6 +12750,26 @@ du deuxième alinéa de l'article L. 125.
 	  - Code électoral - art. L125 (M)
 
 
+###### Article L334-7-1
+
+Pour l'application de l'article LO 141, le mandat de conseiller général de Mayotte est assimilé au mandat de conseiller d'un
+département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Loi n°2000-294 du 5 avril 2000 - art. 8 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L141 (Ab)
+
+
 ###### Article LO334-6-1
 
 Un député à l'Assemblée nationale est élu dans la collectivité territoriale de Mayotte.
@@ -12848,8 +12904,9 @@ l'article L. 52-11.
 
 ###### Article L334-12
 
-Le mandat de conseiller général de Mayotte est, pour l'application des articles L. 46-1 et L. 208 du présent code, assimilé
-au mandat de conseiller général d'un département.
+Pour l'application de l'article L. 46-1 du présent code, ainsi que de l'article 6-3 de la loi n° 77-729 du 7 juillet 1977
+relative à l'élection des représentants au Parlement européen, le mandat de conseiller général de Mayotte est assimilé au
+mandat de conseiller général d'un département.
 
 **Liens relatifs à cet article**
 
@@ -12857,23 +12914,18 @@ au mandat de conseiller général d'un département.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
+	  - Loi n°77-729 du 7 juillet 1977 - art. 6-3 (M)
+	  - Code électoral - art. L46-1 (M)
 
 	**Cité par**:
 
 	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code électoral - art. L208 (V)
-	  - Code électoral - art. L46-1 (M)
+	  - Loi n°2000-295 du 5 avril 2000 - art. 30 ()
 
 
 #### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Mayotte
@@ -13140,7 +13192,7 @@ d'être proclamés élus.
 
 ###### Article L339
 
-Nul ne peut être élu conseiller régional s'il n'est pas âgé de vingt et un ans révolus.
+Nul ne peut être élu conseiller régional s'il n'est âgé de dix-huit ans révolus.
 
 Sont éligibles au conseil régional tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y être
 inscrits avant le jour de l'élection, qui sont domiciliés dans la région ou ceux qui, sans y être domiciliés, y sont inscrits
@@ -13159,8 +13211,7 @@ devaient y être inscrits à ce jour.
 
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+	  - Loi n°2000-295 du 5 avril 2000 - art. 6 () JORF 6 avril 2000
 
 	**Cité par**:
 
