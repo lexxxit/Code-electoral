@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1997-05-22
 
 # Partie législative
 
@@ -15327,12 +15327,10 @@ par arrêté interministériel.
 
 ###### Article R34
 
-La commission de propagande reçoit du commissaire de la République les enveloppes nécessaires à l'expédition des circulaires
-et bulletins de vote et fait préparer leur libellé.
+La commission de propagande reçoit du préfet les enveloppes nécessaires à l'expédition des circulaires et bulletins de vote
+et fait préparer leur libellé.
 
 Elle est chargée :
-
-- de dresser la liste des imprimeurs agréés par elle pour procéder à l'impression des documents électoraux;
 
 - d'adresser, au plus tard le mercredi précédant le premier tour de scrutin et, en cas de ballottage, le jeudi précédant le
 second tour, à tous les électeurs de la circonscription, dans une même enveloppe fermée qui sera acheminée en franchise, une
@@ -15362,9 +15360,7 @@ aux mairies des bulletins de vote pour ces bureaux; elle n'en adresse pas aux é
 
 	**Modifié par**:
 
-	  - Décret n°69-746 1969-07-24 art. 2 JORF 26 juillet 1969
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-	  - Décret n°76-285 1976-03-26 art. 1 JORF 1er avril 1976
+	  - Décret n°97-503 du 21 mai 1997 - art. 2 ()
 
 
 ###### Article R35
@@ -15449,10 +15445,10 @@ Les justifications susvisées peuvent être produites par un mandataire du candi
 ###### Article R38
 
 Chaque candidat ou son mandataire ou le mandataire de chaque liste fait connaître au président de la commission, en déposant
-les justifications visées à l'article précédent, le nom de l'imprimeur choisi par lui sur la liste des imprimeurs agréés.
+les justifications visées à l'article précédent, le nom de l'imprimeur choisi par lui.
 
 Le président lui indique les caractéristiques et le nombre maximum des documents de chaque catégorie qu'il est autorisé à
-faire imprimer ainsi que les tarifs maxima d'impression et d'affichage fixés en application de l'article R. 39.
+faire imprimer ainsi que les tarifs maximaux d'impression et d'affichage fixés en application de l'article R. 39.
 
 Le mandataire du candidat ou de la liste doit remettre au président de la commission, avant une date limite fixée pour chaque
 tour de scrutin par arrêté préfectoral, les exemplaires imprimés de la circulaire ainsi qu'une quantité de bulletins au moins
@@ -15471,11 +15467,6 @@ Seuls les imprimés envoyés par la commission bénéficient des tarifs postaux 
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-	  - Décret n°81-280 1981-03-27 art. 3 JORF 28 MARS 1981
-
 	**Cité par**:
 
 	  - Décret n°79-160 du 28 février 1979 - art. 6 (V)
@@ -15483,6 +15474,10 @@ Seuls les imprimés envoyés par la commission bénéficient des tarifs postaux 
 	  - Code électoral - art. R125 (Ab)
 	  - Code électoral - art. R174 (V)
 	  - Code électoral - art. R174-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 2 ()
 
 	**Cite**:
 
@@ -17891,9 +17886,6 @@ articles L. 154 L. 155, l'indication des listes électorales sur lesquelles le c
 Les candidatures ne peuvent être retirées que jusqu'à la date limite fixée pour le dépôt des candidatures. Le retrait est
 enregistré comme la déclaration de candidature.
 
-Le cautionnement est remboursé au candidat qui se retire, sur présentation de l'accusé de réception de la déclaration de
-retrait délivré par le commissaire de la République.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -17902,7 +17894,7 @@ retrait délivré par le commissaire de la République.
 
 	**Modifié par**:
 
-	  - Décret n°87-71 1987-02-06 art. 2 JORF 7 février 1987
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
 
 
 ###### Article R*101
@@ -18256,37 +18248,6 @@ le juge de l'élection.
 	**Créé par**:
 
 	  - Décret n°89-80 du 8 février 1989 - art. 9 () JORF 10 février 1989 en vigueur le 1er mars 1989
-
-
-#### Chapitre V : Propagande
-
-###### Article R110
-
-Il n'est pas exigé de nouveau cautionnement de la part des candidats se représentant au second tour de scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°69-746 1969-07-24 art. 13 JORF 26 juillet 1969
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-
-	**Abrogé par**:
-
-	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
-	  - Code électoral - art. R*175 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code électoral - art. L217 (V)
 
 
 #### Chapitre VII : Opérations de vote
@@ -19797,18 +19758,18 @@ Les dispositions des articles R. 27 et R. 95 sont applicables.
 
 Il est institué au chef-lieu du département, trois semaines au moins avant la date des élections, une commission chargée :
 
-a) de dresser la liste des imprimeurs agréés par elle pour procéder à l'impression des documents électoraux;
+a) (abrogé)
 
 b) de fournir les enveloppes nécessaires à l'expédition des circulaires et bulletins de vote et de faire préparer leur
-libellé;
+libellé ;
 
 c) d'adresser, quatre jours au plus tard avant le scrutin, à tous les membres du collège électoral du département, titulaires
 ou suppléants, sous une même enveloppe fermée qui sera déposée à la poste et transportée en franchise, une circulaire
-accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats;
+accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats ;
 
 d) de mettre en place au lieu de l'élection et avant l'ouverture du scrutin les bulletins de vote de chaque candidat ou liste
-de candidats, en nombre au moins égal au nombre des membres du collège électoral; la surveillance des bulletins est assurée
-par un employé désigné par la commission;
+de candidats, en nombre au moins égal au nombre des membres du collège électoral ; la surveillance des bulletins est assurée
+par un employé désigné par la commission ;
 
 e) dans les départements où fonctionne le scrutin majoritaire, de mettre en place pour le deuxième tour de scrutin un nombre
 de bulletins en blanc correspondant au nombre d'électeurs inscrits et au nombre de candidats en présence.
@@ -19821,7 +19782,7 @@ de bulletins en blanc correspondant au nombre d'électeurs inscrits et au nombre
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°97-503 du 21 mai 1997 - art. 2 ()
 
 	**Cité par**:
 
@@ -19877,9 +19838,8 @@ Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
 
 Chaque candidat ou chaque liste de candidats désireux de bénéficier des dispositions prévues à l'article L. 308 (3e alinéa)
 et à l'article R. 157 doit présenter sa demande au président de la commission visée aux articles précédents, accompagnée du
-récépissé définitif délivré par la préfecture et du récépissé attestant qu'il a déposé un cautionnement de 200 F entre les
-mains du trésorier-payeur général. Le président indique aux candidats le nombre maximum de documents de chaque catégorie
-qu'ils sont autorisés à faire imprimer.
+récépissé définitif délivré par la préfecture. Le président indique aux candidats le nombre maximal de documents de chaque
+catégorie qu'ils sont autorisés à faire imprimer.
 
 Les candidats doivent remettre au président de la commission les exemplaires de la circulaire et une quantité de bulletins au
 moins égale au double du nombre des électeurs inscrits, six jours au plus tard avant la date du scrutin.
@@ -19895,7 +19855,7 @@ les imprimés envoyés par la commission pourront bénéficier de tarifs postaux
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
 
 	**Cite**:
 
@@ -19906,10 +19866,7 @@ les imprimés envoyés par la commission pourront bénéficier de tarifs postaux
 ###### Article R*160
 
 Les frais d'impression exposés par les candidats seront remboursés sur présentation des pièces justificatives aux candidats
-ou aux listes de candidats qui auront recueilli le nombre de voix prévu à l'article L. 308. Le cautionnement leur sera
-également restitué. Seront prescrits et acquis au Trésor public dans le délai d'un an à dater de leur dépôt, les
-cautionnements versés entre les mains du trésorier-payeur général agissant en qualité de préposé de la caisse des dépôts et
-consignations.
+ou aux listes de candidats qui auront recueilli le nombre de voix prévu à l'article L. 308.
 
 **Liens relatifs à cet article**
 
@@ -19919,7 +19876,7 @@ consignations.
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
 
 	**Cite**:
 
@@ -20334,9 +20291,7 @@ Saint-Pierre-et-Miquelon.
 
 ###### Article R*175
 
-Les dispositions de l'article R. 110 et celles du chapitre IX du titre III du livre Ier du présent code (partie
-Réglementaire) sont applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-
-Miquelon.
+Il n'est pas exigé de nouveau cautionnement de la part des candidats se représentant au second tour de scrutin.
 
 Pour l'application des dispositions du chapitre IX du titre III du livre Ier (partie Réglementaire) il y a lieu de lire :
 
@@ -20352,13 +20307,12 @@ sous-préfecture ou de la préfecture".
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code électoral - art. R110 (Ab)
 	  - Code électoral - art. R113 (M)
 	  - Code électoral - art. R116 (M)
 
