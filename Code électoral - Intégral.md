@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1979-07-17
+Version Consolidée au 1980-07-09
 
 # Partie législative
 
@@ -2348,6 +2348,50 @@ a eu pour but et pour conséquence de porter atteinte à la sincérité du scrut
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+
+###### Article L67
+
+Tout candidat ou son représentant dûment désigné a le droit de contrôler toutes les opérations de vote, de dépouillement des
+bulletins et de décompte des voix, dans tous les locaux où s'effectuent ces opérations, ainsi que d'exiger l'inscription au
+procès-verbal de toutes observations, protestations ou contestations sur lesdites opérations, soit avant la proclamation du
+scrutin, soit après.
+
+Les modalités d'application du présent article sont déterminées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°61-923 du 3 août 1961 - art. 23 (Ab)
+	  - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 27 (Ab)
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-10 (V)
+	  - Loi n°82-1061 du 17 décembre 1982 - art. 29 (Ab)
+	  - Décret n°87-797 du 25 septembre 1987 - art. 10 (V)
+	  - Décret n°88-943 du 5 octobre 1988 - art. 2 (V)
+	  - Décret n°92-770 du 6 août 1992 - art. 8 (V)
+	  - Décret n°92-771 du 6 août 1992 - art. 9 (V)
+	  - Arrêté du 29 avril 1996 - art. 13 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 27 (V)
+	  - Décret n°2000-666 du 18 juillet 2000 - art. 9 (V)
+	  - Loi n°2003-486 du 10 juin 2003 - art. 13 (V)
+	  - Décret n°2005-237 du 17 mars 2005 - art. 9 (V)
+	  - Code de l'environnement - art. L123-29 (V)
+	  - Code de la sécurité sociale. - art. L214-12 (Ab)
+	  - Code du travail - art. L1441-33 (VT)
+	  - Code du travail - art. L2122-10-8 (V)
+	  - Code du travail - art. L513-9 (AbD)
+	  - Code rural et de la pêche maritime - art. L723-24 (VD)
+	  - Code électoral - art. R47 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. R47 (V)
 
 
 ###### Article L68
@@ -6083,8 +6127,12 @@ propagande électorale, en dehors des conditions fixées par les dispositions en
 
 Dans les circonscriptions électorales, des commissions, dans lesquelles sont obligatoirement représentés les candidats
 remplissant les conditions exigées pour bénéficier des moyens de propagande et dont la composition et le fonctionnement sont
-fixés par le règlement d'administration publique prévu à l'article L. 217, sont chargées d'assurer l'envoi et la distribution
-des documents de propagande électorale.
+fixés par le décret en Conseil d'Etat prévu à l'article L. 217, sont chargées d'assurer l'envoi et la distribution des
+documents de propagande électorale.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -6099,7 +6147,7 @@ des documents de propagande électorale.
 
 	**Cite**:
 
-	  - Code électoral - art. L217 (M)
+	  - Code électoral - art. L217 (V)
 
 
 ###### Article L213
@@ -6190,7 +6238,7 @@ moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
 
 ###### Article L217
 
-Un règlement d'administration publique détermine les conditions d'application des articles du présent chapitre.
+Un décret en Conseil d'Etat détermine les conditions d'application des articles du présent chapitre.
 
 **Liens relatifs à cet article**
 
