@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1971-07-18
+Version Consolidée au 1973-01-03
 
 # Partie législative
 
@@ -2640,6 +2640,58 @@ budget annexe des postes et télécommunications les sommes dont celui-ci a fait
 	**Abrogé par**:
 
 	  - Loi n°75-1329 du 31 décembre 1975, v. init.
+
+
+##### Section 5 : Commissions de contrôle des opérations de vote
+
+###### Article L85-1
+
+Dans les départements comptant une ou des communes de plus de 30 000 habitants, il est institué une ou plusieurs commissions
+chargées, dans ces communes, de veiller à la régularité de la composition des bureaux de vote ainsi qu'à celle des opérations
+de vote, de dépouillement des bulletins et de dénombrement des suffrages et de garantir aux électeurs ainsi qu'aux candidats
+ou listes en présence le libre exercice de leurs droits.
+
+La commission est obligatoirement présidée par un magistrat de l'ordre judiciaire. Elle peut s'adjoindre des délégués choisis
+parmi les électeurs du département.
+
+Son président, ses membres et ses délégués procèdent à tous contrôles et vérifications utiles. Ils ont accès à tout moment
+aux bureaux de vote et peuvent exiger l'inscription de toutes observations au procès-verbal, soit avant la proclamation des
+résultats du scrutin, soit après.
+
+Les maires et les présidents de bureau de vote sont tenus de fournir tous les renseignements et de communiquer tous les
+documents nécessaires à l'exercice de cette mission.
+
+A l'issue de chaque tour de scrutin, la commission dresse, s'il y a lieu, un rapport qui est adressé à la préfecture et joint
+au procès-verbal des opérations de vote.
+
+La composition ainsi que les conditions de désignation et de fonctionnement des commissions instituées en application du
+présent article sont fixées par décret en Conseil d'État.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°73-2 1973-01-02 art. 1 JORF 3 janvier 1973
+
+	**Cité par**:
+
+	  - Décret n°80-274 du 15 avril 1980 - art. 1 (V)
+	  - Loi n°82-214 du 2 mars 1982 - art. 23 (Ab)
+	  - Loi n°85-892 du 23 août 1985 - art. 14 (Ab)
+	  - Arrêté du 19 janvier 1996 - art. 3 (V)
+	  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (VD)
+	  - Code de l'environnement - art. L123-29 (V)
+	  - Code général des collectivités territoriales - art. LO1112-12 (VD)
+	  - Code électoral - art. L330 (V)
+	  - Code électoral - art. L558-46 (VD)
+	  - Code électoral - art. L562 (VD)
+	  - Code électoral - art. R93-1 (V)
+	  - Code électoral - art. R93-3 (V)
 
 
 #### Chapitre VII : Dispositions pénales
