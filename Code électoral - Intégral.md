@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1998-07-31
+Version Consolidée au 1998-08-22
 
 # Partie législative
 
@@ -4210,6 +4210,10 @@ Le ou la mandataire doit jouir de ses droits électoraux et être inscrit dans l
 	  - Loi n°76-97 du 31 janvier 1976 - art. 13 (V)
 	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
 	  - Code de commerce. - art. R927-4 (T)
+
+	**Modifié par**:
+
+	  - Décret n°98-733 du 20 août 1998 - art. 30 () JORF 22 août 1998
 
 
 ###### Article L73
@@ -12084,6 +12088,112 @@ Les dispositions des articles L. 106 à L. 110 et L. 113 à L. 117 sont applicab
 
 	  - Code électoral - art. L106 (V)
 	  - Code électoral - art. L113 (V)
+
+
+## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à la collectivité territoriale de Mayotte
+
+### Titre II : Dispositions particulières à la collectivité territoriale de Mayotte
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Mayotte
+
+###### Article L334-12
+
+Le mandat de conseiller général de Mayotte est, pour l'application des articles L. 46-1 et L. 208 du présent code, assimilé
+au mandat de conseiller général d'un département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
+
+	**Cite**:
+
+	  - Code électoral - art. L208 (V)
+	  - Code électoral - art. L46-1 (M)
+
+
+#### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Mayotte
+
+###### Article L334-13
+
+Les dispositions du titre IV du livre Ier du présent code sont applicables à Mayotte, à l'exception des quatrième, cinquième
+et sixième alinéas de l'article L. 238 et du premier alinéa de l'article L. 256.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 19 (Ab)
+	  - ordonnance 98-730 1998-08-20 art. 19, art. 21 jorf 22 août 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. L238 (M)
+	  - Code électoral - art. L256 (V)
+
+
+## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte
+
+### Titre II : Dispositions particulières à Mayotte
+
+#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte
+
+###### Article L334-15
+
+Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Mayotte, à l'exclusion de l'article
+L. 280.
+
+Le renouvellement du mandat de sénateur de Mayotte a lieu à l a même date que celui des sénateurs de la série C prévue à
+l'article LO 276 du code électoral.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
+
+	**Cite**:
+
+	  - Code électoral - art. L280 (M)
 
 
 ## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
