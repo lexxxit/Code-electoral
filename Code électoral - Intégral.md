@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1983-01-28
+Version Consolidée au 1983-02-19
 
 # Partie législative
 
@@ -9092,15 +9092,22 @@ de la commission administrative.
 
 ###### Article R*12
 
-Si le commissaire de la République estime que les formalités et les délais prescrits n'ont pas été observés, il doit, dans
-les deux jours de la réception du tableau, déférer les opérations de la commission administrative au tribunal administratif
-qui statuera dns les trois jours et fixera, s'il y a lieu, le délai dans lequel les opérations annulées devront être
-refaites.
+Si le préfet estime que les formalités et les délais prescrits n'ont pas été observés, il doit, dans les deux jours de la
+réception du tableau, déférer les opérations de la commission administrative au tribunal administratif qui statuera dans les
+trois jours et fixera, s'il y a lieu, le délai dans lequel les opérations annulées devront être refaites.
 
-Le commissaire de la République qui défère les opérations de révision au tribunal administratif doit en aviser immédiatement
-le tribunal d'instance compétent.
+Le préfet qui défère les opérations de révision au tribunal administratif doit en aviser immédiatement le tribunal d'instance
+compétent.
+
+Le délai d'appel contre le jugement du tribunal administratif est de dix jours. Il court contre toute partie à l'instance à
+compter du jour de la notification du jugement à cette partie, sans que puissent être appliquées les dispositions du premier
+alinéa de l'article 50 de l'ordonnance du 31 juillet 1945 relative aux délais de distance.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 50 (Ab)
 
 	**Codifié par**:
 
@@ -9108,8 +9115,7 @@ le tribunal d'instance compétent.
 
 	**Modifié par**:
 
-	  - Décret n°69-747 1969-07-24 art. 5 JORF 26 juillet 1969
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°83-107 1983-02-18 art. 1 JORF 19 FEVRIER 1983
 
 	**Cité par**:
 
