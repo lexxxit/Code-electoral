@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1986-07-12
+Version Consolidée au 1986-08-14
 
 # Partie législative
 
@@ -8758,7 +8758,7 @@ L. 240, L. 241, L. 244 et L. 256.
 
 ###### Article LO274
 
-Le nombre des sénateurs est de trois cent seize pour les départements.
+Le nombre de sénateurs élus dans les départements est de trois cent quatre.
 
 **Liens relatifs à cet article**
 
@@ -8766,10 +8766,9 @@ Le nombre des sénateurs est de trois cent seize pour les départements.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi organique 76-98 1976-01-31 art. 2 JORF 1er février 1976
-	  - Loi organique 76-643 1976-07-16 art. 1 JORF 17 juillet 1976
+	  - TXT_ASSOCIE: Loi n°64-1084 1964-10-24
 
 	**Cité par**:
 
@@ -8777,9 +8776,9 @@ Le nombre des sénateurs est de trois cent seize pour les départements.
 	  - Code électoral - art. LO334-2 (Ab)
 	  - Code électoral - art. LO438-2 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Loi n°64-1084 1964-10-24
+	  - Loi organique 86-957 1986-08-13 art. 3 JORF 14 août 1986
 
 
 ###### Article LO275
@@ -9869,35 +9868,6 @@ Les dispositions des articles L. 106 à L. 110 et L. 113 à L. 117 sont applicab
 
 ## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
 
-###### Article L328
-
-Les articles L. 191, L. 192, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral l191, l192, l193, l210-1, l213, l221
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 JUIN 1985
-	  - Loi n°85-595 du 11 juin 1985 - art. 45 () JORF 14 JUIN 1985
-
-	**Transféré par**:
-
-	  - Loi n°86-958 1986-08-13 art. 1 JORF 14 août 1986
-
-	**Nouveaux textes**:
-
-	  - Code électoral - art. L328-4 (Ab)
-	  - Code électoral - art. L328-4 (M)
-
-
 ###### Article L329
 
 Le conseil général de Saint-Pierre-et-Miquelon est composé de dix-neuf membres. La collectivité territoriale est divisée en
@@ -10171,6 +10141,185 @@ peuvent être appliquées qu'au cas où le conseil général a perdu la moitié 
 	  - Code électoral - art. L328-4 (Ab)
 	  - Code électoral - art. L333-4 (Ab)
 	  - Code électoral - art. R174-1 (Ab)
+
+
+### Chapitre Ier : Dispositions communes
+
+###### Article L328
+
+Les dispositions du titre Ier du livre Ier du présent code sont applicables dans la collectivité territoriale de Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code électoral Titre I, livre I
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°86-958 1986-08-13 art. 1 JORF 14 août 1986
+
+	**Nouveaux textes**:
+
+	  - Code électoral - art. L328-4 (Ab)
+
+
+###### Article LO328-1
+
+Pour l'application du présent code à la collectivité territoriale de Saint-Pierre-et-Miquelon, il y a lieu de lire :
+
+1° "collectivité territoriale" au lieu de "département" ;
+
+2° "représentant de l'Etat" et : "services du représentant de l'Etat", au lieu de : "préfet" et "préfecture" ;
+
+3° "tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°86-958 1986-08-13 art. 1 JORF 14 août 1986
+
+	**Créé par**:
+
+	  - Loi organique 86-957 1986-08-13 art. 1 JORF 14 août 1986
+
+
+### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article L328-3
+
+Les dispositions du titre II du Livre Ier du présent code sont applicables à l'élection du député de Saint-Pierre-et-
+Miquelon.
+
+Celui-ci est élu dans les conditions fixées pour l'élection des députés au scrutin uninominal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°86-958 1986-08-13 art. 5 JORF 14 août 1986
+
+
+###### Article LO328-2
+
+La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée à l'Assemblée nationale par un député.
+
+Les dispositions organiques du titre II du livre Ier du présent code, à l'exception de l'article L.O. 119, sont applicables
+au député de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°86-958 1986-08-13 art. 4 JORF 14 août 1986
+
+	**Créé par**:
+
+	  - Loi organique 86-957 1986-08-13 art. 2 JORF 14 août 1986
+
+	**Cite**:
+
+	  - Code électoral - art. LO119 (M)
+
+
+### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article L328-4
+
+Les articles L. 191, L. 192, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°86-958 1986-08-13 art. 1 JORF 14 août 1986
+
+	**Anciens textes**:
+
+	  - Code électoral - art. L328 (M)
+	  - Code électoral - art. L328 (T)
+
+	**Cite**:
+
+	  - Code électoral l191, l192, l193, l210-1, l213, l221
+
+
+### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article L334-1
+
+Les dispositions du titre IV du livre Ier du présent code, à l'exception de son chapitre IV, sont applicables à l'élection
+des conseillers municipaux des communes de la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°86-958 1986-08-13 art. 7 JORF 14 août 1986
+
+
+### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article L334-3
+
+Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon.
+
+Le renouvellement du mandat du sénateur de Saint-Pierre-et-Miquelon a lieu à la même date que celui du mandat des sénateurs
+de la série C mentionnée à l'article L.O. 276 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Loi n°86-958 1986-08-13 art. 7 JORF 14 août 1986
+
+
+###### Article LO334-2
+
+La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée au Sénat par un sénateur.
+
+Les dispositions organiques du livre II du présent code, à l'exception de l'article L.O. 274, sont applicables à l'élection
+du sénateur de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi organique 86-957 1986-08-13 art. 7 JORF 14 août 1986
 
 
 ## Livre IV : Election des conseillers régionaux
