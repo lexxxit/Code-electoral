@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1989-02-10
+Version Consolidée au 1989-03-01
 
 # Partie législative
 
@@ -7277,8 +7277,20 @@ soit sur la réclamation de tout électeur.
 
 ###### Article L210-1
 
-Tout candidat à l'élection au conseil général doit obligatoirement souscrire une déclaration de candidature dans les
-conditions prévues par le règlement d'administration publique visé à l'article L. 217.
+Tout candidat à l'élection au conseil général doit obligatoirement, avant le premier tour, souscrire une déclaration de
+candidature dans les conditions prévues par un décret en Conseil d'Etat.
+
+A cette déclaration sont jointes les pièces propres à prouver que le candidat répond aux conditions d'éligibilité prévues par
+l'article L. 194.
+
+Si la déclaration de candidature n'est pas accompagnée des pièces mentionnées au deuxième alinéa ou si ces pièces
+n'établissent pas que le candidat répond aux conditions d'éligibilité prévues par l'article L. 194, elle n'est pas
+enregistrée.
+
+Le candidat qui s'est vu opposer un refus d'enregistrement dispose de vingt-quatre heures pour saisir le tribunal
+administratif qui statue sous trois jours.
+
+Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature doit être enregistrée.
 
 Nul ne peut être candidat au deuxième tour s'il ne s'est présenté au premier tour et s'il n'a obtenu un nombre de suffrages
 au moins égal à 10 % du nombre des électeurs inscrits.
@@ -7295,17 +7307,9 @@ premier tour peuvent se maintenir au second.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
-
-	  - Loi n°69-419 1969-05-10 art. 19 JORF 11 mai 1969
-
 	**Modifié par**:
 
-	  - Loi n°76-665 1976-07-19 art. 2 JORF 30 juillet 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+	  - Loi n°88-1262 du 30 décembre 1988 - art. 28 () JORF 4 janvier 1989 en vigueur le 1er mars 1989
 
 	**Cité par**:
 
@@ -7317,7 +7321,7 @@ premier tour peuvent se maintenir au second.
 
 	**Cite**:
 
-	  - Code électoral - art. L217 (M)
+	  - Code électoral L194 et L217
 
 
 #### Chapitre V : Propagande
@@ -15949,6 +15953,60 @@ pour le dépôt éventuel de candidatures nouvelles; ce délai est clos le jeudi
 	**Cité par**:
 
 	  - Code électoral - art. R174-1 (Ab)
+
+
+###### Article R109-2
+
+Chaque candidat doit fournir à l'appui de sa déclaration de candidature :
+
+I. - Une attestation d'inscription sur une liste électorale délivrée par le maire de la commune d'inscription dans les trente
+jours précédant le dépôt de la candidature, ou une copie certifiée conforme de la décision de justice ordonnant l'inscription
+de l'intéressé, ou, à défaut, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un
+bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois ;
+
+II. - 1. S'il est domicilié dans le département : une attestation de domicile délivrée dans les trente jours précédant le
+dépôt de la candidature par le maire de la commune où est situé ce domicile ;
+
+2. S'il n'est pas domicilié dans le département :
+
+a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établissent que l'intéressé est
+inscrit au rôle des contributions directes d'une commune du département au 1er janvier de l'année de l'élection ;
+
+b) Soit une copie certifiée conforme d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle
+de l'élection, propriétaire ou locataire d'un immeuble dans le département ou d'un acte enregistré au cours de la même année
+établissant que l'intéressé est devenu locataire d'un immeuble dans le département ;
+
+c) Soit une attestation notariée établissant que l'intéressé est devenu propriétaire par voie successorale d'une propriété
+foncière dans le département depuis le 1er janvier de l'année de l'élection ;
+
+d) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
+précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont
+l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
+dans le département au 1er janvier de l'année de l'élection.
+
+En outre, s'il n'est pas maire, conseiller général, conseiller régional, député ou sénateur, le candidat doit produire un
+titre d'identité ou, à défaut, une fiche d'état civil établissant qu'il aura vingt et un ans révolus le jour de l'élection.
+
+La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant
+le juge de l'élection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 3 (V)
+	  - Code électoral - art. R174-1 (Ab)
+	  - Code électoral - art. R183 (V)
+	  - Code électoral - art. R191 (V)
+	  - Code électoral - art. R351 (V)
+
+	**Créé par**:
+
+	  - Décret n°89-80 du 8 février 1989 - art. 9 () JORF 10 février 1989 en vigueur le 1er mars 1989
 
 
 #### Chapitre V : Propagande
