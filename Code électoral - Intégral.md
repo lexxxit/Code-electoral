@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1983-02-19
+Version Consolidée au 1983-03-13
 
 # Partie législative
 
@@ -687,6 +687,46 @@ l'inscription sur les listes électorales.
 	  - Code électoral - art. R1 (V)
 	  - Code électoral - art. R3 (V)
 	  - Code électoral - art. R4 (V)
+	  - Code électoral - art. R5 (V)
+
+
+###### Article L12
+
+Les Français et les Françaises établis hors de France et immatriculés au consulat de France peuvent, sur leur demande, être
+inscrits sur la liste électorale de l'une des communes suivantes :
+
+commune de naissance ;
+
+commune de leur dernier domicile ;
+
+commune de leur dernière résidence, à condition que cette résidence ait été de six mois au moins ;
+
+commune où est né, est inscrit ou a été inscrit sur la liste électorale un de leurs ascendants ;
+
+commune sur la liste électorale de laquelle est inscrit un de leurs descendants au premier degré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°72-1071 1972-12-04 art. 1 JORF 5 décembre 1972
+	  - Loi n°77-805 du 19 juillet 1977 - art. 1 () JORF 20 juillet 1977
+	  - Loi n°82-974 1982-11-19 art. 6 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Arrêté du 16 octobre 2006 - art. 6 (V)
+	  - Arrêté du 28 février 2007 - art. 6 (V)
+	  - Code général des collectivités territoriales - art. L2223-3 (VD)
+	  - Code électoral - art. L13 (V)
+	  - Code électoral - art. L18 (VD)
+	  - Code électoral - art. L31 (VD)
+	  - Code électoral - art. R*1 (M)
+	  - Code électoral - art. R176-1-8 (V)
 	  - Code électoral - art. R5 (V)
 
 
@@ -2975,6 +3015,37 @@ Le ou la mandataire doit jouir de ses droits électoraux et être inscrit dans l
 	  - Loi n°76-97 du 31 janvier 1976 - art. 13 (V)
 	  - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
 	  - Code de commerce. - art. R927-4 (T)
+
+
+###### Article L73
+
+Chaque mandataire ne peut disposer de plus de deux procurations.
+
+Si plus de deux procurations ont été établies au nom d'un même mandataire celles qui ont été dressées les premières sont
+seules valables ; la ou les autres sont nulles de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°61-923 du 3 août 1961 - art. 21 (Ab)
+	  - Loi n°76-97 du 31 janvier 1976 - art. 13 (V)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 40 (Ab)
+	  - Loi n°85-892 du 23 août 1985 - art. 10 (Ab)
+	  - Loi n°87-369 du 5 juin 1987 - art. 13 (V)
+	  - Loi n°2013-659 du 22 juillet 2013 - art. 15 (V)
+	  - Code électoral - art. L330-13 (V)
+	  - Code électoral - art. R77 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°75-1329 1975-12-31 art. 6 JORF 1er janvier 1976
+	  - Loi n°77-805 du 19 juillet 1977 - art. 2 () JORF 20 juillet 1977
+	  - Loi n°82-974 1982-11-19 art. 8 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
 
 
 ###### Article L74
@@ -6940,6 +7011,51 @@ intégralement au mois de mars à une date fixée au moins trois mois auparavant
 
 ##### Section 2 : Conditions d'éligibilité et inéligibilités
 
+###### Article L228
+
+Nul ne peut être élu conseiller municipal s'il n'est âgé de dix-huit ans révolus. 
+
+Sont éligibles au conseil municipal tous les électeurs de la commune et les citoyens inscrits au rôle des contributions
+directes ou justifiant qu'ils devaient y être inscrits au 1er janvier de l'année de l'élection. 
+
+Toutefois, dans les communes de plus de 500 habitants, le nombre des conseillers qui ne résident pas dans la commune au
+moment de l'élection ne peut excéder le quart des membres du conseil. 
+
+Dans les communes de 500 habitants au plus, ce nombre ne peut excéder quatre pour les conseils municipaux comportant neuf
+membres et cinq pour les conseils municipaux comportant onze membres. 
+
+Si les chiffres visés ci-dessus sont dépassés, la préférence est déterminée suivant les règles posées à l'article R 121-11 du
+code des communes.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°76-665 1976-07-19 art. 3 JORF 20 juillet 1976
+	  - Loi n°82-974 1982-11-19 art. 11 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cite**:
+
+	  - Code des communes - art. R*121-11 (Ab)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5211-7 (VD)
+	  - Code électoral - art. L255-4 (VD)
+	  - Code électoral - art. L265 (V)
+
+
 ###### Article L229
 
 Les députés et les sénateurs sont éligibles dans toutes les communes du département où ils ont été candidats.
@@ -6990,6 +7106,69 @@ même mandat antérieurement à sa nomination.
 	**Créé par**:
 
 	  - Loi n°73-6 du 3 janvier 1973 - art. 5 () JORF 4 janvier 1973
+
+
+###### Article L231
+
+Ne sont pas éligibles dans le ressort où ils exercent leurs fonctions :
+
+1° les commissaires et commissaires-adjoints de la République et les secrétaires généraux ;
+
+2° les magistrats des cours d'appel ;
+
+3° les membres des tribunaux administratifs et des chambres régionales des comptes ;
+
+4° les magistrats des tribunaux de grande instance et d'instance ;
+
+5° les fonctionnaires des corps actifs de police ;
+
+6° les comptables des deniers communaux et les entrepreneurs de services municipaux ;
+
+7° les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
+
+7° bis les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général
+et de conseil régional ;
+
+8° en tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs en chef adjoints et
+ingénieurs des ponts et chaussées, les ingénieurs divisionnaires et ingénieurs des travaux publics de l'État, les chefs de
+section principaux et chefs de section des travaux publics de l'État ;
+
+9° les agents salariés de la commune, parmi lesquels ne sont pas compris ceux qui, étant fonctionnaires publics ou exerçant
+une profession indépendante, ne reçoivent une indemnité de la commune qu'à raison des services qu'ils lui rendent dans
+l'exercice de cette profession.
+
+**Nota:**
+
+NOTA : pour l'application du 7° du présent article à la collectivité territoriale de Mayotte, voir l'ordonnance 122 du 10
+février 1977, article 5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°77-122 du 10 février 1977 - art. 5 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°77-122 du 10 février 1977 - art. 5 (MMN)
+	  - Loi n°83-597 du 7 juillet 1983 - art. 8 (Ab)
+	  - Loi n°2002-276 du 27 février 2002 - art. 156 (M)
+	  - Loi n°2009-1572 du 17 décembre 2009 - art. 21 (V)
+	  - Code de commerce - art. L711-17 (V)
+	  - Code général des collectivités territoriales - art. L1524-5 (V)
+	  - Code général des collectivités territoriales - art. L1862-1 (V)
+	  - Code électoral - art. L236 (M)
+	  - Code électoral - art. L428 (VD)
+	  - Code électoral - art. L437 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 86 () JORF 3 mars 1982
+	  - Loi n°82-974 1982-11-19 art. 13 JORF 20 novembre 1982 en vigueur le 13 mars 1983
 
 
 ###### Article L232
@@ -7077,6 +7256,85 @@ Conseil d'État conformément aux articles L. 249 et L. 250.
 
 
 ##### Section 3 : Incompatibilités
+
+###### Article L237
+
+Les fonctions de conseiller municipal sont incompatibles avec celles :
+
+1° De commissaire ou commissaire-adjoint de la République et de secrétaire général de préfecture ;
+
+2° De fonctionnaire des corps actifs de police appartenant aux corps des commandants et officiers de paix, des inspecteurs de
+police et des commissaires de police.
+
+Les personnes désignées à l'article L. 46 et au présent article qui seraient élues membres d'un conseil municipal auront, à
+partir de la proclamation du résultat du scrutin, un délai de dix jours pour opter entre l'acceptation du mandat et la
+conservation de leur emploi. A défaut de déclaration adressée dans ce délai à leurs supérieurs hiérarchiques, elles seront
+réputées avoir opté pour la conservation dudit emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 12 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Code électoral - art. L239 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L46 (V)
+
+
+###### Article L238
+
+Nul ne peut être membre de plusieurs conseils municipaux.
+
+Un délai de dix jours, à partir de la proclamation du résultat du scrutin, est accordé au conseiller municipal élu dans
+plusieurs communes pour faire sa déclaration d'option. Cette déclaration est adressée aux commissaires de la République des
+départements intéressés.
+
+Si, dans ce délai, le conseiller élu n'a pas fait connaître son option, il fait partie de droit du conseil de la commune où
+le nombre des électeurs est le moins élevé.
+
+Dans les communes de plus de 500 habitants, les ascendants et les descendants, les frères et soeurs ne peuvent être
+simultanément membres du même conseil municipal.
+
+Toutefois, dans les communes où les membres des conseils municipaux sont élus par secteur, les personnes mentionnées au
+quatrième alinéa ci-dessus peuvent être membres d'un même conseil municipal lorsqu'elles ont été élues dans des secteurs
+électoraux différents.
+
+L'ordre du tableau est applicable aux cas prévus au quatrième alinéa ci-dessus.
+
+**Nota:**
+
+[*nota : pour l'application des alinéas 4, 5 et 6 du présent article, voir l'ordonnance 122 du 10 février 1977, article 6.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
+	  - Code électoral - art. L239 (V)
+	  - Code électoral - art. L334-13 (Ab)
+	  - Code électoral - art. L471 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°77-122 du 10 février 1977 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 13 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
 
 ###### Article L239
 
@@ -7392,6 +7650,667 @@ renouvellement général des conseils municipaux.
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
+#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants
+
+##### Section 1 : Mode de scrutin
+
+###### Article L252
+
+Les membres des conseils municipaux des communes de moins de 3 500 habitants sont élus au scrutin majoritaire.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°77-744 du 8 juillet 1977 - art. 3 (Ab)
+	  - Code général des collectivités territoriales - art. R2151-3 (V)
+	  - Code électoral - art. L429 (V)
+	  - Code électoral - art. R25-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+
+###### Article L253
+
+Nul n'est élu au premier tour de scrutin s'il n'a réuni :
+
+1° La majorité absolue des suffrages exprimés ;
+
+2° Un nombre de suffrages égal au quart de celui des électeurs inscrits.
+
+Au deuxième tour de scrutin, l'élection a lieu à la majorité relative, quel que soit le nombre des votants. Si plusieurs
+candidats obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Loi n°77-744 du 8 juillet 1977 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+
+###### Article L254
+
+L'élection des membres du conseil municipal a lieu au scrutin de liste pour toute la commune.
+
+Néanmoins, la commune peut être divisée en sections électorales, dont chacune élit un nombre de conseillers proportionné au
+chiffre des électeurs inscrits, mais seulement quand elle se compose de plusieurs agglomérations d'habitations distinctes et
+séparées; aucune section ne peut avoir moins de deux conseillers à élire.
+
+Chaque section doit être composée de territoires contigus.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Code électoral - art. L255-1 (V)
+	  - Code électoral - art. L259 (V)
+	  - Code électoral - art. L261 (VD)
+
+
+###### Article L255
+
+Le sectionnement est fait par le conseil général, sur l'initiative soit d'un de ses membres, soit du commissaire de la
+République, soit du conseil municipal ou d'électeurs de la commune intéressée.
+
+Aucune décision en matière de sectionnement ne peut être prise dans les six mois qui suivent la date à laquelle le conseil
+général a été saisi. Dans ce délai, une enquête est ouverte à la mairie de la commune intéressée, et le conseil municipal est
+consulté par les soins du président du conseil général.
+
+Le délai étant écoulé et les formalités observées, le conseil général se prononce sur chaque projet. Les sectionnements ainsi
+opérés subsistent jusqu'à une nouvelle décision. Le tableau de ces opérations est dressé chaque année par le conseil général,
+au cours du dernier trimestre. Ce tableau sert pour les élections intégrales qui doivent avoir lieu dans l'année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-213 1982-03-02 art. 58 IX JORF 3 mars 1982
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Décret n°2012-499 du 17 avril 2012 - art. 1 (V)
+	  - Code électoral - art. L429 (VT)
+	  - Code électoral - art. R124 (T)
+	  - Code électoral - art. R127-1 (V)
+
+
+###### Article L255-1
+
+En cas de fusion de communes, chacune des anciennes communes, sur sa demande, constituera de plein droit, par dérogation aux
+dispositions des articles L. 254 et L. 255, une section électorale élisant au moins un conseiller. 
+
+Par dérogation aux dispositions de l'article L. 254, le nombre de conseillers est proportionnel à la population dans les
+sections électorales qui correspondent à une commune associée. 
+
+Lorsqu'une commune associée n'est représentée que par un seul conseiller, il est procédé par le même scrutin à l'élection
+d'un suppléant appelé à siéger au conseil municipal avec voix consultative en cas d'indisponibilité temporaire du conseiller
+titulaire.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Loi n°70-1297 1970-12-31 art. 35 JORF 1er janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°71-588 du 16 juillet 1971 - art. 3 (Ab)
+	  - Loi n°71-588 du 16 juillet 1971 - art. 7 (V)
+	  - Loi n°71-588 du 16 juillet 1971 - art. 9 (V)
+	  - CODE DES COMMUNES. - art. L112-15 (Ab)
+	  - CODE DES COMMUNES. - art. L112-8 (Ab)
+	  - CODE DES COMMUNES. - art. L153-1 (Ab)
+	  - Code des communes de la Nouvelle-Calédonie - art. L153-1 (V)
+	  - Code général des collectivités territoriales - art. L2113-21 (V)
+	  - Code électoral - art. L438 (VT)
+	  - Code électoral - art. R124 (M)
+	  - Code électoral - art. R127-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2, art. 14 JORF 20 novembre 1982 en vigueur 13 mars 1983
+
+	**Cite**:
+
+	  - Code électoral - art. L254 (VT)
+
+
+##### Section 4  : Opérations de vote
+
+###### Article L256
+
+Pour toutes les communes de 2 500 habitants et au-dessus, les candidatures isolées sont interdites et les bulletins
+distribués aux électeurs doivent comporter autant de noms qu'il y a de sièges à pourvoir.
+
+Les électeurs conservent le droit de déposer dans l'urne des bulletins dont la liste est incomplète.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°77-122 du 10 février 1977 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*151-2 (M)
+	  - Code électoral - art. L273 (V)
+	  - Code électoral - art. L334-13 (Ab)
+	  - Code électoral - art. L429 (V)
+	  - Code électoral - art. L471 (VT)
+	  - Code électoral - art. R126 (VD)
+
+
+###### Article L257
+
+Les bulletins sont valables bien qu'ils portent plus ou moins de noms qu'il n'y a de conseillers à élire.
+
+Les derniers noms inscrits au-delà de ce nombre ne sont pas comptés.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-13 (Ab)
+
+
+##### Section 5 : Remplacement des conseillers municipaux
+
+###### Article L258
+
+Lorsque le conseil municipal a perdu, par l'effet des vacances survenues, le tiers de ses membres, il est, dans le délai de
+deux mois à dater de la dernière vacance, procédé à des élections complémentaires.
+
+Toutefois, dans l'année qui précède le renouvellement général des conseils municipaux, les élections complémentaires ne sont
+obligatoires qu'au cas où le conseil municipal a perdu plus de la moitié de ses membres.
+
+Dans les communes divisées en sections électorales, il y a toujours lieu à élections partielles quand la section a perdu la
+moitié de ses conseillers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R2121-3 (M)
+	  - Code électoral - art. L270 (V)
+	  - Code électoral - art. L429 (V)
+
+
+###### Article L259
+
+Lorsqu'il y a lieu de remplacer des conseillers municipaux élus par des sections électorales conformément à l'article L. 254,
+ces remplacements sont faits par les sections auxquelles appartiennent ces conseillers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cite**:
+
+	  - Code électoral - art. L254 (VT)
+
+
+#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus
+
+##### Section 1 : Mode de scrutin
+
+###### Article L260
+
+Les conseillers municipaux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats
+que de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, sous
+réserve de l'application des dispositions prévues au deuxième alinéa de l'article L. 264.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°70-1297 1970-12-31 art. 35 II JORF 1er janvier 1971
+	  - Loi n°76-665 1976-07-19 art. 4 JORF 30 juillet 1976
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 en vigueur le 13 mars 1983
+
+	**Cité par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 39 (V)
+	  - Code électoral - art. L265 (V)
+	  - Code électoral - art. L268 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. L264 (V)
+
+
+###### Article L261
+
+La commune forme une circonscription électorale unique. 
+
+Toutefois les membres du Conseil de Paris et des conseils municipaux de Lyon et de Marseille sont élus par secteur. Le nombre
+des secteurs et le nombre des conseillers à élire dans chaque secteur sont déterminés par les tableaux n° 2, 3 et 4 annexés
+au présent code. 
+
+Les articles L. 254 à L. 255-1 sont applicables dans les communes dont la population est comprise entre 3 500 et 30 000
+habitants. 
+
+Par dérogation aux dispositions du présent chapitre, l'élection des conseillers municipaux a lieu dans les conditions prévues
+au chapitre II du présent titre dans les communes associées comptant moins de 2 000 habitants et dans les sections comptant
+moins de 1 000 électeurs si ces sections ne correspondent pas à des communes associées.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°75-1333 1975-12-31 art. 1 JORF 3 janvier 1976
+	  - Loi n°76-665 1976-07-19 art. 5 JORF 30 juillet 1976
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+	  - Loi n°82-1170 1982-12-31 art. 1 JORF 1er janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R2151-3 (V)
+	  - Code électoral - art. L273-7 (VD)
+	  - Code électoral - art. L273-8 (VD)
+	  - Code électoral - art. L438 (VD)
+	  - Code électoral - art. R25-1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L254 (V)
+
+
+###### Article L262
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre
+de sièges égal à la moitié du nombre des sièges à pourvoir, arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus
+de quatre sièges à pourvoir et à l'entier inférieur lorsqu'il y a moins de quatre sièges à pourvoir. Cette attribution
+opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la
+plus forte moyenne, sous réserve de l'application des dispositions du troisième alinéa ci-après.
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un deuxième tour.
+Il est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal à la moitié du nombre des sièges à pourvoir,
+arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus de quatre sièges à pourvoir et à l'entier inférieur
+lorsqu'il y a moins de quatre sièges à pourvoir. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges
+sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges
+sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous
+réserve de l'application des dispositions du troisième alinéa ci-après.
+
+Les listes qui n'ont pas obtenu au moins 5 % des suffrages exprimés ne sont pas admises à répartition des sièges.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 39 (V)
+	  - Code électoral - art. L272-5 (V)
+	  - Code électoral - art. L273-8 (VD)
+
+
+##### Section 2 : Déclarations de candidatures
+
+###### Article L263
+
+Nul ne peut être candidat dans plus d'une circonscription électorale, ni sur plus d'une liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Code électoral - art. L265 (V)
+
+
+###### Article L264
+
+Une déclaration de candidature est obligatoire pour chaque tour de scrutin.
+
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10
+% du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des candidats
+ayant figuré au premier tour sur d'autres listes sous réserve que celles-ci ne se présentent pas au second tour et qu'elles
+aient obtenu au premier tour au moins 5 % des suffrages exprimés. En cas de modification de la composition d'une liste,
+l'ordre de présentation des candidats peut également être modifié.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une liste. Le choix
+de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture ou à la sous-préfecture par la
+personne ayant eu la qualité de responsable de la liste constituée par ces candidats au premier tour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°75-1333 1975-12-31 art. 2 JORF 3 janvier 1976
+	  - Loi n°76-665 1976-07-19 art. 6 JORF 20 juillet 1976
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 en en vigueur le 13 mars 1983
+
+	**Cité par**:
+
+	  - Code électoral - art. L260 (V)
+	  - Code électoral - art. L265 (V)
+
+
+###### Article L265
+
+La déclaration de candidature résulte du dépôt à la préfecture ou à la sous-préfecture d'une liste répondant aux conditions
+fixées aux articles L. 260, L. 263 et L. 264. Il en est délivré récépissé.
+
+Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
+candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
+personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
+second tours. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y
+figurent. La liste déposée indique expressément :
+
+1° Le titre de la liste présentée;
+
+2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
+
+Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
+compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
+signature.
+
+Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
+procèdent à aucune modification de leur composition au second tour.
+
+Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 20 (Ab)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 26 (M)
+	  - Code de commerce - art. R713-11 (V)
+	  - Code électoral - art. R128 (V)
+	  - Code électoral - art. R128-3 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. L260 (V)
+	  - Code électoral - art. L263 (V)
+	  - Code électoral - art. L264 (M)
+
+
+###### Article L266
+
+Est interdit l'enregistrement de la déclaration de candidature d'une liste sur laquelle figure un candidat inéligible en
+vertu des dispositions de l'article L. 203.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cite**:
+
+	  - Code électoral - art. L203 (VT)
+
+
+###### Article L267
+
+Les déclarations de candidatures doivent être déposées au plus tard :
+
+- pour le premier tour, le deuxième vendredi qui précède le jour du scrutin, à vingt-quatre heures;
+
+- pour le second tour, le mardi qui suit le premier tour, à vingt-quatre heures.
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
+
+Les retraits des listes complètes qui interviennent avant l'expiration des délais prévus à l'alinéa 1 du présent article pour
+le dépôt des déclarations de candidatures sont enregistrés; ils comportent la signature de la majorité des candidats de la
+liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+
+##### Section 3 : Opérations de vote
+
+###### Article L268
+
+Est nul tout bulletin qui ne répond pas aux conditions de l'article L. 260.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cite**:
+
+	  - Code électoral - art. L260 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. R66-1 (V)
+
+
+###### Article L269
+
+Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. R66-1 (V)
+
+
+##### Section 4 : Remplacement des conseillers municipaux
+
+###### Article L270
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller municipal élu sur
+cette liste dont le siège devient vacant pour quelque cause que ce soit. La constatation, par la juridiction administrative,
+de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection que du ou des élus inéligibles. La
+juridiction saisie proclame en conséquence l'élection du ou des suivants de liste.
+
+Lorsque les dispositions de l'alinéa précédent ne peuvent plus être appliquées, il est procédé au renouvellement du conseil
+municipal :
+
+1° Dans les deux mois de la dernière vacance, si le conseil municipal a perdu le tiers de ses membres, et sous réserve de
+l'application du deuxième alinéa de l'article L. 258 ;
+
+2° Dans les conditions prévues aux articles L2122-8 et L2122-14 du code général des collectivités territoriales, s'il est
+nécessaire de compléter le conseil avant l'élection d'un nouveau maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°76-665 1976-07-19 art. 7 JORF 20 juillet 1976
+	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+	  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5211-8 (VT)
+	  - Code électoral - art. L272-6 (V)
+	  - Code électoral - art. L273-5 (VD)
+	  - Code électoral - art. L46-1 (MMN)
+
+	**Cite**:
+
+	  - Code électoral - art. L258 (M)
+	  - Code général des collectivités territoriales - art. L2122-14 (V)
+	  - Code général des collectivités territoriales - art. L2122-8 (V)
+
+
 #### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille
 
 ###### Article L271
@@ -7594,6 +8513,38 @@ municipaux de Lyon ou de Marseille élus dans le secteur.
 	  - Code électoral - art. L46-1 (MMN)
 
 
+#### Chapitre V : Conditions d'application
+
+###### Article L273
+
+Un décret en conseil d'Etat détermine les conditions d'application des articles L. 229, 
+L. 240, L. 241, L. 244 et L. 256.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 5 JORF 20 novembre 1982 en vigueur le 13 mars 1983
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L121-3 (Ab)
+	  - CODE DES COMMUNES. - art. R*121-3 (Ab)
+	  - Code général des collectivités territoriales - art. L2121-3 (V)
+	  - Code général des collectivités territoriales - art. L2573-5 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L229 (V)
+	  - Code électoral - art. L240 (V)
+	  - Code électoral - art. L244 (Ab)
+	  - Code électoral - art. L256 (VT)
+
+
 ## Livre II : Election des sénateurs des départements
 
 ### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs
@@ -7778,6 +8729,51 @@ et leurs suppléants. Un intervalle de trois semaines au moins doit séparer cet
 	**Cité par**:
 
 	  - Code électoral - art. L293-1 (M)
+
+
+###### Article L284
+
+Les conseils municipaux élisent dans les communes de moins de 9 000 habitants :
+
+- un délégué pour les conseils municipaux de neuf et onze membres;
+
+- trois délégués pour les conseils municipaux de quinze membres;
+
+- cinq délégués pour les conseils municipaux de dix-neuf membres;
+
+- sept délégués pour les conseils municipaux de vingt-trois membres;
+
+- quinze délégués pour les conseils municipaux de vingt-sept et vingt-neuf membres.
+
+Dans le cas où le conseil municipal est constitué par application des articles L2113-6 et L2113-7 du code général des
+collectivités territoriales relatif aux fusions de communes, le nombre de délégués est égal à celui auquel les anciennes
+communes auraient eu droit avant la fusion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°71-588 du 16 juillet 1971 - art. 17 () JORF 18 juillet 1971
+	  - Loi n°82-974 1982-11-19 art. 17 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Loi n°85-691 du 10 juillet 1985 - art. 19 (Ab)
+	  - Code électoral - art. L290-2 (V)
+	  - Code électoral - art. L334-15-1 (Ab)
+	  - Code électoral - art. L334-3-1 (Ab)
+	  - Code électoral - art. L439-1 (V)
+	  - Code électoral - art. L439-2 (V)
+	  - Code électoral - art. R*136 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2113-6 (M)
+	  - Code général des collectivités territoriales - art. L2113-7 (M)
 
 
 ###### Article L285
@@ -13528,6 +14524,97 @@ premier alinéa.
 	  - Code électoral - art. R127-1 (V)
 	  - Code électoral - art. R265 (M)
 	  - Code électoral - art. R268 (V)
+
+
+##### Section 2 : Propagande
+
+###### Article R125
+
+Les dispositions du dernier alinéa de l'article R. 26 ne sont pas applicables aux élections municipales dans les communes de
+moins de 2500 habitants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Loi n°82-974 1982-11-19 ART. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. R121-3 (M)
+	  - Décret n°80-918 du 13 novembre 1980 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R26 (M)
+
+
+###### Article R126
+
+Si un second tour de scrutin est nécessaire, les listes se représentant à ce second tour de scrutin ne verseront pas de
+nouveau cautionnement.
+
+Lorsqu'une liste aura été modifiée après le premier tour, le cautionnement ne sera exigé que pour les candidats ne figurant
+pas sur l'une des listes présentées au premier tour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Loi n°82-974 1982-11-19 ART. 2 JORF 20 NOVEMBRE 1982 date d'entrée en vigueur 13 MARS 1983
+
+	**Abrogé par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
+	  - Code électoral - art. R265 (VD)
+
+
+##### Section 3 : Opérations préparatoires au scrutin
+
+###### Article R127
+
+En cas de deuxième tour de scrutin, le maire fait les publications nécessaires pour convoquer les électeurs.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Loi n°82-974 1982-11-19 ART. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L247 (M)
 
 
 #### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus
