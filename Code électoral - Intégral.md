@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1992-12-15
+Version Consolidée au 1993-01-01
 
 # Partie législative
 
@@ -8695,7 +8695,7 @@ Ne peuvent être conseillers municipaux :
 
 2° Ceux qui sont pourvus d'un conseil judiciaire ;
 
-3° Ceux qui sont dispensés de subvenir aux charges communales ;
+3° (Abrogé) ;
 
 4° Pour une durée d'un an, le maire qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11
 mars 1988 relative à la transparence financière de la vie politique.
@@ -8706,13 +8706,13 @@ mars 1988 relative à la transparence financière de la vie politique.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Modifié par**:
-
-	  - Loi n°88-227 1988-03-11 art. 5 II JORF 12 mars 1988
-
 	**Cite**:
 
 	  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°92-722 du 29 juillet 1992 - art. 22 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
