@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1999-03-26
+Version Consolidée au 1999-05-30
 
 # Partie législative
 
@@ -21446,9 +21446,11 @@ Ces dispositions ne s'appliquent pas aux électeurs de droit qui reçoivent au t
 	  - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
+## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à la collectivité territoriale de Mayotte
 
-### Chapitre Ier : Dispositions communes
+### Titre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+#### Chapitre Ier : Dispositions communes
 
 ###### Article R*172
 
@@ -21461,9 +21463,10 @@ territoriale de Saint-Pierre-et-Miquelon.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
+	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
 
 	**Cité par**:
 
@@ -21502,12 +21505,11 @@ Pour l'application du présent code à la collectivité territoriale de Saint-Pi
 	  - Décret n°2000-835 du 31 août 2000 - art. 2 (V)
 	  - Décret n°88-946 du 5 octobre 1988 - art. 2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
+	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
 
-
-### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 ###### Article R*174
 
@@ -21520,12 +21522,11 @@ Saint-Pierre-et-Miquelon.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
+	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
 
-
-### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 ###### Article R*175
 
@@ -21547,7 +21548,8 @@ sous-préfecture ou de la préfecture".
 
 	**Modifié par**:
 
-	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
+	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
+	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
 
 	**Cite**:
 
@@ -21566,12 +21568,11 @@ de l'Etat qui en constate la réception sur un registre et en donne récépissé
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
+	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
 
-
-### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 ###### Article R*177
 
@@ -21584,12 +21585,11 @@ l'élection des conseillers municipaux dans la collectivité territoriale de Sai
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
+	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
 
-
-### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 ###### Article R*178
 
@@ -21602,9 +21602,292 @@ Pierre-et-Miquelon.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 1 ()
+	  - Décret n°99-436 du 28 mai 1999 - art. 2 ()
+
+
+### Titre II : Dispositions particulières à la collectivité territoriale de Mayotte
+
+#### Chapitre Ier : Dispositions communes
+
+###### Article R*179
+
+Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables dans la collectivité
+territoriale de Mayotte, à l'exception des articles R. 4-1 et R. 20 à R. 22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
 	**Créé par**:
 
-	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Cite**:
+
+	  - Code électoral - art. R*4-1 (M)
+	  - Code électoral R4-1, R20 à R22
+
+
+###### Article R*179-1
+
+Pour l'application du présent code dans la collectivité territoriale de Mayotte, il y a lieu de lire :
+
+" 1° "collectivité territoriale de Mayotte", au lieu de :
+
+"département" ou : "arrondissement" ;
+
+" 2° "représentant du Gouvernement", au lieu de : "préfet" ou :
+
+"sous-préfet" ou : "Institut national de la statistique et des études économiques" ;
+
+" 3° "services du représentant du Gouvernement", au lieu de :
+
+"préfecture", ou : "autorité préfectorale", ou : "administration préfectorale" ;
+
+" 4° "tribunal de première instance", au lieu de : "tribunal d'instance" et "tribunal de grande instance" ;
+
+" 5° "président du tribunal supérieur d'appel", au lieu de :
+
+"premier président de cour d'appel" ;
+
+" 6° "secrétaire général", au lieu de : "secrétaire général de préfecture" ;
+
+" 7° "receveur des finances", au lieu de : "trésorier-payeur général" ;
+
+" 8° "budget du service de la poste", au lieu de : "budget annexe des postes et télécommunications" ;
+
+" 9° "archives de la collectivité territoriale", au lieu de :
+
+"archives départementales" ;
+
+" 10° "code des communes applicable à Mayotte", au lieu de : "code général des collectivités territoriales" ;
+
+" 11° "code du travail applicable à Mayotte", au lieu de : "code du travail" ;
+
+" 12° "décisions des autorités compétentes", au lieu de : "arrêté du ministre de la santé" ;
+
+" 13° "de la collectivité territoriale", au lieu de :
+
+"départemental", ou : "départementaux" ;
+
+" 14° "service des postes", au lieu de : "administration des postes et télécommunications" ;
+
+" 15° "chef du service des postes", au lieu de : "directeur départemental des postes et télécommunications" ;
+
+" 16° "chef du service de la coordination et de l'action économique", au lieu de : "directeur départemental des enquêtes
+économiques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 25 (M)
+	  - Décret n°2000-835 du 31 août 2000 - art. 2 (V)
+	  - Arrêté du 27 avril 2012 - art. 3 (V)
+	  - Arrêté du 4 mars 2014 - art. 4 (V)
+	  - Code électoral - art. R176-4-7 (V)
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+
+###### Article R*179-2
+
+La commission de propagande prévue aux articles R. 32 et R. 158 du présent code est présidée à Mayotte par un magistrat du
+siège appartenant à la juridiction de première instance désigné par le président de cette juridiction, assisté de trois
+fonctionnaires désignés par le représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R*158 (M)
+	  - Code électoral - art. R32 (M)
+
+
+###### Article R*179-3
+
+Pour l'application de l'article R. 41, le représentant du Gouvernement peut en outre avancer par arrêté l'heure de clôture du
+scrutin dans l'ensemble de la collectivité territoriale sans que la durée du scrutin puisse être inférieure à dix heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R41 (M)
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Mayotte
+
+###### Article R*179-4
+
+Les dispositions du titre II du livre Ier du présent code (partie Réglementaire) sont applicables à l'élection du député de
+la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+
+###### Article R*179-5
+
+La commission de recensement général des votes prévue par l'article R. 107 du présent code est présidée à Mayotte par un
+magistrat du siège appartenant au tribunal supérieur d'appel désigné par le président de cette juridiction, assisté de deux
+fonctionnaires désignés par lui sur proposition du représentant du Gouvernement et d'un conseiller général et d'un
+fonctionnaire désignés par le représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R*107 (M)
+
+
+#### Chapitre III : Dispositions relatives à l'élection des conseillers généraux de la collectivité territoriale de Mayotte
+
+###### Article R*179-6
+
+Les dispositions du titre III du livre Ier du présent code (partie Réglementaire) sont applicables à l'élection des
+conseillers généraux de la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+
+#### Chapitre IV : Dispositions relatives à l'élection des conseillers municipaux de la collectivité territoriale de Mayotte
+
+###### Article R*179-7
+
+Les dispositions des chapitres Ier à III du titre IV du présent code (partie Réglementaire) sont applicables à l'élection des
+conseillers municipaux dans la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+
+#### Chapitre V : Dispositions relatives à l'élection du sénateur de la collectivité territoriale de Mayotte
+
+###### Article R*179-8
+
+Les dispositions du livre II du présent code (partie Réglementaire), à l'exception du titre III bis, sont applicables à
+l'élection du sénateur de la collectivé territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+
+###### Article R*179-9
+
+Le bureau du collège électoral prévu à l'article R. 163 du présent code est présidé à Mayotte par un magistrat appartenant au
+tribunal supérieur d'appel désigné par le président de cette juridiction, assisté de deux chefs de service désignés par lui
+et des deux conseillers généraux les plus âgés présents à l'ouverture du scrutin et non candidats. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°99-436 du 28 mai 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
+
+	**Cite**:
+
+	  - Code électoral - art. R*163 (M)
 
 
 ## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse
