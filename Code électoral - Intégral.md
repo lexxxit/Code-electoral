@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1993-09-01
+Version Consolidée au 1994-01-19
 
 # Partie législative
 
@@ -7309,13 +7309,17 @@ Chaque canton du département élit un membre du conseil général.
 
 ###### Article L192
 
-Les conseillers généraux sont élus pour six ans ; ils sont rééligibles.
-
-Les conseils généraux se renouvellent intégralement.
+Les conseillers généraux sont élus pour six ans  ; ils sont renouvelés par moitié tous les trois ans et sont indéfiniment
+rééligibles.
 
 Les élections ont lieu au mois de mars.
 
 Dans tous les départements, les collèges électoraux sont convoqués le même jour.
+
+En cas de renouvellement intégral, à la réunion qui suit ce renouvellement, le conseil général divise les cantons du
+département en deux séries, en répartissant, autant que possible dans une proportion égale, les cantons de chaque
+arrondissement dans chacune des séries, et il procède ensuite à un tirage au sort pour régler l'ordre du renouvellement des
+séries.
 
 **Liens relatifs à cet article**
 
@@ -7329,7 +7333,7 @@ Dans tous les départements, les collèges électoraux sont convoqués le même 
 
 	**Modifié par**:
 
-	  - Loi n°90-1103 du 11 décembre 1990 - art. 1 () JORF 13 décembre 1990
+	  - Loi n°94-44 du 18 janvier 1994 - art. 1 ()
 
 	**Cité par**:
 
@@ -8009,29 +8013,6 @@ premier tour peuvent se maintenir au second.
 
 #### Chapitre V : Propagande
 
-###### Article L210-2
-
-La campagne électorale est ouverte à partir du deuxième lundi qui précède le jour du scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°90-1103 1990-12-11 art. 9, art. 12
-
-	**Créé par**:
-
-	  - Loi n°90-1103 du 11 décembre 1990 - art. 2 () JORF 13 décembre 1990
-
-	**Abrogé par**:
-
-	  - Loi n°94-44 du 18 janvier 1994 - art. 2 ()
-
-
 ###### Article L211
 
 L'impression et l'utilisation, sous quelque forme que ce soit, de circulaires, tracts, affiches et bulletins de vote pour la
@@ -8225,7 +8206,7 @@ Un décret en Conseil d'Etat détermine les conditions d'application des article
 
 ###### Article L218
 
-Les collèges électoraux sont convoqués par décret publié au moins cinq semaines avant la date du scrutin.
+Les collèges électoraux sont convoqués par décret.
 
 **Liens relatifs à cet article**
 
@@ -8239,7 +8220,7 @@ Les collèges électoraux sont convoqués par décret publié au moins cinq sema
 
 	**Modifié par**:
 
-	  - Loi n°90-1103 du 11 décembre 1990 - art. 3 () JORF 13 décembre 1990
+	  - Loi n°94-44 du 18 janvier 1994 - art. 3 ()
 
 	**Cité par**:
 
@@ -8260,8 +8241,7 @@ fixées par les lois et règlements en vigueur.
 
 ###### Article L220
 
-Dans le cas prévu à l'article L. 219, il doit y avoir un intervalle de quinze jours francs entre la date de la convocation et
-le jour de l'élection.
+Il doit y avoir un intervalle de quinze jours francs entre la date de la convocation et le jour de l'élection.
 
 **Liens relatifs à cet article**
 
@@ -8275,7 +8255,7 @@ le jour de l'élection.
 
 	**Modifié par**:
 
-	  - Loi n°90-1103 du 11 décembre 1990 - art. 4 () JORF 13 décembre 1990
+	  - Loi n°94-44 du 18 janvier 1994 - art. 4 ()
 
 
 #### Chapitre VIII : Remplacement des conseillers généraux
@@ -8284,12 +8264,18 @@ le jour de l'élection.
 
 En cas de vacance par décès, option, démission, par une des causes énumérées aux articles L. 205, L. 209 et L. 210 et à
 l'alinéa 1 de l'article 19 de la loi du 10 août 1871 ou par toute autre cause, les électeurs doivent être réunis dans le
-délai de trois mois.
+délai de trois mois. 
 
-Toutefois, il n'est procédé à aucune élection partielle dans les six mois précédant le renouvellement des conseils généraux.
+Toutefois, si le renouvellement d'une série sortante doit avoir lieu dans les trois mois de la vacance, l'élection partielle
+se fait à la même époque. 
 
 Le président du conseil général est chargé de veiller à l'exécution du présent article. Il adresse ses réquisitions au
-commissaire de la République et, s'il y a lieu, au ministre de l'Intérieur.
+représentant de l'Etat dans le département et, s'il y a lieu, au ministre de l'Intérieur.
+
+**Nota:**
+
+Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions de cet article entrent en vigueur à compter du premier
+renouvellement par moitié des conseils généraux qui suit la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -8297,21 +8283,14 @@ commissaire de la République et, s'il y a lieu, au ministre de l'Intérieur.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Cite**:
-
-	  - Loi n°1871-08-10 ART. 19
-	  - Code électoral - art. L205 (M)
-	  - Code électoral - art. L209 (V)
-	  - Code électoral - art. L210 (M)
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°90-1103 1990-12-11 art. 9, art. 12
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
 	  - TXT_ASSOCIE: Code électoral - art. R112 (M)
 
 	**Modifié par**:
 
-	  - Loi n°90-1103 du 11 décembre 1990 - art. 5 () JORF 13 décembre 1990
+	  - Loi n°94-44 du 18 janvier 1994 - art. 5 ()
 
 	**Cité par**:
 
@@ -8321,6 +8300,12 @@ commissaire de la République et, s'il y a lieu, au ministre de l'Intérieur.
 	  - Code électoral - art. L328-4 (M)
 	  - Code électoral - art. R110 (VD)
 	  - Code électoral - art. R112-1 (V)
+
+	**Cite**:
+
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 19 (Ab)
+	  - Code électoral - art. L205 (V)
+	  - Code électoral - art. L209 (V)
 
 
 #### Chapitre IX : Contentieux
@@ -11783,6 +11768,39 @@ titre Ier du livre Ier du présent code et par celles du présent livre.
 
 ### Titre Ier : Election des conseillers régionaux
 
+#### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers
+
+###### Article L336
+
+Les conseillers régionaux sont élus pour six ans ; ils sont rééligibles.
+
+Les conseils régionaux se renouvellent intégralement.
+
+Les élections ont lieu au mois de mars.
+
+Dans toutes les régions, les collèges électoraux sont convoqués le même jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+
+	**Modifié par**:
+
+	  - Loi n°94-44 du 18 janvier 1994 - art. 6 ()
+
+	**Cité par**:
+
+	  - Loi n°2010-145 du 16 février 2010 - art. 2 (Ab)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 47 (M)
+	  - Code général des collectivités territoriales - art. L4132-1 (V)
+
+
 #### Chapitre II : Mode de scrutin
 
 ###### Article L338
@@ -13123,36 +13141,6 @@ Des décrets en Conseil d'Etat détermineront les conditions d'application du pr
 ### Titre Ier : Election des conseillers régionaux
 
 #### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers
-
-###### Article L336
-
-Les conseillers régionaux sont élus pour six ans ; ils sont rééligibles.
-
-Les conseils régionaux se renouvellent intégralement.
-
-Les élections ont lieu en même temps que le renouvellement des conseils généraux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Modifié par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
-
-	**Cité par**:
-
-	  - Loi n°2010-145 du 16 février 2010 - art. 2 (Ab)
-	  - Loi n°2013-403 du 17 mai 2013 - art. 47 (M)
-	  - Code général des collectivités territoriales - art. L4132-1 (V)
-
 
 ###### Article L337
 
