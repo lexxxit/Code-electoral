@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1991-07-27
+Version Consolidée au 1991-08-02
 
 # Partie législative
 
@@ -7995,16 +7995,24 @@ Le mandat de conseiller général est incompatible, dans toute la France, avec l
 ###### Article L207
 
 Le mandat de conseiller général est incompatible, dans le département, avec les fonctions d'architecte départemental,
-d'ingénieur des travaux publics de l'État, chef de section principal ou chef de section des travaux publics de l'État chargé
+d'ingénieur des travaux publics de l'Etat, chef de section principal ou chef de section des travaux publics de l'Etat chargé
 d'une circonscription territoriale de voirie, d'employé des bureaux de la préfecture ou d'une sous-préfecture et,
-généralement, de tous les agents salariés ou subventionnés sur les fonds départementaux. La même incompatibilité existe à
-l'égard des entrepreneurs des services départementaux.
+généralement, de tous les agents salariés ou subventionnés sur les fonds départementaux. 
+
+La même incompatibilité existe à l'égard des représentants légaux des établissements départementaux ou interdépartementaux
+mentionnés aux 1°, 2° et 3° de l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à
+la fonction publique hospitalière, dans le ou les départements de rattachement de l'établissement où ils sont affectés, et à
+l'égard des entrepreneurs de services départementaux. 
 
 Ne sont pas considérés comme salariés et compris dans les cas spécifiés à l'alinéa précédent les médecins chargés, dans leur
 canton ou les cantons voisins, des services de la protection de l'enfant et des enfants assistés, non plus que des services
-des épidémies, de la vaccination ou de tout autre service analogue ayant un caractère de philanthropie.
+des épidémies, de la vaccination ou de tout autre service analogue ayant un caractère de philanthropie. 
 
 La même exception s'applique aux vétérinaires chargés dans les mêmes conditions du service des épizooties.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -8021,6 +8029,18 @@ La même exception s'applique aux vétérinaires chargés dans les mêmes condit
 	  - Code général des collectivités territoriales - art. L1862-1 (V)
 	  - Code électoral - art. L210 (M)
 	  - Code électoral - art. L334-8 (Ab)
+
+	**Cite**:
+
+	  - Loi n°86-33 du 9 janvier 1986 - art. 2 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-748 1991-07-31 art. 21
+
+	**Modifié par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 21 (V) JORF 2 août 1991
 
 	**Anciens textes**:
 
@@ -8891,10 +8911,14 @@ gestion dans les six mois de l'expiration du délai de production des comptes im
 
 Les fonctions de conseiller municipal sont incompatibles avec celles :
 
-1° De commissaire ou commissaire-adjoint de la République et de secrétaire général de préfecture ;
+1° De commissaire ou commissaire-adjoint de la République et de secrétaire général de préfecture;
 
 2° De fonctionnaire des corps actifs de police appartenant aux corps des commandants et officiers de paix, des inspecteurs de
 police et des commissaires de police.
+
+3° De représentant légal des établissements communaux ou intercommunaux mentionnés aux 1°, 2° et 3° de l'article 2 de la loi
+n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière dans la ou les
+communes de rattachement de l'établissement où il est affecté.
 
 Les personnes désignées à l'article L. 46 et au présent article qui seraient élues membres d'un conseil municipal auront, à
 partir de la proclamation du résultat du scrutin, un délai de dix jours pour opter entre l'acceptation du mandat et la
@@ -8907,17 +8931,22 @@ réputées avoir opté pour la conservation dudit emploi.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Cite**:
+
+	  - Loi n°86-33 1986-01-09 art. 2
+	  - Code électoral - art. L46 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-748 1991-07-31 art. 21
+
 	**Modifié par**:
 
-	  - Loi n°82-974 1982-11-19 art. 12 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+	  - Loi n°91-748 du 31 juillet 1991 - art. 21 (V) JORF 2 août 1991
 
 	**Cité par**:
 
 	  - Code électoral - art. L239 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L46 (V)
 
 
 ###### Article L238
