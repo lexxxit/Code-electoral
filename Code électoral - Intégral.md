@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1987-07-11
+Version Consolidée au 1987-08-29
 
 # Partie législative
 
@@ -17160,6 +17160,170 @@ Ces dispositions ne s'appliquent pas aux électeurs de droit qui reçoivent au t
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L317 (V)
+
+
+## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+### Chapitre Ier : Dispositions communes
+
+###### Article R*172
+
+Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables à la collectivité
+territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+	**Cité par**:
+
+	  - Code électoral - art. R176-3 (V)
+
+
+###### Article R*173
+
+Pour l'application du présent code à la collectivité territoriale de Saint-Pierre-et-Miquelon, il y a lieu de lire :
+
+1° "Collectivité territoriale" au lieu de : "département";
+
+2° "Représentant de l'Etat" et "services du représentant de l'Etat" au lieu de : "préfet" et de "préfecture";
+
+3° "De la collectivité territoriale" au lieu de :
+
+"départementaux";
+
+4° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de "tribunal de grande instance";
+
+5° "Président du tribunal supérieur d'appel" au lieu de : "premier président de la cour d'appel";
+
+6° "Payeur" au lieu de : "trésorier-payeur général".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°79-160 du 28 février 1979 - art. 24 (M)
+	  - Décret n°80-213 du 11 mars 1980 - art. 8 (Ab)
+	  - Décret n°92-773 du 6 août 1992 - art. 2 (V)
+	  - Décret n°2000-835 du 31 août 2000 - art. 2 (V)
+	  - Décret n°88-946 du 5 octobre 1988 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article R*174
+
+Les dispositions du titre II du livre Ier du présent code (partie Réglementaire) sont applicables à l'élection du député de
+Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article R*175
+
+Les dispositions de l'article R. 110 et celles du chapitre IX du titre III du livre Ier du présent code (partie
+Réglementaire) sont applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-
+Miquelon.
+
+Pour l'application des dispositions du chapitre IX du titre III du livre Ier (partie Réglementaire) il y a lieu de lire :
+
+1° A l'alinéa 1er de l'article R. 113 : "par un électeur de la collectivité territoriale ou par un candidat" au lieu de :
+"par un électeur du canton, par un candidat ou par un membre du conseil général";
+
+2° A l'alinéa 1er de l'article R. 116 : "dans les services du représentant de l'Etat" au lieu de : "au secrétariat de la
+sous-préfecture ou de la préfecture".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+	**Cite**:
+
+	  - Code électoral - art. R110 (Ab)
+	  - Code électoral - art. R113 (M)
+	  - Code électoral - art. R116 (M)
+
+
+###### Article R*176
+
+Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au représentant
+de l'Etat qui en constate la réception sur un registre et en donne récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article R*177
+
+Les dispositions des chapitres Ier à III du titre IV du livre Ier du présent code (partie Réglementaire) sont applicables à
+l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+###### Article R*178
+
+Les dispositions du livre II du présent code (partie Réglementaire) sont applicables à l'élection du sénateur de Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
 ## Livre IV : Election des conseillers régionaux
