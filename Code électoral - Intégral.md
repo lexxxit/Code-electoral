@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1980-12-26
+Version Consolidée au 1980-12-28
 
 # Partie législative
 
@@ -1017,6 +1017,322 @@ observations.
 	**Cite**:
 
 	  - Code électoral - art. L17
+
+
+###### Article L25
+
+Les décisions de la commission administrative peuvent être contestées par les électeurs intéressés devant le tribunal
+d'instance.
+
+Dans les mêmes conditions, tout électeur inscrit sur la liste électorale de la commune peut réclamer l'inscription ou la
+radiation d'un électeur omis ou indûment inscrit.
+
+Le même droit appartient au préfet ou sous-préfet.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-3 (V)
+	  - Loi n°82-1061 du 17 décembre 1982 - art. 19 (Ab)
+	  - Décret n°86-157 du 5 février 1986 - art. 4 (V)
+	  - Loi n°87-369 du 5 juin 1987 - art. 5 (V)
+	  - Décret n°87-376 du 11 juin 1987 - art. 7 (V)
+	  - Loi n°91-428 du 13 mai 1991 - art. 85 (V)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 18 (Ab)
+	  - Décret n°92-1043 du 28 septembre 1992 - art. 25 (Ab)
+	  - Décret n°93-207 du 17 février 1993 - art. 4 (V)
+	  - Décret n°93-216 du 5 février 1993 - art. 4 (V)
+	  - Décret n°93-815 du 11 mai 1993 - art. 4 (V)
+	  - Décret n°94-127 du 11 février 1994 - art. 4 (V)
+	  - Décret n°94-147 du 16 février 1994 - art. 7 (V)
+	  - Décret n°94-367 du 10 mai 1994 - art. 4 (V)
+	  - Décret n°94-1072 du 14 décembre 1994 - art. 4 (P)
+	  - Décret n°96-99 du 5 février 1996 - art. 3 (V)
+	  - Décret n°96-136 du 21 février 1996 - art. 3 (V)
+	  - Décret n°96-298 du 9 avril 1996 - art. 3 (V)
+	  - Décret n°96-699 du 9 août 1996 - art. 4 (V)
+	  - Décret n°96-794 du 12 septembre 1996 - art. 3 (V)
+	  - Décret n°97-944 du 16 octobre 1997 - art. 4 (V)
+	  - Décret n°97-945 du 16 octobre 1997 - art. 4 (V)
+	  - Décret n°97-946 du 16 octobre 1997 - art. 5 (V)
+	  - Décret du 5 novembre 1997 - art. 3 (V)
+	  - Décret n°97-1173 du 23 décembre 1997 - art. 3 (V)
+	  - Décret n°98-213 du 24 mars 1998 - art. 3 (V)
+	  - Décret n°98-337 du 6 mai 1998 - art. 3 (V)
+	  - Décret n°98-338 du 6 mai 1998 - art. 3 (V)
+	  - Décret n°98-717 du 18 août 1998 - art. 3 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 13 (V)
+	  - Décret n°98-948 du 23 octobre 1998 - art. 3 (V)
+	  - Décret n°99-42 du 21 janvier 1999 - art. 5 (V)
+	  - Loi organique n°99-209 du 19 mars 1999 - art. 189 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 14 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 17 (Ab)
+	  - Décret n°2000-974 du 5 octobre 2000 - art. 4 (V)
+	  - Décret n°2001-169 du 22 février 2001 - art. 3 (V)
+	  - Décret n°2002-825 du 3 mai 2002 - art. 4 (V)
+	  - Décret n°2002-888 du 8 mai 2002 - art. 4 (V)
+	  - Décret n°2002-1328 du 5 novembre 2002 - art. 3 (V)
+	  - Décret n°2002-1329 du 5 novembre 2002 - art. 3 (V)
+	  - Décret n°2002-1505 du 23 décembre 2002 - art. 3 (V)
+	  - Décret n°2002-1506 du 23 décembre 2002 - art. 3 (V)
+	  - Décret n°2003-95 du 4 février 2003 - art. 4 (V)
+	  - Décret n°2003-114 du 14 février 2003 - art. 3 (V)
+	  - Décret n°2003-115 du 14 février 2003 - art. 3 (V)
+	  - Décret n°2003-389 du 24 avril 2003 - art. 4 (V)
+	  - Décret n°2003-995 du 20 octobre 2003 - art. 5 (V)
+	  - Décret n°2003-996 du 20 octobre 2003 - art. 5 (V)
+	  - Décret n°2004-375 du 29 avril 2004 - art. 3 (V)
+	  - Décret n°2004-396 du 6 mai 2004 - art. 6 (V)
+	  - Décret n°2004-399 du 7 mai 2004 - art. 3 (V)
+	  - Décret n°2004-409 du 13 mai 2004 - art. 3 (V)
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 8 (Ab)
+	  - Décret n°2004-1036 du 1 octobre 2004 - art. 3 (V)
+	  - Décret n°2004-1092 du 15 octobre 2004 - art. 3 (V)
+	  - Décret n°2004-1353 du 4 décembre 2004 - art. 3 (V)
+	  - Décret n°2005-46 du 24 janvier 2005 - art. 3 (V)
+	  - Décret n°2005-823 du 21 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-857 du 28 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-858 du 28 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-969 du 10 août 2005 - art. 3 (V)
+	  - Décret n°2005-970 du 10 août 2005 - art. 3 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 8 (V)
+	  - Décret n°2005-1689 du 26 décembre 2005 - art. 4 (V)
+	  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
+	  - Loi n°2007-1720 du 7 décembre 2007 - art. 5 (V)
+	  - Décret n°2008-307 du 3 avril 2008 - art. 2 (V)
+	  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
+	  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
+	  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
+	  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
+	  - Décret n°2009-456 du 23 avril 2009 - art. 5 (V)
+	  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
+	  - Décret n°2010-119 du 4 février 2010 - art. 5 (V)
+	  - Décret n°2013-307 du 12 avril 2013 - art. 4 (V)
+	  - Décret n°2014-127 du 14 février 2014 - art. 3 (V)
+	  - Décret n°2014-379 du 29 mars 2014 - art. 5 (V)
+	  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
+	  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
+	  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
+	  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
+	  - Décret n°2014-1233 du 23 octobre 2014 - art. 2 (V)
+	  - Décret n°2014-1424 du 28 novembre 2014 - art. 2 (V)
+	  - Décret n°2014-1506 du 15 décembre 2014 - art. 2 (V)
+	  - Décret n°2015-882 du 17 juillet 2015 (V)
+	  - Décret n°2015-898 du 22 juillet 2015 - art. 2 (V)
+	  - Décret n°2015-939 du 30 juillet 2015 - art. 2 (V)
+	  - Décret n°2016-62 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-63 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-64 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-262 du 4 mars 2016 - art. 2 (V)
+	  - Décret n°2016-419 du 8 avril 2016 - art. 2 (V)
+	  - Décret n°2016-420 du 8 avril 2016 - art. 2 (V)
+	  - Décret n°2016-477 du 18 avril 2016 - art. 2 (V)
+	  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-16 (Ab)
+	  - Code de commerce - art. L713-14 (V)
+	  - Code de commerce - art. L723-3 (VD)
+	  - Code de commerce - art. R713-5 (VD)
+	  - Code de commerce - art. R723-3 (V)
+	  - Code de commerce. - art. R713-40 (V)
+	  - Code de l'organisation judiciaire - art. R221-33 (V)
+	  - Code de la sécurité sociale. - art. D214-8 (Ab)
+	  - Code de la sécurité sociale. - art. L214-4 (Ab)
+	  - Code du travail - art. L513-3 (M)
+	  - Code rural - art. L723-24 (V)
+	  - Code rural ancien - art. 1019 (Ab)
+	  - Code électoral - art. L17-1 (VT)
+	  - Code électoral - art. L34 (VT)
+	  - Code électoral - art. L40 (VT)
+	  - Code électoral - art. LO227-3 (V)
+	  - Code électoral - art. R13 (V)
+	  - Code électoral - art. R8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°69-419 1969-05-10 art. 3 jorf 11 mai 1969
+	  - Loi n°75-1329 1975-12-31 art. 3 jorf 3 janvier 1975
+	  - Décret n°80-1075 1980-12-24 art. 1 jorf 28 décembre 1980
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1048 du 1er août 2016 - art. 5
+
+
+###### Article L27
+
+La décision du juge du tribunal d'instance est en dernier ressort ; mais elle peut être déférée à la Cour de cassation.
+
+La Cour de cassation statue définitivement sur le pourvoi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 31 (M)
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 32 (M)
+	  - Décret n°70-95 du 30 janvier 1970 - art. 16 (Ab)
+	  - Décret n°70-158 du 26 février 1970 - art. 21 (Ab)
+	  - Décret n°76-950 du 14 octobre 1976 - art. 12 (Ab)
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-3 (V)
+	  - Décret n°79-394 du 17 mai 1979 - art. 22 (V)
+	  - Décret n°79-807 du 18 septembre 1979 - art. 17 (Ab)
+	  - Loi n°82-471 du 7 juin 1982 - art. 2 ter (Ab)
+	  - Loi n°82-1061 du 17 décembre 1982 - art. 19 (Ab)
+	  - Décret n°86-157 du 5 février 1986 - art. 4 (V)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 18 (Ab)
+	  - Décret n°91-777 du 13 août 1991 - art. 3 (V)
+	  - Décret n°93-207 du 17 février 1993 - art. 4 (V)
+	  - Décret n°93-216 du 5 février 1993 - art. 4 (V)
+	  - Décret n°94-127 du 11 février 1994 - art. 4 (V)
+	  - Décret n°94-367 du 10 mai 1994 - art. 4 (V)
+	  - Décret n°94-368 du 11 mai 1994 - art. 3 (V)
+	  - Décret n°94-930 du 27 octobre 1994 - art. 3 (P)
+	  - Décret n°94-1072 du 14 décembre 1994 - art. 4 (P)
+	  - Décret n°95-740 du 16 mai 1995 - art. 3 (P)
+	  - Décret n°95-741 du 16 mai 1995 - art. 3 (P)
+	  - Décret n°95-742 du 16 mai 1995 - art. 3 (P)
+	  - Décret n°95-743 du 19 mai 1995 - art. 3 (P)
+	  - Décret n°95-744 du 19 mai 1995 - art. 3 (P)
+	  - Décret n°95-745 du 19 mai 1995 - art. 3 (P)
+	  - Décret n°95-761 du 7 juin 1995 - art. 3 (P)
+	  - Décret n°95-894 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-895 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-896 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-897 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-898 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-899 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-900 du 9 août 1995 - art. 3 (V)
+	  - Décret n°95-917 du 16 août 1995 - art. 3 (V)
+	  - Décret n°95-918 du 16 août 1995 - art. 3 (V)
+	  - Décret n°95-919 du 16 août 1995 - art. 3 (V)
+	  - Décret n°95-920 du 16 août 1995 - art. 3 (V)
+	  - Décret n°95-996 du 6 septembre 1995 - art. 3 (V)
+	  - Décret n°95-1146 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1147 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1148 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1149 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1150 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1151 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1152 du 2 novembre 1995 - art. 3 (V)
+	  - Décret n°95-1199 du 9 novembre 1995 - art. 3 (V)
+	  - Décret n°96-42 du 18 janvier 1996 - art. 3 (V)
+	  - Décret n°96-99 du 5 février 1996 - art. 3 (V)
+	  - Décret n°96-136 du 21 février 1996 - art. 3 (V)
+	  - Décret n°96-298 du 9 avril 1996 - art. 3 (V)
+	  - Arrêté du 29 avril 1996 - art. 15 (V)
+	  - Arrêté du 29 avril 1996 - art. 5 (V)
+	  - Arrêté du 29 avril 1996 - art. 7 (V)
+	  - Décret n°96-699 du 9 août 1996 - art. 4 (V)
+	  - Décret n°96-794 du 12 septembre 1996 - art. 3 (V)
+	  - Décret n°97-944 du 16 octobre 1997 - art. 4 (V)
+	  - Décret n°97-945 du 16 octobre 1997 - art. 4 (V)
+	  - Décret n°97-946 du 16 octobre 1997 - art. 5 (V)
+	  - Décret du 5 novembre 1997 - art. 3 (V)
+	  - Décret n°97-1173 du 23 décembre 1997 - art. 3 (V)
+	  - Décret n°98-213 du 24 mars 1998 - art. 3 (V)
+	  - Décret n°98-337 du 6 mai 1998 - art. 3 (V)
+	  - Décret n°98-338 du 6 mai 1998 - art. 3 (V)
+	  - Décret n°98-717 du 18 août 1998 - art. 3 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 13 (V)
+	  - Décret n°98-948 du 23 octobre 1998 - art. 3 (V)
+	  - Décret n°99-42 du 21 janvier 1999 - art. 5 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 14 (V)
+	  - Décret n°2000-974 du 5 octobre 2000 - art. 4 (V)
+	  - Décret n°2001-169 du 22 février 2001 - art. 3 (V)
+	  - Décret n°2002-825 du 3 mai 2002 - art. 4 (V)
+	  - Décret n°2002-888 du 8 mai 2002 - art. 4 (V)
+	  - Décret n°2002-1328 du 5 novembre 2002 - art. 3 (V)
+	  - Décret n°2002-1329 du 5 novembre 2002 - art. 3 (V)
+	  - Décret n°2002-1505 du 23 décembre 2002 - art. 3 (V)
+	  - Décret n°2002-1506 du 23 décembre 2002 - art. 3 (V)
+	  - Décret n°2003-95 du 4 février 2003 - art. 4 (V)
+	  - Décret n°2003-114 du 14 février 2003 - art. 3 (V)
+	  - Décret n°2003-115 du 14 février 2003 - art. 3 (V)
+	  - Décret n°2003-389 du 24 avril 2003 - art. 4 (V)
+	  - Décret n°2003-995 du 20 octobre 2003 - art. 5 (V)
+	  - Décret n°2003-996 du 20 octobre 2003 - art. 5 (V)
+	  - Décret n°2004-375 du 29 avril 2004 - art. 3 (V)
+	  - Décret n°2004-396 du 6 mai 2004 - art. 6 (V)
+	  - Décret n°2004-399 du 7 mai 2004 - art. 3 (V)
+	  - Décret n°2004-409 du 13 mai 2004 - art. 3 (V)
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 8 (Ab)
+	  - Décret n°2004-1036 du 1 octobre 2004 - art. 3 (V)
+	  - Décret n°2004-1092 du 15 octobre 2004 - art. 3 (V)
+	  - Décret n°2004-1353 du 4 décembre 2004 - art. 3 (V)
+	  - Décret n°2005-46 du 24 janvier 2005 - art. 3 (V)
+	  - Décret n°2005-823 du 21 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-857 du 28 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-858 du 28 juillet 2005 - art. 3 (V)
+	  - Décret n°2005-969 du 10 août 2005 - art. 3 (V)
+	  - Décret n°2005-970 du 10 août 2005 - art. 3 (V)
+	  - Décret n°2005-1689 du 26 décembre 2005 - art. 4 (V)
+	  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
+	  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
+	  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
+	  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
+	  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
+	  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
+	  - Décret n°2009-456 du 23 avril 2009 - art. 5 (V)
+	  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
+	  - Décret n°2010-119 du 4 février 2010 - art. 5 (V)
+	  - Décret n°2014-379 du 29 mars 2014 - art. 5 (V)
+	  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
+	  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
+	  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
+	  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
+	  - Décret n°2014-1233 du 23 octobre 2014 - art. 2 (V)
+	  - Décret n°2014-1424 du 28 novembre 2014 - art. 2 (V)
+	  - Décret n°2014-1506 du 15 décembre 2014 - art. 2 (V)
+	  - Décret n°2015-898 du 22 juillet 2015 - art. 2 (V)
+	  - Décret n°2015-939 du 30 juillet 2015 - art. 2 (V)
+	  - Décret n°2016-62 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-63 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-64 du 29 janvier 2016 - art. 2 (V)
+	  - Décret n°2016-262 du 4 mars 2016 - art. 2 (V)
+	  - Décret n°2016-419 du 8 avril 2016 - art. 2 (V)
+	  - Décret n°2016-420 du 8 avril 2016 - art. 2 (V)
+	  - Décret n°2016-477 du 18 avril 2016 - art. 2 (V)
+	  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (Ab)
+	  - Code de commerce - art. L713-14 (V)
+	  - Code de commerce - art. L723-3 (VD)
+	  - Code de commerce - art. R713-5 (VD)
+	  - Code de commerce. - art. L713-8 (T)
+	  - Code de commerce. - art. R713-40 (V)
+	  - Code de l'organisation judiciaire - art. R221-33 (V)
+	  - Code de la sécurité sociale. - art. L214-4 (Ab)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code de la sécurité sociale. - art. R611-93 (Ab)
+	  - Code de la sécurité sociale. - art. R633-31 (Ab)
+	  - Code du travail - art. L513-3 (M)
+	  - Code du travail - art. R513-13 (Ab)
+	  - Code rural - art. L723-24 (V)
+	  - Code rural - art. R492-4 (V)
+	  - Code rural ancien - art. 1019 (Ab)
+	  - Décret n°1947-05-02 du 2 mai 1947 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Décret n°80-1075 1980-12-24 art. 1 JORF 28 décembre 1980
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1048 du 1er août 2016 - art. 5
 
 
 ###### Article L28
@@ -8291,6 +8607,107 @@ le tribunal d'instance compétent.
 	  - Code électoral - art. R225 (V)
 
 
+###### Article R*13
+
+Les recours au tribunal d'instance prévus à l'article L. 25 sont formés par déclaration orale ou écrite, faite, remise ou
+adressée au secrétariat-greffe du tribunal d'instance. La déclaration indique les nom, prénoms et adresse du requérant et la
+qualité en laquelle il agit, ainsi que l'objet du recours; si celui-ci tend à l'inscription ou à la radiation d'un électeur
+omis ou qui serait indûment inscrit, elle précise, en outre, les nom, prénoms et adresse de cet électeur.
+
+Les recours prévus aux premier et deuxième alinéas de l'article L. 25 doivent être exercés dans les dix jours de la
+publication prévue à l'article L. 21. Les recours ouverts au préfet ou au sous-préfet par le troisième alinéa de l'article L.
+25 doivent être exercés dans les dix jours qui suivent la réception du tableau contenant les additions et retranchements
+faits à la liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°69-747 1969-07-24 art. 6 JORF 26 juillet 1969
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°80-1075 1980-12-24 art. 2 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°84-252 du 6 avril 1984 - art. 18 (Ab)
+	  - Arrêté du 29 avril 1996 - art. 5 (V)
+	  - Décret n°98-733 du 20 août 1998 - art. 13 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 14 (V)
+	  - Code de commerce - art. R713-41 (V)
+	  - Code de commerce - art. R713-5 (V)
+	  - Code de la santé publique - art. R4031-29 (V)
+	  - Code de la sécurité sociale. - art. R611-40 (V)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code électoral - art. R15-7 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. L21 (V)
+	  - Code électoral - art. L25 (V)
+
+
+###### Article R*14
+
+Le tribunal statue, sans forme et sur simple avertissement donné trois jours à l'avance à toutes les parties intéressées,
+dans les dix jours du recours ou, le cas échéant, de la décision du tribunal administratif saisi en application de l'article
+L. 20. Trois jours également à l'avance, le secrétariat-greffe du tribunal avise du recours le commissaire de la République,
+qui peut présenter des observations.
+
+Toutefois, si la demande portée devant lui implique la solution préjudicielle d'une question d'état, le tribunal d'instance
+renvoie préalablement les parties à se pourvoir devant le juge compétent et fixe un bref délai dans lequel la partie qui aura
+élevé la question préjudicielle devra justifier de ses diligences. Il est procédé, en ce cas, conformément aux articles 855,
+856 et 858 du code de procédure civile.
+
+En cas d'annulation des opérations de la commission administrative, les recours sont radiés d'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°80-1075 1980-12-24 art. 3 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°84-252 du 6 avril 1984 - art. 18 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 20 (Ab)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 11 (V)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+
+	**Cite**:
+
+	  - Code électoral - art. L20 (V)
+	  - Code de procédure civile 855, 856, 858
+
+
+###### Article R*15
+
+La décision prise par le tribunal d'instance est notifiée dans les trois jours par le secrétariat-greffe au requérant et au
+préfet et, s'il y a lieu, à l'électeur intéressé, par lettre recommandée avec demande d'avis de réception. Le secrétariat-
+greffe en donne avis au maire dans le même délai.
+
+La décision n'est pas susceptible d'opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°80-1075 1980-12-24 art. 4 JORF 28 décembre 1980
+
+
 ###### Article R*16
 
 Le dernier jour de février de chaque année, la commission administrative de chaque bureau de vote opère toutes les
@@ -8427,6 +8844,258 @@ Les délais prévus aux articles L. 20, R. 8, R. 10 et R. 12 sont calculés et p
 	**Liens**:
 
 	  - TXT_ASSOCIE: Nouveau code de procédure civile 640, 641, 642
+
+
+###### Article R15-1
+
+Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal d'instance. Il est
+ouvert dans tous les cas au préfet. Il n'est pas suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
+	  - Décret n°98-733 du 20 août 1998 - art. 13 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 13 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 21 (V)
+	  - Code de la santé publique - art. R4031-29 (M)
+	  - Code de la sécurité sociale. - art. R382-53 (V)
+	  - Code de la sécurité sociale. - art. R611-40 (V)
+	  - Code de la sécurité sociale. - art. R611-49 (V)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code électoral - art. R15-7 (Ab)
+	  - Code électoral - art. R17-1 (Ab)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (V)
+
+
+###### Article R15-2
+
+Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir spécial fait,
+remet ou adresse par pli recommandé soit au secrétariat-greffe du tribunal d'instance qui a rendu la décision attaquée, soit
+au secrétariat-greffe de la Cour de cassation. La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi,
+ainsi que, s'il y a lieu, les nom, prénoms et adresse du ou des défendeurs au pourvoi.
+
+A peine d'irrecevabilité du pourvoi, prononcée d'office, la déclaration doit contenir un énoncé des moyens de cassation
+invoqués et être accompagnée d'une copie de la décision attaquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°83-3 du 5 janvier 1983 - art. 14 (VT)
+	  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
+	  - Décret n°84-625 du 17 juillet 1984 - art. 43 (Ab)
+	  - Décret n°94-147 du 16 février 1994 - art. 12 (V)
+	  - Arrêté du 29 avril 1996 - art. 5 (V)
+	  - Arrêté du 29 avril 1996 - art. 7 (V)
+	  - Décret n°2017-886 du 9 mai 2017 - art. 1
+	  - Code de la santé publique - art. R4031-29 (V)
+	  - Code de la santé publique - art. R4031-31 (V)
+	  - Code de la santé publique - art. R4031-36 (V)
+	  - Code de la sécurité sociale. - art. D214-13 (Ab)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code du travail - art. R513-25 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (V)
+
+
+###### Article R15-3
+
+Le secrétariat-greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est
+formé et délivre ou adresse par lettre simple récépissé de la déclaration. S'il y a un défendeur, le secrétariat-greffe qui a
+reçu le pourvoi lui adresse aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette
+notification reproduit la teneur de l'article R. 15-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
+	  - Code de la sécurité sociale. - art. D214-13 (Ab)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code du travail - art. R513-25 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R15-5 (M)
+
+
+###### Article R15-4
+
+Lorsque le pourvoi a été formé au tribunal d'instance, le secrétariat-greffe de ce tribunal transmet immédiatement au
+secrétariat-greffe de la Cour de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision
+attaquée ainsi que les documents relatifs à la notification de celle-ci et, s'il y a un défenseur, les documents relatifs à
+la notification du pourvoi à ce dernier. Il transmet au secrétariat-greffe de la Cour de cassation toute pièce qui lui
+parviendrait ultérieurement.
+
+Lorsque le pourvoi a été formé à la Cour de cassation, le secrétariat-greffe de la Cour de cassation demande immédiatement le
+dossier de l'affaire ainsi que les documents relatifs à la décision attaquée au secrétariat-greffe du tribunal d'instance qui
+a rendu la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°83-3 du 5 janvier 1983 - art. 14 (M)
+	  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
+	  - Code de la sécurité sociale. - art. D214-13 (Ab)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code du travail - art. R513-25 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (V)
+
+
+###### Article R15-5
+
+Dès qu'il a reçu la copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre récépissé ou adresse
+par lettre recommandée au secrétariat-greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie au
+demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
+	  - Code de la sécurité sociale. - art. D214-13 (Ab)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code du travail - art. R513-25 (M)
+	  - Code électoral - art. R15-3 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (V)
+
+
+###### Article R15-6
+
+Les parties sont dispensées du ministère d'un avocat au Conseil d'État et à la Cour de cassation. Si les parties ou l'une
+d'elles chargent un avocat au Conseil d'État et à la Cour de cassation de les ou de la représenter, les dispositions des
+articles 974 à 982 du nouveau code de procédure civile ne sont pas applicables.
+
+Lorsqu'un avocat au Conseil d'État et à la Cour de cassation a déclaré au secrétariat-greffe de la Cour de cassation qu'il
+représentait une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de
+notification entre avocats. La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du
+secrétariat-greffe, vaut notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
+	  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
+	  - Décret n°84-625 du 17 juillet 1984 - art. 43 (Ab)
+	  - Code de la sécurité sociale. - art. D214-13 (Ab)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code du travail - art. R513-25 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 974 à 982
+
+
+###### Article R15-7
+
+Les délais prévus aux articles R. 13 et R. 15-1 sont calculés et prorogés conformément aux dispositions des articles 640, 641
+et 642 du nouveau code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+
+	**Cité par**:
+
+	  - Décret n°87-376 du 11 juin 1987 - art. 2 (V)
+	  - Code de la sécurité sociale. - art. R611-66 (M)
+	  - Code électoral - art. R*17-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
+
+	**Cite**:
+
+	  - Code électoral - art. R*13 (M)
+	  - Code électoral - art. R15-1 (V)
+	  - Nouveau code de procédure civile 640, 641, 642
 
 
 ##### Section 3 : Inscription en dehors des périodes de révision
