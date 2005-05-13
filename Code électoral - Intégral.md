@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-05-14
 
 # Partie législative
 
@@ -740,16 +740,17 @@ prescrites par la loi.
 
 ###### Article L12
 
-Les Français et les Françaises établis hors de France et immatriculés au consulat de France peuvent, sur leur demande, être
-inscrits sur la liste électorale de l'une des communes suivantes :
+Les Français et les Françaises inscrits au registre des Français établis hors de France de la circonscription consulaire dans
+laquelle ils ont leur résidence peuvent, sur leur demande, être inscrits sur la liste électorale de l'une des communes
+suivantes :
 
-commune de naissance;
+Commune de naissance ;
 
-commune de leur dernier domicile;
+Commune de leur dernier domicile ;
 
-commune de leur dernière résidence, à condition que cette résidence ait été de six mois au moins;
+Commune de leur dernière résidence, à condition que cette résidence ait été de six mois au moins ;
 
-commune où est né, est inscrit ou a été inscrit sur la liste électorale un de leurs ascendants;
+Commune où est né, est inscrit ou a été inscrit sur la liste électorale un de leurs ascendants ;
 
 Commune sur la liste électorale de laquelle est inscrit ou a été inscrit un de leurs parents jusqu'au quatrième degré.
 
@@ -759,14 +760,9 @@ Commune sur la liste électorale de laquelle est inscrit ou a été inscrit un d
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-	  - SPEC_APPLI: Le titre I de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
-
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 1 () JORF 9 décembre 2003
+	  - Ordonnance n°2005-461 du 13 mai 2005 - art. 4 () JORF 14 mai 2005
 
 	**Cité par**:
 
@@ -816,15 +812,19 @@ sur la liste électorale de la commune dans laquelle a son siège le bureau de r
 
 ###### Article L14
 
-Les Français et les Françaises établis hors de France et immatriculés au consulat de France et les conjoints des militaires
-de carrière ou liés par contrat peuvent également, sur justification des liens du mariage, demander leur inscription sur la
-liste électorale sur laquelle est inscrit leur conjoint.
+Les Français et les Françaises inscrits au registre des Français établis hors de France de la circonscription consulaire dans
+laquelle ils ont leur résidence et les conjoints des militaires de carrière ou liés par contrat peuvent également, sur
+justification des liens du mariage, demander leur inscription sur la liste électorale sur laquelle est inscrit leur conjoint.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-461 du 13 mai 2005 - art. 4 () JORF 14 mai 2005
 
 	**Cité par**:
 
