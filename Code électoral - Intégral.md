@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-05-14
+Version Consolidée au 2005-12-16
 
 # Partie législative
 
@@ -13314,12 +13314,11 @@ la collectivité territoriale de Saint-Pierre-et-Miquelon.
 Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon.
 
 Le renouvellement du mandat du sénateur de Saint-Pierre-et-Miquelon a lieu à la même date que celui du mandat des sénateurs
-de la série C mentionnée à l'article L.O. 276 du présent code.
+de la série 1 mentionnée à l'article L.O. 276 du présent code.
 
 **Nota:**
 
-NOTA : Les dispositions de la loi 2005-1563 du 15 décembre 2005 art. 5, prennent effet à compter du renouvellement partiel de
-2011.
+Les dispositions de la loi 2005-1563 du 15 décembre 2005 art. 5, prennent effet à compter du renouvellement partiel de 2011.
 
 **Liens relatifs à cet article**
 
@@ -13327,9 +13326,13 @@ NOTA : Les dispositions de la loi 2005-1563 du 15 décembre 2005 art. 5, prennen
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur indéterminée, renouvellement partiel de 2011
+
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 5 () JORF 16 décembre 2005
 
 	**Abrogé par**:
 
@@ -13970,16 +13973,12 @@ ce délai à leurs supérieurs hiérarchiques, ils seront réputés avoir opté 
 Les dispositions du livre II du présent code sont applicables à l'élection des sénateurs de Mayotte, à l'exclusion de
 l'article L. 280.
 
-Le renouvellement du mandat des sénateurs de Mayotte a lieu à la même date que celui des sénateurs de la série C prévue à
+Le renouvellement du mandat des sénateurs de Mayotte a lieu à la même date que celui des sénateurs de la série 1 prévue à
 l'article LO 276 du code électoral.
 
 **Nota:**
 
-Nota : Les dispositions de la loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article L334-15 du code électoral, prennent
-effet à compter du renouvellement de la série à laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
-
-Nota : Loi 2005-1563 du 15 décembre 2005 art. 5 : Ces dispositions prennent effet à compter du renouvellement partiel de
-2011.
+Loi 2005-1563 du 15 décembre 2005 art. 5 : Ces dispositions prennent effet à compter du renouvellement partiel de 2011.
 
 **Liens relatifs à cet article**
 
@@ -13989,7 +13988,7 @@ Nota : Loi 2005-1563 du 15 décembre 2005 art. 5 : Ces dispositions prennent eff
 
 	**Liens**:
 
-	  - SPEC_APPLI: Fin d'application, renouvellement partiel de 2011
+	  - SPEC_APPLI: Entrée en vigueur, renouvellement partiel de 2011
 
 	**Cité par**:
 
@@ -13997,7 +13996,7 @@ Nota : Loi 2005-1563 du 15 décembre 2005 art. 5 : Ces dispositions prennent eff
 
 	**Modifié par**:
 
-	  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 5 () JORF 16 décembre 2005
 
 	**Abrogé par**:
 
@@ -36905,7 +36904,7 @@ Total
 	  - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Election des sénateurs
+## Répartition des sièges de sénateurs entre les séries
 
 ###### Article Annexe tableau n° 5
 
@@ -36970,7 +36969,7 @@ Français établis hors de France : 4
 
 = 127
 
-II. - A compter du renouvellement partiel de 2007, le tableau précité est ainsi rédigé :
+II. - A compter du renouvellement partiel de 2008, le tableau précité est ainsi rédigé :
 
 Représentation des départements
 
@@ -37030,7 +37029,7 @@ Français établis hors de France : 4
 
 = 127
 
-III. - A compter du renouvellement partiel de 2010, le tableau précité est ainsi rédigé :
+III. - A compter du renouvellement partiel de 2011, le tableau précité est ainsi rédigé :
 
 Représentation des départements
 
@@ -37088,8 +37087,10 @@ Français établis hors de France : 6
 
 	**Modifié par**:
 
-	  - Loi n°2004-404 du 10 mai 2004 - art. 1 () JORF 11 mai 2004
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
 
+
+## Election des sénateurs
 
 ### Nombre de sénateurs représentant les départements
 

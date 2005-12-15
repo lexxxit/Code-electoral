@@ -61,7 +61,7 @@ Français établis hors de France : 4
 
 = 127
 
-II. - A compter du renouvellement partiel de 2007, le tableau précité est ainsi rédigé :
+II. - A compter du renouvellement partiel de 2008, le tableau précité est ainsi rédigé :
 
 Représentation des départements
 
@@ -121,7 +121,7 @@ Français établis hors de France : 4
 
 = 127
 
-III. - A compter du renouvellement partiel de 2010, le tableau précité est ainsi rédigé :
+III. - A compter du renouvellement partiel de 2011, le tableau précité est ainsi rédigé :
 
 Représentation des départements
 
@@ -179,4 +179,4 @@ Français établis hors de France : 6
 
 	**Modifié par**:
 
-	  - Loi n°2004-404 du 10 mai 2004 - art. 1 () JORF 11 mai 2004
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
