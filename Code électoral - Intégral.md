@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-12-16
+Version Consolidée au 2005-12-22
 
 # Partie législative
 
@@ -28073,6 +28073,26 @@ bulletins agréés par la commission de propagande, à l'exception de la couleur
 	**Cité par**:
 
 	  - Code électoral - art. R250 (V)
+
+
+###### Article R249-1
+
+Les déclarations individuelles de rattachement des représentants à l'assemblée de la Polynésie française prévues à l'article
+L. 414 sont recueillies par le haut-commissaire, qui les adresse au Conseil supérieur de l'audiovisuel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 32 () JORF 22 décembre 2005
+
+	**Cite**:
+
+	  - Code électoral - art. L414 (V)
 
 
 #### Chapitre III : Opérations de vote et recensement
