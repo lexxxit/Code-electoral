@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-12-22
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -2765,7 +2765,8 @@ Les personnes morales, à l'exception des partis ou groupements politiques, ne p
 campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des
 biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués.
 
-Tout don de plus de 150 euros consenti à un candidat en vue de sa campagne doit être versé par chèque.
+Tout don de plus de 150 euros consenti à un candidat en vue de sa campagne doit être versé par chèque, virement, prélèvement
+automatique ou carte bancaire.
 
 Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du montant des dépenses autorisées lorsque ce
 montant est égal ou supérieur à 15 000 euros en application de l'article L. 52-11.
@@ -2799,9 +2800,14 @@ d'autres mentions que celles propres à permettre le versement du don.
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
+	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe II JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 5 () JORF 31 décembre 2005
 
 	**Cite**:
 
