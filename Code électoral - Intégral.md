@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -8409,42 +8409,6 @@ Ne peuvent être élus les majeurs placés sous tutelle ou sous curatelle.
 	**Anciens textes**:
 
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 7 (Ab)
-
-
-###### Article L202
-
-Conformément à l'article 194 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaire
-des entreprises sont inéligibles les personnes physiques à l'égard desquelles la liquidation judiciaire, la faillite
-personnelle ou l'interdiction de gérer prévue par l'article 192 de la loi précitée a été prononcée.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-	  - Loi n°82-214 du 2 mars 1982 - art. 7 (Ab)
-	  - Code électoral - art. L233 (M)
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-98 1985-01-25 art. 242 et art. 243
-
-	**Cite**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 192 (M)
-	  - Loi n°85-98 du 25 janvier 1985 - art. 194 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 220 () JORF 26 janvier 1985
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 188 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article L203
@@ -19084,6 +19048,34 @@ Les délais prévus aux articles L. 20, R. 8, R. 10 et R. 12 sont calculés et p
 	  - TXT_ASSOCIE: Nouveau code de procédure civile 640, 641, 642
 
 
+###### Article R5-1
+
+En même temps qu'ils demandent leur inscription dans les conditions prévues au premier alinéa de l'article R. 5, les Français
+établis hors de France peuvent demander leur radiation de la liste électorale consulaire sur laquelle ils sont inscrits. 
+
+Cette demande de radiation est transmise au ministre des affaires étrangères par l'Institut national de la statistique et des
+études économiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 48 () JORF 23 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Arrêté du 29 mars 2006 - art. 9 (Ab)
+	  - Arrêté du 20 juillet 2007 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R5 (V)
+
+
 ###### Article R7-1
 
 Lorsqu'il est fait application des dispositions du deuxième alinéa de l'article L. 11-2, l'article R. 6 est applicable.
@@ -21974,11 +21966,11 @@ listes d'émargement déposées dans les conditions fixées à l'article L 68.
 
 ###### Article R*72
 
-Pour les personnes résidant en France, les procurations sont établies par acte dressé devant le juge du tribunal d'instance
-de leur résidence ou le juge qui en exerce les fonctions ou le greffier en chef de ce tribunal, ainsi que devant tout
-officier de police judiciaire, autre que les maires et leurs adjoints, que ce juge aura désigné. A la demande de ce
-magistrat, le premier président de la cour d'appel peut désigner, en outre, d'autres magistrats ou d'autres greffier en chef,
-en activité ou à la retraite.
+Sur le territoire national, les procurations sont établies par acte dressé devant le juge du tribunal d'instance de leur
+résidence ou le juge qui en exerce les fonctions ou le greffier en chef de ce tribunal, ainsi que devant tout officier de
+police judiciaire, autre que les maires et leurs adjoints, que ce juge aura désigné. A la demande de ce magistrat, le premier
+président de la cour d'appel peut désigner, en outre, d'autres magistrats ou d'autres greffier en chef, en activité ou à la
+retraite.
 
 Les officiers de police judiciaire compétents pour établir les procurations, ou leurs délégués, se déplacent à la demande des
 personnes qui, en raison de maladies ou d'infirmités graves, ne peuvent manifestement comparaître devant eux.
@@ -22016,18 +22008,22 @@ magistrat qui l'a désigné.
 
 	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 3 () JORF 26 janvier 2002
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 48 () JORF 23 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R*72-1
 
-Les procurations données par les personnes se trouvant hors de France sont établies par acte dressé devant l'autorité
-consulaire.
+Hors de France, les procurations sont établies par acte dressé devant l'ambassadeur pourvu d'une circonscription consulaire
+ou le chef de poste consulaire ou devant un consul honoraire de nationalité française habilité à cet effet par arrêté du
+ministre des affaires étrangères. L'ambassadeur et le chef de poste consulaire peuvent déléguer leur signature en cette
+matière, sous leur responsabilité, à un ou plusieurs agents relevant de leur autorité ayant la qualité de fonctionnaire. Le
+nom du ou des agents ayant reçu délégation est publié par voie d'affichage, à l'intérieur des locaux de l'ambassade ou du
+poste consulaire, en un lieu accessible au public.
 
 Pour les militaires et les autres personnes auxquelles s'applique l'article 60 du code de justice militaire, stationnés hors
-de France, l'autorité consulaire peut déléguer les compétences qui lui sont conférées par l'alinéa ci-dessus aux officiers de
-police judiciaire des forces armées et aux autorités qui ont qualité pour exercer des attributions d'officier de police
-judiciaire conformément à l'article 84 du même code.
+de France, l'ambassadeur ou le chef de poste consulaire peut déléguer les compétences qui lui sont conférées à l'alinéa
+précédent aux officiers de police judiciaire des forces armées et aux autorités qui ont qualité pour exercer des attributions
+d'officier de police judiciaire conformément à l'article 84 du même code.
 
 **Liens relatifs à cet article**
 
@@ -22050,7 +22046,7 @@ judiciaire conformément à l'article 84 du même code.
 
 	**Modifié par**:
 
-	  - Décret n°2004-134 du 12 février 2004 - art. 3 () JORF 13 février 2004
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 48 () JORF 23 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
