@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-06-02
 
 # Partie législative
 
@@ -22011,49 +22011,6 @@ magistrat qui l'a désigné.
 	  - Décret n°2005-1613 du 22 décembre 2005 - art. 48 () JORF 23 décembre 2005 en vigueur le 1er janvier 2006
 
 
-###### Article R*72-1
-
-Hors de France, les procurations sont établies par acte dressé devant l'ambassadeur pourvu d'une circonscription consulaire
-ou le chef de poste consulaire ou devant un consul honoraire de nationalité française habilité à cet effet par arrêté du
-ministre des affaires étrangères. L'ambassadeur et le chef de poste consulaire peuvent déléguer leur signature en cette
-matière, sous leur responsabilité, à un ou plusieurs agents relevant de leur autorité ayant la qualité de fonctionnaire. Le
-nom du ou des agents ayant reçu délégation est publié par voie d'affichage, à l'intérieur des locaux de l'ambassade ou du
-poste consulaire, en un lieu accessible au public.
-
-Pour les militaires et les autres personnes auxquelles s'applique l'article 60 du code de justice militaire, stationnés hors
-de France, l'ambassadeur ou le chef de poste consulaire peut déléguer les compétences qui lui sont conférées à l'alinéa
-précédent aux officiers de police judiciaire des forces armées et aux autorités qui ont qualité pour exercer des attributions
-d'officier de police judiciaire conformément à l'article 84 du même code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
-	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
-	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
-	  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (V)
-	  - Décret n°2005-1613 du 22 décembre 2005 - art. 43 (V)
-	  - Arrêté du 29 mars 2006 - art. 7 (Ab)
-	  - Arrêté du 20 juillet 2007 - art. 10 (V)
-	  - Décret n°2015-1407 du 5 novembre 2015 - art. Annexe 1 (V)
-	  - Code de la sécurité sociale. - art. R214-21 (P)
-	  - Code électoral - art. R72-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2005-1613 du 22 décembre 2005 - art. 48 () JORF 23 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code de justice militaire - art. 60 (Ab)
-	  - Code de justice militaire - art. 84 (Ab)
-
-
 ###### Article R*72-2
 
 Pour les marins de l'État en campagne lointaine, et pour les marins du commerce et de la pêche embarqués au long cours ou à
@@ -22424,6 +22381,48 @@ des droits civiques du mandant.
 	  - CODE DES COMMUNES. - art. R*125-6 (Ab)
 	  - Code de la sécurité sociale. - art. R214-21 (P)
 	  - Code électoral - art. R176-2-4 (V)
+
+
+###### Article R72-1
+
+Hors de France, les procurations sont établies par acte dressé devant l'ambassadeur pourvu d'une circonscription consulaire
+ou le chef de poste consulaire ou devant un consul honoraire de nationalité française habilité à cet effet par arrêté du
+ministre des affaires étrangères. L'ambassadeur et le chef de poste consulaire peuvent déléguer leur signature en cette
+matière, sous leur responsabilité, à un ou plusieurs agents relevant de leur autorité ayant la qualité de fonctionnaire. Le
+nom du ou des agents ayant reçu délégation est publié par voie d'affichage, à l'intérieur des locaux de l'ambassade ou du
+poste consulaire, en un lieu accessible au public.
+
+Pour les militaires et les autres personnes auxquelles s'applique l'article L. 121-2 du code de justice militaire, stationnés
+hors de France, l'ambassadeur ou le chef de poste consulaire peut déléguer les compétences qui lui sont conférées à l'alinéa
+précédent aux officiers de police judiciaire des forces armées et aux autorités qui ont qualité pour exercer des attributions
+d'officier de police judiciaire conformément à l'article L. 211-5 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+	  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+	  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (V)
+	  - Décret n°2005-1613 du 22 décembre 2005 - art. 43 (V)
+	  - Arrêté du 29 mars 2006 - art. 7 (Ab)
+	  - Arrêté du 20 juillet 2007 - art. 10 (V)
+	  - Décret n°2015-1407 du 5 novembre 2015 - art. Annexe 1 (V)
+	  - Code de la sécurité sociale. - art. R214-21 (P)
+	  - Code électoral - art. R72-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-637 du 1 juin 2006 - art. 2 (V) JORF 2 juin 2006
+
+	**Cite**:
+
+	  - Code de justice militaire L121-2, L211-5
 
 
 ##### Section 5  : Commissions de contrôle des opérations de vote
