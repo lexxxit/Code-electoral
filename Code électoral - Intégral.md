@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2006-10-13
+Version Consolidée au 2006-10-21
 
 # Partie législative
 
@@ -20602,6 +20602,76 @@ intéressée, au plus tard le cinquième jour avant celui de la réunion des él
 
 ##### Section 2 : Opérations de vote
 
+###### Article D56-1
+
+Les locaux où sont implantés les bureaux de vote doivent être accessibles, le jour du scrutin, aux personnes handicapées,
+quel que soit leur handicap.
+
+Les personnes handicapées, notamment celles qui se déplacent en fauteuil roulant, doivent pouvoir, dans des conditions
+normales de fonctionnement, y pénétrer, y circuler et en sortir, le cas échéant au moyen d'aménagements provisoires ou
+permanents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2006-1287 du 20 octobre 2006 - art. 1 () JORF 21 octobre 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-598 du 23 juin 2008 - art. 6 (V)
+
+
+###### Article D56-2
+
+Les bureaux de vote doivent être équipés d'au moins un isoloir permettant l'accès des personnes en fauteuils roulants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2006-1287 du 20 octobre 2006 - art. 1 () JORF 21 octobre 2006
+
+
+###### Article D56-3
+
+Les urnes doivent être accessibles aux personnes en fauteuils roulants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2006-1287 du 20 octobre 2006 - art. 1 () JORF 21 octobre 2006
+
+
+###### Article D61-1
+
+Les techniques de vote doivent être accessibles aux personnes handicapées, quel que soit le type de ce handicap. Le président
+du bureau de vote prend toute mesure utile afin de faciliter le vote autonome des personnes handicapées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2006-1287 du 20 octobre 2006 - art. 2 () JORF 21 octobre 2006
+
+
 ###### Article R42
 
 Chaque bureau de vote est composé d'un président, d'au moins deux assesseurs et d'un secrétaire choisi par eux parmi les
@@ -23527,40 +23597,6 @@ pas sur l'une des listes présentées au premier tour.
 
 	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
 	  - Code électoral - art. R265 (VD)
-
-
-##### Section 3 : Opérations préparatoires au scrutin
-
-###### Article R127
-
-En cas de deuxième tour de scrutin, le maire fait les publications nécessaires pour convoquer les électeurs.
-
-**Nota:**
-
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
-l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
-préparatoires à ce scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-	  - Loi n°82-974 1982-11-19 ART. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code électoral - art. L247 (M)
 
 
 #### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus
