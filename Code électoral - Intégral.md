@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-02-01
+Version Consolidée au 2007-02-09
 
 # Partie législative
 
@@ -19678,6 +19678,34 @@ domicile, de la résidence ou de l'adresse de l'organisme d'accueil de l'électe
 	**Cite**:
 
 	  - Code électoral - art. L18 (V)
+
+
+###### Article R24-1
+
+La carte électorale des personnes inscrites sur les listes électorales de la commune qui ont atteint l'âge de dix-huit ans
+depuis le 1er mars de l'année précédente leur est remise lors d'une cérémonie de citoyenneté. 
+
+Cette cérémonie est organisée par le maire dans un délai de trois mois à compter du 1er mars de chaque année ; elle ne peut
+pas être organisée durant la campagne électorale d'une élection concernant tout ou partie du territoire de la commune. 
+
+Le préfet et le président du tribunal de grande instance, ou leurs délégués, assistent à la cérémonie de citoyenneté. 
+
+A défaut de remise au cours de cette cérémonie ou lorsque celle-ci n'a pas été organisée, la carte électorale est adressée
+dans les conditions prévues à l'article R. 25.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-168 du 8 février 2007 - art. 1 () JORF 9 février 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R25 (V)
 
 
 ###### Article R25
