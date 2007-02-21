@@ -3,173 +3,792 @@
 I. - A compter du renouvellement partiel de 2004, le tableau n° 5 annexé au code électoral et fixant la répartition des
 sièges de sénateurs entre les séries est ainsi rédigé :
 
+<table>
+  <tbody>
+    <tr>
+      <td width="205" colspan="2">
+
+SÉRIE A
+
+</td>
+      <td width="205" colspan="2">
+
+SÉRIE B
+
+</td>
+      <td colspan="2" width="205">
+
+SÉRIE C
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="6">
+
 Représentation des départements
 
-SÉRIE A :
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-Ain à Indre : 95
+Ain à Indre
 
-Guyane : 1
+</td>
+      <td width="102">
 
-= 96
+95
 
-SÉRIE B :
+</td>
+      <td width="102">
 
-Indre-et-Loire à Pyrénées-Orientales : 94
+Indre-et-Loire à Pyrénées-Orientales
 
-La Réunion : 3
+</td>
+      <td width="102">
 
-= 97
+94
 
-SÉRIE C :
+</td>
+      <td width="102">
 
-Bas-Rhin à Yonne : 68 
+Bas-Rhin à Yonne
 
-Essonne à Yvelines : 47 
+</td>
+      <td width="102">
 
-Guadeloupe, Martinique : 5
+68
 
-= 120 
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Guyane
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+      <td width="102">
+
+La Réunion
+
+</td>
+      <td width="102">
+
+3
+
+</td>
+      <td width="102">
+
+Essonne à Yvelines
+
+</td>
+      <td width="102">
+
+47
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+
+Guadeloupe, Martinique
+
+</td>
+      <td width="102">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+96
+
+</td>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+97
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+120
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6" width="614">
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
 
-SÉRIE A :
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-Polynésie française : 1
+Polynésie française
 
-Iles Wallis et Futuna : 1
+</td>
+      <td width="102">
 
-Français établis hors de France : 4
+1
 
-= 102
+</td>
+      <td width="102">
 
-SÉRIE B :
+Nouvelle-Calédonie
 
-Nouvelle-Calédonie : 1
+</td>
+      <td width="102">
 
-Français établis hors de France : 4
+1
 
-= 102
+</td>
+      <td width="102">
 
-SÉRIE C :
+Mayotte
 
-Mayotte : 2 
+</td>
+      <td width="102">
 
-Saint-Pierre-et-Miquelon : 1 
+2
 
-Français établis hors de France : 4
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-= 127
+Iles Wallis-et-Futuna
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+      <td width="102">
+
+Saint-Pierre-et-Miquelon
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Total
+
+</td>
+      <td width="102">
+
+102
+
+</td>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+102
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+127
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 II. - A compter du renouvellement partiel de 2008, le tableau précité est ainsi rédigé :
 
+<table>
+  <tbody>
+    <tr>
+      <td width="205" colspan="2">
+
+SÉRIE A
+
+</td>
+      <td colspan="2" width="205">
+
+SÉRIE B
+
+</td>
+      <td colspan="2" width="205">
+
+SÉRIE C
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="6">
+
 Représentation des départements
 
-SÉRIE A :
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-Ain à Indre : 103
+Ain à Indre
 
-Guyane : 2
+</td>
+      <td width="102">
 
-= 105
+103
 
-SÉRIE B :
+</td>
+      <td width="102">
 
-Indre-et-Loire à Pyrénées-Orientales : 94
+Indre-et-Loire à Pyrénées-Orientales
 
-La Réunion : 3
+</td>
+      <td width="102">
 
-= 97
+94
 
-SÉRIE C :
+</td>
+      <td width="102">
 
-Bas-Rhin à Yonne : 68 
+Bas-Rhin à Yonne
 
-Essonne à Yvelines : 47 
+</td>
+      <td width="102">
 
-Guadeloupe, Martinique : 5
+68
 
-= 120 
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Guyane
+
+</td>
+      <td width="102">
+
+2
+
+</td>
+      <td width="102">
+
+La Réunion
+
+</td>
+      <td width="102">
+
+3
+
+</td>
+      <td width="102">
+
+Essonne à Yvelines
+
+</td>
+      <td width="102">
+
+47
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+
+Guadeloupe, Martinique
+
+</td>
+      <td width="102">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+105
+
+</td>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+97
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+120
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="6">
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
 
-SÉRIE A :
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-Polynésie française : 2
+Polynésie française
 
-Iles Wallis et Futuna : 1
+</td>
+      <td width="102">
 
-Français établis hors de France : 4
+2
 
-= 112
+</td>
+      <td width="102">
 
-SÉRIE B :
+Nouvelle-Calédonie
 
-Nouvelle-Calédonie : 1
+</td>
+      <td width="102">
 
-Français établis hors de France : 4
+1
 
-= 102
+</td>
+      <td width="102">
 
-SÉRIE C :
+Mayotte
 
-Mayotte : 2 
+</td>
+      <td width="102">
 
-Saint-Pierre-et-Miquelon : 1 
+2
 
-Français établis hors de France : 4
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-= 127
+Iles Wallis-et-Futuna
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+      <td width="102">
+
+Saint-Pierre-et-Miquelon
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Total
+
+</td>
+      <td width="102">
+
+114
+
+</td>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+102
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+127
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 III. - A compter du renouvellement partiel de 2011, le tableau précité est ainsi rédigé :
 
+<table>
+  <tbody>
+    <tr>
+      <td width="202" colspan="2">
+
+SÉRIE 1
+
+</td>
+      <td width="202" colspan="2">
+
+SÉRIE 2
+
+</td>
+    </tr>
+    <tr>
+      <td width="403" colspan="4">
+
 Représentation des départements
 
-SÉRIE 1 :
+</td>
+    </tr>
+    <tr>
+      <td width="101">
 
-Indre-et-Loire à Pyrénées-Orientales : 97
+Indre-et-Loire à Pyrénées-Orientales
 
-Seine-et-Marne : 6
+</td>
+      <td width="100">
 
-Essonne à Yvelines : 47 
+97
 
-Guadeloupe, Martinique, La Réunion : 9
+</td>
+      <td width="101">
 
-= 159
+Ain à Indre
 
-SÉRIE 2 :
+</td>
+      <td width="100">
 
-Ain à Indre : 103
+103
 
-Bas-Rhin à Yonne à l'exception de la Seine-et-Marne : 62
+</td>
+    </tr>
+    <tr>
+      <td width="101">
 
-Guyane : 2
+Seine-et-Marne
 
-= 167 
+</td>
+      <td width="100">
+
+6
+
+</td>
+      <td width="101">
+
+Bas-Rhin à Yonne (à l'exception de la Seine-et-Marne)
+
+</td>
+      <td width="100">
+
+62
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Essonne à Yvelines
+
+</td>
+      <td width="100">
+
+47
+
+</td>
+      <td width="101">
+
+Guyane
+
+</td>
+      <td width="100">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Guadeloupe, Martinique, La Réunion
+
+</td>
+      <td width="100">
+
+9
+
+</td>
+      <td width="101">
+      </td><td width="100">
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+</td>
+      <td width="100">
+
+159
+
+</td>
+      <td width="101">
+      </td><td width="100">
+
+167
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4" width="403">
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
 
-SÉRIE 1 :
+</td>
+    </tr>
+    <tr>
+      <td width="101">
 
-Mayotte : 2 
+Mayotte
 
-Saint-Pierre-et-Miquelon : 1 
+</td>
+      <td width="100">
 
-Nouvelle-Calédonie : 2
+2
 
-Français établis hors de France : 6
+</td>
+      <td width="101">
 
-= 170
+Polynésie française
 
-SÉRIE 2 :
+</td>
+      <td width="100">
 
-Polynésie française : 2
+2
 
-Iles Wallis et Futuna : 1
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+      </td><td width="100">
 
-Français établis hors de France : 6
+</td>
+      <td width="101">
 
-= 176
+Saint-Barthélemy
+
+</td>
+      <td width="100">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+      </td><td width="100">
+
+</td>
+      <td width="101">
+
+Saint-Martin
+
+</td>
+      <td width="100">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Saint-Pierre-et-Miquelon
+
+</td>
+      <td width="100">
+
+1
+
+</td>
+      <td width="101">
+
+Iles Wallis-et-Futuna
+
+</td>
+      <td width="100">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Nouvelle-Calédonie
+
+</td>
+      <td width="100">
+
+2
+
+</td>
+      <td width="101">
+
+Français établis hors de France
+
+</td>
+      <td width="100">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Français établis hors de France
+
+</td>
+      <td width="100">
+
+6
+
+</td>
+      <td width="101">
+      </td><td width="100">
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Total
+
+</td>
+      <td width="100">
+
+170
+
+</td>
+      <td width="101">
+
+</td>
+      <td width="100">
+
+178
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -179,4 +798,4 @@ Français établis hors de France : 6
 
 	**Modifié par**:
 
-	  - Loi n°2005-1563 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
+	  - Loi n°2007-224 du 21 février 2007 - art. 8 () JORF 22 février 2007
