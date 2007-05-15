@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-05-16
 
 # Partie législative
 
@@ -12633,40 +12633,6 @@ Les dispositions des articles L. 106 à L. 110 et L. 113 à L. 117 sont applicab
 
 	  - Code électoral - art. L106 (V)
 	  - Code électoral - art. L113 (V)
-
-
-## Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte
-
-### Titre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux à Saint-Pierre-et-Miquelon
-
-###### Article L328
-
-Les dispositions du titre Ier du livre Ier du présent code sont applicables dans la collectivité territoriale de Saint-
-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral Titre I, livre I
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-	**Nouveaux textes**:
-
-	  - Code électoral - art. L328-4 (Ab)
 
 
 ## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse
@@ -27516,705 +27482,6 @@ scrutin.
 	  - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre III : Dispositions particulières à Saint-Pierre-et-Miquelon et à Mayotte
-
-### Titre Ier : Dispositions particulières à Saint-Pierre-et-Miquelon
-
-#### Chapitre Ier : Dispositions générales
-
-###### Article R172
-
-Les dispositions des livres Ier et II du présent code (partie Réglementaire) sont applicables, conformément à l'article 22 de
-la loi n° 85-595 du 11 juin 1985, à Saint-Pierre-et-Miquelon sous réserve des dispositions du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°85-595 1985-06-11 art. 22
-
-	**Modifié par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cité par**:
-
-	  - Code électoral - art. R176-3 (V)
-
-
-###### Article R172-1
-
-Pour l'application des dispositions du présent code (partie Réglementaire) à Saint-Pierre-et-Miquelon, il y a lieu de lire :
-
-1° "Collectivité territoriale" ou "de la collectivité territoriale", au lieu de : "département", d'"arrondissement" ou de :
-
-"départemental" ;
-
-2° "Représentant de l'Etat" ou "services du représentant de l'Etat", au lieu de : "préfet", de : "sous-préfet" ou de :
-
-"préfecture" et "sous-préfecture" ;
-
-3° "Tribunal supérieur d'appel", au lieu de : "cour d'appel" ;
-
-4° "Tribunal de première instance", au lieu de : "tribunal de grande instance" ou de : "tribunal d'instance" ;
-
-5° "Circonscription électorale", au lieu de : "canton" ;
-
-6° "Payeur", au lieu de : "trésorier-payeur général".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Décret n°79-160 du 28 février 1979 - art. 24 (V)
-	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
-	  - Décret n°2004-134 du 12 février 2004 - art. 12 (V)
-	  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
-	  - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
-	  - Décret n°2008-170 du 22 février 2008 - art. 5
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-###### Article R172-2
-
-Sauf s'il en est disposé autrement par le présent code, le représentant de l'Etat fixe, par arrêté, la date à partir de
-laquelle les déclarations de candidature aux élections prévues au présent titre peuvent être reçues dans ses services.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-###### Article R172-3
-
-Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
-l'élection, soit au greffe du tribunal administratif, soit au secrétariat du contentieux du Conseil d'Etat, soit au
-secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
-représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
-transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
-à la partie qui le demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-#### Chapitre II : Dispositions particulières à l'élection du député de Saint-Pierre-et-Miquelon
-
-###### Article R173
-
-En cas de dissolution de l'Assemblée nationale, les déclarations de candidature peuvent, par dérogation aux dispositions de
-l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
-arrêté de ce ministre.
-
-Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat.
-
-Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Décret n°79-160 du 28 février 1979 - art. 24 (M)
-	  - Décret n°80-213 du 11 mars 1980 - art. 8 (Ab)
-	  - Décret n°92-773 du 6 août 1992 - art. 2 (V)
-	  - Décret n°2000-835 du 31 août 2000 - art. 2 (V)
-	  - Décret n°88-946 du 5 octobre 1988 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code électoral - art. R*98 (M)
-
-
-#### Chapitre III : Dispositions particulières à l'élection des conseillers généraux de Saint-Pierre-et-Miquelon
-
-###### Article R174
-
-L'élection des conseillers généraux de Saint-Pierre-et-Miquelon est régie par les dispositions du titre III du livre Ier du
-présent code (partie Réglementaire), sous réserve des dispositions suivantes :
-
-1° Les nom et prénoms des candidats figurant aux trois derniers rangs dans la circonscription de Saint-Pierre et au dernier
-rang dans la circonscription de Miquelon-Langlade sont imprimés en caractères plus petits que ceux des autres candidats de la
-liste.
-
-2° Pour l'application du premier alinéa de l'article R. 113, les mots : "par un électeur du canton, par un candidat ou par un
-membre du conseil général" sont remplacés par les mots : "par un électeur de la collectivité territoriale ou par un
-candidat".
-
-3° Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au
-représentant de l'Etat qui en constate la réception sur un registre et en donne récépissé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code électoral - art. R113 (M)
-
-
-###### Article R174-1
-
-Dans le cas d'une élection partielle prévue à l'avant-dernier alinéa de l'article L. 334 pour laquelle le nombre de sièges à
-pourvoir est inférieur à quatre :
-
-1° Les articles R. 109-1 et R. 109-2 sont applicables ;
-
-2° Les candidats peuvent se présenter soit isolément, soit sur une liste.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code électoral - art. L334 (M)
-	  - Code électoral - art. R109-1 (M)
-	  - Code électoral - art. R109-2 (M)
-
-
-#### Chapitre V : Dispositions particulières à l'élection du sénateur de Saint-Pierre-et-Miquelon
-
-###### Article R175
-
-Les dispositions du titre III bis du livre II du présent code (partie Réglementaire) ne sont pas applicables à l'élection du
-sénateur de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-### Titre II : Dispositions particulières à Mayotte
-
-#### Chapitre Ier : Dispositions générales
-
-###### Article R176
-
-Les dispositions du titre Ier, à l'exception des articles R. 4-1 et R. 20 à R. 22, du titre II et des chapitres Ier à III du
-titre IV du livre Ier du présent code (partie Réglementaire) sont, conformément à l'article 3 de la loi n° 2001-616 du 11
-juillet 2001, applicables à Mayotte sous réserve des dispositions du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 3 (AbD)
-	  - Code électoral - art. R*20 (M)
-	  - Code électoral - art. R*22 (M)
-	  - Code électoral - art. R*4-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-###### Article R176-1
-
-Pour l'application du présent code à Mayotte, il y a lieu de lire :
-
-1° "Mayotte", au lieu de : "département" ou :
-
-"arrondissement" ;
-
-2° "Représentant de l'Etat", au lieu de : "préfet" ou :
-
-"sous-préfet" ou : "Institut national de la statistique et des études économiques" ;
-
-3° "Services du représentant de l'Etat", au lieu de : "préfecture" ou : "autorité préfectorale" ou : "administration
-préfectorale" ;
-
-4° "Tribunal de première instance", au lieu de : "tribunal d'instance" et : "tribunal de grande instance" ;
-
-5° "Président du tribunal supérieur d'appel", au lieu de :
-
-"premier président de cour d'appel" ;
-
-6° "Secrétaire général", au lieu de : "secrétaire général de préfecture" ;
-
-7° "Receveur des finances", au lieu de : "trésorier-payeur général" ;
-
-8° "Budget du service de la poste", au lieu de : "budget annexe des postes et télécommunications" ;
-
-9° "Archives de la collectivité départementale", au lieu de :
-
-"archives départementales" ;
-
-10° "Code des communes applicable à Mayotte", au lieu de : "code général des collectivités territoriales" ;
-
-11° "De la collectivité départementale", au lieu de :
-
-"départemental" ou : "départementaux" ;
-
-12° abrogé
-
-13° abrogé
-
-14° "Chef du service de la coordination et de l'action économique", au lieu de : "directeur départemental des enquêtes
-économiques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Décret n°79-160 du 28 février 1979 - art. 25 (V)
-	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
-	  - Décret n°2004-134 du 12 février 2004 - art. 12 (V)
-	  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
-	  - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
-	  - Décret n°2008-170 du 22 février 2008 - art. 5
-
-	**Modifié par**:
-
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 7 () JORF 13 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-###### Article R176-2
-
-I. - Le fichier mentionné à l'article L. 334-4-1 est tenu par le représentant de l'Etat.
-
-Ce fichier est constitué à partir :
-
-1° Des listes électorales de Mayotte ;
-
-2° Des listes électorales complémentaires établies à Mayotte pour l'application du chapitre Ier bis de la loi du 7 juillet
-1977 relative à l'élection des représentants au Parlement européen ;
-
-3° Des listes électorales complémentaires établies à Mayotte pour l'application des articles LO 227-1 à LO 227-4 ;
-
-Il est mis à jour à partir :
-
-1° Des décisions des commissions administratives chargées de la révision des listes électorales relatives aux inscriptions et
-radiations effectuées sur ces listes ;
-
-2° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ;
-
-3° Des avis de perte ou de recouvrement de la capacité électorale établis par les services du casier judiciaire ;
-
-4° Des avis de décès établis par les mairies ;
-
-5° Des avis reçus de l'Institut national de la statistique et des études économiques, de l'Institut territorial de la
-statistique et des études économiques de la Nouvelle-Calédonie, des représentants de l'Etat chargés du contrôle des listes
-électorales en Polynésie française et dans les îles Wallis et Futuna relatifs aux personnes inscrites sur une liste
-électorale à Mayotte et qui :
-
-a) Soit, étant également inscrites sur une liste électorale hors de Mayotte, doivent être radiées à Mayotte ;
-
-b) Soit sont décédées hors de Mayotte ;
-
-c) Soit ont fait l'objet hors de Mayotte d'une décision les privant de leurs droits civils et politiques.
-
-II. - Les catégories d'informations traitées sont :
-
-1° Identité de l'électeur : nom, prénoms, sexe, nom d'épouse ou de veuve, date et lieu de naissance ;
-
-2° Lieu et date d'inscription sur les listes électorales ;
-
-3° Nature de la liste électorale (générale ou complémentaire) ;
-
-4° Perte des droits civils et politiques, date d'effet et durée ;
-
-5° Acquisition ou perte de la nationalité française ;
-
-6° Nationalité, pour les ressortissants de l'Union européenne autres que les citoyens français ;
-
-7° Décès.
-
-III. - Les destinataires des informations traitées sont :
-
-1° Les maires, pour ce qui concerne leur commune ;
-
-2° L'Institut national de la statistique et des études économiques, l'Institut territorial de la statistique et des études
-économiques de la Nouvelle-Calédonie et, en Polynésie française et dans les îles Wallis et Futuna, le représentant de l'Etat
-chargé du contrôle des listes électorales, pour les informations de la nature de celles qui sont mentionnées au 5° du I.
-
-IV. - Le droit d'accès prévu par les articles 34 et 35 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés s'exerce auprès du représentant de l'Etat.
-
-V. - Le fichier ne peut servir à des fins de recherche de personnes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°77-729 1977-07-07
-	  - Loi n°78-17 1978-01-06 art. 34, art. 35
-	  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
-	  - Code électoral - art. L334-4-1 (M)
-	  - Code électoral L334-4-1, LO 227-1 à LO 227-4
-
-	**Cité par**:
-
-	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-###### Article R176-3
-
-La commission de propagande prévue aux articles R. 32 et R. 158 est présidée à Mayotte par un magistrat du siège désigné par
-le président du tribunal supérieur d'appel, assisté de trois fonctionnaires désignés par le représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cité par**:
-
-	  - Arrêté du 27 avril 2012 - art. 1 (V)
-	  - Arrêté du 27 avril 2012 - art. 2 (V)
-	  - Arrêté du 27 avril 2012 - art. 3 (V)
-	  - Arrêté du 4 mars 2014 (V)
-	  - Arrêté du 4 mars 2014 - art. 1 (V)
-	  - Arrêté du 4 mars 2014 - art. 4 (V)
-	  - Décret n°2014-290 du 4 mars 2014 - art. 14 (V)
-	  - Décret n°2014-290 du 4 mars 2014 - art. 15 (V)
-	  - Arrêté du 17 mars 2017 - art. 1 (V)
-	  - Code électoral - art. R176-3-10 (V)
-	  - Code électoral - art. R176-3-3 (V)
-	  - Code électoral - art. R176-3-4 (V)
-	  - Code électoral - art. R176-3-7 (V)
-	  - Code électoral - art. R179-1 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. R*158 (M)
-	  - Code électoral - art. R32 (M)
-
-
-###### Article R176-4
-
-Pour l'application de l'article R. 41, le représentant de l'Etat peut en outre avancer par arrêté l'heure de clôture du
-scrutin sans que la durée du scrutin puisse être inférieure à dix heures.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Cité par**:
-
-	  - Décret n°2002-888 du 8 mai 2002 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code électoral - art. R41 (M)
-
-
-###### Article R176-5
-
-Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
-l'élection, soit au greffe du tribunal administratif, soit au secrétariat du contentieux du Conseil d'Etat, soit au
-secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
-représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
-transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
-à la partie qui le demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-###### Article R176-6
-
-Jusqu'au 30 mai 2009 et par dérogation aux dispositions de l'article R. 60, les électeurs qui ne seraient pas en mesure de
-produire l'un des documents mentionnés dans l'arrêté prévu à cet article pourront néanmoins être admis à voter à l'occasion
-de tout scrutin organisé au suffrage universel à Mayotte si leur identité peut être confirmée par deux électeurs inscrits sur
-la même liste électorale et porteurs de l'un de ces documents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code électoral - art. R60 (M)
-
-
-#### Chapitre II : Dispositions applicables à l'élection du député de Mayotte
-
-###### Article R177
-
-En cas de dissolution de l'Assemblée nationale, les déclarations de candidatures peuvent, par dérogation aux dispositions de
-l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
-arrêté de ce ministre.
-
-Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat.
-
-Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code électoral - art. R*98 (M)
-
-
-###### Article R177-1
-
-La commission de recensement général des votes prévue par l'article R. 107 est présidée à Mayotte par un magistrat du siège
-appartenant au tribunal supérieur d'appel désigné par le président de cette juridiction, assisté de deux fonctionnaires qu'il
-désigne sur proposition du représentant de l'Etat, d'un conseiller général et d'un fonctionnaire désignés par le représentant
-de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code électoral - art. R*107 (M)
-
-
-#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte
-
-###### Article R178
-
-L'élection des conseillers généraux de Mayotte est régie par les dispositions du titre III du livre Ier du présent code
-(partie Réglementaire).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 1 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte
-
-###### Article R179
-
-Les dispositions du titre III bis du livre II du présent code (partie Réglementaire) ne sont pas applicables à l'élection des
-sénateurs de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°2004-900 du 30 août 2004 - art. 7 () JORF 1er septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-
-###### Article R179-1
-
-Le bureau du collège électoral prévu à l'article R. 163 est présidé à Mayotte par un magistrat appartenant au tribunal
-supérieur d'appel désigné par le président de cette juridiction, assisté de deux chefs de service qu'il désigne et des deux
-conseillers généraux les plus âgés présents à l'ouverture du scrutin et non candidats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Décret n°79-160 du 28 février 1979 - art. 25 (M)
-	  - Décret n°2000-835 du 31 août 2000 - art. 2 (V)
-	  - Arrêté du 27 avril 2012 - art. 3 (V)
-	  - Arrêté du 4 mars 2014 - art. 4 (V)
-	  - Code électoral - art. R176-4-7 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2004-900 du 30 août 2004 - art. 7 () JORF 1er septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
-
-	**Cite**:
-
-	  - Code électoral - art. R*163 (M)
-
-
 ## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse
 
 ###### Article R182
@@ -31254,6 +30521,2156 @@ scrutin.
 
 	  - Code électoral - art. R*171 (M)
 	  - Code électoral - art. R278 (V)
+
+
+## Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon
+
+### Titre Ier : Dispositions particulières à Mayotte
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article D284
+
+Les dispositions des livres Ier et II du présent code (partie Réglementaire), conformément à l'article LO 6113-1 du code
+général des collectivités territoriales, sont applicables à Mayotte sous réserve des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6113-1 (V)
+
+
+###### Article D285
+
+Pour l'application de ces dispositions à Mayotte, il y a lieu de lire :
+
+1° "collectivité départementale de Mayotte", au lieu de :
+
+"département" ou "arrondissement" ;
+
+2° "représentant de l'Etat" et "services du représentant de l'Etat", au lieu respectivement de : "préfet" ou "sous-préfet" et
+de "Institut national de la statistique et des études économiques" ou "préfecture" ;
+
+3° "tribunal de première instance", au lieu de : "tribunal de grande instance" ou de "tribunal d'instance" ;
+
+4° "tribunal supérieur d'appel" au lieu de : "cour d'appel".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D286
+
+Sauf s'il en est disposé autrement par le présent code, le représentant de l'Etat fixe, par arrêté, la date à partir de
+laquelle les déclarations de candidature aux élections prévues au présent titre peuvent être reçues dans ses services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D287
+
+I.-Le fichier mentionné à l'article L. 452 est tenu par le représentant de l'Etat. 
+
+Ce fichier est constitué à partir : 
+
+1° Des listes électorales de Mayotte ; 
+
+2° Des listes électorales complémentaires établies à Mayotte pour l'application du chapitre Ier bis de la loi du 7 juillet
+1977 relative à l'élection des représentants au Parlement européen ; 
+
+3° Des listes électorales complémentaires établies à Mayotte pour l'application des articles LO 227-1 à LO 227-4. 
+
+II.-Il est mis à jour à partir : 
+
+1° Des décisions des commissions administratives chargées de la révision des listes électorales relatives aux inscriptions et
+radiations effectuées sur ces listes ; 
+
+2° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ; 
+
+3° Des avis de perte ou de recouvrement de la capacité électorale établis par les services du casier judiciaire ; 
+
+4° Des avis de décès établis par les mairies ; 
+
+5° Des avis reçus de l'Institut national de la statistique et des études économiques, de l'Institut territorial de la
+statistique et des études économiques de la Nouvelle-Calédonie, des représentants de l'Etat chargés du contrôle des listes
+électorales en Polynésie française et dans les îles Wallis et Futuna relatifs aux personnes inscrites sur une liste
+électorale à Mayotte et qui : 
+
+a) Soit, étant également inscrites sur une liste électorale hors de Mayotte, doivent être radiées à Mayotte ; 
+
+b) Soit sont décédées hors de Mayotte ; 
+
+c) Soit ont fait l'objet hors de Mayotte d'une décision les privant de leurs droits civils et politiques. 
+
+III.-Les catégories d'informations traitées sont : 
+
+1° Identité de l'électeur : nom, prénoms, sexe, nom d'épouse ou de veuve, date et lieu de naissance ; 
+
+2° Lieu et date d'inscription sur les listes électorales ; 
+
+3° Nature de la liste électorale (générale ou complémentaire) ; 
+
+4° Perte des droits civils et politiques, date d'effet et durée ; 
+
+5° Acquisition ou perte de la nationalité française ; 
+
+6° Nationalité, pour les ressortissants de l'Union européenne autres que les citoyens français ; 
+
+7° Décès. 
+
+IV.-Les destinataires des informations traitées sont : 
+
+1° Les maires, pour ce qui concerne leur commune ; 
+
+2° L'Institut national de la statistique et des études économiques, l'Institut de la statistique et des études économiques de
+la Nouvelle-Calédonie et, en Polynésie française et dans les îles Wallis et Futuna, le représentant de l'Etat chargé du
+contrôle des listes électorales, pour les informations de la nature de celles qui sont mentionnées au 5 du I. 
+
+V.-Le droit d'accès prévu par les articles 34 et 35 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés s'exerce auprès du représentant de l'Etat. 
+
+VI.-Le fichier ne peut servir à des fins de recherche de personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Cite**:
+
+	  - Loi n°77-729 du 7 juillet 1977 -  Chapitre Ier bis : Listes électorales complémen... (VD)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 34 (V)
+	  - Code électoral - art. L452 (V)
+	  - Code électoral - art. LO227-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D288
+
+La commission de propagande prévue aux articles R. 32, R. 158 et D. 299 est présidée à Mayotte par un magistrat du siège
+désigné par le président du tribunal supérieur d'appel, assisté de trois fonctionnaires désignés par le représentant de
+l'Etat. Elle est installée au plus tard à l'ouverture de la campagne électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D299 (Ab)
+	  - Code électoral - art. R158 (V)
+	  - Code électoral - art. R32 (V)
+
+
+###### Article D289
+
+Pour l'application de l'article R. 41, le représentant de l'Etat peut en outre avancer par arrêté l'heure de clôture du
+scrutin sans que la durée du scrutin puisse être inférieure à dix heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-1468 du 15 octobre 2007 - art. 3 (V)
+	  - Décret n°2007-1469 du 15 octobre 2007 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R41 (M)
+
+
+###### Article D290
+
+Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
+l'élection, soit au greffe du tribunal administratif, soit au secrétariat du contentieux du Conseil d'Etat, soit au
+secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
+représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
+transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
+à la partie qui le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D291
+
+Jusqu'au 1er juillet 2009 et par dérogation aux dispositions de l'article R. 60, les électeurs qui ne seraient pas en mesure
+de produire l'un des documents mentionnés dans l'arrêté prévu à cet article pourront néanmoins être admis à voter à
+l'occasion de tout scrutin organisé au suffrage universel à Mayotte si leur identité peut être confirmée par deux électeurs
+inscrits sur la même liste électorale et porteurs de l'un de ces documents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R60
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député
+
+###### Article D292
+
+En cas de dissolution de l'Assemblée nationale, les déclarations de candidature peuvent, par dérogation aux dispositions de
+l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
+arrêté de ce ministre.
+
+Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat.
+
+Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R*98
+
+
+###### Article D293
+
+La commission de recensement général des votes prévue par l'article R. 107 est présidée à Mayotte par un magistrat du siège
+appartenant au tribunal supérieur d'appel désigné par le président de cette juridiction, assisté de deux fonctionnaires qu'il
+désigne sur proposition du représentant de l'Etat, d'un conseiller général et d'un fonctionnaire désigné par le représentant
+de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R107 (V)
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte
+
+###### Article D294
+
+Les déclarations de candidature au conseil général de Mayotte sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D295
+
+La déclaration que tout candidat à l'élection au conseil général doit obligatoirement souscrire pour chaque tour de scrutin
+est déposée à la préfecture par le candidat ou un mandataire désigné par lui, dans un délai fixé par arrêté préfectoral.
+
+Les retraits de candidature ne peuvent être présentés que jusqu'à la date limite fixée pour le dépôt des candidatures ; ils
+sont enregistrés comme les déclarations elles-mêmes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D296
+
+Chaque candidat ou remplaçant doit fournir à l'appui de sa déclaration de candidature :
+
+1° Une attestation d'inscription sur la liste électorale délivrée par le président de la collectivité dans les trente jours
+précédant le dépôt de la candidature, ou une copie de la décision de justice ordonnant l'inscription de l'intéressé, ou, à
+défaut, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un bulletin n° 3 du casier
+judiciaire délivré depuis moins de trois mois ;
+
+2° Si l'intéressé n'est pas domicilié dans la collectivité ou que les pièces mentionnées au I n'établissent pas son domicile
+dans la collectivité :
+
+a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établissent que l'intéressé est
+inscrit au rôle des contributions directes de la collectivité au 1 er janvier de l'année de l'élection ;
+
+b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
+propriétaire ou locataire d'un immeuble dans la collectivité ou d'un acte enregistré au cours de la même année établissant
+que l'intéressé est devenu locataire d'un immeuble dans la collectivité ;
+
+c) Soit une attestation notariée du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de
+l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de la
+situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des
+contributions directes dans la collectivité au 1er janvier de l'année de l'élection.
+
+La délivrance du récépissé par le représentant de l'Etat ne fait pas obstacle à ce que l'éligibilité du candidat puisse être
+contestée devant le juge de l'élection.
+
+L'état de la liste des candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre du dépôt des
+candidatures et publiée au Journal officiel de Mayotte par le représentant de l'Etat, au plus tard quatre jours après la
+clôture du dépôt des candidatures.
+
+En cas d'élection partielle, toute candidature est soumise aux mêmes conditions d'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D297 (V)
+	  - Code électoral - art. D298 (Ab)
+
+
+###### Article D297
+
+Les bulletins de vote ne comportent que le titre de la liste ainsi que les noms et prénoms de chacun des candidats dans
+l'ordre résultant de la publication prévue à l'article D. 296.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D296 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. D298 (Ab)
+
+
+###### Article D298
+
+N'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal : 
+
+1° Les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue à l'article D. 296 ; 
+
+2° Les bulletins qui ne répondent pas aux dispositions de l'article D. 297 ; 
+
+3° Les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ; 
+
+4° Les bulletins qui ne sont pas imprimés en caractères noirs ; 
+
+5° Les circulaires utilisées comme bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D296 (Ab)
+	  - Code électoral - art. D297 (Ab)
+
+
+###### Article D299
+
+La commission de propagande prévue à l'article L. 463 est instituée par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D288 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. L463 (V)
+
+
+###### Article D300
+
+La commission de recensement général des votes est instituée par arrêté du représentant de l'Etat. Elle est présidée, à
+Mayotte, par un magistrat du siège appartenant au tribunal supérieur d'appel désigné par le président de cette juridiction,
+assisté de deux fonctionnaires qu'il désigne sur proposition du représentant de l'Etat, d'un conseiller général et d'un
+fonctionnaire désigné par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D301
+
+Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au président de
+la commission de recensement général des votes qui en constate la réception sur un registre et en donne récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D302
+
+Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
+verbaux. Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il est opéré par la commission de recensement
+général des votes. Les résultats sont proclamés par son président.
+
+Les résultats sont publiés au Bulletin officiel de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D303
+
+Lorsque la protestation formée contre l'élection d'un membre au conseil général par un électeur de la collectivité ou par un
+candidat a été consignée dans le procès-verbal des opérations électorales, ce procès verbal doit être transmis dès sa
+réception par le représentant de l'Etat au greffe du tribunal administratif.
+
+Les protestations peuvent également être déposées audit greffe dans les quinze jours qui suivent l'élection.
+
+Le recours qui peut être formé par le représentant de l'Etat pour inobservation des conditions et formalités légales doit
+être déposé au greffe du tribunal administratif dans les quinze jours qui suivent l'élection.
+
+La notification est faite par les soins du président du tribunal administratif dans les trois jours de l'enregistrement de la
+protestation, au conseiller proclamé élu qui est avisé en même temps qu'il a cinq jours pour tout délai à l'effet de déposer
+sa défense au greffe du tribunal administratif et faire connaître s'il entend ou non user du droit de présenter des
+observations orales.
+
+Il est donné récépissé soit des protestations déposées au greffe, soit des défenses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D304
+
+Le tribunal administratif prononce sa décision dans le délai de deux mois à compter de l'enregistrement de la réclamation au
+greffe (bureau central ou greffe annexe) ; la décision est notifiée dans les huit jours à partir de sa date au représentant
+de l'Etat et aux parties intéressées, dans les conditions fixées à l'article R. 751-3 du code de justice administrative. 
+
+En cas de renouvellement d'une série sortante, ce délai est porté à trois mois. 
+
+S'il intervient une décision ordonnant une preuve, le tribunal administratif doit statuer dans le délai d'un mois à compter
+du jour ou le jugement sur la question préjudicielle est devenu définitif. 
+
+Dans le cas prévu à l'article D. 306, le tribunal administratif doit statuer dans le délai d'un mois, à compter du jour où le
+jugement sur la question préjudicielle est devenu définitif. 
+
+Lorsqu'il est fait application des dispositions de l'article L. 118-2, les délais, prévus aux premier et deuxième alinéas,
+dans lesquels le tribunal administratif doit se prononcer, courent à partir de la date de réception par le tribunal
+administratif des décisions de la Commission nationale des comptes de campagne et des financements politiques ou, à défaut de
+décision explicite, à partir de l'expiration du délai de deux mois prévu audit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D306 (Ab)
+	  - Code électoral - art. L118-2 (V)
+	  - Code de justice administrative. - art. R751-3 (V)
+
+
+###### Article D305
+
+Lorsqu'une réclamation implique la solution d'une question préjudicielle, le tribunal administratif renvoie les parties à se
+pourvoir devant les juges compétents, et la partie doit justifier de ses diligences dans le délai de quinzaine ; à défaut de
+cette justification, il sera passé outre, et la décision du tribunal administratif devra intervenir dans le mois à partir de
+l'expiration de ce délai de quinzaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D307 (Ab)
+
+
+###### Article D306
+
+Le recours au Conseil d'Etat contre la décision du tribunal administratif est ouvert soit au préfet, soit aux parties
+intéressées. Il doit, à peine de nullité, être déposé au secrétariat du représentant de l'Etat dans le délai d'un mois à
+partir de la notification de la décision. La requête est marquée d'un timbre indiquant la date de son arrivée et est
+transmise par le représentant de l'Etat au secrétariat du contentieux du Conseil d'Etat.
+
+Les délais pour la constitution d'un avocat sont d'un mois pour chacune de ces opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D304 (Ab)
+	  - Code électoral - art. D307 (Ab)
+
+
+###### Article D307
+
+Faute d'avoir statué dans les délais fixés par les articles D. 305 et D. 306, le tribunal administratif est dessaisi. Le
+secrétaire greffier en informe le représentant de l'Etat et les parties intéressées en leur faisant connaître qu'ils ont un
+délai d'un mois pour se pourvoir devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D305 (Ab)
+	  - Code électoral - art. D306 (Ab)
+
+
+###### Article D308
+
+Les décisions du tribunal administratif prises en application de l'article L. 118-3 sont notifiées dans les huit jours au
+candidat intéressé et au représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3 (V)
+
+
+#### Chapitre V : Dispositions applicables à l'élection du sénateur de Mayotte
+
+###### Article D309
+
+Les dispositions du titre III bis du livre II du présent code (partie Réglementaire) ne sont pas applicables à l'élection du
+sénateur de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D310
+
+Le bureau du collège électoral prévu à l'article R. 163 est présidé à Mayotte par un magistrat appartenant au tribunal
+supérieur d'appel désigné par le président de cette juridiction, assisté de deux chefs de service qu'il désigne et de deux
+conseillers généraux les plus âgés présents à l'ouverture du scrutin et non candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R163 (V)
+
+
+### Titre II : Dispositions particulières à Saint-Barthélemy
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article D311
+
+Les dispositions des livres Ier et II du présent code (partie Réglementaire), conformément à l'article LO 6213-1 du code
+général des collectivités territoriales, sont applicables à Saint-Barthélemy sous réserve des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6213-1 (V)
+
+
+###### Article D312
+
+Pour l'application de ces dispositions à Saint Barthélemy, il y a lieu de lire :
+
+1° " Collectivité ", au lieu de : " département ", " arrondissement " ou " départemental " ;
+
+2° " Circonscription électorale " au lieu de : " canton " ;
+
+3° " Président de conseil territorial ", au lieu de :
+
+" maire " ;
+
+4° " Représentant de l'Etat " ou " services du représentant de l'Etat ", au lieu de : " préfet ",  " sous-préfet " ou "
+préfecture " et " sous-préfecture " ;
+
+5° " Hôtel de la collectivité ", au lieu de : " mairie ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D313
+
+Sauf s'il en est disposé autrement par le présent code, le représentant de l'Etat fixe, par arrêté, la date à partir de
+laquelle les déclarations de candidature aux élections prévues au présent titre peuvent être reçues dans ses services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D314
+
+La commission de propagande prévue aux articles R. 32, R. 158 et D. 323 est présidée à Saint-Barthélemy par un magistrat du
+siège désigné par le premier président de la cour d'appel, assisté de trois fonctionnaires désignés par le représentant de
+l'Etat. Elle est installée au plus tard à l'ouverture de la campagne électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D323 (Ab)
+	  - Code électoral - art. R158 (V)
+	  - Code électoral - art. R32 (V)
+
+
+###### Article D315
+
+Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
+l'élection, soit au secrétariat du contentieux du Conseil d'Etat, soit au secrétariat général du Conseil constitutionnel,
+soit, quelle que soit la nature de l'élection, auprès des services du représentant de l'Etat. Dans ce dernier cas, la requête
+est marquée d'un timbre indiquant la date de son arrivée et elle est transmise par le représentant de l'Etat au greffe ou au
+secrétariat de la juridiction compétente. Il en est délivré récépissé à la partie qui le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député
+
+###### Article D316
+
+En cas de dissolution de l'Assemblée nationale, les déclarations de candidature peuvent, par dérogation aux dispositions de
+l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
+arrêté de ce ministre. 
+
+Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat. 
+
+Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R98 (V)
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy
+
+###### Article D317
+
+Les déclarations de candidature au conseil territorial de Saint-Barthélemy sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D318
+
+Chaque candidat doit fournir à l'appui de sa déclaration de candidature :
+
+1° Une attestation d'inscription sur la liste électorale délivrée par le président de la collectivité dans les trente jours
+précédant le dépôt de la candidature, ou une copie de la décision de justice ordonnant l'inscription de l'intéressé, ou, à
+défaut, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un bulletin n° 3 du casier
+judiciaire délivré depuis moins de trois mois ;
+
+2° Si l'intéressé n'est pas domicilié dans la collectivité ou que les pièces mentionnées au 1° n'établissent pas son domicile
+dans la collectivité :
+
+a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établissent que l'intéressé est
+inscrit au rôle des contributions directes de la collectivité au 1er janvier de l'année de l'élection ;
+
+b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
+propriétaire ou locataire d'un immeuble dans la collectivité ou d'un acte enregistré au cours de la même année établissant
+que l'intéressé est devenu locataire d'un immeuble dans la collectivité ;
+
+c) Soit une attestation notariée du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de
+l'année précédant celle de l'élection et des éléments que celui ci-produit, et sous réserve d'une modification de la
+situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des
+contributions directes dans la collectivité au 1er janvier de l'année de l'élection.
+
+La délivrance du récépissé par le représentant de l'Etat ne fait pas obstacle à ce que l'égibilité du candidat puisse être
+contestée devant le juge de l'élection.
+
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre du dépôt des
+listes et publiée au Journal officiel de Saint-Barthélemy par le représentant de l'Etat, au plus tard quatre jours après la
+clôture du dépôt des listes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D322 (Ab)
+
+
+###### Article D319
+
+Les noms et prénoms des candidats figurant aux trois derniers rangs sont imprimés en caractères plus petits que ceux des
+autres candidats de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D322 (Ab)
+
+
+###### Article D320
+
+En cas d'élection partielle, toute candidature est soumise aux mêmes conditions d'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D321 (Ab)
+
+
+###### Article D321
+
+Les bulletins de vote ne comportent que le titre de la liste ainsi que les noms et prénoms de chacun des candidats dans
+l'ordre résultant de la publication prévue à l'article D. 320.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D320 (Ab)
+
+	**Cité par**:
+
+	  - Code électoral - art. D322 (Ab)
+
+
+###### Article D322
+
+N'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal : 
+
+1° Les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue à l'article D. 318 ; 
+
+2° Les bulletins qui ne répondent pas aux dispositions des articles D. 319 et D. 321 ; 
+
+3° Les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ; 
+
+4° Les bulletins qui ne sont pas imprimés en caractères noirs ; 
+
+5° Les circulaires utilisées comme bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D318 (Ab)
+	  - Code électoral - art. D319 (Ab)
+	  - Code électoral - art. D321 (Ab)
+
+
+###### Article D323
+
+La commission de propagande prévue à l'article L. 491 est instituée par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D314 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. L491 (V)
+
+
+###### Article D324
+
+Le recensement général des votes est effectué, en présence des représentants des listes, par une commission.
+
+Cette commission est présidée par un magistrat du siège désigné par le premier président de la cour d'appel, assisté de deux
+fonctionnaires désignés par le représentant de l'Etat. Elle est instituée par un arrêté du représentant de l'Etat.
+
+Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au président de
+la commission de recensement général des votes, qui en constate la réception sur un registre et en donne récépissé.
+
+Les résultats sont proclamés en public par le président de la commission. Ils sont publiés au Journal officiel de Saint-
+Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D325
+
+Lors du renouvellement intégral du conseil territorial, au premier tour de scrutin, ou au second si aucune liste n'a
+recueilli dès le premier tour la majorité absolue des suffrages exprimés et un nombre de suffrages au moins égal au quart des
+électeurs inscrits, la commission attribue à la liste qui a recueilli la majorité des suffrages exprimés sept sièges.
+
+Les sièges non répartis sont attribués comme suit : la commission détermine le quotient électoral, en divisant le nombre de
+suffrages exprimés dans la circonscription par le nombre de sièges à pourvoir au conseil territorial. Il est attribué à
+chaque liste autant de sièges que le nombre de suffrages de la liste contient de fois le quotient électoral.
+
+Les sièges qui n'ont pas été répartis en application de l'alinéa précédent sont attribués selon la règle de la plus forte
+moyenne. A cet effet, les sièges sont conférés successivement à celle des listes pour laquelle la division du nombre de
+suffrages recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus fort résultat.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages dans l'ensemble de la circonscription. En cas d'égalité de suffrages, le siège est attribué au plus
+âgé des candidats susceptibles d'être proclamés élus.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+#### Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Barthélemy
+
+###### Article D326
+
+Les dispositions du titre III bis du livre II du présent code (partie réglementaire) ne sont pas applicables à l'élection du
+sénateur de Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+### Titre III : Dispositions particulières à Saint-Martin
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article D327
+
+Les dispositions des livres Ier et II du présent code (partie Réglementaire), conformément à l'article LO 6313-1 du code
+général des collectivités territoriales, sont applicables à Saint-Martin sous réserve des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6313-1 (V)
+
+
+###### Article D328
+
+Pour l'application de ces dispositions à Saint-Martin, il y a lieu de lire :
+
+1° "Collectivité", au lieu de : "département", "mairie", "arrondissement" ou "départemental"
+
+2° "Circonscription électorale" au lieu de : "canton" ;
+
+3° "Président du conseil territorial", au lieu de : "maire" ;
+
+4° "Représentant de l'Etat" ou "services du représentant de l'Etat", au lieu de : "préfet", "sous-préfet" ou "préfecture" et
+"sous-préfecture" ;
+
+5° "Hôtel de la collectivité", au lieu de : "mairie".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D329
+
+Sauf s'il en est disposé autrement par le présent code, le représentant de l'Etat fixe, par arrêté, la date à partir de
+laquelle les déclarations de candidature aux élections prévues au présent titre peuvent être reçues dans ses services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D330
+
+La commission de propagande prévue aux articles R. 32, R. 158 et D. 338 est présidée à Saint-Barthélemy par un magistrat du
+siège désigné par le premier président de la cour d'appel, assisté de trois fonctionnaires désignés par le représentant de
+l'Etat. Elle est installée au plus tard à l'ouverture de la campagne électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D338 (Ab)
+	  - Code électoral - art. R158 (V)
+	  - Code électoral - art. R32 (V)
+
+
+###### Article D331
+
+Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
+l'élection, soit au secrétariat du contentieux du Conseil d'Etat, soit au secrétariat général du Conseil constitutionnel,
+soit, quelle que soit la nature de l'élection, auprès des services du représentant de l'Etat. Dans ce dernier cas, la requête
+est marquée d'un timbre indiquant la date de son arrivée et elle est transmise par le représentant de l'Etat au greffe ou au
+secrétariat de la juridiction compétente. Il en est délivré récépissé à la partie qui le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député
+
+###### Article D332
+
+En cas de dissolution de l'Assemblée nationale, les déclarations de candidature peuvent, par dérogation aux dispositions de
+l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
+arrêté de ce ministre.
+
+Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat.
+
+Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R*98 (M)
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin
+
+###### Article D333
+
+Les déclarations de candidature au conseil territorial de Saint-Martin sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D334
+
+Chaque candidat doit fournir à l'appui de sa déclaration de candidature :
+
+1° Une attestation d'inscription sur la liste électorale délivrée par le président de la collectivité dans les trente jours
+précédant le dépôt de la candidature, ou une copie de la décision de justice ordonnant l'inscription de l'intéressé, ou, à
+défaut, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un bulletin n° 3 du casier
+judiciaire délivré depuis moins de trois mois ;
+
+2° Si l'intéressé n'est pas domicilié dans la collectivité ou que les pièces mentionnées au 1° n'établissent pas son domicile
+dans la collectivité :
+
+a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établissent que l'intéressé est
+inscrit au rôle des contributions directes de la collectivité au 1er janvier de l'année de l'élection ;
+
+b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
+propriétaire ou locataire d'un immeuble dans la collectivité ou d'un acte enregistré au cours de la même année établissant
+que l'intéressé est devenu locataire d'un immeuble dans la collectivité ;
+
+c) Soit une attestation notariée du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de
+l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de la
+situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des
+contributions directes dans la collectivité au 1er janvier de l'année de l'élection.
+
+La délivrance du récépissé par le représentant de l'Etat ne fait pas obstacle à ce que l'égibilité du candidat puisse être
+contestée devant le juge de l'élection.
+
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre du dépôt des
+listes et publiée au Journal officiel de Saint-Martin par le représentant de l'Etat, au plus tard quatre jours après la
+clôture du dépôt des listes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D338 (Ab)
+
+
+###### Article D335
+
+Les noms et prénoms des candidats figurant aux trois derniers rangs sont imprimés en caractères plus petits que ceux des
+autres candidats de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D338 (Ab)
+
+
+###### Article D336
+
+En cas d'élection partielle, toute candidature est soumise aux mêmes conditions d'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D337 (Ab)
+
+
+###### Article D337
+
+Les bulletins de vote ne comportent que le titre de la liste ainsi que les noms et prénoms de chacun des candidats dans
+l'ordre résultant de la publication prévue à l'article D. 336.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D336 (Ab)
+
+	**Cité par**:
+
+	  - Code électoral - art. D338 (Ab)
+
+
+###### Article D338
+
+N'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal : 
+
+1° Les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue à l'article D. 334 ; 
+
+2° Les bulletins qui ne répondent pas aux dispositions des articles D. 335 et D. 337 ; 
+
+3° Les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ; 
+
+4° Les bulletins qui ne sont pas imprimés en caractères noirs ; 
+
+5° Les circulaires utilisées comme bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D330 (Ab)
+
+	**Cite**:
+
+	  - Code électoral - art. D334 (Ab)
+	  - Code électoral - art. D335 (Ab)
+	  - Code électoral - art. D337 (Ab)
+
+
+###### Article D339
+
+La commission de propagande prévue à l'article L. 518 est instituée par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. L518 (V)
+
+
+###### Article D340
+
+Le recensement général des votes est effectué, en présence des représentants des listes, par une commission.
+
+Cette commission est présidée par un magistrat du siège désigné par le premier président de la cour d'appel, assisté de deux
+fonctionnaires désignés par le représentant de l'Etat. Elle est instituée par un arrêté du représentant de l'Etat.
+
+Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au président de
+la commission de recensement général des votes qui en constate la réception sur un registre et en donne récépissé.
+
+Les résultats sont proclamés en public par le président de la commission. Ils sont publiés au Journal officiel de Saint-
+Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D341
+
+Lors du renouvellement intégral du conseil territorial, au premier tour de scrutin, ou au second si aucune liste n'a
+recueilli dès le premier tour la majorité absolue des suffrages exprimés et un nombre de suffrages au moins égal au quart des
+électeurs inscrits, la commission attribue à la liste qui a recueilli la majorité des suffrages exprimés huit sièges.
+
+Les sièges non répartis sont attribués comme suit : la commission détermine le quotient électoral, en divisant le nombre de
+suffrages exprimés dans la circonscription par le nombre de sièges à pourvoir au conseil territorial. Il est attribué à
+chaque liste autant de sièges que le nombre de suffrages de la liste contient de fois le quotient électoral.
+
+Les sièges qui n'ont pas été répartis en application de l'alinéa précédent sont attribués selon la règle de la plus forte
+moyenne. A cet effet, les sièges sont conférés successivement à celle des listes pour laquelle la division du nombre de
+suffrages recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus fort résultat.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages dans l'ensemble de la circonscription. En cas d'égalité de suffrages, le siège est attribué au plus
+âgé des candidats susceptibles d'être proclamés élus.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+#### Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Martin
+
+###### Article D342
+
+Les dispositions du titre III bis du livre II du présent code (partie réglementaire) ne sont pas applicables à l'élection du
+sénateur de Saint-Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+### Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article D343
+
+Les dispositions des livres Ier et II du présent code (partie réglementaire), conformément à l'article LO 6413-1 du code
+électoral, sont applicables à Saint-Pierre-et-Miquelon sous réserve des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6413-1 (V)
+
+
+###### Article D344
+
+Pour l'application de ces dispositions à Saint-Pierre-et-Miquelon, il y a lieu de lire :
+
+1° "collectivité territoriale", et "de la collectivité territoriale", au lieu respectivement de : "département " ou :
+
+"arrondissement" et de : "départemental" ;
+
+2° "représentant de l'Etat" et "services du représentant de l'Etat", au lieu respectivement de : "préfet" ou : "sous-préfet"
+et de : "préfecture" ou : "sous-préfecture" ;
+
+3° "tribunal supérieur d'appel", au lieu de : "cour d'appel" ;
+
+4° "tribunal de première instance", au lieu de : "tribunal de grande instance" ou : "tribunal d'instance" ;
+
+5° "circonscription électorale", au lieu de : "canton".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D345
+
+Sauf s'il en est disposé autrement par le présent code, le représentant de l'Etat fixe, par arrêté, la date à partir de
+laquelle les déclarations de candidature aux élections prévues au présent titre peuvent être reçues dans ses services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D346
+
+La commission de propagande prévue aux articles R. 32, R. 158 et D. 355 est présidée à Saint-Pierre-et-Miquelon par un
+magistrat du siège désigné par le président du tribunal supérieur d'appel, assisté de trois fonctionnaires désignés par le
+représentant de l'Etat. Elle est installée au plus tard à l'ouverture de la campagne électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D355 (Ab)
+	  - Code électoral - art. R158 (V)
+	  - Code électoral - art. R32 (V)
+
+
+###### Article D347
+
+Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
+l'élection, soit au greffe du tribunal administratif, soit au secrétariat du contentieux du Conseil d'Etat, soit au
+secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
+représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
+transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
+à la partie qui le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député
+
+###### Article D348
+
+En cas de dissolution de l'Assemblée nationale, les déclarations de candidature peuvent, par dérogation aux dispositions de
+l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
+arrêté de ce ministre.
+
+Le ministre délivre un récépissé provisoire et le transmet sans délai au représentant de l'Etat.
+
+Le récépissé définitif peut être délivré par le ministre ou par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R*98 (M)
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon
+
+###### Article D349
+
+Les déclarations de candidature au conseil territorial de Saint-Pierre-et-Miquelon sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+###### Article D350
+
+Chaque candidat doit fournir à l'appui de sa déclaration de candidature :
+
+1° Une attestation d'inscription sur la liste électorale délivrée par le président de la collectivité dans les trente jours
+précédant le dépôt de la candidature, ou une copie de la décision de justice ordonnant l'inscription de l'intéressé, ou, à
+défaut, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un bulletin n° 3 du casier
+judiciaire délivré depuis moins de trois mois ;
+
+2° Si l'intéressé n'est pas domicilié dans la collectivité ou que les pièces mentionnées au I n'établissent pas son domicile
+dans la collectivité :
+
+a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établissent que l'intéressé est
+inscrit au rôle des contributions directes de la collectivité au 1 er janvier de l'année de l'élection ;
+
+b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
+propriétaire ou locataire d'un immeuble dans la collectivité ou d'un acte enregistré au cours de la même année établissant
+que l'intéressé est devenu locataire d'un immeuble dans la collectivité ;
+
+c) Soit une attestation notariée du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de
+l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de la
+situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des
+contributions directes dans la collectivité au 1er janvier de l'année de l'élection.
+
+La délivrance du récépissé par le représentant de l'Etat ne fait pas obstacle à ce que l'éligibilité du candidat puisse être
+contestée devant le juge de l'élection.
+
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre du dépôt des
+listes, et publiée au Journal officiel de Saint-Pierre-et-Miquelon par le représentant de l'Etat, au plus tard quatre jours
+après la clôture du dépôt des listes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D352 (Ab)
+	  - Code électoral - art. D353 (Ab)
+
+
+###### Article D351
+
+Les noms et prénoms des candidats figurant aux trois derniers rangs dans la section de Saint-Pierre et au dernier rang dans
+la section de Miquelon-Langlade sont imprimés en caractères plus petits que ceux des autres candidats de la liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D353 (Ab)
+
+
+###### Article D352
+
+Les bulletins de vote comportent le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre
+résultant de la publication prévu à l'article D. 350.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D350 (Ab)
+
+	**Cité par**:
+
+	  - Code électoral - art. D353 (Ab)
+
+
+###### Article D353
+
+N'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal : 
+
+1° Les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue à l'article D. 350 ; 
+
+2° Les bulletins qui ne répondent pas aux dispositions des articles D. 351 et D. 352 ; 
+
+3° Les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ; 
+
+4° Les bulletins qui ne sont pas imprimés en caractères noirs ; 
+
+5° Les circulaires utilisées comme bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. D350 (Ab)
+	  - Code électoral - art. D351 (Ab)
+	  - Code électoral - art. D352 (Ab)
+
+
+###### Article D354
+
+La commission de propagande prévue à l'article L. 546 est instituée par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. L546 (V)
+
+
+###### Article D355
+
+Le recensement général des votes est effectué, en présence des représentants des listes, par une commission.
+
+Cette dernière est présidée par un magistrat du siège désigné par le président du tribunal supérieur d'appel. Il est assisté
+de deux fonctionnaires désignés par le représentant de l'Etat. Elle est instituée par un arrêté du représentant de l'Etat.
+
+Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au président de
+la commission de recensement général des votes qui en constate la réception sur un registre et en donne récépissé.
+
+Les résultats sont proclamés en public par le président de la commission. Ils sont publiés au Journal officiel de Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code électoral - art. D346 (Ab)
+
+
+###### Article D356
+
+Lors du renouvellement intégral du conseil territorial, au premier tour de scrutin, ou au second si aucune liste n'a
+recueilli dès le premier tour la majorité absolue des suffrages exprimés et un nombre de suffrages au moins égal au quart des
+électeurs inscrits, la commission attribue à la liste qui a recueilli la majorité des suffrages exprimés huit sièges dans la
+section de Saint-Pierre et deux sièges dans la section de Miquelon-Langlade.
+
+En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont attribués à la liste dont les candidats ont
+la moyenne d'âge la plus élevée.
+
+Les sièges non répartis sont attribués, au sein de chaque section, comme suit : la commission détermine le quotient
+électoral, en divisant le nombre de suffrages exprimés dans la circonscription par le nombre de sièges à pourvoir dans chaque
+section. Il est attribué à chaque liste autant de sièges que le nombre de suffrages de la liste contient de fois le quotient
+électoral.
+
+Les sièges qui n'ont pas été répartis en application de l'alinéa précédent sont attribués selon la règle de la plus forte
+moyenne. A cet effet les sièges sont conférés, dans chaque section, successivement à celle des listes pour laquelle la
+division du nombre de suffrages recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus
+fort résultat.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages dans l'ensemble de la circonscription. En cas d'égalité de suffrages, le siège est attribué au plus
+âgé des candidats susceptibles d'être proclamés élus.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+#### Chapitre V : Dispositions applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon
+
+###### Article D357
+
+Les dispositions du titre III bis du livre II du présent code (partie réglementaire) ne sont pas applicables à l'élection du
+sénateur de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-989 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
 # Annexes
