@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-06-01
 
 # Partie législative
 
@@ -28727,7 +28727,13 @@ Le récépissé définitif peut être délivré par le ministre ou par le repré
 Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune, ou, dans
 les îles Wallis et Futuna, dans chaque circonscription administrative, accompagné des pièces qui doivent y être annexées, est
 scellé et transmis au président de la commission de recensement général des votes, soit par porteur, soit par pli postal
-recommandé.
+recommandé. 
+
+Dans le cas où, en raison de l'éloignement des bureaux de vote, des difficultés de communication ou, pour toute autre cause,
+les procès-verbaux ne parviendraient pas à la commission en temps utile, celle-ci est habilitée à se prononcer au vu des
+télégrammes, des télécopies ou des courriers électroniques des maires ou des délégués du représentant de l'Etat constatant
+respectivement les résultats des bureaux de vote des communes et ceux des bureaux de vote de leurs circonscriptions, et
+contenant les contestations formulées avec l'indication de leurs motifs et de leurs auteurs.
 
 **Liens relatifs à cet article**
 
@@ -28735,9 +28741,9 @@ recommandé.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2007-998 du 31 mai 2007 - art. 1 () JORF 1er juin 2007
 
 
 ###### Article R218
@@ -29751,15 +29757,16 @@ verbaux.
 
 La commission procède, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux.
 
-La commission attribue à la liste qui a recueilli la majorité des suffrages exprimés un nombre de sièges égal au tiers du
-nombre de sièges à pourvoir arrondi à l'entier supérieur.
+La commission détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans la circonscription par le
+nombre de sièges à pourvoir à l'assemblée. Il est attribué à chaque liste autant de sièges de représentant à l'assemblée de
+la Polynésie française que le nombre de suffrages de la liste contient de fois le quotient électoral. Les sièges non répartis
+sont attribués selon la règle de la plus forte moyenne. A cet effet, les sièges sont conférés successivement à celle des
+listes pour laquelle la division du nombre de suffrages recueillis par le nombre de sièges qui lui ont déjà été attribués,
+plus un, donne le plus fort résultat. Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, elle
+attribue celui-ci à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité des suffrages, le siège est
+attribué au plus âgé des candidats susceptibles d'être proclamés élus.
 
-Cette attribution opérée, elle répartit les autres sièges entre toutes les listes à la représentation proportionnelle suivant
-la règle de la plus forte moyenne. Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, elle attribue
-celui-ci à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité des suffrages, le siège est attribué au
-plus âgé des candidats susceptibles d'être proclamés élus.
-
-Seules les listes ayant obtenu au moins 3 % des suffrages exprimés sont admises à la répartition des sièges.
+Seules les listes ayant obtenu au moins 5 % des suffrages exprimés sont admises à la répartition des sièges.
 
 Les opérations de recensement des votes et celles de l'attribution des sièges sont constatées par un procès-verbal, dressé en
 deux exemplaires et signé par tous les membres de la commission.
@@ -29776,7 +29783,7 @@ Les résultats de l'élection sont publiés au Journal officiel de la Polynésie
 
 	**Modifié par**:
 
-	  - Décret n°2004-327 2004-04-14 art. 1 3° JORF 16 avril 2004
+	  - Décret n°2007-998 du 31 mai 2007 - art. 2 () JORF 1er juin 2007
 
 
 ### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna
