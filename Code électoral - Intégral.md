@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-06-01
+Version Consolidée au 2007-07-01
 
 # Partie législative
 
@@ -880,22 +880,19 @@ Région Sud-Est : Sète, Marseille, Arles, Lyon, Chalon-sur-Saône, Saint-Jean-d
 ###### Article L15-1
 
 Les citoyens qui ne peuvent fournir la preuve d'un domicile ou d'une résidence et auxquels la loi n'a pas fixé une commune de
-rattachement sont, sur leur demande, inscrits sur la liste électorale de la commune où est situé l'organisme d'accueil
-agréé :
+rattachement sont, sur leur demande, inscrits sur la liste électorale de la commune où est situé l'organisme d'accueil agréé
+dans les conditions prévues aux articles L. 264-6 et L. 264-7 du code de l'action sociale et des familles :
 
 - dont l'adresse figure depuis au moins six mois sur leur carte nationale d'identité ;
 
-- ou qui leur a fourni une attestation établissant leur lien avec lui depuis au moins six mois.
+- ou qui leur a fourni l'attestation mentionnée à l'article L. 264-2 du même code établissant leur lien avec lui depuis au
+moins six mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°98-657 du 29 juillet 1998 - art. 81 ()
 
 	**Cité par**:
 
@@ -905,6 +902,16 @@ agréé :
 	  - Code électoral - art. L388 (VD)
 	  - Code électoral - art. R*1 (M)
 	  - Code électoral - art. R4-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-2 (V)
+	  - Code de l'action sociale et des familles - art. L264-6 (V)
+	  - Code de l'action sociale et des familles - art. L264-7 (V)
 
 
 ##### Section 2 : Etablissement et révision des listes électorales
@@ -20853,38 +20860,6 @@ et des articles L. 30 à L. 35.
 	  - Code électoral - art. L11 (VT)
 	  - Code électoral - art. L30 (V)
 	  - Code électoral - art. R1 (V)
-
-
-###### Article R4-1
-
-Les organismes d'accueil prévus à l'article L. 15-1 sont ceux figurant sur la liste établie dans les conditions fixées pour
-l'établissement de la carte nationale d'identité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Décret n°79-160 du 28 février 1979 - art. 20 (V)
-	  - Code électoral - art. R*179 (M)
-	  - Code électoral - art. R176 (Ab)
-	  - Code électoral - art. R204 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 3 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-	**Cite**:
-
-	  - Code électoral - art. L15-1 (M)
 
 
 ##### Section 2 : Etablissement et révision des listes électorales
