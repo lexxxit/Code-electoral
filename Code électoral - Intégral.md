@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-10-31
 
 # Partie législative
 
@@ -8188,8 +8188,9 @@ Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasse
 
 ###### Article L194-1
 
-Pendant la durée de leurs fonctions, le Médiateur de la République et le Défenseur des enfants ne peuvent être candidats à un
-mandat de conseiller général s'ils n'exerçaient le même mandat antérieurement à leur nomination.
+Pendant la durée de leurs fonctions, le Médiateur de la République, le Défenseur des enfants et le Contrôleur général des
+lieux de privation de liberté ne peuvent être candidats à un mandat de conseiller général s'ils n'exerçaient le même mandat
+antérieurement à leur nomination.
 
 **Liens relatifs à cet article**
 
@@ -8205,7 +8206,7 @@ mandat de conseiller général s'ils n'exerçaient le même mandat antérieureme
 
 	**Modifié par**:
 
-	  - Loi n°2000-196 du 6 mars 2000 - art. 7 ()
+	  - Loi n°2007-1545 du 30 octobre 2007 - art. 3 () JORF 31 octobre 2007
 
 
 ###### Article L195
@@ -9468,8 +9469,9 @@ mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par 
 
 ###### Article L230-1
 
-Pendant la durée de leurs fonctions, le Médiateur de la République et le Défenseur des enfants ne peuvent être candidats à un
-mandat de conseiller municipal s'ils n'exerçaient le même mandat antérieurement à leur nomination.
+Pendant la durée de leurs fonctions, le Médiateur de la République, le Défenseur des enfants et le Contrôleur général des
+lieux de privation de liberté ne peuvent être candidats à un mandat de conseiller municipal s'ils n'exerçaient le même mandat
+antérieurement à leur nomination.
 
 **Liens relatifs à cet article**
 
@@ -9479,7 +9481,7 @@ mandat de conseiller municipal s'ils n'exerçaient le même mandat antérieureme
 
 	**Modifié par**:
 
-	  - Loi n°2000-196 du 6 mars 2000 - art. 8 ()
+	  - Loi n°2007-1545 du 30 octobre 2007 - art. 3 () JORF 31 octobre 2007
 
 
 ###### Article L231
@@ -12842,8 +12844,9 @@ affaires régionales en qualité de secrétaire général ou de chargé de missi
 3° Pour une durée d'un an, le président de conseil régional ou le conseiller régional visé au deuxième alinéa de l'article 2
 de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article.
 
-Pendant la durée de leurs fonctions, le Médiateur de la République et le Défenseur des enfants ne peuvent être candidats à un
-mandat de conseiller régional s'ils n'exerçaient le même mandat antérieurement à leur nomination.
+Pendant la durée de leurs fonctions, le Médiateur de la République, le Défenseur des enfants et le Contrôleur général des
+lieux de privation de liberté ne peuvent être candidats à un mandat de conseiller régional s'ils n'exerçaient le même mandat
+antérieurement à leur nomination.
 
 Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux.
 
@@ -12861,7 +12864,7 @@ Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers r�
 
 	**Modifié par**:
 
-	  - Loi n°2000-196 du 6 mars 2000 - art. 9 ()
+	  - Loi n°2007-1545 du 30 octobre 2007 - art. 3 () JORF 31 octobre 2007
 
 	**Cité par**:
 
