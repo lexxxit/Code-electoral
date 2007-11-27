@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-10-31
+Version Consolidée au 2007-11-28
 
 # Partie législative
 
@@ -21075,21 +21075,21 @@ informations nominatives nécessaires au plus tard à cette date.
 
 ###### Article R8
 
-La commission administrative tient un registre de toutes ses décisions et y mentionne les motifs et pièces à l'appui.
+La commission administrative tient un registre de toutes ses décisions et y mentionne les motifs et pièces à l'appui. 
 
 Lorsque la commission administrative refuse d'inscrire un électeur, cette décision est notifiée dans les deux jours à
 l'intéressé par écrit et à domicile par les soins de l'administration municipale ; l'avis de notification précise les motifs
-de la décision, la date de la publication de la liste électorale ou du tableau rectificatif et informe l'intéressé que dans
-les dix jours de la publication de cette liste ou de ce tableau il pourra contester ladite décision devant le tribunal
-d'instance, conformément aux dispositions de l'article L. 25 du code électoral. Mention de cette notification et de sa date
-est faite sur le registre prévu à l'alinéa précédent.
+de la décision, la date de la publication de la liste électorale ou du tableau rectificatif et informe l'intéressé que
+jusqu'au dixième jour suivant la publication de cette liste ou de ce tableau il pourra contester ladite décision devant le
+tribunal d'instance, conformément aux dispositions de l'article L. 25 du code électoral. Mention de cette notification et de
+sa date est faite sur le registre prévu à l'alinéa précédent. 
 
-Il est procédé à ces mêmes formalités auprès de toutes parties intéressées lorsque la commission administrative radie
-d'office un électeur pour d'autres causes que le décès ou lorsqu'elle prend une décision à l'égard d'une inscription qui a
-été contestée devant elle ; toutefois dans ces cas, la notification à l'électeur informe en outre celui-ci qu'il peut
-présenter des observations, dans les vingt-quatre heures, à la commission administrative, conformément à l'article L. 23 du
-code électoral. Au vu de ces observations, la commission administrative prend une nouvelle décision, notifiée dans les mêmes
-formes et délais que ceux prévus à l'alinéa 2 du présent article.
+Il est procédé à ces mêmes formalités auprès de toutes parties intéressées lorsque la commission administrative radie un
+électeur pour d'autres causes que le décès ou l'inscription dans un autre bureau de vote ou lorsqu'elle prend une décision à
+l'égard d'une inscription qui a été contestée devant elle ; toutefois dans ces cas, la notification à l'électeur informe en
+outre celui-ci qu'il peut présenter des observations, dans les vingt-quatre heures, à la commission administrative,
+conformément à l'article L. 23 du code électoral. Au vu de ces observations, la commission administrative prend une nouvelle
+décision, notifiée dans les mêmes formes et délais que ceux prévus à l'alinéa 2 du présent article.
 
 **Liens relatifs à cet article**
 
@@ -21106,7 +21106,7 @@ formes et délais que ceux prévus à l'alinéa 2 du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
 
 	**Cite**:
 
@@ -21214,10 +21214,11 @@ adressée au greffe du tribunal d'instance. La déclaration indique les nom, pr�
 laquelle il agit, ainsi que l'objet du recours ; si celui-ci tend à l'inscription ou à la radiation d'un électeur omis ou qui
 serait indûment inscrit, elle précise, en outre, les nom, prénoms et adresse de cet électeur. 
 
-Les recours prévus aux premier et deuxième alinéas de l'article L. 25 doivent être exercés dans les dix jours de la
-publication prévue à l'article L. 21. Les recours ouverts au préfet ou au sous-préfet par le troisième alinéa de l'article L.
-25 doivent être exercés dans les dix jours qui suivent la réception du tableau contenant les additions et retranchements
-faits à la liste électorale.
+Les recours prévus au premier alinéa de l'article L. 25 doivent être exercés entre la notification de la décision et le
+dixième jour suivant la publication prévue à l'article R. 10. Les recours prévus au deuxième alinéa de l'article L. 25
+doivent être exercés dans les dix jours suivant cette publication. Les recours ouverts au préfet ou au sous-préfet par le
+troisième alinéa de l'article L. 25 doivent être exercés dans les dix jours qui suivent la réception du tableau contenant les
+additions et retranchements faits à la liste électorale.
 
 **Liens relatifs à cet article**
 
@@ -21240,12 +21241,12 @@ faits à la liste électorale.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L21 (V)
 	  - Code électoral - art. L25 (V)
+	  - Code électoral - art. R10 (V)
 
 
 ###### Article R14
@@ -22049,18 +22050,16 @@ dans les conditions prévues à l'article R. 25.
 
 ###### Article R25
 
-Les cartes électorales sont distribuées au domicile des électeurs, par les soins du maire.
+Les cartes électorales sont distribuées aux électeurs, par les soins du maire.
 
 Cette distribution doit être achevée trois jours avant le scrutin et, en l'absence de scrutin, au plus tard le 1er juillet.
 
 Les cartes qui n'ont pu être remises à leur titulaire font retour à la mairie.
 
 Elles sont remises le jour du scrutin au bureau de vote intéressé et y sont tenues à la disposition de leur titulaire. Elles
-ne peuvent être délivrées à l'électeur que sur le vu d'une pièce d'identité ou après authentification de son identité par
-deux témoins inscrits sur les listes du même bureau de vote.
+ne peuvent être délivrées à l'électeur que sur la présentation d'une pièce d'identité.
 
-Procès-verbal de cette opération est alors dressé, signé par le titulaire, et, le cas échéant, par les témoins et paraphé par
-le bureau.
+Procès-verbal de cette opération est alors dressé, signé par le titulaire et paraphé par le bureau.
 
 Dans chaque bureau de vote, lors de la clôture du scrutin, les cartes non retirées, ainsi que celles qui l'ont été, sont
 mentionnées nominativement sur le procès-verbal des opérations de vote, auquel sont joints les procès-verbaux de remise
@@ -22090,8 +22089,7 @@ des indications fournies par les électeurs qui ont dû retirer directement leur
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
 
 
 #### Chapitre V : Propagande
@@ -22196,16 +22194,25 @@ Le nombre maximum des emplacements réservés à l'affichage électoral en appli
 - cinq dans les communes ayant 500 électeurs et moins ;
 
 - dix dans les autres, plus un par 3 000 électeurs ou fraction supérieure à 2 000 dans les communes ayant plus de 5 000
-électeurs.
+électeurs. 
 
 Pour les élections où la candidature est subordonnée au dépôt obligatoire d'une déclaration, les emplacements sont attribués
-dans l'ordre d'enregistrement des candidatures.
+par voie de tirage au sort par l'autorité qui reçoit les candidatures. En cas de second tour, l'ordre retenu pour le premier
+tour est conservé entre les candidats restant en présence. 
 
 Dans les autres cas, les demandes sont déposées en mairie au plus tard le mercredi précédant chaque tour de scrutin à midi et
-les emplacements sont attribués dans l'ordre d'arrivée des demandes à la mairie.
+les emplacements sont attribués dans l'ordre d'arrivée des demandes à la mairie. 
 
 Tout candidat qui laissera sans emploi l'emplacement d'affichage qu'il aura demandé sera tenu, sauf en cas de force majeure
 reconnue par le tribunal, de rembourser à la commune les frais d'établissement.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin
 
 **Liens relatifs à cet article**
 
@@ -22238,17 +22245,23 @@ reconnue par le tribunal, de rembourser à la commune les frais d'établissement
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 5 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L51 (M)
+	  - Code électoral - art. L51 (VT)
 
 
 ###### Article R29
 
 Chaque candidat ou liste de candidats ne peut faire adresser à chaque électeur, par la commission de propagande, qu'une seule
-circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un format de 210 mm  297 mm.
+circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un format de 210 mm x 297 mm.
+
+Cette circulaire est soustraite à la formalité du dépôt légal.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -22286,12 +22299,13 @@ circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 5 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 
 ###### Article R30
 
-Les bulletins doivent être d'un grammage compris entre 60 et 80 grammes au mètre carré et avoir les formats suivants :
+Les bulletins doivent être imprimés en une seule couleur sur papier blanc, d'un grammage compris entre 60 et 80 grammes au
+mètre carré et avoir les formats suivants :
 
 - 105 x 148 mm pour les bulletins comportant un ou deux noms ;
 
@@ -22299,10 +22313,21 @@ Les bulletins doivent être d'un grammage compris entre 60 et 80 grammes au mèt
 
 - 210 x 297 mm pour les listes comportant plus de trente et un noms.
 
+Les bulletins ne peuvent pas comporter d'autres noms de personne que celui du ou des candidats ou de leurs remplaçants
+éventuels.
+
 Le libellé et, le cas échéant, la dimension des caractères des bulletins doivent être conformes aux prescriptions légales ou
 réglementaires édictées pour chaque catégorie d'élections.
 
 Les bulletins de vote sont soustraits à la formalité du dépôt légal.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -22335,7 +22360,7 @@ Les bulletins de vote sont soustraits à la formalité du dépôt légal.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 5 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 
 ###### Article R31
@@ -22343,7 +22368,7 @@ Les bulletins de vote sont soustraits à la formalité du dépôt légal.
 Dans les circonscriptions électorales où leur création est prescrite, les commissions de propagande sont instituées par
 arrêté préfectoral et installées au plus tard à l'ouverture de la campagne électorale.
 
-Une même commission peut être commune à deux ou plusieurs circonscriptions.
+Une même commission peut être commune à plusieurs circonscriptions et à plusieurs élections.
 
 **Liens relatifs à cet article**
 
@@ -22360,20 +22385,22 @@ Une même commission peut être commune à deux ou plusieurs circonscriptions.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 6 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 
 ###### Article R32
 
 Chaque commission comprend :
 
-- un magistrat désigné par le premier président de la cour d'appel, président;
+- un magistrat désigné par le premier président de la cour d'appel, président ;
 
-- un fonctionnaire désigné par le préfet;
+- un fonctionnaire désigné par le préfet ;
 
-- un fonctionnaire désigné par le trésorier-payeur général;
+- un fonctionnaire désigné par le trésorier-payeur général ;
 
 - un fonctionnaire désigné par le directeur départemental des postes et télécommunications.
+
+Un suppléant du président peut être désigné dans les mêmes conditions.
 
 Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
 
@@ -22414,7 +22441,7 @@ Le président fixe, en accord avec le préfet, le lieu où la commission doit si
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 
 ###### Article R33
@@ -22459,6 +22486,11 @@ vote de chaque candidat ou de chaque liste;
 cas de ballottage, le jeudi précédant le second tour, les bulletins de vote de chaque candidat ou de chaque liste en nombre
 au moins égal à celui des électeurs inscrits.
 
+Si un candidat ou une liste de candidats remet à la commission de propagande moins de circulaires ou de bulletins de vote que
+les quantités prévues ci-dessus, il propose la répartition de ses circulaires et bulletins de vote entre les électeurs. A
+défaut de proposition, les circulaires demeurent à la disposition du candidat et les bulletins de vote sont distribués dans
+les bureaux de vote en proportion du nombre d'électeurs inscrits.
+
 Lorsque la circonscription électorale comprend des bureaux de vote dotés d'une machine à voter, la commission n'envoie pas
 aux mairies des bulletins de vote pour ces bureaux ; elle n'en adresse pas aux électeurs qui y sont inscrits.
 
@@ -22479,7 +22511,7 @@ aux mairies des bulletins de vote pour ces bureaux ; elle n'en adresse pas aux �
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 7 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 
 ###### Article R36
@@ -22511,8 +22543,8 @@ la circulaire ainsi qu'une quantité de bulletins au moins égale au double du n
 
 La commission n'est pas tenue d'assurer l'envoi des imprimés remis postérieurement à cette date.
 
-Les circulaires et bulletins dont le format, le libellé ou l'impression ne répondent pas aux prescriptions légales ou
-réglementaires ne sont pas acceptés par la commission.
+La commission n'assure pas l'envoi des circulaires qui ne sont pas conformes aux articles R. 27 et R. 29 et des bulletins de
+vote qui ne sont pas conformes à l'article R. 30 et aux prescriptions édictées pour chaque catégorie d'élections.
 
 **Liens relatifs à cet article**
 
@@ -22530,7 +22562,13 @@ réglementaires ne sont pas acceptés par la commission.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 6 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
+
+	**Cite**:
+
+	  - Code électoral - art. R27 (M)
+	  - Code électoral - art. R29 (M)
+	  - Code électoral - art. R30 (M)
 
 
 ###### Article R39
@@ -22766,15 +22804,24 @@ principal, les titres de perception nécessaires au recouvrement des sommes ment
 ###### Article R40
 
 Les électeurs sont répartis par arrêté du préfet en autant de bureaux de vote que l'exigent les circonstances locales et le
-nombre des électeurs.
+nombre des électeurs. 
 
-L'arrêté instituant les bureaux de vote ou reconduisant l'institution antérieure de ces bureaux doit être notifié au maire
-avant le 31 août de chaque année ; tels qu'ils sont ainsi fixés, les bureaux de vote servent pour toute élection ayant lieu
-dans la période comprise entre la prochaine clôture des listes électorales et la clôture suivante. Les lieux de vote sont
-désignés dans l'arrêté préfectoral instituant les bureaux.
+Tout arrêté modifiant le périmètre des bureaux de vote doit être notifié au maire avant le 31 août de chaque année. Il entre
+en vigueur le premier mars suivant et est pris en compte pour l'établissement des listes électorales entrant en vigueur à
+partir de cette date. 
 
 Toutefois, cet arrêté peut être modifié pour tenir compte des changements intervenus dans les limites des circonscriptions
-administratives ou des circonscriptions prévues par l'article L. 124.
+administratives ou des circonscriptions prévues par l'article L. 124. 
+
+Les lieux de vote sont désignés dans l'arrêté du préfet instituant les bureaux. 
+
+Lorsqu'une commune comprend plusieurs bureaux de vote, le même arrêté détermine le bureau centralisateur de la commune.
+Lorsqu'une commune comprend plusieurs circonscriptions ou fractions de circonscriptions électorales, le même arrêté détermine
+le bureau centralisateur de chaque circonscription ou fraction de circonscription au sein de la commune pour l'élection
+correspondante. 
+
+Sauf cas de force majeure, tout arrêté modifiant les lieux de vote et les bureaux centralisateurs est affiché au plus tard à
+l'ouverture de la campagne électorale dans la commune intéressée.
 
 **Liens relatifs à cet article**
 
@@ -22805,11 +22852,11 @@ administratives ou des circonscriptions prévues par l'article L. 124.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 9 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L124 (M)
+	  - Code électoral - art. L124 (V)
 
 
 ###### Article R41
@@ -23052,6 +23099,9 @@ Dans les délibérations du bureau, le secrétaire n'a qu'une voix consultative.
 
 Deux membres du bureau au moins doivent être présents pendant tout le cours des opérations électorales.
 
+Le président titulaire, un assesseur titulaire ou le secrétaire d'un bureau de vote ne peuvent exercer les fonctions de
+membre titulaire ou suppléant d'un autre bureau de vote.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -23076,7 +23126,7 @@ Deux membres du bureau au moins doivent être présents pendant tout le cours de
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 9 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 
 ###### Article R43
@@ -23115,13 +23165,22 @@ président. Le secrétaire est remplacé en cas d'absence par l'assesseur le plu
 Les assesseurs de chaque bureau sont désignés conformément aux dispositions ci-après :
 
 - chaque candidat ou chaque liste en présence a le droit de désigner un assesseur et un seul pris parmi les électeurs du
-département;
+département ;
 
-- si, pour une cause quelconque, le nombre des assesseurs ainsi désignés est inférieur à deux, les assesseurs manquants sont
-pris, jusqu'à concurrence de ce chiffre, parmi les conseillers municipaux dans l'ordre du tableau et, à défaut, parmi les
-électeurs présents sachant lire et écrire, selon l'ordre de priorité suivant :
+- des assesseurs supplémentaires peuvent être désignés par le maire parmi les conseillers municipaux dans l'ordre du tableau
+puis, le cas échéant, parmi les électeurs de la commune.
 
-l'électeur le plus âgé s'il manque un assesseur, le plus âgé et le plus jeune s'il en manque deux.
+Le jour du scrutin, si, pour une cause quelconque, le nombre des assesseurs se trouve être inférieur à deux, les assesseurs
+manquants sont pris parmi les électeurs présents sachant lire et écrire le français, selon l'ordre de priorité suivant :
+l'électeur le plus âgé, puis l'électeur le plus jeune.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -23149,7 +23208,7 @@ l'électeur le plus âgé s'il manque un assesseur, le plus âgé et le plus jeu
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 9 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 
 ###### Article R45
@@ -23160,9 +23219,12 @@ Chaque candidat ou chaque liste en présence, habilité à désigner un assesseu
 Chaque conseiller municipal assesseur peut également désigner son suppléant, soit parmi les autres conseillers municipaux,
 soit parmi les électeurs de la commune.
 
-Les suppléants exercent les prérogatives des assesseurs quand ils les remplacent. Ils ne peuvent toutefois les remplacer à
-l'ouverture et à la clôture du scrutin, ni pour le dépouillement ni pour la signature du procès-verbal des opérations
-électorales.
+Les suppléants exercent les prérogatives des assesseurs quand ils les remplacent. Ils ne peuvent toutefois les remplacer pour
+le dépouillement ni pour la signature du procès-verbal des opérations électorales.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -23172,8 +23234,7 @@ l'ouverture et à la clôture du scrutin, ni pour le dépouillement ni pour la s
 
 	**Modifié par**:
 
-	  - Décret n°67-1 1967-01-01 art. 4 JORF 3 janvier 1967
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 	**Cité par**:
 
@@ -23422,9 +23483,9 @@ Le bureau se prononce provisoirement sur les difficultés qui s'élèvent toucha
 Ses décisions sont motivées. Toutes les réclamations et décisions sont inscrites au procès-verbal, les pièces qui s'y
 rapportent y sont annexées après avoir été paraphées par les membres du bureau.
 
-Pendant toute la durée des opérations de vote, le procès-verbal est tenu à la disposition des membres du bureau, délégués des
-candidats, électeurs du bureau et personnes chargées du contrôle des opérations, qui peuvent y porter leurs observations ou
-réclamations.
+Pendant toute la durée des opérations de vote, le procès-verbal est tenu à la disposition des membres du bureau, candidats,
+remplaçants et délégués des candidats, électeurs du bureau et personnes chargées du contrôle des opérations, qui peuvent y
+porter leurs observations ou réclamations.
 
 **Liens relatifs à cet article**
 
@@ -23454,7 +23515,7 @@ réclamations.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 10 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 	**Cite**:
 
@@ -23463,16 +23524,16 @@ réclamations.
 
 ###### Article R54
 
-Les enveloppes électorales sont fournies par l'administration préfectorale. Elles sont opaques, non gommées et de type
-uniforme pour chaque collège électoral.
+Les enveloppes électorales sont fournies par l'Etat. Elles sont opaques, non gommées et de type uniforme pour chaque bureau
+de vote. 
 
 Les enveloppes sont envoyées dans chaque mairie cinq jours au moins avant l'élection, en nombre égal à celui des électeurs
 inscrits. Toutefois, lorsque la circonscription électorale comprend des bureaux de vote dotés d'une machine à voter, le
 nombre des enveloppes est égal au nombre des électeurs inscrits dans les bureaux non pourvus d'une machine à voter, et à 20 %
-des électeurs inscrits dans les bureaux dotés d'une telle machine.
+des électeurs inscrits dans les bureaux dotés d'une telle machine. 
 
 Les enveloppes spéciales prévues au deuxième alinéa de l'article L. 65, dites enveloppes de centaine, sont fournies par
-l'administration préfectorale et envoyées dans chaque mairie dans le même délai que les enveloppes électorales.
+l'administration préfectorale et envoyées dans chaque mairie dans le même délai que les enveloppes électorales. 
 
 Le maire accuse immédiatement réception des différents envois d'enveloppes.
 
@@ -23507,27 +23568,35 @@ Le maire accuse immédiatement réception des différents envois d'enveloppes.
 
 	**Modifié par**:
 
-	  - Décret n°89-80 1989-02-08 art. 1 I, II JORF 10 février 1989
-	  - Décret n°89-80 du 8 février 1989 - art. 1 () JORF 10 février 1989
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L65 (M)
+	  - Code électoral - art. L65 (V)
 
 
 ###### Article R55
 
 Les bulletins de vote déposés par les candidats ou les listes, en application de l'article L. 58, ainsi que ceux adressés au
 maire par la commission de propagande sont placés dans chaque bureau, à la disposition des électeurs, sous la responsabilité
-du président du bureau de vote.
+du président du bureau de vote. 
 
-Les candidats désirant faire assurer ce dépôt par le maire doivent lui remettre les bulletins au plus tard à midi, la veille
-du scrutin.
+Les bulletins de vote peuvent être remis directement au maire par les candidats ou leurs mandataires dûment désignés, au plus
+tard à midi la veille du scrutin. 
 
-Le jour du scrutin, les bulletins peuvent être remis directement par les candidats ou par les listes au président du bureau.
+Le jour du scrutin, les bulletins peuvent être remis directement au président du bureau de vote par les candidats ou leurs
+mandataires dûment désignés. 
+
+Le maire ou le président du bureau de vote ne sont pas tenus d'accepter les bulletins qui leur sont remis directement par les
+candidats ou leurs mandataires, dont le format ne répond manifestement pas aux prescriptions des deuxième, troisième et
+quatrième alinéas de l'article R. 30. 
 
 Le candidat ou son mandataire peut, à tout moment, demander le retrait de ses bulletins de vote. Pour les scrutins de liste,
 cette demande peut être formulée par la majorité des candidats de la liste ou un mandataire désigné par eux.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -23547,11 +23616,12 @@ cette demande peut être formulée par la majorité des candidats de la liste ou
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 10 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 	**Cite**:
 
 	  - Code électoral - art. L58 (V)
+	  - Code électoral - art. R30 (V)
 
 
 ###### Article R55-1
@@ -23710,11 +23780,19 @@ la Cour de cassation annulant un jugement qui aurait prononcé leur radiation.
 
 ###### Article R60
 
-Les électeurs des communes de plus de 5 000 habitants doivent présenter au président du bureau, au moment du vote, en même
+Les électeurs des communes de 3 500 habitants et plus doivent présenter au président du bureau, au moment du vote, en même
 temps que la carte électorale ou l'attestation d'inscription en tenant lieu, un titre d'identité; la liste des titres
 valables est établie par arrêté du ministre de l'intérieur.
 
 Les assesseurs sont associés, sur leur demande, à ce contrôle d'identité.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin
 
 **Liens relatifs à cet article**
 
@@ -23755,7 +23833,7 @@ Les assesseurs sont associés, sur leur demande, à ce contrôle d'identité.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 10 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 
 ###### Article R61
@@ -24195,28 +24273,29 @@ détruits en présence des électeurs.
 
 ###### Article R69
 
-Lorsque les collèges électoraux sont répartis en plusieurs bureaux de vote, le dépouillement du scrutin est d'abord opéré par
-bureau et les procès-verbaux sont établis conformément aux dispositions de l'article R. 67. Le président et les membres de
-chaque bureau remettent ensuite les deux exemplaires du procès-verbal et les annexes au premier bureau, constitué en bureau
-centralisateur et chargé d'opérer le recensement général des votes en présence des présidents des autres bureaux.
+Lorsque les électeurs de la commune sont répartis en plusieurs bureaux de vote, le dépouillement du scrutin est d'abord opéré
+par bureau et les procès-verbaux sont établis conformément aux dispositions de l'article R. 67. Le président et les membres
+de chaque bureau remettent ensuite les deux exemplaires du procès-verbal et les annexes au bureau centralisateur et chargé
+d'opérer le recensement général des votes en présence des présidents des autres bureaux. 
 
-Les résultats arrêtés par chaque bureau et les pièces annexes ne peuvent en aucun cas être modifiés.
+Les résultats arrêtés par chaque bureau et les pièces annexes ne peuvent en aucun cas être modifiés. 
 
 Un procès-verbal récapitulatif est établi en double exemplaire en présence des électeurs. Il est signé par les membres du
-premier bureau, les délégués des candidats ou des listes dûment habilités auprès de celui-ci et les présidents des autres
-bureaux.
+bureau centralisateur, les délégués des candidats ou des listes dûment habilités auprès de celui-ci et les présidents des
+autres bureaux. 
 
-Le résultat est alors proclamé publiquement par le président du premier bureau et affiché aussitôt par les soins du maire.
+Le résultat est alors proclamé publiquement par le président du bureau centralisateur et affiché aussitôt par les soins du
+maire.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 	**Cité par**:
 
@@ -24230,9 +24309,13 @@ Le résultat est alors proclamé publiquement par le président du premier burea
 	  - Code électoral - art. R177-4 (V)
 	  - Code électoral - art. R177-7 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
+
 	**Cite**:
 
-	  - Code électoral - art. R67 (V)
+	  - Code électoral - art. R67 (VT)
 
 
 ###### Article R70
@@ -24788,6 +24871,8 @@ Chaque commission comprend :
 
 Ce dernier assure le secrétariat de la commission.
 
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -24801,7 +24886,7 @@ Ce dernier assure le secrétariat de la commission.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
 
 
 ###### Article R93-3
@@ -25024,8 +25109,16 @@ résultats par la commission de recensement général des votes.
 
 ###### Article R99
 
-Les déclarations de candidatures peuvent être rédigées sur papier libre. Elles comportent, outre les mentions prévues aux
-articles L. 154 et L. 155, l'indication des listes électorales sur lesquelles le candidat et son remplaçant sont inscrits.
+La déclaration de candidature et l'acceptation du remplaçant sont rédigées sur papier libre.
+
+Elles sont accompagnées, pour le candidat et le remplaçant, d'une attestation d'inscription sur une liste électorale
+comportant les mentions prévues aux articles L. 18 et L. 19 délivrée par le maire de la commune d'inscription dans les trente
+jours précédant le dépôt de la candidature, ou d'une copie de la décision de justice ordonnant l'inscription de l'intéressé,
+ou, à défaut, d'un certificat de nationalité ou de la carte nationale d'identité en cours de validité et un bulletin n° 3 du
+casier judiciaire délivré depuis moins de trois mois.
+
+En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces prévues à
+l'alinéa précédent, fournies à l'occasion du premier tour.
 
 **Liens relatifs à cet article**
 
@@ -25048,12 +25141,12 @@ articles L. 154 et L. 155, l'indication des listes électorales sur lesquelles l
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L154 (M)
-	  - Code électoral - art. L155 (M)
+	  - Code électoral - art. L18 (M)
+	  - Code électoral - art. L19 (V)
 
 
 ###### Article R100
@@ -25077,8 +25170,8 @@ enregistré comme la déclaration de candidature.
 La liste des candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants est
 arrêtée et publiée par le préfet.
 
-La publication doit intervenir, pour le premier tour, deux semaines avant la date du scrutin et, pour le second tour, le
-lendemain de la date limite fixée pour le dépôt des candidatures.
+La publication doit intervenir, pour le premier tour, au plus tard le troisième vendredi précédant la date du scrutin et,
+pour le second tour, le lendemain de la date limite fixée pour le dépôt des candidatures.
 
 **Liens relatifs à cet article**
 
@@ -25088,7 +25181,7 @@ lendemain de la date limite fixée pour le dépôt des candidatures.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 	**Cité par**:
 
@@ -25099,7 +25192,7 @@ lendemain de la date limite fixée pour le dépôt des candidatures.
 ###### Article R102
 
 Lorsqu'il y a lieu à application de l'article L. 163, la désignation du remplaçant doit être notifiée au préfet au plus tard
-le cinquième jour précédant le scrutin.
+à dix-huit heures le jeudi précédant le scrutin. 
 
 Il est immédiatement procédé, dès enregistrement, à la publication du changement intervenu.
 
@@ -25111,11 +25204,11 @@ Il est immédiatement procédé, dès enregistrement, à la publication du chang
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L163 (M)
+	  - Code électoral - art. L163 (V)
 
 	**Cité par**:
 
@@ -25126,9 +25219,9 @@ Il est immédiatement procédé, dès enregistrement, à la publication du chang
 
 ###### Article R103
 
-Tout bulletin de vote imprimé à l'occasion de l'élection des députés à l'Assemblée nationale doit comporter le nom du
-candidat et l'une des mentions suivantes : "remplaçant éventuel", "remplaçant", "suppléant éventuel" ou "suppléant", suivie
-du nom de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article L.O 176-1.
+Tout bulletin de vote imprimé à l'occasion de l'élection des députés à l'Assemblée nationale doit comporter, à la suite du
+nom du candidat, le nom de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article LO
+176-1, précédé ou suivi de l'une des mentions suivantes : "remplaçant" ou "suppléant".
 
 Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que celui du candidat.
 
@@ -25148,7 +25241,7 @@ Le nom du remplaçant doit être imprimé en caractères de moindres dimensions 
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 	**Cite**:
 
@@ -25221,6 +25314,8 @@ verbaux. Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il 
 Cette commission comprend un magistrat désigné par le premier président de la cour d'appel, président, deux juges désignés
 par la même autorité, un conseiller général et un fonctionnaire de préfecture désignés par le préfet.
 
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
+
 Un représentant de chacun des candidats peut assister aux opérations de la commission.
 
 Une même commission peut effectuer le recensement des votes de plusieurs circonscriptions.
@@ -25247,7 +25342,7 @@ Une même commission peut effectuer le recensement des votes de plusieurs circon
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 
 ###### Article R108
@@ -25273,8 +25368,9 @@ L'opération du recensement général des votes est constatée par un procès-ve
 
 ###### Article R109
 
-La commission, après avoir procédé, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux, proclame les
-résultats en public.
+La commission tranche les questions que peuvent poser, en dehors de toute réclamation, la validité et le décompte des
+bulletins et procède aux rectifications nécessaires, sans préjudice du pouvoir d'appréciation du juge de l'élection. Elle
+proclame les résultats en public.
 
 **Liens relatifs à cet article**
 
@@ -25292,7 +25388,7 @@ résultats en public.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 
 ### Titre III : Dispositions spéciales à l'élection des conseillers généraux
@@ -25301,15 +25397,22 @@ résultats en public.
 
 ###### Article R109-1
 
-La déclaration de candidature prescrite à l'article L. 210-1 est déposée à la préfecture, pour chaque tour de scrutin, par le
-candidat ou un mandataire désigné par lui, dans le délai fixé par arrêté préfectoral. Elle comporte les nom, prénoms, date et
-lieu de naissance, domicile et profession du candidat.
+La déclaration de candidature prescrite à l'article L. 210-1 est déposée à la préfecture par le candidat, son remplaçant ou
+un mandataire désigné par le candidat, dans le délai fixé par arrêté préfectoral, pour le premier tour de scrutin. En cas de
+second tour, elle est déposée dans les mêmes conditions au plus tard à seize heures le mardi suivant le premier tour. 
 
-Les retraits de candidatures ne peuvent être présentés que jusqu'à la date limite fixée pour le dépôt des candidatures : ils
-sont enregistrés comme les déclarations elles-mêmes.
+La déclaration de candidature est rédigée sur papier libre. 
 
-En cas de décès d'un candidat après la date limite prévue pour les déclarations de candidature, un nouveau délai est ouvert
-pour le dépôt éventuel de candidatures nouvelles; ce délai est clos le jeudi précédant le jour du scrutin, à 18 heures.
+La candidature ne peut être retirée que jusqu'à la limite fixée pour le dépôt des candidatures. Le retrait est enregistré
+comme la déclaration de candidature. 
+
+Un candidat ne peut présenter pour le second tour de scrutin un remplaçant autre que celui qu'il avait désigné dans sa
+déclaration de candidature lors du premier tour, que pour l'application de l'article L. 163. Dans ce cas, la désignation du
+remplaçant doit être notifiée au préfet au plus tard à dix-huit heures le jeudi précédant le scrutin.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -25319,11 +25422,12 @@ pour le dépôt éventuel de candidatures nouvelles; ce délai est clos le jeudi
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 3 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L210-1 (M)
+	  - Code électoral - art. L163 (V)
+	  - Code électoral - art. L210-1 (VT)
 
 	**Cité par**:
 
@@ -25332,12 +25436,12 @@ pour le dépôt éventuel de candidatures nouvelles; ce délai est clos le jeudi
 
 ###### Article R109-2
 
-Chaque candidat doit fournir à l'appui de sa déclaration de candidature :
+A la déclaration de candidature, il est joint pour le candidat et le remplaçant :
 
-I. - Une attestation d'inscription sur une liste électorale délivrée par le maire de la commune d'inscription dans les trente
-jours précédant le dépôt de la candidature, ou une copie de la décision de justice ordonnant l'inscription de l'intéressé,
-ou, à défaut, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un bulletin n° 3 du
-casier judiciaire délivré depuis moins de trois mois ;
+I. - Une attestation d'inscription sur une liste électorale comportant les mentions prévues aux articles L. 18 et L. 19
+délivrée par le maire de la commune d'inscription dans les trente jours précédant le dépôt de la candidature, ou une copie de
+la décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut, un certificat de nationalité ou la carte
+nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois ;
 
 II. Si l'intéressé n'est pas domicilié dans le département ou que les pièces mentionnées au I n'établissent pas son domicile
 dans le département :
@@ -25356,6 +25460,15 @@ d) Soit une attestation du directeur des services fiscaux établissant que l'int
 précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont
 l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
 dans le département au 1er janvier de l'année de l'élection.
+
+En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces prévues au
+présent article, fournies à l'occasion du premier tour.
+
+Un récépissé attestant de l'enregistrement de la candidature est délivré dans les quatre jours du dépôt de la déclaration, si
+celle-ci est conforme aux prescriptions en vigueur.
+
+La liste des candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants est
+arrêtée et publiée par le préfet, au plus tard le quatrième jour suivant la date limite de dépôt des candidatures.
 
 La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant
 le juge de l'élection.
@@ -25376,17 +25489,89 @@ le juge de l'élection.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 3 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L18 (M)
+	  - Code électoral - art. L19 (V)
+
+
+#### Chapitre V : Propagande
+
+###### Article R110
+
+Tout bulletin de vote imprimé à l'occasion de l'élection des conseillers généraux doit comporter, à la suite du nom du
+candidat, le nom de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article L. 221,
+précédé ou suivi de l'une des mentions suivantes : " remplaçant " ou " suppléant ". 
+
+Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que celui du candidat.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
+	  - Code électoral - art. R*175 (M)
+
+	**Créé par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L217 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L221 (VD)
 
 
 #### Chapitre VII : Opérations de vote
 
+###### Article R111
+
+Les bulletins manuscrits sont valables s'ils comportent le nom du candidat pour lequel l'électeur désire voter, suivi du nom
+du remplaçant désigné par ce candidat sur sa déclaration de candidature.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L217 (V)
+
+
 ###### Article R112
 
-Immédiatement après le dépouillement du scrutin, les procès-verbaux de chaque commune, arrêtés et signés, sont portés au
-chef-lieu de canton par deux membres du bureau. Le recensement général des votes est fait par le bureau du chef-lieu, et le
-résultat est proclamé par son président, qui adresse tous les procès-verbaux et les pièces au sous-préfet ou, dans
-l'arrondissement chef-lieu du département, au préfet.
+Immédiatement après le dépouillement du scrutin, un exemplaire des procès-verbaux des opérations électorales de chaque
+commune, accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis par porteur au chef-lieu de
+canton. Le recensement général des votes est fait par le bureau du chef-lieu, et le résultat est proclamé par son président,
+qui adresse tous les procès-verbaux et les pièces au sous-préfet ou, dans l'arrondissement chef-lieu du département, au
+préfet.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -25396,8 +25581,7 @@ l'arrondissement chef-lieu du département, au préfet.
 
 	**Modifié par**:
 
-	  - Décret n°69-746 1969-07-24 art. 14 JORF 26 juillet 1969
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
 
 	**Liens**:
 
@@ -25410,19 +25594,24 @@ l'arrondissement chef-lieu du département, au préfet.
 
 Lorsque la protestation formée contre l'élection d'un membre au conseil général par un électeur du canton, par un candidat ou
 par un membre du conseil général a été consignée dans le procès-verbal des opérations électorales, conformément à l'article
-L. 222, ce procès-verbal doit être transmis dès sa réception par le préfet au greffe du tribunal administratif.
+L. 222, ce procès-verbal doit être transmis dès sa réception par le préfet au greffe du tribunal administratif. 
 
-Les protestations peuvent également être déposées audit greffe dans les cinq jours qui suivent l'élection.
+Les protestations peuvent également être déposées directement au greffe du tribunal administratif au plus tard à dix-huit
+heures le cinquième jour qui suit l'élection. 
 
 Le recours qui peut être formé par le préfet, conformément à l'article L. 222 pour inobservation des conditions et formalités
-légales, doit être déposé au greffe du tribunal administratif dans les quinze jours qui suivent l'élection.
+légales, doit être déposé au greffe du tribunal administratif dans les quinze jours qui suivent l'élection. 
 
 La notification est faite par les soins du président du tribunal administratif dans les trois jours de l'enregistrement de la
 protestation, au conseiller proclamé élu qui est avisé en même temps qu'il a cinq jours pour tout délai à l'effet de déposer
 sa défense au greffe du tribunal administratif et de faire connaître s'il entend ou non user du droit de présenter des
-observations orales.
+observations orales. 
 
 Il est donné récépissé, soit des protestations déposées au greffe, soit des défenses.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -25432,11 +25621,11 @@ Il est donné récépissé, soit des protestations déposées au greffe, soit de
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L222 (V)
+	  - Code électoral - art. L222 (VT)
 
 	**Cité par**:
 
@@ -25513,20 +25702,13 @@ l'expiration de ce délai de quinzaine.
 
 ###### Article R116
 
-Le recours au Conseil d'Etat contre la décision du tribunal administratif est ouvert, soit au préfet, soit aux parties
-intéressées. Il doit, à peine de nullité, être déposé au secrétariat de la sous-préfecture ou de la préfecture dans le délai
-d'un mois à partir de la notification de la décision.
+Le recours contre la décision du tribunal administratif est ouvert soit au préfet, soit aux parties intéressées. Il doit, à
+peine d'irrecevabilité, être déposé au Conseil d'Etat, dans le délai d'un mois à partir de la notification de la décision qui
+leur est faite et qui comporte l'indication dudit délai.
 
-Les délais pour la constitution d'un avocat sont d'un mois pour chacune de ces opérations.
-
-Les dispositions contenues dans l'article 16 de la loi du 10 août 1871, modifiée par la loi du 31 juillet 1875, demeurent
-applicables à l'instruction et au jugement des recours portés devant le Conseil d'Etat.
+La procédure devant le Conseil d'Etat est régie par les dispositions du code de justice administrative.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Ordonnance n°45-1708 du 31 juillet 1945 - art. 47 (Ab)
 
 	**Codifié par**:
 
@@ -25534,16 +25716,11 @@ applicables à l'instruction et au jugement des recours portés devant le Consei
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
 
 	**Cité par**:
 
 	  - Code électoral - art. R*175 (M)
-
-	**Cite**:
-
-	  - Loi n°1871-08-10 ART. 16
-	  - Loi n°1875-07-31
 
 
 ###### Article R117
@@ -25648,6 +25825,38 @@ l'électeur.
 	  - Code électoral - art. R24 (V)
 
 
+##### Section 4 : Propagande
+
+###### Article R117-4
+
+Dans les communes de 2 500 habitants et plus, les bulletins de vote doivent comporter le titre de la liste, ainsi que le nom
+de chaque candidat composant la liste dans l'ordre de présentation et, pour tout candidat ressortissant d'un Etat membre de
+l'Union européenne autre que la France, l'indication de sa nationalité.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Créé par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
+
+	**Cité par**:
+
+	  - Code électoral - art. R265 (VD)
+	  - Code électoral - art. R268 (V)
+
+
 ##### Section 6 : Opérations de vote
 
 ###### Article R118
@@ -25680,28 +25889,23 @@ département, au préfet ; le sous-préfet ou le préfet en constate la récepti
 
 ###### Article R119
 
-Les réclamations contre les opérations électorales doivent être consignées au procès-verbal, sinon être déposées, à peine de
-nullité, dans les cinq jours qui suivent le jour de l'élection, au secrétariat de la mairie, ou à la sous-préfecture, ou à la
-préfecture. Elles sont immédiatement adressées au préfet qui les fait enregistrer au greffe (bureau central ou greffe annexe)
-du tribunal administratif.
+Les réclamations contre les opérations électorales doivent être consignées au procès-verbal, sinon être déposées, à peine
+d'irrecevabilité, au plus tard à dix-huit heures le cinquième jour qui suit l'élection, à la sous-préfecture ou à la
+préfecture. Elles sont immédiatement adressées au préfet qui les fait enregistrer au greffe du tribunal administratif. 
 
-Elles peuvent également être déposées au bureau central du greffe du tribunal administratif.
+Les protestations peuvent également être déposées directement au greffe du tribunal administratif dans le même délai. 
 
 Le recours formé par le préfet en application de l'article L. 248 doit être exercé dans le délai de quinzaine à dater de la
-réception du procès-verbal.
+réception du procès-verbal. 
 
 Dans l'un et l'autre cas, la notification est faite, dans les trois jours de l'enregistrement de la protestation, aux
 conseillers dont l'élection est contestée qui sont avisés en même temps qu'ils ont cinq jours pour tout délai à l'effet de
 déposer leurs défenses au greffe (bureau central ou greffe annexe) du tribunal administratif et de faire connaître s'ils
-entendent ou non user du droit de présenter des observations orales.
+entendent ou non user du droit de présenter des observations orales. 
 
 Il est donné récépissé, soit des protestations, soit des défenses déposées au greffe.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral annexe, L248
 
 	**Codifié par**:
 
@@ -25722,7 +25926,11 @@ Il est donné récépissé, soit des protestations, soit des défenses déposée
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L248 (V)
 
 
 ###### Article R120
@@ -25849,11 +26057,11 @@ tribunal administratif devra intervenir dans le mois à partir de l'expiration d
 
 ###### Article R123
 
-Le recours au Conseil d'Etat doit, à peine de nullité, être déposé à la sous-préfecture, ou à la préfecture, ou au Conseil
-d'Etat, dans le délai d'un mois qui court à l'encontre du préfet ou des parties intéressées, à partir de la notification qui
+Le recours contre la décision du tribunal administratif est ouvert soit au préfet, soit aux parties intéressées. Il doit, à
+peine d'irrecevabilité, être déposé au Conseil d'Etat, dans le délai d'un mois à partir de la notification de la décision qui
 leur est faite et qui comporte l'indication dudit délai.
 
-Le pourvoi est jugé comme affaire urgente.
+La procédure devant le Conseil d'Etat est régie par les dispositions du code de justice administrative.
 
 **Liens relatifs à cet article**
 
@@ -25863,7 +26071,7 @@ Le pourvoi est jugé comme affaire urgente.
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
 
 	**Cité par**:
 
@@ -25879,18 +26087,26 @@ Le pourvoi est jugé comme affaire urgente.
 
 ###### Article R124
 
-Le tableau des opérations de sectionnement électoral prévu à l'article L. 255 est publié dans les communes intéressées, avant
-la convocation des électeurs, par les soins du préfet qui détermine, d'après le chiffre des électeurs inscrits dans chaque
-section, le nombre des conseillers que la loi lui attribue.
+Le tableau des opérations de sectionnement électoral prévu à l'article L. 255 est publié dans les communes intéressées par
+les soins du préfet qui détermine, d'après le chiffre des électeurs inscrits dans chaque section, le nombre des conseillers
+que la loi lui attribue. 
 
 Le sectionnement est représenté par un plan déposé à la préfecture et à la mairie de la commune intéressée. Tout électeur
-peut le consulter et en prendre copie.
+peut le consulter et en prendre copie. 
 
-Avis de ce dernier dépôt est donné aux intéressés par voie d'affiche à la porte de la mairie.
+Avis de ce dernier dépôt est donné aux intéressés par voie d'affiche à la porte de la mairie. 
 
 Le nombre des conseillers à élire dans les sections électorales prévues par l'article L. 255-1 qui correspondent à des
 communes associées est déterminé par le chiffre de la population de chaque commune associée et publié comme il est dit au
 premier alinéa.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées les 23 et 30 mars 2014 à
+l'occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -25900,12 +26116,15 @@ premier alinéa.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-938 du 18 octobre 2013 - art. 33
 
 	**Cite**:
 
-	  - Code électoral - art. L255 (M)
-	  - Code électoral - art. L255-1 (V)
+	  - Code électoral - art. L255 (VT)
 
 	**Cité par**:
 
@@ -25918,12 +26137,11 @@ premier alinéa.
 
 ###### Article R125
 
-Pour bénéficier du concours de la commission de propagande, les candidats ou les listes doivent remettre leurs bulletins au
-président de la commission avant une date limite fixée par arrêté préfectoral.
-
-Les candidats ou les listes doivent en outre fournir au président de la commission une liste comportant les nom, prénoms,
-date et lieu de naissance, domicile et profession du ou des candidats ainsi que leur signature et, le cas échéant, le titre
-de la liste présentée.
+Pour bénéficier du concours de la commission de propagande, les listes doivent remettre au président de la commission, avant
+la date limite fixée par arrêté préfectoral en application de l'article R. 38, une déclaration comportant le titre de la
+liste, ainsi que les nom, prénoms, date et lieu de naissance, domicile, profession et signature de chaque candidat et, pour
+tout candidat ressortissant d'un Etat membre de l'Union européenne autre que la France, l'indication de sa nationalité. Cette
+liste doit comporter autant de candidats que de sièges à pourvoir.
 
 **Liens relatifs à cet article**
 
@@ -25933,12 +26151,20 @@ de la liste présentée.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 6 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 35
 
 	**Cité par**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. R121-3 (M)
 	  - Décret n°80-918 du 13 novembre 1980 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R38
 
 
 ###### Article R126
@@ -26046,11 +26272,11 @@ préparatoires à ce scrutin.
 
 ###### Article R128
 
-Les documents officiels prévus au troisième alinéa de l'article L. 265 sont les suivants :
+A la déclaration de candidature en vue du premier tour, il est joint, pour chaque candidat visé à l'article L. 265 :
 
 1° Si le candidat est électeur dans la commune où il se présente, une attestation d'inscription sur la liste électorale de
-cette commune délivrée par le maire dans les trente jours  précédant la date du dépôt de la candidature ou une copie de la
-décision de justice ordonnant l'inscription de l'intéressé ;
+cette commune comportant les mentions prévues aux articles L. 18 et L. 19 délivrée par le maire dans les trente jours
+précédant la date du dépôt de la candidature ou une copie de la décision de justice ordonnant l'inscription de l'intéressé ;
 
 2° Si le candidat est électeur dans une autre commune que celle où il se présente, une attestation d'inscription sur la liste
 électorale de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la candidature ou une
@@ -26077,8 +26303,9 @@ dans la commune où il se présente à la date du 1er janvier de l'année de l'�
 Les députés et les sénateurs élus dans le département sont dispensés de la production des pièces énumérées au présent
 article.
 
-La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant
-le juge de l'élection.
+Un récépissé attestant de l'enregistrement de la déclaration de candidature est délivré dans les quatre jours du dépôt de
+cette déclaration, si celle-ci est conforme aux prescriptions en vigueur. La délivrance du récépissé par le préfet ne fait
+pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant le juge de l'élection.
 
 **Liens relatifs à cet article**
 
@@ -26096,27 +26323,30 @@ le juge de l'élection.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 2 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
 
 	**Cite**:
 
+	  - Code électoral - art. L18 (M)
+	  - Code électoral - art. L19 (V)
 	  - Code électoral - art. L265 (M)
 
 
 ###### Article R128-1
 
-Les documents officiels prévus au b du deuxième alinéa de l'article LO 265-1 sont les suivants :
+A la déclaration de candidature en vue du premier tour, il est joint, pour chaque candidat visé à l'article LO 265-1 :
 
 1° Si le candidat est électeur dans la commune où il se présente, une attestation d'inscription sur la liste électorale
-complémentaire de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la candidature ou
-une copie certifiée conforme de la décision de justice ordonnant l'inscription de l'intéressé ;
+complémentaire de cette commune comportant les mentions prévues aux articles L. 18 et L. 19 délivrée par le maire dans les
+trente jours précédant la date du dépôt de la candidature ou une copie de la décision de justice ordonnant l'inscription de
+l'intéressé ;
 
 2° Si le candidat est électeur dans une autre commune que celle où il se présente, une attestation d'inscription sur la liste
 électorale complémentaire de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la
-candidature ou une copie certifiée conforme de la décision de justice ordonnant l'inscription de l'intéressé ;
+candidature ou une copie de la décision de justice ordonnant l'inscription de l'intéressé ;
 
-3° Dans les autres cas, une copie certifiée conforme de la carte de séjour du candidat, ainsi qu'un bulletin n° 3 du casier
-judiciaire délivré depuis moins de trois mois.
+3° Dans les autres cas, une copie de la carte de séjour du candidat, ainsi qu'un bulletin n° 3 du casier judiciaire délivré
+depuis moins de trois mois.
 
 Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir l'une des pièces mentionnées à l'article R.
 128 requises du candidat français qui n'est pas électeur dans la commune où il se présente.
@@ -26129,16 +26359,14 @@ Le dernier alinéa de l'article R. 128 est applicable.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°89-80 du 8 février 1989 - art. 12 (V)
-
-	**Créé par**:
-
-	  - Décret n°98-1110 du 8 décembre 1998 - art. 2 ()
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
 
 	**Cite**:
 
+	  - Code électoral - art. L18 (M)
+	  - Code électoral - art. L19 (V)
 	  - Code électoral - art. LO265-1 (V)
 	  - Code électoral - art. R128 (M)
 
@@ -26663,9 +26891,11 @@ pourvus sont attribués à la ou aux plus fortes moyennes suivantes.
 
 ###### Article R149
 
-Les déclarations de candidatures établies en double exemplaire peuvent être rédigées sur papier libre. Elles doivent
-comporter, outre les mentions prévues aux articles L. 298, L. 299 et L. 300, l'indication des listes électorales sur
-lesquelles les candidats, et leurs remplaçants lorsqu'il y en a, sont inscrits.
+La déclaration de candidature est rédigée sur papier libre.
+
+Elle est accompagnée, pour chaque candidat et remplaçant, des pièces exigées à l'article R. 99.
+
+La déclaration de candidature est déposée par tout candidat, le remplaçant d'un candidat ou un mandataire désigné par eux.
 
 **Liens relatifs à cet article**
 
@@ -26680,12 +26910,11 @@ lesquelles les candidats, et leurs remplaçants lorsqu'il y en a, sont inscrits.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L298 (M)
-	  - Code électoral L298, L299 et L300
+	  - Code électoral - art. R*99 (M)
 
 
 ###### Article R150
@@ -26794,9 +27023,6 @@ scrutin.
 
 ###### Article R154
 
-Pour participer aux réunions électorales les délégués et suppléants justifient de leur qualité par un certificat du maire de
-la commune à laquelle ils appartiennent.
-
 L'autorité municipale veille à ce que nulle autre personne que celles désignées à l'article L. 306 n'assiste à ces réunions.
 
 **Liens relatifs à cet article**
@@ -26807,11 +27033,11 @@ L'autorité municipale veille à ce que nulle autre personne que celles désign�
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L306 (M)
+	  - Code électoral - art. L306 (Ab)
 
 	**Cité par**:
 
@@ -26821,22 +27047,25 @@ L'autorité municipale veille à ce que nulle autre personne que celles désign�
 ###### Article R155
 
 Chaque candidat ou liste de candidats ne peut faire adresser à chaque électeur, par la commission de propagande, qu'une seule
-circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un format de 210 mm x 297 mm.
+circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un format de 210 mm x 297 mm. 
 
 Les bulletins de vote doivent être d'un grammage compris entre 60 et 80 grammes au mètre carré et avoir les formats
 suivants :
 
 - 148 x 210 mm pour les listes ;
 
-- 105 x 148 mm pour les candidats isolés.
+- 105 x 148 mm pour les candidats isolés. 
 
-Dans les départements où les élections ont lieu au scrutin majoritaire, les bulletins doivent comporter à la suite du nom du
-candidat une des mentions suivantes : "remplaçant éventuel", "remplaçant", "suppléant éventuel" ou "suppléant" suivie du nom
-de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article LO 319. Le nom du remplaçant
-doit être imprimé en caractères de moindres dimensions que celui du candidat. Les bulletins qui ne répondraient pas à ces
-conditions ne seront pas acceptés par le président de la commission de propagande.
+Lorsque les élections ont lieu au scrutin majoritaire, les bulletins de vote doivent être établis en une seule couleur sur
+papier blanc et comporter, à la suite du nom du candidat, le nom de la personne appelée à remplacer le candidat élu dans les
+cas de vacance prévus par l'article LO. 319, précédé ou suivi de l'une des mentions suivantes : " remplaçant " ou " suppléant
+". Le nom du remplaçant doit figurer en caractères de moindres dimensions que celui du candidat. 
 
-Les bulletins de vote sont soustraits à la formalité du dépôt légal.
+Lorsque les élections ont lieu à la représentation proportionnelle, les bulletins de vote doivent être imprimés en une seule
+couleur sur papier blanc et comporter le titre de la liste, ainsi que le nom de chaque candidat composant la liste dans
+l'ordre de présentation. 
+
+Les circulaires et les bulletins de vote mentionnés au présent article sont soustraits à la formalité du dépôt légal.
 
 **Liens relatifs à cet article**
 
@@ -26846,8 +27075,7 @@ Les bulletins de vote sont soustraits à la formalité du dépôt légal.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 5 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 	**Cite**:
 
@@ -26944,6 +27172,8 @@ Cette commission, instituée par arrêté préfectoral, comprend :
 
 - un fonctionnaire désigné par le directeur des postes et télécommunications.
 
+Un suppléant du président peut être désigné dans les mêmes conditions.
+
 Chaque candidat ou liste de candidats peut désigner un mandataire qui participe aux travaux de la commission avec voix
 consultative.
 
@@ -26957,7 +27187,7 @@ Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 	**Cité par**:
 
@@ -26978,10 +27208,10 @@ Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
 Chaque candidat ou liste de candidats souhaitant bénéficier des dispositions de l'article R. 157 doit remettre au président
 de la commission de propagande une quantité de circulaires au moins égale au nombre des électeurs inscrits et une quantité de
 bulletins au moins égale au double du nombre des électeurs inscrits, au plus tard le lundi précédant la date du scrutin à
-dix-huit heures.
+dix-huit heures. 
 
 La commission n'est pas tenue d'assurer l'envoi des circulaires et bulletins remis postérieurement à cette date ni ceux dont
-le format, le libellé ou l'impression ne répondent pas aux prescriptions législatives ou réglementaires.
+le format, le libellé ou l'impression ne sont pas conformes à l'article R. 155.
 
 **Liens relatifs à cet article**
 
@@ -26991,12 +27221,12 @@ le format, le libellé ou l'impression ne répondent pas aux prescriptions légi
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 6 () JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. R*157 (M)
+	  - Code électoral - art. R155 (V)
+	  - Code électoral - art. R157 (VT)
 
 
 ###### Article R160
@@ -27065,15 +27295,21 @@ cette demande peut être formulée par l'ensemble des candidats de la liste ou u
 
 La liste des électeurs du département est dressée par ordre alphabétique par le préfet. Cette liste comprend les députés, les
 conseillers régionaux, conseillers généraux et les délégués des conseils municipaux désignés dans les conditions prévues au
-titre III du présent livre.
+titre III du présent livre. 
 
 Le préfet peut modifier la liste jusqu'à sa division en sections de vote mentionnée à l'article R. 164, pour tenir compte des
-remplacements de délégués prévus par la loi.
+remplacements de délégués prévus par la loi. 
 
 Dès qu'elle est arrêtée, la liste peut être communiquée à tout électeur qui en fait la demande. Elle peut être copiée et
 publiée.
 
-Une carte d'un modèle spécial est adressée à chaque électeur par les soins du préfet.
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
+renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
+scrutin.
 
 **Liens relatifs à cet article**
 
@@ -27083,12 +27319,11 @@ Une carte d'un modèle spécial est adressée à chaque électeur par les soins 
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 11 () JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. R*164 (M)
+	  - Code électoral - art. R164 (V)
 
 	**Cité par**:
 
@@ -27285,8 +27520,7 @@ scrutin.
 Les enveloppes électorales sont fournies par l'administration préfectorale en nombre égal à celui des électeurs inscrits,
 sauf dans les départements où il est fait utilisation d'une machine à voter.
 
-Elles sont opaques, non gommées, frappées du timbre à date des préfectures, et de type uniforme pour chaque collège
-électoral.
+Elles sont opaques, non gommées et de type uniforme pour chaque département.
 
 **Liens relatifs à cet article**
 
@@ -27296,7 +27530,7 @@ Elles sont opaques, non gommées, frappées du timbre à date des préfectures, 
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 	**Cité par**:
 
@@ -27547,35 +27781,6 @@ départementale et énumérés dans l'ordre de présentation.
 
 #### Chapitre VI : Propagande
 
-###### Article R185
-
-Par dérogation aux dispositions de l'article R. 31, les commissions de propagande instituées par l'article L. 354 sont
-installées à compter du quatrième vendredi qui précède le jour du scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Modifié par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
-
-	**Cite**:
-
-	  - Code électoral - art. L354 (M)
-	  - Code électoral - art. R31 (M)
-
-
 ###### Article R186
 
 Les bulletins de vote comportent le titre de la liste, les nom et prénoms du candidat désigné tête de liste ainsi que les nom
@@ -27631,10 +27836,12 @@ recensement instituée par l'article L. 359, soit par porteur, soit sous pli pos
 ###### Article R189
 
 La commission départementale de recensement des votes prévue à l'article L. 359 du code électoral est instituée par arrêté du
-préfet du département.
+préfet du département. 
 
 Elle comprend trois magistrats, dont le président de la commission, désignés par le premier président de la cour d'appel, un
-conseiller général et un fonctionnaire désigné par le préfet.
+conseiller général et un fonctionnaire désigné par le préfet. 
+
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions. 
 
 Un représentant de chacune des listes peut assister aux opérations de la commission.
 
@@ -27644,23 +27851,21 @@ Un représentant de chacune des listes peut assister aux opérations de la commi
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
 	**Modifié par**:
 
-	  - Décret n°99-232 du 24 mars 1999 - art. 3 ()
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 	**Cite**:
 
-	  - Code électoral - art. L359 (M)
+	  - Code électoral - art. L359 (V)
 
 
 ###### Article R189-1
 
 La commission départementale effectue le recensement des votes dès la fermeture du scrutin et au fur et à mesure de l'arrivée
-des procès-verbaux. Elle procède, s'il y a lieu, au redressement des chiffres portés sur ceux-ci.
+des procès-verbaux. La commission tranche les questions que peuvent poser, en dehors de toute réclamation, la validité et le
+décompte des bulletins, et procède aux rectifications nécessaires, sans préjudice toutefois du pouvoir d'appréciation du juge
+de l'élection.
 
 Les résultats du recensement des votes sont constatés par un procès-verbal établi en double exemplaire et signé de tous les
 membres de la commission. Le premier exemplaire est transmis sans délai, sous pli fermé, au président de la commission
@@ -27674,9 +27879,9 @@ publics les résultats du recensement auquel elle a procédé.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-232 du 24 mars 1999 - art. 3 ()
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 
 ###### Article R189-2
@@ -27797,35 +28002,6 @@ Pour chacun des deux tours de scrutin, l'état indique pour chaque liste son tit
 
 #### Chapitre VI : Propagande
 
-###### Article R193
-
-Par dérogation aux dispositions de l'article R. 31, la commission de propagande prévue par l'article L. 376 est instituée par
-arrêté du préfet de Corse et installée à compter du quatrième vendredi qui précède le jour du scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Créé par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
-
-	**Cite**:
-
-	  - Code électoral - art. L376 (V)
-	  - Code électoral - art. R31 (M)
-
-
 ###### Article R194
 
 Par dérogation aux dispositions de l'article R. 32, la commission de propagande comprend :
@@ -27837,6 +28013,8 @@ Par dérogation aux dispositions de l'article R. 32, la commission de propagande
 - un fonctionnaire désigné par le trésorier-payeur général de Corse ;
 
 - un fonctionnaire désigné par le chef de service de La Poste compétent pour la Corse.
+
+Un suppléant du président peut être désigné dans les mêmes conditions.
 
 Le secrétariat est assuré par un fonctionnaire désigné par le préfet de Corse.
 
@@ -27850,13 +28028,9 @@ Le président fixe, en accord avec le préfet de Corse, le lieu où la commissio
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Créé par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 	**Cite**:
 
@@ -28195,23 +28369,21 @@ Pour l'application des dispositions du présent code dans les îles Wallis et Fu
 
 ###### Article R204
 
-I. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire), à l'exception des articles R. 4-1 et
-des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2007-99 du 25 janvier 2007 :
+<font size="1">Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots :
+"sur papier blanc" figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n°
+2007-1670 du 26 novembre 2007 :</font>
 
-1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française ;
+<font size="1">1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R.
+20 à R. 22, R. 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ;</font>
 
-2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ;
+<font size="1">2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ;</font>
 
-3° A l'élection des représentants à l'assemblée de Polynésie française ;
+<font size="1">3° A l'élection des représentants à l'assemblée de Polynésie française ;</font>
 
-4° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
+<font size="1">4° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60 et du chapitre V bis, à l'élection des membres de
+l'assemblée territoriale des îles Wallis et Futuna ;</font>
 
-II. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables, dans leur rédaction
-en vigueur à la date du décret n° 2007-99 du 25 janvier 2007, dans les îles Wallis et Futuna :
-
-1° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60, à l'élection du député ;
-
-2° A l'exception des mêmes articles et du chapitre V bis, à l'élection des membres de l'assemblée territoriale.
+<font size="1">5° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.</font>
 
 **Liens relatifs à cet article**
 
@@ -28219,23 +28391,26 @@ en vigueur à la date du décret n° 2007-99 du 25 janvier 2007, dans les îles 
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Cite**:
-
-	  - Décret n°2007-99 2007-01-25
-	  - Code électoral - art. R*4-1 (M)
-	  - Code électoral - art. R43 (M)
-	  - Code électoral - art. R60 (M)
-	  - Code électoral R4-1, R20 à R22, R43, R60
-
 	**Modifié par**:
 
-	  - Décret n°2007-99 du 25 janvier 2007 - art. 1 () JORF 26 janvier 2007
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2007-1670du 26 novembre 2007 - JORF du 1er décembre 2007
 
 	**Cité par**:
 
 	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
 	  - Décret n°2016-1819 du 22 décembre 2016 - art. 4
 	  - Code électoral - art. R210 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R*20
+	  - Code électoral - art. R30 (M)
+	  - Code électoral - art. R43 (M)
+	  - Code électoral - art. R60 (M)
 
 
 ###### Article R205
@@ -28565,8 +28740,8 @@ village, ou, à défaut, par le plus âgé des assesseurs.
 ###### Article R214
 
 Les dispositions du titre II du livre Ier du présent code (partie réglementaire), à l'exception des articles R. 98, R. 106 et
-du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2007-99 du 25
-janvier 2007, à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2007-1670 du
+26 novembre 2007, à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -28574,16 +28749,19 @@ janvier 2007, à l'élection des députés en Nouvelle-Calédonie, en Polynésie
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2007-1670 du 26 novembre 2007 - JORF du 1er décembre 2007
+
 	**Cite**:
 
-	  - Décret n°2007-99 2007-01-25
 	  - Code électoral - art. R*106 (M)
 	  - Code électoral - art. R*107 (M)
 	  - Code électoral - art. R*98 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 
 #### Chapitre II : Régime des inéligibilités
@@ -28751,7 +28929,7 @@ général des votes devra avoir terminé ses travaux.
 ###### Article R219
 
 Les dispositions des articles R. 6, R. 7, R. 12 à R. 15-7, R. 17-1, R. 18, R. 19 à R. 22 sont applicables, dans leur
-rédaction en vigueur à la date du décret n° 2007-99 du 25 janvier 2007, à l'établissement de la liste électorale spéciale
+rédaction en vigueur à la date du décret n° 2007-1670 du 26 novembre 2007, à l'établissement de la liste électorale spéciale
 pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
@@ -28760,18 +28938,21 @@ pour les élections au congrès et aux assemblées de province de la Nouvelle-Ca
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2007-1670 du 26 novembre 2007 - JORF du 1er décembre 2007
+
 	**Cite**:
 
-	  - Décret n°2007-99 2007-01-25
 	  - Code électoral - art. R*17-1 (M)
 	  - Code électoral - art. R*18 (M)
 	  - Code électoral - art. R*6 (M)
 	  - Code électoral - art. R*7 (M)
 	  - Code électoral R6, R7, R12 à R15-7, R17-1, R18, R19 à R22
-
-	**Modifié par**:
-
-	  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 
 ###### Article R220
@@ -30043,9 +30224,9 @@ Les résultats de l'élection sont publiés au Journal officiel du territoire.
 
 ###### Article R265
 
-Les dispositions des chapitres Ier et II du titre IV du livre Ier du présent code (partie réglementaire), dans leur rédaction
-en vigueur à la date du décret n° 2007-99 du 25 janvier 2007, sont applicables à l'élection des membres des conseils
-municipaux en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes :
+Les dispositions des chapitres Ier, II et III du titre IV du livre Ier du présent code (partie réglementaire), dans leur
+rédaction en vigueur à la date du décret n° 2007-1670 du 26 novembre 2007, sont applicables à l'élection des membres des
+conseils municipaux en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes : 
 
 1° (Abrogé) ;
 
@@ -30058,43 +30239,20 @@ jours.
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Cite**:
-
-	  - Décret n°2007-99 2007-01-25
-	  - Code électoral - art. R119 (M)
-
 	**Modifié par**:
-
-	  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
-
-
-#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie
-
-###### Article R266
-
-Les dispositions des articles R. 127-1, R. 128 et R. 128-1 sont applicables à l'élection des conseillers municipaux des
-communes de 3 500 habitants et plus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
-
-	**Abrogé par**:
 
 	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
 
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2007-1670 du 26 novembre 2007 - JORF du 1er décembre 2007
+
 	**Cite**:
 
-	  - Code électoral - art. R127-1 (V)
-	  - Code électoral - art. R128 (M)
-	  - Code électoral - art. R128-1 (M)
+	  - Code électoral - art. R119 (M)
 
+
+#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie
 
 ###### Article R267
 
@@ -30112,32 +30270,6 @@ Les résultats des scrutins sont publiés au Journal officiel de la Nouvelle-Cal
 
 
 #### Chapitre III : Dispositions particulières à la Polynésie française
-
-###### Article R268
-
-Les dispositions des articles R. 127-1, R. 128 et R. 128-1 sont applicables à l'élection des conseillers municipaux des
-communes de 2 500 habitants et plus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
-
-	**Cite**:
-
-	  - Code électoral - art. R127-1 (V)
-	  - Code électoral - art. R128 (M)
-	  - Code électoral - art. R128-1 (M)
-
 
 ###### Article R270
 
@@ -30161,12 +30293,12 @@ Les résultats des scrutins sont publiés au Journal officiel de la Polynésie f
 ###### Article R271
 
 Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction en vigueur à
-la date du décret n° 2007-99 du 25 janvier 2007, les dispositions suivantes du livre II du code électoral (partie
-Réglementaire) :
+la date du décret n° 2007-1670 du 26 novembre 2007, les dispositions suivantes du livre II du code électoral (partie
+Réglementaire) : 
 
-1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164, R. 164-1 et R. 169 ;
+1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164, R. 164-1 et R. 169 ; 
 
-2° Chapitres Ier et IV à VII du titre IV ;
+2° Chapitres Ier et IV à VII du titre IV ; 
 
 3° Titre VI.
 
@@ -30176,9 +30308,21 @@ Réglementaire) :
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+	**Modifié par**:
+
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2007-1670 du 26 novembre 2007 - JORF du 1er décembre 2007
+
+	**Cité par**:
+
+	  - Arrêté du 3 septembre 2014 (V)
+	  - Arrêté du 26 septembre 2014 (V)
+
 	**Cite**:
 
-	  - Décret n°2007-99 2007-01-25
 	  - Code électoral - art. R*130-1 (M)
 	  - Code électoral - art. R*150 (M)
 	  - Code électoral - art. R*151 (M)
@@ -30186,22 +30330,13 @@ Réglementaire) :
 	  - Code électoral - art. R*164-1 (M)
 	  - Code électoral - art. R*169 (M)
 
-	**Modifié par**:
-
-	  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
-
-	**Cité par**:
-
-	  - Arrêté du 3 septembre 2014 (V)
-	  - Arrêté du 26 septembre 2014 (V)
-
 
 ###### Article R272
 
 Sont applicables à l'élection des sénateurs dans les îles Wallis et Futuna, dans leur rédaction en vigueur à la date du
-décret n° 2007-99 du 25 janvier 2007, les dispositions suivantes du livre II du code électoral (partie réglementaire) :
+décret n° 2007-1670 du 26 novembre 2007, les dispositions suivantes du livre II du code électoral (partie réglementaire) : 
 
-1° Chapitres Ier et IV à VII du titre IV, à l'exception de l'article R. 154 ;
+1° Chapitres Ier et IV à VII du titre IV, à l'exception de l'article R. 154 ; 
 
 2° Titre VI.
 
@@ -30211,19 +30346,22 @@ décret n° 2007-99 du 25 janvier 2007, les dispositions suivantes du livre II d
 
 	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-	**Cite**:
-
-	  - Décret n°2007-99 2007-01-25
-	  - Code électoral - art. R*154 (M)
-
 	**Modifié par**:
 
-	  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 9 () JORF 28 novembre 2007
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2007-1670 du 26 novembre 2007 - JORF du 1er décembre 2007
 
 	**Cité par**:
 
 	  - Arrêté du 3 septembre 2014 (V)
 	  - Arrêté du 26 septembre 2014 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R*154 (M)
 
 
 #### Chapitre II : Régime des inéligibilités
