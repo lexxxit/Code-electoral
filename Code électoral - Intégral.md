@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2008-02-25
+Version Consolidée au 2008-03-16
 
 # Partie législative
 
@@ -8738,14 +8738,16 @@ d'Etat, conformément aux articles L. 222 et L. 223.
 
 Tout candidat à l'élection au conseil général doit obligatoirement, avant chaque tour de scrutin, souscrire une déclaration
 de candidature dans les conditions prévues par un décret en Conseil d'Etat. Cette déclaration, revêtue de la signature du
-candidat, énonce les nom, prénoms, sexe, date et lieu de naissance, domicile et profession.
+candidat, énonce les nom, prénoms, sexe, date et lieu de naissance, domicile et profession. Elle mentionne également la
+personne appelée à remplacer le candidat comme conseiller général dans le cas prévu à l'article L. 221. Les articles L. 155
+et L. 163 sont applicables à la désignation du remplaçant. Le candidat et son remplaçant sont de sexe différent.
 
-A cette déclaration sont jointes les pièces propres à prouver que le candidat répond aux conditions d'éligibilité prévues par
-l'article L. 194.
+A cette déclaration sont jointes les pièces propres à prouver que le candidat et son remplaçant répondent aux conditions
+d'éligibilité prévues par l'article L. 194.
 
-Si la déclaration de candidature n'est pas accompagnée des pièces mentionnées au deuxième alinéa ou si ces pièces
-n'établissent pas que le candidat répond aux conditions d'éligibilité prévues par l'article L. 194, elle n'est pas
-enregistrée.
+Si la déclaration de candidature n'est pas conforme aux dispositions du premier alinéa, qu'elle n'est pas accompagnée des
+pièces mentionnées au deuxième alinéa ou si ces pièces n'établissent pas que le candidat et son remplaçant répondent aux
+conditions d'éligibilité prévues par l'article L. 194, elle n'est pas enregistrée.
 
 Nul ne peut être candidat dans plus d'un canton.
 
@@ -8768,11 +8770,8 @@ premier tour peuvent se maintenir au second.
 
 **Nota:**
 
-Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
-
-Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions du présent article entrent en vigueur à compter du premier
-renouvellement par moitié des conseils généraux qui suit la publication de la présente loi.
+: Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions de cet article entrent en vigueur à compter du premier
+renouvellement par moitié des conseils généraux qui suit la publication de la présente loi.(Date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -8782,17 +8781,17 @@ renouvellement par moitié des conseils généraux qui suit la publication de la
 
 	**Liens**:
 
-	  - SPEC_APPLI: Fin de vigueur : date indéterminée
-	  - SPEC_APPLI: Loi n°2000-629 du 7 juillet 2000 - art. 3 ()
+	  - SPEC_APPLI: Entrée en vigueur : date indéterminée
 
 	**Modifié par**:
 
-	  - Loi n°2000-629 du 7 juillet 2000 - art. 1 () JORF 8 juillet 2000
+	  - Loi n°2007-128 du 31 janvier 2007 - art. 4 () JORF 1er février 2007
 
 	**Cite**:
 
+	  - Code électoral - art. L155 (M)
+	  - Code électoral - art. L163 (M)
 	  - Code électoral - art. L194 (M)
-	  - Code électoral - art. L217 (M)
 
 	**Cité par**:
 
@@ -8999,9 +8998,13 @@ Il doit y avoir un intervalle de quinze jours francs entre la date de la convoca
 
 ###### Article L221
 
-En cas de vacance par décès, option, démission, par une des causes énumérées aux articles L. 205, L. 209 et L. 210 et à
-l'alinéa 1 de l'article 19 de la loi du 10 août 1871 ou par toute autre cause, les électeurs doivent être réunis dans le
-délai de trois mois. 
+Le conseiller général dont le siège devient vacant pour cause de décès, de démission intervenue en application des articles
+L. 46-1, L. 46-2 ou LO 151-1 du présent code, de présomption d'absence au sens de l'article 112 du code civil ou
+d'acceptation de la fonction de membre du Conseil constitutionnel, est remplacé jusqu'au renouvellement de la série dont il
+est issu par la personne élue en même temps que lui à cet effet. 
+
+En cas de vacance pour toute autre cause ou lorsque le premier alinéa ne peut plus être appliqué, il est procédé à une
+élection partielle dans le délai de trois mois. 
 
 Toutefois, si le renouvellement d'une série sortante doit avoir lieu dans les trois mois de la vacance, l'élection partielle
 se fait à la même époque. 
@@ -9012,22 +9015,13 @@ représentant de l'Etat dans le département et, s'il y a lieu, au ministre de l
 **Nota:**
 
 Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions de cet article entrent en vigueur à compter du premier
-renouvellement par moitié des conseils généraux qui suit la publication de la présente loi.
+renouvellement par moitié des conseils généraux qui suit la publication de la présente loi. (Date indéterminée).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Fin de vigueur : date indéterminée
-	  - TXT_ASSOCIE: Code électoral - art. R112 (M)
-
 	**Modifié par**:
 
-	  - Loi n°94-44 du 18 janvier 1994 - art. 5 ()
+	  - Loi n°2008-175 du 26 février 2008 - art. unique.
 
 	**Cité par**:
 
@@ -9040,9 +9034,10 @@ renouvellement par moitié des conseils généraux qui suit la publication de la
 
 	**Cite**:
 
-	  - Loi n°1871-08-10. du 10 août 1871 - art. 19 (Ab)
-	  - Code électoral - art. L205 (V)
-	  - Code électoral - art. L209 (V)
+	  - Code électoral - art. L46-1 (V)
+	  - Code électoral - art. L46-2 (V)
+	  - Code électoral - art. LO151-1 (V)
+	  - Code civil - art. 112 (V)
 
 
 #### Chapitre IX : Contentieux
