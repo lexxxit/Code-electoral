@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2008-03-16
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -21468,7 +21468,7 @@ par lettre recommandée au greffe de la Cour de cassation un mémoire en répons
 
 Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les parties ou l'une
 d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les dispositions des
-articles 974 à 982 du nouveau code de procédure civile ne sont pas applicables. 
+articles 974 à 982 du code de procédure civile ne sont pas applicables. 
 
 Lorsqu'un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au greffe de la Cour de cassation qu'il représentait
 une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de notification
@@ -21476,10 +21476,6 @@ entre avocats. La remise à l'avocat, contre récépissé, d'une copie du mémoi
 notification.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -21493,11 +21489,15 @@ notification.
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 974 (V)
 
 
 ###### Article R16
@@ -21607,13 +21607,9 @@ ainsi que les inscriptions d'office prononcées en application du deuxième alin
 ###### Article R17-1
 
 Les délais prévus aux articles L. 20, R. 8, R. 10, R. 12, R. 13 et R. 15-1 sont calculés et prorogés conformément aux
-dispositions des articles 640, 641 et 642 du nouveau code de procédure civile.
+dispositions des articles 640,641 et 642 du code de procédure civile.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -21625,22 +21621,30 @@ dispositions des articles 640, 641 et 642 du nouveau code de procédure civile.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 42
+
+	**Cite**:
+
+	  - Code électoral - art. L20
+	  - Code électoral - art. R*10
+	  - Code électoral - art. R*12
+	  - Code électoral - art. R*8
+	  - Code électoral - art. R15-1
+	  - Code de procédure civile - art. 640
 
 
 ##### Section 3 : Inscription en dehors des périodes de révision
 
 ###### Article R17-2
 
-Les délais prévus aux articles L. 31 à L. 35 sont calculés et prorogés conformément aux dispositions des articles 640, 641 et
-642 du nouveau code de procédure civile.
+Les délais prévus aux articles L. 31 à L. 35 sont calculés et prorogés conformément aux dispositions des articles 640,641 et
+642 du code de procédure civile.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -21667,8 +21671,16 @@ Les délais prévus aux articles L. 31 à L. 35 sont calculés et prorogés conf
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 42
+
+	**Cite**:
+
+	  - Code électoral - art. L31
+	  - Code de procédure civile - art. 640
 
 
 ##### Section 4 : Contrôle des inscriptions sur les listes électorales
@@ -28538,20 +28550,20 @@ l'élection, soit au greffe du tribunal administratif, soit au secrétariat du c
 secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
 représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
 transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
-à la partie qui le demande.
+à la partie qui le demande. 
 
-Le délai de distance prévu à l'article 643 du nouveau code de procédure civile n'est pas applicable lorsque le Conseil d'Etat
-est compétent en premier et dernier ressort.
+Le délai de distance prévu à l'article 643 du code de procédure civile n'est pas applicable lorsque le Conseil d'Etat est
+compétent en premier et dernier ressort.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Code de procédure civile - art. 643 (V)
 
 
 ###### Article R212
