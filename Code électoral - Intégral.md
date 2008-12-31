@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -55,8 +55,8 @@ n'étant dans aucun cas d'incapacité prévu par la loi.
 
 ###### Article L5
 
-Les majeurs placés sous tutelle ne peuvent être inscrits sur les listes électorales à moins qu'ils n'aient été autorisés à
-voter par le juge des tutelles.
+Lorsqu'il ouvre ou renouvelle une mesure de tutelle, le juge statue sur le maintien ou la suppression du droit de vote de la
+personne protégée.
 
 **Liens relatifs à cet article**
 
@@ -281,8 +281,7 @@ voter par le juge des tutelles.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 2005-02-11 art. 71 1° JORF 12 février 2005
-	  - Loi n°2005-102 du 11 février 2005 - art. 71
+	  - Loi n°2007-308 du 5 mars 2007 - art. 12 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article L6
