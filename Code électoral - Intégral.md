@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-15
 
 # Partie législative
 
@@ -5858,17 +5858,9 @@ contestée, le déclare démissionnaire d'office.
 
 ###### Article LO119
 
-Le nombre de députés à l'Assemblée nationale élus dans les départements est de 570.
+Le nombre des députés est de cinq cent soixante-dix-sept.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-688 1985-07-10 art. 1 JORF 11 JUILLET 1985
 
 	**Cité par**:
 
@@ -5876,6 +5868,10 @@ Le nombre de députés à l'Assemblée nationale élus dans les départements es
 	  - Code électoral - art. LO328-2 (Ab)
 	  - Code électoral - art. LO334-6-1 (Ab)
 	  - Code électoral - art. LO394-1 (V)
+
+	**Modifié par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 1
 
 
 ###### Article LO120
@@ -6254,23 +6250,19 @@ l'Assemblée nationale.
 
 Ainsi qu'il est dit à l'alinéa 2 de l'article 2 de l'ordonnance n° 58-1099 du 17 novembre 1958 portant loi organique pour
 l'application de l'article 23 de la Constitution, quiconque a été appelé à remplacer dans les conditions prévues à l'article
-L.O. 176-1 un député nommé membre du Gouvernement ne peut, lors de l'élection suivante, faire acte de candidature contre lui.
+L.O. 176 un député nommé membre du Gouvernement ne peut, lors de l'élection suivante, faire acte de candidature contre lui.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CONSTITUTION 1958-10-04 ART. 23
-	  - Ordonnance 58-1099 1958-11-17 ART. 2 AL. 2
-	  - Code électoral - art. LO176-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Constitution du 4 octobre 1958 - art. 23
+	  - Ordonnance n°58-1099 du 17 novembre 1958 - art. 2
+	  - Code électoral - art. LO176
 
 	**Modifié par**:
 
-	  - Loi n°85-688 1985-07-10 art. 2 JORF 11 JUILLET 1985
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 2
 
 
 ###### Article LO135-1
@@ -6593,26 +6585,32 @@ conseiller à l'Assemblée de Corse, conseiller général, conseiller de Paris, 
 
 ###### Article LO142
 
-L'exercice des fonctions publiques non électives est incompatible avec le mandat de député.
+L'exercice des fonctions publiques non électives est incompatible avec le mandat de député. 
 
-Sont exceptés des dispositions du présent article :
+Sont exceptés des dispositions du présent article : 
 
 1° Les professeurs qui, à la date de leur élection, étaient titulaires de chaires données sur présentation des corps où la
-vacance s'est produite ou chargés de directions de recherches;
+vacance s'est produite ou chargés de directions de recherches ; 
 
-2° Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle [*Alsace-Lorraine*], les ministres des cultes et les
-délégués du gouvernement dans l'administration des cultes.
+2° Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, les ministres des cultes et les délégués du Gouvernement
+dans l'administration des cultes. 
+
+Le présent article est applicable aux fonctions de membre de la commission prévue à l'article 25 de la Constitution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Constitution du 4 octobre 1958 - art. 25
 
 	**Cité par**:
 
 	  - Loi n°77-729 du 7 juillet 1977 - art. 6 (VD)
 	  - Code électoral - art. LO151-1 (VD)
+
+	**Modifié par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 7
 
 
 ###### Article LO143
@@ -7673,16 +7671,15 @@ Les élections partielles prévues à l'article LO. 178 ont lieu selon les règl
 
 ###### Article LO176
 
-Lorsque les députés sont élus au scrutin de liste, chaque liste comprend un nombre de candidats égal au nombre des sièges à
-pourvoir augmenté de deux. Les candidats venant sur une liste immédiatement après le dernier candidat élu sont appelés à
-remplacer, jusqu'au renouvellement de l'Assemblée nationale, les députés élus sur cette liste dont le siège deviendrait
-vacant pour quelque cause que ce soit.
+Les députés dont le siège devient vacant pour cause de décès, d'acceptation des fonctions de membre du Conseil
+constitutionnel ou de prolongation au-delà du délai de six mois d'une mission temporaire confiée par le Gouvernement sont
+remplacés jusqu'au renouvellement de l'Assemblée nationale par les personnes élues en même temps qu'eux à cet effet. 
+
+Les députés qui acceptent des fonctions gouvernementales sont remplacés, jusqu'à l'expiration d'un délai d'un mois suivant la
+cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet. [Dispositions déclarées non conformes à
+la Constitution par la décision du Conseil constitutionnel n° 2008-572 DC du 8 janvier 2009.]
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -7693,36 +7690,7 @@ vacant pour quelque cause que ce soit.
 
 	**Modifié par**:
 
-	  - Loi n°85-688 1985-07-10 art. 3 JORF 11 juillet 1985
-
-
-###### Article LO176-1
-
-Les députés élus au scrutin uninominal dont le siège devient vacant pour cause de décès, d'acceptation de fonctions
-gouvernementales [*durée*] ou de membre du Conseil constitutionnel ou de prolongation au-delà du délai de six mois d'une
-mission temporaire confiée par le Gouvernement sont remplacés jusqu'au renouvellement de l'Assemblée nationale par les
-personnes élues en même temps qu'eux à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Loi n°77-729 du 7 juillet 1977 - art. 24 (M)
-	  - Code électoral - art. LO135 (V)
-	  - Code électoral - art. LO178 (V)
-	  - Code électoral - art. R103 (V)
-
-	**Créé par**:
-
-	  - Loi n°85-688 1985-07-10 art. 4 JORF 11 JUILLET 1985
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 2
 
 
 ###### Article LO177
@@ -7751,31 +7719,26 @@ mandat de député sont prises dans le mois qui suit l'expiration du délai pré
 ###### Article LO178
 
 En cas d'annulation des opérations électorales d'une circonscription, dans les cas de vacance autres que ceux qui sont
-mentionnés à l'article L.O. 176-1 ou lorsque les dispositions des articles L.O. 176 et L.O. 176-1 ne peuvent plus être
-appliquées, il est procédé à des élections partielles dans un délai de trois mois.
+mentionnés à l'article LO 176 ou lorsque les dispositions de cet article ne peuvent plus être appliquées, il est procédé à
+des élections partielles dans un délai de trois mois. 
 
 Toutefois, il n'est procédé à aucune élection partielle dans les douze mois qui précèdent l'expiration des pouvoirs de
 l'Assemblée nationale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°85-688 1985-07-10 art. 5 JORF 11 JUILLET 1985
-
 	**Cité par**:
 
 	  - Décret n°2007-1751 du 14 décembre 2007 (V)
 	  - Code électoral - art. L178-1 (V)
 
+	**Modifié par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 2
+
 	**Cite**:
 
-	  - Code électoral - art. LO176 (M)
-	  - Code électoral - art. LO176-1 (V)
+	  - Code électoral - art. LO176
 
 
 #### Chapitre X : Contentieux
@@ -11205,6 +11168,16 @@ L. 240, L. 241, L. 244 et L. 256.
 	  - Code électoral - art. L256 (VT)
 
 
+## Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux
+
+### Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux
+
+### Titre II : Dispositions spéciales à l'élection des députés
+
+### Titre III : Dispositions spéciales à l'élection des conseillers généraux
+
+### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
+
 ## Livre II : Election des sénateurs des départements
 
 ### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs
@@ -12507,14 +12480,15 @@ deux tours.
 ###### Article LO319
 
 Les sénateurs élus au scrutin majoritaire dont le siège devient vacant pour cause de décès, d'acceptation des fonctions de
-membre du gouvernement ou de membre du conseil constitutionnel ou de prolongation au-delà de six mois d'une mission
-temporaire conférée par le gouvernement sont remplacés par les personnes élues en même temps qu'eux à cet effet.
+membre du Conseil constitutionnel ou de prolongation au-delà du délai de six mois d'une mission temporaire confiée par le
+Gouvernement sont remplacés par les personnes élues en même temps qu'eux à cet effet. 
+
+Les sénateurs élus au scrutin majoritaire qui acceptent des fonctions gouvernementales sont remplacés, jusqu'à l'expiration
+d'un délai d'un mois suivant la cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet.
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2008-572 DC du 8
+janvier 2009.]
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -12525,23 +12499,34 @@ temporaire conférée par le gouvernement sont remplacés par les personnes élu
 	  - Code électoral - art. LO323 (V)
 	  - Code électoral - art. R155 (V)
 
+	**Modifié par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 3
+
 
 ###### Article LO320
 
-En cas d'élections à la représentation proportionnelle, les candidats venant sur une liste immédiatement après le dernier
-candidat élu sont appelés à remplacer les sénateurs élus sur cette liste dont le siège deviendrait vacant pour quelque cause
-que ce soit.
+Le sénateur élu à la représentation proportionnelle dont le siège devient vacant pour toute autre cause que l'acceptation de
+fonctions gouvernementales est remplacé par le candidat figurant sur la même liste immédiatement après le dernier candidat
+devenu sénateur conformément à l'ordre de cette liste. 
+
+Le sénateur élu à la représentation proportionnelle qui accepte des fonctions gouvernementales est remplacé, jusqu'à
+l'expiration d'un délai d'un mois suivant la cessation de ces fonctions, par le candidat figurant sur la même liste
+immédiatement après le dernier candidat devenu sénateur conformément à l'ordre de la liste. A l'expiration du délai d'un
+mois, le sénateur reprend l'exercice de son mandat. Le caractère temporaire du remplacement pour cause d'acceptation de
+fonctions gouvernementales s'applique au dernier candidat devenu sénateur conformément à l'ordre de la liste. Celui-ci est
+replacé en tête des candidats non élus de cette liste.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
 	  - Loi n°83-499 du 17 juin 1983 - art. 3 (V)
 	  - Code électoral - art. LO323 (V)
+
+	**Modifié par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 4
 
 
 ###### Article LO321
@@ -12585,25 +12570,24 @@ Il n'est toutefois procédé à aucune élection partielle dans l'année qui pr�
 
 ###### Article LO323
 
-Le mandat des personnes ayant remplacé, dans les conditions prévues aux articles L. O. 319, L. O. 320 et L. O. 322 ci-dessus,
-les sénateurs dont le siège était devenu vacant expire à la date où le titulaire initial aurait été lui-même soumis à
-renouvellement.
+Le mandat des personnes ayant remplacé, dans les conditions prévues au premier alinéa des articles LO. 319 et LO. 320 et à
+l'article LO. 322 ci-dessus, les sénateurs dont le siège était devenu vacant expire à la date où le titulaire initial aurait
+été lui-même soumis à renouvellement.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
 	  - Loi n°83-499 du 17 juin 1983 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 5
+
 	**Cite**:
 
-	  - Code électoral - art. LO319 (V)
-	  - Code électoral - art. LO320 (V)
-	  - Code électoral - art. LO322 (V)
+	  - Code électoral - art. LO319
+	  - Code électoral - art. LO322
 
 
 #### Chapitre IX : Contentieux
@@ -15218,47 +15202,16 @@ déclarations de candidatures pour le second tour sont déposées, au plus tard,
 	  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
 
 
-###### Article LO393-1
-
-Deux députés à l'Assemblée nationale sont élus en Nouvelle-Calédonie.
-
-Deux députés à l'Assemblée nationale sont élus en Polynésie française.
-
-Un député à l'Assemblée nationale est élu dans les îles Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
-
-
 ###### Article LO394-1
 
-Les dispositions ayant valeur de loi organique du titre II du livre Ier, à l'exception de l'article LO 119, sont applicables
-à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+Les dispositions ayant valeur de loi organique du titre II du livre Ier sont applicables à l'élection des députés en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
-
-	**Cite**:
-
-	  - Code électoral - art. LO119 (M)
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
 
 
 ###### Article LO394-2
@@ -16932,27 +16885,6 @@ et le 27 mars en cas de deuxième tour.
 	  - Code électoral - art. L568 (V)
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député
-
-###### Article LO455
-
-Un député à l'Assemblée nationale est élu à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
-
-
 #### Chapitre III : Dispositions applicables à l'élection des conseillers généraux
 
 ###### Article L460
@@ -17818,30 +17750,6 @@ scrutin est organisé le samedi.
 	  - Code électoral - art. L55 (V)
 
 
-###### Article LO479
-
-Un député à l'Assemblée nationale est élu à Saint-Barthélemy.
-
-**Nota:**
-
-Loi organique 2007-223 du 21 février 2007 art. 18 I : les dispositions du présent chapitre entrent en vigueur à compter du
-renouvellement général de l'Assemblée nationale suivant le renouvellement de juin 2007.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
-
-
 #### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux
 
 ###### Article L487
@@ -18644,25 +18552,6 @@ est organisé le samedi.
 	**Cite**:
 
 	  - Code électoral - art. L55 (V)
-
-
-###### Article LO506
-
-Un député à l'Assemblée nationale est élu à Saint-Martin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
 
 
 #### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux
@@ -19532,25 +19421,6 @@ inclus dans le plafond des dépenses.
 	**Cite**:
 
 	  - Code électoral - art. L52-11 (VT)
-
-
-###### Article LO533
-
-Un député à l'Assemblée nationale est élu à Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
 
 
 #### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux
@@ -20556,27 +20426,195 @@ Les dépenses de la consultation sont imputées au budget de l'Etat.
 	  - Décret n°2009-1435 du 20 novembre 2009 - art. 4 (V)
 
 
-## LIVRE VIII : DISPOSITIONS FINALES
+## Livre VIII : Commission prévue par l'article 25 de la Constitution
+
+###### Article L567-1
+
+La commission prévue au dernier alinéa de l'article 25 de la Constitution comprend : 
+
+1° Une personnalité qualifiée nommée par le Président de la République ; 
+
+2° Une personnalité qualifiée nommée par le président de l'Assemblée nationale ; 
+
+3° Une personnalité qualifiée nommée par le président du Sénat ; 
+
+4° Un membre du Conseil d'Etat, d'un grade au moins égal à celui de conseiller d'Etat, élu par l'assemblée générale du
+Conseil d'Etat ; 
+
+5° Un membre de la Cour de cassation, d'un grade au moins égal à celui de conseiller, élu par l'assemblée générale de la Cour
+de cassation ; 
+
+6° Un membre de la Cour des comptes, d'un grade au moins égal à celui de conseiller maître, élu par la chambre du conseil de
+la Cour des comptes. 
+
+Les personnalités mentionnées aux 2° et 3° sont désignées par le président de chaque assemblée après avis de la commission
+permanente chargée des lois électorales de l'assemblée concernée. La désignation ne peut intervenir lorsque les votes
+négatifs représentent au moins trois cinquièmes des suffrages exprimés au sein de ladite commission. 
+
+La commission est présidée par la personnalité qualifiée nommée par le Président de la République.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 25
+
+	**Créé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. LO567-9 (V)
+
+
+###### Article L567-2
+
+Les membres de la commission sont nommés pour une durée de six ans non renouvelable. Ils sont renouvelés par moitié tous les
+trois ans. 
+
+La commission peut suspendre le mandat d'un des membres ou y mettre fin si elle constate, à l'unanimité des autres membres,
+qu'il se trouve dans une situation d'incompatibilité, qu'il est empêché d'exercer ses fonctions ou qu'il a manqué à ses
+obligations. 
+
+En cas de décès, de démission ou de cessation du mandat d'un membre pour l'un des motifs précédents, il est pourvu à son
+remplacement pour la durée du mandat restant à courir. Si cette durée est inférieure à un an, le mandat est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
+
+
+###### Article L567-3
+
+Les fonctions de membre de la commission sont incompatibles avec l'exercice de tout mandat électif régi par le présent code. 
+
+Dans l'exercice de leurs attributions, les membres de la commission ne reçoivent d'instruction d'aucune autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
+
+
+###### Article L567-4
+
+La commission peut désigner en qualité de rapporteur des fonctionnaires de l'Etat ou des magistrats de l'ordre administratif
+ou judiciaire, en activité ou retraités. 
+
+Elle peut entendre ou consulter toute personne ayant une compétence utile à ses travaux. 
+
+Elle fait appel, pour l'exercice de ses fonctions, aux services compétents de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
+
+
+###### Article L567-5
+
+Les membres de la commission s'abstiennent de révéler le contenu des débats, votes et documents de travail internes. Il en
+est de même de ses collaborateurs et des personnes invitées à prendre part à ses travaux. 
+
+Les membres de la commission ne prennent, à titre personnel, aucune position publique préjudiciable au bon fonctionnement de
+la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
+
+
+###### Article L567-6
+
+La commission ne peut délibérer que si quatre au moins de ses membres sont présents. 
+
+Elle délibère à la majorité des membres présents. En cas de partage égal des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
+
+
+###### Article L567-7
+
+La commission est saisie par le Premier ministre des projets de loi ou d'ordonnance ayant l'objet mentionné au dernier alinéa
+de l'article 25 de la Constitution. Elle est saisie par le président de l'assemblée parlementaire dont elles émanent des
+propositions de loi ayant le même objet. 
+
+La commission se prononce, dans un délai de deux mois après sa saisine, par un avis publié au Journal officiel. Faute pour la
+commission de s'être prononcée dans ce délai, l'avis est réputé émis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 25
+
+	**Créé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
+
+
+###### Article L567-8
+
+Le président de la commission est ordonnateur de ses crédits. La commission n'est pas soumise à la loi du 10 août 1922
+relative à l'organisation du contrôle des dépenses engagées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
+
+
+###### Article LO567-9
+
+Est désignée selon la procédure prévue au dernier alinéa de l'article 13 de la Constitution la personnalité mentionnée au 1°
+de l'article L. 567-1. Dans chaque assemblée parlementaire, la commission permanente compétente est celle chargée des lois
+électorales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 13
+	  - Code électoral - art. L567-1
+
+	**Créé par**:
+
+	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 6
+
+
+## Livre IX : Dispositions finales
 
 ###### Article L568
 
 Le présent code se substitue, dans les conditions prévues par l'article 34 de la Constitution et l'article 7 de la loi n°
 55-328 du 30 mars 1955, aux dispositions législatives suivantes :
 
-- code électoral : articles 5 (2°), 12, 13, 14, 87, 94 (alinéas 1er et 2), 200-1, 214, 248, 252, 267 (alinéa 2) ;
+- code électoral : articles 5 (2°), 12,13,14,87,94 (alinéas 1er et 2), 200-1,214,248,252,267 (alinéa 2) ;
 
-- décret organique du 2 février 1852, article 3 (alinéas 1er et 2), article 4 (alinéa 1er, première phase), article 12
-(alinéa 1er), articles 15 à 18, 19 (alinéas 1er à 3), articles 22 à 25, article 27 articles 31 à 36, 37 (alinéa 1er, première
-phrase) et alinéa 2), articles 40 à 47, articles 50 et 51, article 54 (partie) ;
+- décret organique du 2 février 1852, article 3 (alinéas 1er et 2), article 4 (alinéa 1er, première phrase), article 12
+(alinéa 1er), articles 15 à 18,19 (alinéas 1er à 3), articles 22 à 25, article 27, articles 31 à 36,37 (alinéa 1er, première
+phrase, et alinéa 2), articles 40 à 47, articles 50 et 51, article 54 (partie) ;
 
 - loi du 5 mai 1855 sur l'organisation municipale, article 27, article 37, article 45 (alinéas 1er et 3), article 46 (alinéa
 1er, partie, et alinéa 2, partie) ;
 
 - loi du 14 avril 1871 relative aux élections municipales, article 7 (alinéa 1er), article 17 ;
 
-- loi du 10 août 1871, articles 4 à 12, 14, 15, articles 17 et 18, article 22 ;
+- loi du 10 août 1871, articles 4 à 12,14,15, articles 17 et 18, article 22 ;
 
-- loi du 7 juillet 1874, article 1er (alinéas 1er, 2, 3, 5, 6, 7), articles 2 à 4, article 6 (alinéas 1er et 2) ;
+- loi du 7 juillet 1874, article 1er (alinéas 1er, 2,3,5,6,7), articles 2 à 4, article 6 (alinéas 1er et 2) ;
 
 - loi du 31 juillet 1875, article 1er (partie) ;
 
@@ -20584,8 +20622,8 @@ phrase) et alinéa 2), articles 40 à 47, articles 50 et 51, article 54 (partie)
 partie), article 22 (alinéa 2) ;
 
 - loi du 5 avril 1884, article 11, article 12 (alinéas 1er, 2 et 3), article 14 (alinéas 1er et 2, alinéa 3 sauf le 3°,
-(alinéas 4 et 5), article 15 (alinéas 1er et 2), articles 16, 20, 24, 28, 30 et 31, article 32 (partie), article 33, article
-34 (sauf le 3°), article 35, article 36 (alinéa 1er), article 37 (alinéa 1er et alinéa 3, partie), article 38 (alinéa 1er),
+(alinéas 4 et 5), article 15 (alinéas 1er et 2), articles 16,20,24,28,30 et 31, article 32 (partie), article 33, article 34
+(sauf le 3°), article 35, article 36 (alinéa 1er), article 37 (alinéa 1er et alinéa 3, partie), article 38 (alinéa 1er),
 article 40 (alinéas 1er, 7 et 8), articles 41 et 42 ;
 
 - loi du 17 juillet 1889, article 4, article 5 (deuxième phrase), article 6 ;
@@ -20647,7 +20685,7 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 - décret du 29 juillet 1939, article 127 ;
 
-- ordonnance du 21 avril 1944, articles 17, 18 et 18 quater ;
+- ordonnance du 21 avril 1944, articles 17,18 et 18 quater ;
 
 - ordonnance du 6 avril 1945, article 2 (partie) ;
 
@@ -20655,16 +20693,16 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 - loi n° 46-210 du 16 février 1946, article 1er ;
 
-- loi n° 46-667 du 12 avril 1946, article 1er (alinéa 1er, partie, alinéa 2), articles 2, 6, 8, 9 et 10 ;
+- loi n° 46-667 du 12 avril 1946, article 1er (alinéa 1er, partie, alinéa 2), articles 2,6,8,9 et 10 ;
 
-- loi n° 46-668 du 12 avril 1946, articles 2, 5, 9, 10 (alinéas 1er et 4), 11 (première phrase), 13 (première phrase), 14 et
+- loi n° 46-668 du 12 avril 1946, articles 2,5,9,10 (alinéas 1er et 4), 11 (première phrase), 13 (première phrase), 14 et
 15 ;
 
 - loi n° 46-669 du 12 avril 1946, article 1er ;
 
 - loi n° 46-880 du 2 mai 1946, article unique (alinéa 2) ;
 
-- loi n° 46-1889 du 28 août 1946, articles 1er, 6 à 8, 9 (alinéa 1er), 10 et 12 à 17 ;
+- loi n° 46-1889 du 28 août 1946, articles 1er, 6 à 8,9 (alinéa 1er), 10 et 12 à 17 ;
 
 - loi n° 46-2173 du 1er octobre 1946 ;
 
@@ -20673,17 +20711,17 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 - loi n° 46-2175 du 8 octobre 1946 ;
 
-- loi n° 47-1732 du 5 septembre 1947, articles 11 et 12, 23, 25 (partie), 25 bis (alinéa 1er) 25 ter, 26, 27, 30 ;
+- loi n° 47-1732 du 5 septembre 1947, articles 11 et 12,23,25 (partie), 25 bis (alinéa 1er), 25 ter, 26,27,30 ;
 
 - loi n° 48-1516 du 26 septembre 1948, article 96 (alinéa 1er) ;
 
 - loi n° 48-1531 du 29 septembre 1948, article 1er ;
 
-- loi n° 49-285 du 2 mars 1949, articles 3, 5, 7, 9 et 12 ;
+- loi n° 49-285 du 2 mars 1949, articles 3,5,7,9 et 12 ;
 
 - loi n° 49-1102 du 2 août 1949, article 1er (alinéa 2) ;
 
-- loi n° 50-1548 du 16 décembre 1950, articles 5, 7 (alinéa 2), 11 et 12 (alinéas 1er, 2 et 5) ;
+- loi n° 50-1548 du 16 décembre 1950, articles 5,7 (alinéa 2), 11 et 12 (alinéas 1er, 2 et 5) ;
 
 - loi n° 51-519 du 9 mai 1951, articles 2 (partie), 4 (première phrase), 9 (partie) ;
 
@@ -20697,7 +20735,7 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 - loi n° 54-853 du 31 août 1954, article 3 (partie) ;
 
-- loi n° 55-328 du 30 mars 1955, articles 1er à 4, 6 (alinéa 2, deuxième phrase) ;
+- loi n° 55-328 du 30 mars 1955, articles 1er à 4,6 (alinéa 2, deuxième phrase) ;
 
 - loi n° 58-90 du 4 février 1958, article 1er ;
 
@@ -20705,7 +20743,7 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 - ordonnance n° 58-977 du 20 octobre 1958, article 9 ;
 
-- ordonnance n° 58-998 du 24 octobre 1958, articles 1er à 5, 6 (alinéas 1er à 4 et 6), 7 à 11, 12 (alinéas 1er, 3 et 4), 13 à
+- ordonnance n° 58-998 du 24 octobre 1958, articles 1er à 5,6 (alinéas 1er à 4 et 6), 7 à 11,12 (alinéas 1er, 3 et 4), 13 à
 20 ;
 
 - ordonnance n° 58-1015 du 29 octobre 1958, article 1er ;
@@ -20714,8 +20752,8 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 - ordonnance n° 58-1097 du 15 novembre 1958, article 1er (alinéa 1er) et articles 2 à 8 ;
 
-- ordonnance n° 58-1098 du 15 novembre 1958, articles 1er à 12, 14 (alinéa 3), 15 (alinéa 2) (partie 3 et 4), 16 à 22, 23
-(alinéas 1er, 2 et 5), 24 à 26, 27 (alinéa 1er, première phrase), 28 (alinéa 4), 30 à 34 et 50 ;
+- ordonnance n° 58-1098 du 15 novembre 1958, articles 1er à 12,14 (alinéa 3), 15 (alinéa 2) (partie 3 et 4), 16 à 22,23
+(alinéas 1er, 2 et 5), 24 à 26,27 (alinéa 1er, première phrase), 28 (alinéa 4), 30 à 34 et 50 ;
 
 - ordonnance n° 58-1327 du 23 décembre 1958, article 1er ;
 
@@ -20739,13 +20777,13 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Constitution du 4 octobre 1958 - art. 34 (V)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - DEPLACE: Loi n°2009-39 du 13 janvier 2009 - art. 1 (V)
 
 	**Anciens textes**:
 
