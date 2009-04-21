@@ -1,9 +1,9 @@
 # Code électoral  
-Version Consolidée au 2009-01-15
+Version Consolidée au 2009-04-22
 
 # Partie législative
 
-## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS
+## Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux
 
 ### Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux
 
@@ -11168,16 +11168,6 @@ L. 240, L. 241, L. 244 et L. 256.
 	  - Code électoral - art. L256 (VT)
 
 
-## Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux
-
-### Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux
-
-### Titre II : Dispositions spéciales à l'élection des députés
-
-### Titre III : Dispositions spéciales à l'élection des conseillers généraux
-
-### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
-
 ## Livre II : Election des sénateurs des départements
 
 ### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs
@@ -20904,26 +20894,23 @@ et des articles L. 30 à L. 35.
 ###### Article R5
 
 Pour chaque révision annuelle des listes électorales, les demandes d'inscription des électeurs doivent parvenir dans les
-mairies jusqu'au dernier jour ouvrable de décembre inclus, le samedi étant considéré comme un jour ouvrable.
+mairies jusqu'au dernier jour ouvrable de décembre inclus, le samedi étant considéré comme un jour ouvrable. 
 
 Les demandes d'inscription doivent soit être déposées personnellement ou par l'intermédiaire d'un mandataire, muni d'un
-mandat écrit, soit être adressées par courrier, au moyen du formulaire agréé prévu à cet effet.
+mandat écrit, soit être adressées par courrier, au moyen du formulaire agréé prévu à cet effet. Elles peuvent également être
+admises dans le cadre d'une téléprocédure dans les conditions agréées par le ministre de l'intérieur. 
 
 Les demandes doivent être accompagnées des pièces de nature à prouver que le demandeur remplit les conditions fixées aux
-articles L. 11 et L. 12 à L. 15-1. La liste de ces pièces est fixée par arrêté du ministre de l'intérieur.
+articles L. 11 et L. 12 à L. 15-1. La liste de ces pièces est fixée par arrêté du ministre de l'intérieur. 
 
 La commission administrative prévue au deuxième alinéa de l'article L. 17 se réunit à compter du 1er septembre. Elle procède
 aux inscriptions correspondant aux demandes parvenues dans le délai fixé au premier alinéa. Au plus tard à la date fixée au
-premier alinéa, elle effectue la radiation des personnes mentionnées à l'article R. 7.
+premier alinéa, elle effectue la radiation des personnes mentionnées à l'article R. 7. 
 
 Au plus tard le 9 janvier, la commission administrative se prononce sur les observations formulées en application des
 articles L. 23 et R. 8, puis dresse le tableau rectificatif.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -20961,17 +20948,16 @@ articles L. 23 et R. 8, puis dresse le tableau rectificatif.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2009-430 du 20 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - Code électoral - art. L11 (V)
-	  - Code électoral - art. L17 ()
-	  - Code électoral - art. L23 (V)
-	  - Code électoral - art. R*7 (M)
-	  - Code électoral - art. R*8 (M)
-	  - Code électoral L11, L12 à L15-1, L17, R7, R8, L23
+	  - Code électoral - art. L11
+	  - Code électoral - art. L12
+	  - Code électoral - art. L17
+	  - Code électoral - art. L23
+	  - Code électoral - art. R*7
+	  - Code électoral - art. R*8
 
 
 ###### Article R5-1
@@ -22138,6 +22124,35 @@ des indications fournies par les électeurs qui ont dû retirer directement leur
 	  - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
 
 
+#### Chapitre II bis : Chiffre de la population à retenir en matière électorale
+
+###### Article R25-1
+
+Le chiffre de population auquel il convient de se référer en matière électorale est le dernier chiffre de population
+municipale authentifié avant l'élection. 
+
+Toutefois, pour les élections municipales, lorsque les conseillers municipaux ont été élus dans les conditions fixées aux
+articles L. 252 à L. 255-1 ou au quatrième alinéa de l'article L. 261 et qu'il est procédé à une élection pour compléter le
+conseil municipal, le chiffre de la population à retenir est le chiffre de la population municipale authentifié pris en
+compte lors du dernier renouvellement intégral du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-430 du 20 avril 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R2151-3 (V)
+	  - Code électoral - art. R*136 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L252
+	  - Code électoral - art. L261
+
+
 #### Chapitre V : Propagande
 
 ###### Article R26
@@ -22409,6 +22424,30 @@ préparatoires à ce scrutin.
 	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
 
 
+###### Article R30-1
+
+En cas de scrutin de liste, le bulletin de vote peut comporter, par dérogation au cinquième alinéa de l'article R. 30, le nom
+du candidat désigné comme devant présider l'organe délibérant de la collectivité territoriale concernée. 
+
+Dans les collectivités territoriales comprenant plusieurs circonscriptions électorales, le bulletin de vote peut comporter le
+nom de ce candidat même dans la circonscription où il n'est pas candidat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-430 du 20 avril 2009 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 17 juin 2014 (V)
+	  - Code électoral - art. R66-2 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. R30
+
+
 ###### Article R31
 
 Dans les circonscriptions électorales où leur création est prescrite, les commissions de propagande sont instituées par
@@ -22585,18 +22624,22 @@ Tout engagement de dépenses décidé par la commission de propagande en vue d'a
 
 Chaque candidat ou liste de candidats désirant obtenir le concours de la commission de propagande, doit remettre au président
 de la commission, avant une date limite fixée pour chaque tour de scrutin par arrêté préfectoral, les exemplaires imprimés de
-la circulaire ainsi qu'une quantité de bulletins au moins égale au double du nombre des électeurs inscrits.
+la circulaire ainsi qu'une quantité de bulletins au moins égale au double du nombre des électeurs inscrits. 
 
-La commission n'est pas tenue d'assurer l'envoi des imprimés remis postérieurement à cette date.
+La commission n'est pas tenue d'assurer l'envoi des imprimés remis postérieurement à cette date. 
 
 La commission n'assure pas l'envoi des circulaires qui ne sont pas conformes aux articles R. 27 et R. 29 et des bulletins de
-vote qui ne sont pas conformes à l'article R. 30 et aux prescriptions édictées pour chaque catégorie d'élections.
+vote qui ne sont pas conformes à l'article R. 30 et aux prescriptions édictées pour chaque catégorie d'élections. 
+
+Lorsque la circonscription excède les limites du département, le contrôle de conformité prévu au troisième alinéa est
+effectué par la commission de propagande du département chef-lieu de circonscription qui transmet sans délai ses décisions
+aux commissions de propagande des autres départements.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -22608,13 +22651,13 @@ vote qui ne sont pas conformes à l'article R. 30 et aux prescriptions édictée
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
+	  - Décret n°2009-430 du 20 avril 2009 - art. 5
 
 	**Cite**:
 
-	  - Code électoral - art. R27 (M)
-	  - Code électoral - art. R29 (M)
-	  - Code électoral - art. R30 (M)
+	  - Code électoral - art. R27 (V)
+	  - Code électoral - art. R29 (V)
+	  - Code électoral - art. R30
 
 
 ###### Article R39
@@ -24179,32 +24222,37 @@ assimilé au dépouillement du scrutin pour l'application du présent code.
 
 ###### Article R66-2
 
-Sont nuls et n'entrent pas en compte dans le résultat du dépouillement :
+Sont nuls et n'entrent pas en compte dans le résultat du dépouillement : 
 
 1° Les bulletins dont les mentions ne répondent pas aux prescriptions légales ou réglementaires édictées pour chaque
-catégorie d'élections ;
+catégorie d'élections ; 
 
-2° Les bulletins établis au nom d'un candidat ou d'une liste dont la candidature n'a pas été enregistrée ;
+2° Les bulletins établis au nom d'un candidat ou d'une liste dont la candidature n'a pas été enregistrée ; 
 
-3° Les bulletins comportant un ou plusieurs noms autres que celui du ou des candidats ou de leurs remplaçants éventuels ;
+3° Sous réserve de l'article R. 30-1 les bulletins comportant un ou plusieurs noms autres que celui du ou des candidats ou de
+leurs remplaçants éventuels ; 
 
-4° Les bulletins comportant une modification de l'ordre de présentation des candidats ;
+4° Les bulletins comportant une modification de l'ordre de présentation des candidats ; 
 
 5° Les bulletins imprimés d'un modèle différent de ceux qui ont été produits par les candidats ou qui comportent une mention
-manuscrite ;
+manuscrite ; 
 
-6° Les circulaires utilisées comme bulletin ;
+6° Les circulaires utilisées comme bulletin ; 
 
-7° Les bulletins manuscrits lors des scrutins de liste.
+7° Les bulletins manuscrits lors des scrutins de liste. 
 
 Les dispositions du présent article ne sont pas applicables à l'élection des conseillers municipaux dans les communes de
 moins de 3 500 habitants.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -24219,9 +24267,13 @@ moins de 3 500 habitants.
 	  - Code électoral - art. R329 (V)
 	  - Code électoral - art. R343 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 13 () JORF 13 octobre 2006
+	  - Décret n°2009-430 du 20 avril 2009 - art. 4
+
+	**Cite**:
+
+	  - Code électoral - art. R30-1
 
 
 ###### Article R67
@@ -25266,16 +25318,12 @@ Il est immédiatement procédé, dès enregistrement, à la publication du chang
 ###### Article R103
 
 Tout bulletin de vote imprimé à l'occasion de l'élection des députés à l'Assemblée nationale doit comporter, à la suite du
-nom du candidat, le nom de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article LO
-176-1, précédé ou suivi de l'une des mentions suivantes : "remplaçant" ou "suppléant".
+nom du candidat, le nom de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article LO.
+176, précédé ou suivi de l'une des mentions suivantes : " remplaçant " ou " suppléant ". 
 
 Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que celui du candidat.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 	**Cité par**:
 
@@ -25287,11 +25335,11 @@ Le nom du remplaçant doit être imprimé en caractères de moindres dimensions 
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
+	  - Décret n°2009-430 du 20 avril 2009 - art. 6
 
 	**Cite**:
 
-	  - Code électoral - art. LO176-1 (V)
+	  - Code électoral - art. LO176
 
 
 #### Chapitre VIII : Opérations de vote
@@ -25482,48 +25530,45 @@ remplaçant doit être notifiée au préfet au plus tard à dix-huit heures le j
 
 ###### Article R109-2
 
-A la déclaration de candidature, il est joint pour le candidat et le remplaçant :
+A la déclaration de candidature, il est joint pour le candidat et le remplaçant : 
 
-I. - Une attestation d'inscription sur une liste électorale comportant les mentions prévues aux articles L. 18 et L. 19
+I.-Une attestation d'inscription sur une liste électorale comportant les mentions prévues aux articles L. 18 et L. 19
 délivrée par le maire de la commune d'inscription dans les trente jours précédant le dépôt de la candidature, ou une copie de
-la décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut, un certificat de nationalité ou la carte
-nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois ;
+la décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut, un certificat de nationalité, le passeport ou la
+carte nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois
+mois ; 
 
 II. Si l'intéressé n'est pas domicilié dans le département ou que les pièces mentionnées au I n'établissent pas son domicile
-dans le département :
+dans le département : 
 
 a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établissent que l'intéressé est
-inscrit au rôle des contributions directes d'une commune du département au 1er janvier de l'année de l'élection ;
+inscrit au rôle des contributions directes d'une commune du département au 1er janvier de l'année de l'élection ; 
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
 propriétaire ou locataire d'un immeuble dans le département ou d'un acte enregistré au cours de la même année établissant que
-l'intéressé est devenu locataire d'un immeuble dans le département ;
+l'intéressé est devenu locataire d'un immeuble dans le département ; 
 
 c) Soit une attestation notariée établissant que l'intéressé est devenu propriétaire par voie successorale d'une propriété
-foncière dans le département depuis le 1er janvier de l'année de l'élection ;
+foncière dans le département depuis le 1er janvier de l'année de l'élection ; 
 
 d) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
 précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont
 l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
-dans le département au 1er janvier de l'année de l'élection.
+dans le département au 1er janvier de l'année de l'élection. 
 
 En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces prévues au
-présent article, fournies à l'occasion du premier tour.
+présent article, fournies à l'occasion du premier tour. 
 
 Un récépissé attestant de l'enregistrement de la candidature est délivré dans les quatre jours du dépôt de la déclaration, si
-celle-ci est conforme aux prescriptions en vigueur.
+celle-ci est conforme aux prescriptions en vigueur. 
 
 La liste des candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants est
-arrêtée et publiée par le préfet, au plus tard le quatrième jour suivant la date limite de dépôt des candidatures.
+arrêtée et publiée par le préfet, au plus tard le quatrième jour suivant la date limite de dépôt des candidatures. 
 
 La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant
 le juge de l'élection.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -25535,12 +25580,11 @@ le juge de l'élection.
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+	  - Décret n°2009-430 du 20 avril 2009 - art. 7
 
 	**Cite**:
 
-	  - Code électoral - art. L18 (M)
-	  - Code électoral - art. L19 (V)
+	  - Code électoral - art. L18
 
 
 #### Chapitre V : Propagande
@@ -26318,46 +26362,42 @@ préparatoires à ce scrutin.
 
 ###### Article R128
 
-A la déclaration de candidature en vue du premier tour, il est joint, pour chaque candidat visé à l'article L. 265 :
+A la déclaration de candidature en vue du premier tour, il est joint, pour chaque candidat visé à l'article L. 265 : 
 
 1° Si le candidat est électeur dans la commune où il se présente, une attestation d'inscription sur la liste électorale de
 cette commune comportant les mentions prévues aux articles L. 18 et L. 19 délivrée par le maire dans les trente jours
-précédant la date du dépôt de la candidature ou une copie de la décision de justice ordonnant l'inscription de l'intéressé ;
+précédant la date du dépôt de la candidature ou une copie de la décision de justice ordonnant l'inscription de l'intéressé ; 
 
 2° Si le candidat est électeur dans une autre commune que celle où il se présente, une attestation d'inscription sur la liste
 électorale de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la candidature ou une
-copie de la décision de justice ordonnant l'inscription de l'intéressé ;
+copie de la décision de justice ordonnant l'inscription de l'intéressé ; 
 
-3° Dans les autres cas, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un bulletin n°
-3 du casier judiciaire délivré depuis moins de trois mois.
+3° Dans les autres cas, un certificat de nationalité, le passeport ou la carte nationale d'identité en cours de validité et
+un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois. 
 
-Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir :
+Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir : 
 
 a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor chargé du recouvrement qui établissent
 que l'intéressé est inscrit au rôle des contributions directes de la commune où il se présente au 1er janvier de l'année de
-l'élection ;
+l'élection ; 
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu dans l'année précédant celle de l'élection
 propriétaire ou locataire d'un immeuble dans cette commune, ou d'un acte sous seing privé enregistré au cours de la même
-année établissant qu'il est devenu locataire d'un immeuble dans cette commune ;
+année établissant qu'il est devenu locataire d'un immeuble dans cette commune ; 
 
 c) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
 précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont
 l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
-dans la commune où il se présente à la date du 1er janvier de l'année de l'élection.
+dans la commune où il se présente à la date du 1er janvier de l'année de l'élection. 
 
 Les députés et les sénateurs élus dans le département sont dispensés de la production des pièces énumérées au présent
-article.
+article. 
 
 Un récépissé attestant de l'enregistrement de la déclaration de candidature est délivré dans les quatre jours du dépôt de
 cette déclaration, si celle-ci est conforme aux prescriptions en vigueur. La délivrance du récépissé par le préfet ne fait
 pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant le juge de l'élection.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -26369,52 +26409,46 @@ pas obstacle à ce que l'éligibilité du candidat puisse être contestée devan
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
+	  - Décret n°2009-430 du 20 avril 2009 - art. 7
 
 	**Cite**:
 
-	  - Code électoral - art. L18 (M)
-	  - Code électoral - art. L19 (V)
-	  - Code électoral - art. L265 (M)
+	  - Code électoral - art. L18
+	  - Code électoral - art. L265
 
 
 ###### Article R128-1
 
-A la déclaration de candidature en vue du premier tour, il est joint, pour chaque candidat visé à l'article LO 265-1 :
+A la déclaration de candidature en vue du premier tour, il est joint, pour chaque candidat visé à l'article LO. 265-1 : 
 
 1° Si le candidat est électeur dans la commune où il se présente, une attestation d'inscription sur la liste électorale
 complémentaire de cette commune comportant les mentions prévues aux articles L. 18 et L. 19 délivrée par le maire dans les
 trente jours précédant la date du dépôt de la candidature ou une copie de la décision de justice ordonnant l'inscription de
-l'intéressé ;
+l'intéressé ; 
 
 2° Si le candidat est électeur dans une autre commune que celle où il se présente, une attestation d'inscription sur la liste
 électorale complémentaire de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la
-candidature ou une copie de la décision de justice ordonnant l'inscription de l'intéressé ;
+candidature ou une copie de la décision de justice ordonnant l'inscription de l'intéressé ; 
 
-3° Dans les autres cas, une copie de la carte de séjour du candidat, ainsi qu'un bulletin n° 3 du casier judiciaire délivré
-depuis moins de trois mois.
+3° Dans les autres cas, une copie de la carte de séjour, du passeport ou de la carte nationale d'identité du candidat, ainsi
+qu'un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois. 
 
 Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir l'une des pièces mentionnées à l'article R.
-128 requises du candidat français qui n'est pas électeur dans la commune où il se présente.
+128 requises du candidat français qui n'est pas électeur dans la commune où il se présente. 
 
 Le dernier alinéa de l'article R. 128 est applicable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
+	  - Décret n°2009-430 du 20 avril 2009 - art. 7
 
 	**Cite**:
 
-	  - Code électoral - art. L18 (M)
-	  - Code électoral - art. L19 (V)
-	  - Code électoral - art. LO265-1 (V)
-	  - Code électoral - art. R128 (M)
+	  - Code électoral - art. L18
+	  - Code électoral - art. LO265-1
+	  - Code électoral - art. R128
 
 	**Cité par**:
 
@@ -27793,13 +27827,13 @@ Chaque déclaration doit être accompagnée de la copie d'une des pièces mentio
 
 ###### Article R184
 
-L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre du dépôt des listes, par le préfet du
-département où se trouve le chef-lieu de région et publié par ses soins, ainsi que par les préfets des autres départements de
-la région, au plus tard le troisième samedi qui précède le jour de ce premier tour.
+L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre résultant du tirage au sort prévu à
+l'article R. 28, par le préfet du département où se trouve le chef-lieu de région et publié par ses soins, ainsi que par les
+préfets des autres départements de la région, au plus tard le troisième samedi qui précède le jour de ce premier tour.
 
 L'état des listes de candidats au second tour est, s'il y a lieu, arrêté et publié dans les mêmes conditions au plus tard le
 mercredi qui suit le premier tour. Il fait l'objet de publications supplémentaires lorsqu'il a été fait application du
-quatrième alinéa de l'article L. 351.
+quatrième alinéa de l'article L. 351. 
 
 Pour chaque tour, l'état indique le titre de la liste, l'ordre des sections départementales ainsi que les nom et prénoms du
 candidat désigné tête de liste, puis les noms et prénoms de tous les candidats composant la liste, répartis par section
@@ -27807,17 +27841,14 @@ départementale et énumérés dans l'ordre de présentation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 art. 2 JORF 28 OCTOBRE 1964
-
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 3 () JORF 13 octobre 2006
+	  - Décret n°2009-430 du 20 avril 2009 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. L351 (M)
+	  - Code électoral - art. L351
+	  - Code électoral - art. R28
 
 	**Cité par**:
 
@@ -28418,27 +28449,32 @@ Pour l'application des dispositions du présent code dans les îles Wallis et Fu
 
 ###### Article R204
 
-<font size="1">Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : "
-sur papier blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n°
-2008-170 du 22 février 2008 : </font>
+Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
+blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2009-430 du 20
+avril 2009 : 
 
-<font size="1">1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R.
-20 à R. 22, R. 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; </font>
+1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 20 à R. 22, R.
+43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; 
 
-<font size="1">2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ; </font>
+2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ; 
 
-<font size="1">3° A l'élection des représentants à l'assemblée de Polynésie française ; </font>
+3° A l'élection des représentants à l'assemblée de Polynésie française ; 
 
-<font size="1">4° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60 et du chapitre V bis, à l'élection des membres de
-l'assemblée territoriale des îles Wallis et Futuna ; </font>
+4° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60 et du chapitre V bis, à l'élection des membres de l'assemblée
+territoriale des îles Wallis et Futuna ; 
 
-<font size="1">5° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.</font>
+5° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
+
+**Nota:**
+
+Décret n° 2009-430 du 20 avril 2009 article 9 : Le 2° de l'article R. 204 dans sa rédaction issue du présent décret entre en
+vigueur le 1er juillet 2009.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2008-170 du 22 février 2008
+	  - Décret n°2009-430 du 20 avril 2009 (V)
 	  - Code électoral - art. R*20
 	  - Code électoral - art. R30
 	  - Code électoral - art. R43
@@ -28446,7 +28482,7 @@ l'assemblée territoriale des îles Wallis et Futuna ; </font>
 
 	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 2
+	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
 
 	**Cité par**:
 
@@ -28782,21 +28818,18 @@ village, ou, à défaut, par le plus âgé des assesseurs.
 ###### Article R214
 
 Les dispositions du titre II du livre Ier du présent code (partie réglementaire), à l'exception des articles R. 98, R. 106 et
-du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2008-170 du 22
-février 2008, à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2009-430 du 20
+avril 2009 à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2008-170 du 22 février 2008
-	  - Code électoral - art. R*106
-	  - Code électoral - art. R*107
-	  - Code électoral - art. R*98
+	  - Décret n°2009-430 du 20 avril 2009
 
 	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 2
+	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
 
 
 #### Chapitre II : Régime des inéligibilités
@@ -29988,37 +30021,34 @@ Les déclarations de candidature à l'assemblée territoriale sont rédigées su
 
 ###### Article R255
 
-L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre de dépôt des
-listes pour chaque circonscription, par l'administrateur supérieur et publié au Journal officiel du territoire au plus tard
-le troisième samedi qui précède le jour du scrutin.
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre résultant du
+tirage au sort prévu à l'article R. 28 pour chaque circonscription, par l'administrateur supérieur et publié au Journal
+officiel du territoire au plus tard le troisième samedi qui précède le jour du scrutin. 
 
-Cet état indique, par circonscription et pour chaque liste :
+Cet état indique, par circonscription et pour chaque liste : 
 
-1° Le titre de la liste ;
+1° Le titre de la liste ; 
 
 2° Les nom et prénoms des candidats énumérés dans l'ordre de leur présentation sur la liste tel qu'il résulte de la
-déclaration.
+déclaration. 
 
-Il indique également le cas échéant :
+Il indique également le cas échéant : 
 
-1° L'emblème choisi par la liste pour ses bulletins de vote ;
+1° L'emblème choisi par la liste pour ses bulletins de vote ; 
 
 2° La couleur choisie par la liste pour ses bulletins de vote ou celle qui lui a été attribuée en application des
 dispositions de l'article R. 209.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2009-430 du 20 avril 2009 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. R209 (V)
+	  - Code électoral - art. R209
+	  - Code électoral - art. R28
 
 	**Cité par**:
 
@@ -30246,8 +30276,8 @@ Les résultats de l'élection sont publiés au Journal officiel du territoire.
 
 ###### Article R265
 
-Les dispositions des chapitres Ier, II et III du titre IV du livre Ier du présent code (partie réglementaire), dans leur
-rédaction en vigueur à la date du décret n° 2008-170 du 22 février 2008, sont applicables à l'élection des membres des
+Les dispositions des chapitres Ier, II, II bis et III du titre IV du livre Ier du présent code (partie réglementaire), dans
+leur rédaction en vigueur à la date du décret n° 2009-430 du 20 avril 2009, sont applicables à l'élection des membres des
 conseils municipaux en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes : 
 
 1° (Abrogé) ; 
@@ -30259,12 +30289,11 @@ jours.
 
 	**Cite**:
 
-	  - Décret n°2008-170 du 22 février 2008
-	  - Code électoral - art. R119
+	  - Décret n°2009-430 du 20 avril 2009
 
 	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 2
+	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
 
 
 #### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie
