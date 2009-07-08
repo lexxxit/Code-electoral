@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2009-07-01
+Version Consolidée au 2009-07-09
 
 # Partie législative
 
@@ -13660,13 +13660,13 @@ présentation sous réserve des dispositions du deuxième alinéa de l'article L
 
 ###### Article L366
 
-Au premier tour de scrutin, il est attribué trois sièges à la liste qui a obtenu la majorité absolue des suffrages. Les
-autres sièges sont répartis entre toutes les listes en présence, à la représentation proportionnelle à la plus forte moyenne,
-sous réserve de l'application des dispositions du troisième alinéa.
+Au premier tour de scrutin, il est attribué neuf sièges à la liste qui a obtenu la majorité absolue des suffrages. Les autres
+sièges sont répartis entre toutes les listes en présence, à la représentation proportionnelle à la plus forte moyenne, sous
+réserve de l'application des dispositions du troisième alinéa.
 
 Si aucune liste n'a recueilli au premier tour la majorité absolue des suffrages exprimés, il est procédé à un second tour. Il
-est attribué trois sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
-arrivées en tête, ces trois sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
+est attribué neuf sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
+arrivées en tête, ces neuf sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
 attribution opérée, les autres sièges sont répartis conformément aux dispositions de la deuxième phrase de l'alinéa
 précédent.
 
@@ -13680,17 +13680,9 @@ proclamés élus.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
 	**Modifié par**:
 
-	  - Loi n°2003-327 du 11 avril 2003 - art. 9 () JORF 12 avril 2003
-
-	**Cite**:
-
-	  - Code électoral - art. L338 (M)
+	  - Loi n°2009-832 du 7 juillet 2009 - art. 1
 
 
 #### Chapitre III : Conditions d'éligibilité et inéligibilités
@@ -13855,11 +13847,12 @@ intervenant à échéance normale des conseils et assemblées auxquels elles s'a
 ###### Article L373
 
 Seules peuvent se présenter au second tour de scrutin les listes ayant obtenu au premier tour un nombre de suffrages au moins
-égal à 5 p. 100 du total des suffrages exprimés.
+égal à 7 % du total des suffrages exprimés. 
 
-Ces listes peuvent être modifiées dans leur composition pour intégrer des candidats ayant figuré au premier tour sur d'autres
-listes, sous réserve que celles-ci ne se maintiennent pas au second tour. En cas de fusion entre plusieurs listes, l'ordre de
-présentation des candidats peut être également modifié.
+Ces listes peuvent être modifiées dans leur composition pour comprendre des candidats ayant figuré au premier tour sur
+d'autres listes, sous réserve que celles-ci aient obtenu au premier tour au moins 5 % des suffrages exprimés et ne se
+présentent pas au second tour. En cas de modification de la composition d'une liste, le titre et l'ordre de présentation des
+candidats peuvent également être modifiés.
 
 Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
 choix de la liste sur laquelle ils seront candidats est notifié au représentant de l'Etat dans la collectivité territoriale
@@ -13867,18 +13860,9 @@ de Corse par le candidat placé en tête de la liste constituée pour le premier
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Créé par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+	  - Loi n°2009-832 du 7 juillet 2009 - art. 1
 
 	**Cité par**:
 
