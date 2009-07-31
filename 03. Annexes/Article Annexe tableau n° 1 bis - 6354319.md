@@ -51,6 +51,31 @@ Yaté.
 </td>
     </tr>
     <tr>
+      <td>
+
+Mayotte
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+1re circonscription
+
+</td>
+      <td>Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II, Mtsamboro, Pamandzi </td>
+    </tr>
+    <tr>
+      <td>
+
+2e circonscription
+
+</td>
+      <td>Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou III, M'Tsangamouji, Ouangani,
+Sada, Tsingoni. </td>
+    </tr>
+    <tr>
       <td width="325">
 
 Polynésie française
@@ -59,43 +84,71 @@ Polynésie française
       <td width="325">
     </td></tr>
     <tr>
-      <td valign="top" width="325">
+      <td width="325" valign="top">
 
 1re circonscription
 
 </td>
       <td width="325">
 
-Communes de Bora-Bora, Faaa, Huahine, Maupiti, Moorea-Maiao, Paea, Papeete, Punaiua, Raivavae, Rapa, Rimatara, Rurutu, Tahaa,
-Taputapuatei, Tubuaa, Tumaraa, Uturoa.
+Communes de : Anaa, Arue, Arutua, Fakarava, Fangatau, Fatu-Hiva, Gambier, Hao, Hikueru, Hiva-Oa, Makemo, Manihi, Moorea-
+Maiao, Napuka, Nuku-Hiva, Nukutavake, Papeete, Pirae, Pukapuka, Rangiroa, Reao, Tahuata, Takaroa, Tatakoto, Tureia, Ua-Huka,
+Ua-Pou 
 
 </td>
     </tr>
     <tr>
-      <td width="325" valign="top">
+      <td valign="top" width="325">
 
 2e circonscription
 
 </td>
       <td width="325">
 
-Communes de : Anaa, Arue, Arutua, Fakarava, Fangatau, Fatu Hiva, Gambier, Hao, Hikueru, Hitiaa O Te Ra, Hiva Oa, Mahina,
-Makemo, Manihi, Napuka, Nuku Hiva, Nukutavake, Papara, Pirae, Puka-Puka, Rangiroa, Reao, Tahuata, Taiarapu-Est, Taiarapu-
-Ouest, Takaroa, Tatakoto, Teva-I-Uta, Tureia, Ua-Huka, Ua-Pou.
+Communes de : Hitiaa O Te Ra, Mahina, Paea, Papara, Raivavae, Rapa, Rimatara, Rurutu, Taiarapu Est, Taiarapu Ouest, Teva I
+Uta, Tubuai 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+3e circonscription
+
+</td>
+      <td>Communes de : Bora-Bora, Faaa, Huahine, Maupiti, Punaauia, Tahaa, Taputapuatea, Tumaraa, Uturoa </td>
+    </tr>
+    <tr>
+      <td>
+
+Saint-Barthélemy 
+
+et Saint-Martin 
+
+</td>
+      <td>Circonscription unique</td>
+    </tr>
+    <tr>
+      <td>
+
+Saint-Pierre-et-Miquelon 
+
+</td>
+      <td>Circonscription unique </td>
+    </tr>
+    <tr>
+      <td>
+
+Iles Wallis et Futuna 
+
+</td>
+      <td>Circonscription unique </td>
     </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
-
 	**Modifié par**:
 
-	  - Loi n°98-730 1998-08-20 art. 3 IV JORF 22 août 1998
-	  - Loi n°99-210 1977-03-19 art. 28 12° JORF 21 mars 1999
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
+	  - Ordonnance n°2009-935 du 29 juillet 2009 - art.

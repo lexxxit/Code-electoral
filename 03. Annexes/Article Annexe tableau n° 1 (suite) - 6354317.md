@@ -17,8 +17,7 @@ Seine-et-Marne
 </td>
       <td width="388">
 
-Cantons de : Melun Sud, Perthes, Savigny-le-Temple (par décret n° 91-219 du 27 février 1991 art. 2, le canton de Savigny-le-
-Temple a été divisé en deux cantons : Le Mée-sur-Seine et Savigny-le-Temple).
+Cantons de : Melun Nord, Melun Sud, Perthes 
 
 </td>
     </tr>
@@ -42,7 +41,7 @@ Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Boc
 </td>
       <td width="388">
 
-Le Châtelet-en-Brie, Melun Nord, Montereau-Faut-Yonne, Moret-sur-Loing.
+Cantons de : Le Châtelet-en-Brie, Montereau-Fault-Yonne, Moret-sur-Loing, Mormant 
 
 </td>
     </tr>
@@ -67,10 +66,9 @@ Georges.
 </td>
       <td width="388">
 
-Cantons de : Coulommiers, Crécy-la-Chapelle (le canton de Crécy-la-Chapelle a été remodelé par décret n° 93-260 du 26 février
-1993. En conséquence, les communes de Bailly-Romainvilliers, Magny-le-Hongre et Serris en ont été détachées pour faire partie
-du canton créé de Thorigny-sur-Marne. Ces communes continuent néanmoins à être incluses dans la 5e circonscription), La
-Ferté-sous-Jouarre, Meaux Sud.
+Cantons de : Coulommiers, Crécy-la-Chapelle, La Ferté-sous-Jouarre 
+
+Communes de : Bailly-Romainvilliers, Magny-le-Hongre, Serris 
 
 </td>
     </tr>
@@ -82,7 +80,10 @@ Ferté-sous-Jouarre, Meaux Sud.
 </td>
       <td width="388">
 
-Cantons de : Dammartin-en-Goële, Lizy-sur-Ourcq, Meaux Nord, Mitry-Mory.
+Cantons de : Lizy-sur-Ourcq, Meaux Nord, Meaux Sud 
+
+Communes de : Cuisy, Forfry, Gesvres-le-Chapitre, Juilly, Marchémoret, Montgé-en-Goële, Monthyon, Oissery, Le Plessis-
+l'Evêque, Rouvres, Saint-Mard, Saint-Pathus, Saint-Soupplets, Vinantes 
 
 </td>
     </tr>
@@ -94,9 +95,9 @@ Cantons de : Dammartin-en-Goële, Lizy-sur-Ourcq, Meaux Nord, Mitry-Mory.
 </td>
       <td width="388">
 
-Cantons de : Chelles, Claye-Souilly, Lagny-sur-Marne pour les communes de Gouvernes, Lagny-sur-Marne, Pomponne, Saint-
-Thibault-des-Vignes (aux termes du décret n° 93-260 du 26 février 1993, les communes ici énumérées forment désormais
-l'intégralité du canton de Lagny-sur-Marne), Vaires-sur-Marne.
+Cantons de : Claye-Souilly, Dammartin-en-Goële (moins les communes de Cuisy, Forfry, Gesvres-le-Chapitre, Juilly,
+Marchémoret, Montgé-en-Goële, Monthyon, Oissery, Le Plessis-l'Evêque, Rouvres, Saint-Mard, Saint-Pathus, Saint-Soupplets,
+Vinantes), Lagny-sur-Marne, Mitry-Mory 
 
 </td>
     </tr>
@@ -108,12 +109,8 @@ l'intégralité du canton de Lagny-sur-Marne), Vaires-sur-Marne.
 </td>
       <td width="388">
 
-Cantons de : Champs-sur-Marne, Lagny-sur-Marne (pour les communes de Carnetin, Chalifert, Chanteloup, Chessy, Conches,
-Coupvray, Dampmart, Guermantes, Jossigny, Lesches, Montévrain, Thorigny-sur-Marne) (les communes énumérées ici constituent le
-canton de Thorigny-sur-Marne, créé par le décret n° 93-260 du 26 février 1993 art. 1er, avec trois communes supplémentaires
-détachées du canton de Crécy-la-Chapelle (cf. ci-dessus note 2). La 8e circonscription comprend donc désormais les cantons de
-Champs-sur-Marne, Noisiel, Roissy-en-Brie dont la dénomination a été modifiée par décret du 21 juin 1988), Thorigny-sur-Marne
-(moins les communes de Bailly-Romainvilliers, Magny-le-Hongre et Serris) et Torcy), Noisiel, Roissy, Torcy.
+Cantons de : Roissy-en-Brie, Thorigny-sur-Marne (moins les communes de Bailly-Romainvilliers, Magny-le-Hongre et Serris),
+Torcy 
 
 </td>
     </tr>
@@ -125,10 +122,27 @@ Champs-sur-Marne, Noisiel, Roissy-en-Brie dont la dénomination a été modifié
 </td>
       <td width="388">
 
-Cantons de : Brie-Comte-Robert (par décret n° 91-219 du 27 février 1991 art. 1er, le canton de Brie-Comte-Robert a été divisé
-en deux cantons : Brie-Comte-Robert et Combs-la-Ville), Mormant, Pontault-Combault, Tournan-en-Brie.
+Cantons de : Brie-Comte-Robert, Pontault-Combault, Tournan-en-Brie 
+
+Commune de Combs-la-Ville 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+10e circonscription
+
+</td>
+      <td>Cantons de : Champs-sur-Marne, Chelles, Noisiel, Vaires-sur-Marne </td>
+    </tr>
+    <tr>
+      <td>
+
+11e circonscription
+
+</td>
+      <td>Cantons de : Combs-la-Ville (moins la commune de Combs-la-Ville), Le Mée-sur-Seine, Savigny-le-Temple </td>
     </tr>
     <tr>
       <td colspan="2" width="605">
@@ -145,9 +159,10 @@ Yvelines
 </td>
       <td width="388">
 
-Cantons de : Versailles Nord, Versailles Nord-Ouest, Versailles Ouest (par décret n° 91-222 du 27 février 1991 art. 1er et 2,
-les cantons de Versailles Nord-Ouest et de Versailles Ouest ont été remplacés par les cantons de Montigny-le-Bretonneux et
-Versailles Nord-Ouest), Viroflay.
+Cantons de : Montigny-le-Bretonneux, Versailles Nord, Versailles Nord-Ouest, Versailles Sud (partie située, depuis la limite
+du canton de Montigny-le-Bretonneux, à l'ouest d'une ligne définie par l'axe des voies ci-après : route de la minière, axe
+prolongeant la route de la minière jusqu'à la ligne de chemin de fer vers Paris, axe de l'Allée des Matelots, allée des
+matelots jusqu'à la limite du canton de Versailles Nord-Ouest) 
 
 </td>
     </tr>
@@ -159,7 +174,8 @@ Versailles Nord-Ouest), Viroflay.
 </td>
       <td width="388">
 
-Cantons de : Chevreuse, Vélizy-Villacoublay, Versailles Sud.
+Cantons de : Chevreuse (moins la commune du Mesnil-Saint-Denis), Vélizy-Villacoublay, Versailles Sud (partie non comprise
+dans la 1re circonscription), Viroflay 
 
 </td>
     </tr>
@@ -171,7 +187,7 @@ Cantons de : Chevreuse, Vélizy-Villacoublay, Versailles Sud.
 </td>
       <td width="388">
 
-Cantons de : La Celle-Saint-Cloud, Le Chesnay, Saint-Nom-la-Bretèche.
+Cantons de : La Celle-Saint-Cloud, Le Chesnay, Saint-Nom-la-Bretèche, commune de Les Clayes-sous-Bois 
 
 </td>
     </tr>
@@ -207,7 +223,9 @@ Cantons de Maisons-Laffitte, Sartrouville, Le Vésinet.
 </td>
       <td width="388">
 
-Cantons de : Le Pecq, Saint-Germain-en-Laye Nord, Saint-Germain-en-Laye Sud.
+Cantons de : Le Pecq, Saint-Germain-en-Laye Nord, Saint-Germain-en-Laye Sud 
+
+Communes de Carrières-sous-Poissy, Médan et Villennes-sur-Seine 
 
 </td>
     </tr>
@@ -257,8 +275,8 @@ Communes de : Les Mureaux, Chapet.
 </td>
       <td width="388">
 
-Cantons de : Monfort-l'Amaury, Rambouillet, Saint-Arnoult-en-Yvelines, Maurepas (moins les communes d'Elancourt et de La
-Verrière).
+Cantons de : Maurepas (moins les communes d'Elancourt et de La Verrière), Monfort-l'Amaury (partie non comprise dans la 12e
+circonscription), Rambouillet, Saint-Arnoult-en-Yvelines 
 
 </td>
     </tr>
@@ -270,9 +288,9 @@ Verrière).
 </td>
       <td width="388">
 
-Cantons de : Saint-Cyr-l'Ecole, Trappes.
+Cantons de : Saint-Cyr-l'Ecole, Trappes 
 
-Communes de : Elancourt, La Verrière.
+Communes de : Elancourt et La Verrière (issues du canton de Maurepas), Le Mesnil-Saint-Denis (issue du canton de Chevreuse) 
 
 </td>
     </tr>
@@ -284,12 +302,18 @@ Communes de : Elancourt, La Verrière.
 </td>
       <td width="388">
 
-Cantons de : Plaisir, Poissy Nord, Poissy Sud.
+Cantons de : Plaisir (moins la commune de Les Clayes-sous-Bois), Poissy Sud 
+
+Communes de : Auteuil, Autouillet, Beynes, Boissy-sans-Avoir, Flexanville, Goupillières, Marcq, Neauphle-le-Château,
+Neauphle-le-Vieux, Saint-Germain-de-la-Grange, Saulx-Marchais, Thoiry, Vicq, Villiers-le-Mahieu, Villiers-Saint-Fréderic
+(issues du canton de Montfort-L'Amaury) 
+
+Commune de Poissy (partie comprise dans le canton de Poissy Nord) 
 
 </td>
     </tr>
     <tr>
-      <td width="605" colspan="2">
+      <td colspan="2" width="605">
 
 Deux-Sèvres
 
@@ -303,7 +327,8 @@ Deux-Sèvres
 </td>
       <td width="388">
 
-Cantons de : Niort Est, Niort Nord, Niort Ouest, Prahecq.
+Cantons de : Champdeniers-Saint-Denis, Coulonges-sur-l'Autize, Mazières-en-Gâtine, Niort Est, Niort Nord, Niort Ouest,
+Prahecq, Secondigny 
 
 </td>
     </tr>
@@ -316,7 +341,8 @@ Cantons de : Niort Est, Niort Nord, Niort Ouest, Prahecq.
       <td width="388">
 
 Cantons de : Beauvoir-sur-Niort, Brioux-sur-Boutonne, Celles-sur-Belle, Chef-Boutonne, Frontenay-Rohan-Rohan, Lezay, Mauzé-
-sur-le-Mignon, Melle, La Mothe-Saint-Héray, Saint-Maixent-l'Ecole I, Saint-Maixent-l'Ecole II, Sauzé-Vaussais.
+sur-le-Mignon, La Mothe-Saint-Héray, Melle, Ménigoutte, Parthenay, Saint-Maixent-l'Ecole I, Saint-Maixent-l'Ecole II, Sauzé-
+Vaussais, Thénezay 
 
 </td>
     </tr>
@@ -328,20 +354,8 @@ sur-le-Mignon, Melle, La Mothe-Saint-Héray, Saint-Maixent-l'Ecole I, Saint-Maix
 </td>
       <td width="388">
 
-Cantons de: Airvault, Champdeniers-Saint-Denis, Coulonges-sur-l'Autize, Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay,
-Saint-Loup-Lamairé, Secondigny, Thénezay.
-
-</td>
-    </tr>
-    <tr>
-      <td width="217">
-
-4e circonscription
-
-</td>
-      <td width="388">
-
-Cantons de : Argenton-Château, Bressuire, Cerizay, Mauléon, Saint-Varent, Thouars I, Thouars II.
+Cantons de : Airvault, Argenton-Château, Bressuire, Cerizay, Mauléon, Moncoutant, Saint-Loup-Lamairé, Saint-Varent, Thouars
+I, Thouars II 
 
 </td>
     </tr>
@@ -360,7 +374,8 @@ Somme
 </td>
       <td width="388">
 
-Cantons de : Amiens I Ouest, Amiens II Nord-Ouest, Amiens IV Est, Amiens VIII Nord, Picquigny.
+Cantons de : Abbeville Nord, Abbeville Sud, Ailly-le-Haut-Clocher, Amiens II Nord-Ouest, Amiens IV Est, Amiens VIII Nord,
+Domart-en-Ponthieu, Picquigny 
 
 </td>
     </tr>
@@ -372,7 +387,7 @@ Cantons de : Amiens I Ouest, Amiens II Nord-Ouest, Amiens IV Est, Amiens VIII No
 </td>
       <td width="388">
 
-Cantons de : Amiens III Nord-Est, Amiens V Sud-Est, Amiens VI Sud, Amiens VII Sud-Ouest, Boves.
+Cantons de : Amiens I Ouest, Amiens III Nord-Est, Amiens V Sud-Est, Amiens VI Sud, Amiens VII Sud-Ouest, Boves 
 
 </td>
     </tr>
@@ -384,8 +399,8 @@ Cantons de : Amiens III Nord-Est, Amiens V Sud-Est, Amiens VI Sud, Amiens VII Su
 </td>
       <td width="388">
 
-Cantons de : Ault, Friville-Escarbotin, Gamaches, Hallencourt, Hornoy-le-Bourg, Molliens-Dreuil, Moyenneville, Oisemont,
-Saint-Valery-sur-Somme.
+Cantons de : Ault, Crécy-en-Ponthieu, Friville-Escarbotin, Gamaches, Hallencourt, Molliens-Dreuil, Moyenneville, Nouvion,
+Oisemont, Rue, Saint-Valéry-sur-Somme 
 
 </td>
     </tr>
@@ -397,8 +412,8 @@ Saint-Valery-sur-Somme.
 </td>
       <td width="388">
 
-Cantons de: Abbeville Nord, Abbeville Sud, Ailly-le-Haut-Clocher, Bernaville, Crécy-en-Ponthieu, Domart-en-Ponthieu,
-Doullens, Nouvion, Rue.
+Cantons de : Ailly-sur-Noye, Bernaville, Conty, Corbie, Doullens, Hornoy-le-Bourg, Montdidier, Moreuil, Poix-de-Picardie,
+Villers-Bocage 
 
 </td>
     </tr>
@@ -410,25 +425,13 @@ Doullens, Nouvion, Rue.
 </td>
       <td width="388">
 
-Cantons de : Acheux-en-Amiénois, Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne, Roisel.
+Cantons de : Acheux-en-Amiénois, Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne, Roisel, Rosières-en-
+Santerre, Roye 
 
 </td>
     </tr>
     <tr>
-      <td width="217">
-
-6e circonscription
-
-</td>
-      <td width="388">
-
-Cantons de : Ailly-sur-Noye, Conty, Corbie, Montdidier, Moreuil, Poix-de-Picardie, Rosières-en-Santerre, Roye, Villers-
-Bocage.
-
-</td>
-    </tr>
-    <tr>
-      <td width="605" colspan="2">
+      <td colspan="2" width="605">
 
 Tarn
 
@@ -442,9 +445,8 @@ Tarn
 </td>
       <td width="388">
 
-Cantons de : Albi Nord-Est, Albi Nord-Ouest, Carmaux Nord, Carmaux Sud, Cordes (le canton de Cordes est devenu le canton de
-Cordes-sur-Ciel par suite du changement de nom de sa commune chef-lieu par décret du 26 mars 1993), Monestiés, Pampelonne,
-Valderiès, Valence-d'Albigeois, Vaour, Villefranche-d'Albigeois.
+Cantons de : Alban, Albi Centre, Albi Est, Albi Sud, Anglès, Brassac, Castres-Est, Castres Sud, Lacaune, Montredon-
+Labessonnié, Murat-sur-Vèbre, Réalmont, Rocquecourbe, Vabre, Valence-d'Albigeois, Villefranche-d'Albigeois 
 
 </td>
     </tr>
@@ -456,9 +458,8 @@ Valderiès, Valence-d'Albigeois, Vaour, Villefranche-d'Albigeois.
 </td>
       <td width="388">
 
-Cantons de : Albi Centre, Albi Sud (par décret du 21 février 1997 art. 1er, les cantons d'Albi Centre et d'Albi Sud ont été
-remodélés en quatre cantons : Albi Centre, Albi Est, Albi Ouest et Albi Sud), Cadalen, Castelnau-de-Montmiral, Gaillac,
-Graulhet, Lisle-sur-Tarn, Rabastens, Salvagnac.
+Cantons de : Albi Nord-Est, Albi Nord-Ouest, Albi Ouest, Cadalen, Carmaux Nord, Carmaux Sud, Castelnau-de-Montmiral, Cordes-
+sur-Ciel, Gaillac, Graulhet, Lisle-sur-Tarn, Monestiés, Pampelonne, Rabastens, Salvagnac, Valderiès, Vaour 
 
 </td>
     </tr>
@@ -470,26 +471,13 @@ Graulhet, Lisle-sur-Tarn, Rabastens, Salvagnac.
 </td>
       <td width="388">
 
-Cantons de : Alban, Brassac, Castres Est, Castres Nord, Castres Sud (par décret du 21 février 1997 art. 2, les cantons de
-Castres Nord et de Castres Sud ont été remodelés en trois cantons :
+Cantons de : Castres Nord, Castres Ouest, Cuq-Toulza, Dourgne, Labruguière, Lautrec, Lavaur, Mazamet Nord-Est, Mazamet Sud-
+Ouest, Puylaurens, Saint-Amans-Soult, Saint-Paul-Cap-de-Joux, Vielmur-sur-Agout 
 
 </td>
     </tr>
     <tr>
-      <td width="217">
-
-4e circonscription
-
-</td>
-      <td width="388">
-
-Cantons de : Anglès, Cuq-Toulza, Dourgne, Labruguière, Lautrec, Lavaur, Mazamet Nord-Est, Mazamet Sud-Ouest, Puylaurens,
-Saint-Amans-Soult, Saint-Paul-Cap-de-Joux, Vielmur-sur-Agout.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="605">
+      <td width="605" colspan="2">
 
 Tarn-et-Garonne
 
@@ -503,9 +491,9 @@ Tarn-et-Garonne
 </td>
       <td width="388">
 
-Cantons de : Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban I, Montauban II, Montauban III, Montauban
-IV (par décret n° 91-220 du 27 février 1991 art. 1er, en remplacement des cantons de Montauban I à IV, ont été créés six
-cantons dénommés Montauban I à VI), Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val, Villebrumier.
+Sans changement (cantons de : Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban I, Montauban II,
+Montauban III, Montauban IV, Montauban V, Montauban VI, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val,
+Villebrumier) 
 
 </td>
     </tr>
@@ -537,7 +525,7 @@ Var
 </td>
       <td width="388">
 
-Cantons de : Toulon I, Toulon V, Toulon VI, Toulon VIII.
+Cantons de : Toulon I, Toulon IV, Toulon V, Toulon VI, Toulon VII, Toulon VIII, Toulon IX 
 
 </td>
     </tr>
@@ -549,7 +537,8 @@ Cantons de : Toulon I, Toulon V, Toulon VI, Toulon VIII.
 </td>
       <td width="388">
 
-Cantons de : Toulon II, Toulon III, Toulon IV, Toulon VII, Toulon IX.
+Cantons de : Ollioules (moins les communes de Sanary-sur-Mer et Bandol), Toulon II, Toulon III, Solliès-Pont, La Valette-du-
+Var 
 
 </td>
     </tr>
@@ -561,9 +550,7 @@ Cantons de : Toulon II, Toulon III, Toulon IV, Toulon VII, Toulon IX.
 </td>
       <td width="388">
 
-Cantons de : La Crau, Hyères (par décret n° 97-21 du 13 janvier 1997 art. 2, le canton de Hyères a été divisé en deux cantons
-dénommés "Hyères Est" et "Hyères Ouest"), La Valette-du-Var (par décret n° 97-21 du 13 janvier 1997 art. 1er, le canton de La
-Vallette-du-Var a été divisé en deux cantons dénommés "La Garde" et "La Vallette-du-Var").
+Cantons de : La Crau, La Garde, Hyères Est, Hyères Ouest 
 
 </td>
     </tr>
@@ -575,7 +562,7 @@ Vallette-du-Var a été divisé en deux cantons dénommés "La Garde" et "La Val
 </td>
       <td width="388">
 
-Cantons de : Aups, Collobrières, Draguignan, Grimaud, Lorgues, Le Luc, Saint-Tropez.
+Cantons de : Besse-sur-Issole, Collobrières, Grimaud, Lorgues, Le Luc, Saint-Tropez 
 
 </td>
     </tr>
@@ -587,7 +574,7 @@ Cantons de : Aups, Collobrières, Draguignan, Grimaud, Lorgues, Le Luc, Saint-Tr
 </td>
       <td width="388">
 
-Cantons de : Callas, Comps-sur-Artuby, Fayence, Fréjus, Le Muy, Saint-Raphaël.
+Cantons de : Fréjus, Le Muy, Saint-Raphaël 
 
 </td>
     </tr>
@@ -599,8 +586,7 @@ Cantons de : Callas, Comps-sur-Artuby, Fayence, Fréjus, Le Muy, Saint-Raphaël.
 </td>
       <td width="388">
 
-Cantons de : Barjols, Le Beausset, Besse-sur-Issole, Brignoles, Cotignac, Cuers, Rians, La Roquebrussanne, Saint-Maximin-la-
-Sainte-Baume, Salernes, Solliès-Pont, Tavernes.
+Cantons de : Le Beausset, Brignoles, Cuers, La Roquebrussanne, Saint-Maximin-la-Sainte-Beaume 
 
 </td>
     </tr>
@@ -612,12 +598,21 @@ Sainte-Baume, Salernes, Solliès-Pont, Tavernes.
 </td>
       <td width="388">
 
-Cantons de: Ollioules, Saint-Mandrier-sur-Mer, La Seyne sur-Mer, Six-Fours-les-Plages.
+Cantons de : Saint-Mandrier-sur-Mer, La Seyne-sur-Mer, Six-Fours-les-Plages, communes de Sanary-sur-Mer et Bandol 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="605">
+      <td>
+
+8e circonscription
+
+</td>
+      <td>Cantons de : Aups, Barjols, Callas, Comps-sur-Artuby, Cotignac, Draguignan, Fayence, Rians, Salernes, Tavernes </
+td>
+    </tr>
+    <tr>
+      <td width="605" colspan="2">
 
 Vaucluse
 
@@ -643,7 +638,7 @@ Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud.
 </td>
       <td width="388">
 
-Cantons de : Apt, Bonnieux, Cadenet, Cavaillon, Gordes, L'Isle-sur-la-Sorgue, Pertuis.
+Cantons de : Bonnieux, Cadenet, Cavaillon, L'Isle-sur-la-Sorgue 
 
 </td>
     </tr>
@@ -655,7 +650,7 @@ Cantons de : Apt, Bonnieux, Cadenet, Cavaillon, Gordes, L'Isle-sur-la-Sorgue, Pe
 </td>
       <td width="388">
 
-Cantons de : Bédarrides, Carpentras Nord, Carpentras Sud, Mormoiron, Pernes-les-Fontaines, Sault.
+Cantons de : Bédarrides, Carpentras Sud, Pernes-les-Fontaines 
 
 </td>
     </tr>
@@ -670,6 +665,14 @@ Cantons de : Bédarrides, Carpentras Nord, Carpentras Sud, Mormoiron, Pernes-les
 Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas.
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+5e circonscription
+
+</td>
+      <td>Cantons de : Apt, Carpentras Nord, Gordes, Mormoiron, Pertuis, Sault</td>
     </tr>
     <tr>
       <td width="605" colspan="2">
@@ -757,7 +760,7 @@ Vienne
       <td width="388">
 
 Cantons de : Mirebeau, Neuville-de-Poitou, Poitiers I, Poitiers II, Poitiers VII, Saint-Georges-lès-Baillargeaux, Saint-
-Julien-l'Ars, Vouneuil-sur-Vienne.
+Julien-l'Ars 
 
 </td>
     </tr>
@@ -782,7 +785,7 @@ Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du
       <td width="388">
 
 Cantons de : Availles-Limouzine, Charroux, Chauvigny, Civray, Couhé, Gençay, L'Isle-Jourdain, Lusignan, Lussac-les-Châteaux,
-Montmorillon, Saint-Savin, La Trimouille.
+Montmorillon, Saint-Savin, La Trimouille, Vouneuil-sur-Vienne, commune de La Puye 
 
 </td>
     </tr>
@@ -814,8 +817,8 @@ Haute-Vienne
 </td>
       <td width="388">
 
-Cantons de : Limoges-Beaupuy, Limoges-Carnot, Limoges Centre, Limoges-Cité, Limoges-Condat, Limoges-Couzeix, Limoges-
-Emailleurs, Limoges-Puy-las-Rodas.
+Cantons de : Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Limoges-La-Bastide, Limoges-Carnot, Limoges Centre, Limoges-Cité,
+Limoges-Grand-Treuil, Limoges-Le-Palais, Limoges-Panazol, Limoges-Vigenal, Saint-Léonard-de-Noblat 
 
 </td>
     </tr>
@@ -827,8 +830,9 @@ Emailleurs, Limoges-Puy-las-Rodas.
 </td>
       <td width="388">
 
-Cantons de : Aixe-sur-Vienne, Châlus, Nexon, Oradour-sur-Vayres, Pierre-Buffière, Rochechouart, Saint-Germain-les-Belles,
-Saint-Junien Est, Saint-Junien Ouest, Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint-Yrieix-la-Perche.
+Cantons de : Aixe-sur-Vienne, Châlus, Limoges-Condat, Limoges-Emailleurs, Nexon, Oradour-sur-Vayres, Pierre-Buffière,
+Rochechouart, Saint-Germain-les-Belles, Saint-Junien Est, Saint-Junien Ouest, Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint-
+Yrieix-la-Perche 
 
 </td>
     </tr>
@@ -840,21 +844,9 @@ Saint-Junien Est, Saint-Junien Ouest, Saint-Laurent-sur-Gorre, Saint-Mathieu, Sa
 </td>
       <td width="388">
 
-Cantons de : Bellac, Bessines-sur-Gartempe, Châteauponsac, Le Dorat, Laurière, Limoges-Corgnac, Limoges-Isle, Limoges-
-Landouge, Magnac-Laval, Mézières-sur-Issoire, Nantiat, Nieul, Saint-Sulpice-les-Feuilles.
-
-</td>
-    </tr>
-    <tr>
-      <td width="217">
-
-4e circonscription
-
-</td>
-      <td width="388">
-
-Cantons de : Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Limoges-La-Bastide, Limoges-Grand-Treuil, Limoges-Le-Palais, Limoges-
-Panazol, Limoges-Vigenal, Saint-Léonard-de-Noblat.
+Cantons de : Bellac, Bessines-sur-Gartempe, Châteauponsac, Laurière, Le Dorat, Limoges-Beaupuy, Limoges-Corgnac, Limoges-
+Couzeix, Limoges-Isle, Limoges-Landouge, Limoges-Puy-las-Rodas, Magnac-Laval, Mézières-sur-Issoire, Nantiat, Nieul, Saint-
+Sulpice-les-Feuilles 
 
 </td>
     </tr>
@@ -916,7 +908,7 @@ sur-Saône, Neufchâteau, Vittel.
 </td>
     </tr>
     <tr>
-      <td width="605" colspan="2">
+      <td colspan="2" width="605">
 
 Yonne
 
@@ -930,12 +922,10 @@ Yonne
 </td>
       <td width="388">
 
-Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord-Ouest (par décret n° 91-221 du 27 février 1991 art. 1er, le canton
-d'Auxerre Nord-Ouest a été divisé en deux cantons dénommés Auxerre Nord et Auxerre Nord-ouest), Auxerre Sud-Ouest (par décret
-n° 91-221 du 27 février 1991 art. 2, le canton d'Auxerre Sud-Ouest été divisé en deux cantons dénommés Auxerre Sud et Auxerre
-Sud-Ouest), Bléneau, Chamy, Coulanges-la-Vineuse, Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy.
+Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord, Auxerre Nord-Ouest, Auxerre Sud, Auxerre Sud-Ouest, Bléneau,
+Charny, Coulanges-la-Vineuse, Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy 
 
-Communes de : Andryes, Etais-la-Sauvin.
+Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne) Monéteau (issue du canton de Seignelay) 
 
 </td>
     </tr>
@@ -947,9 +937,9 @@ Communes de : Andryes, Etais-la-Sauvin.
 </td>
       <td width="388">
 
-Cantons de : Ancy-le-Franc, Avallon, Chablis, Coulanges-sur-Yonne (moins les communes d'Andryes et d'Etais-la-Savin), Cruzy-
-le-Châtel, Flogny-la-Chapelle, Guillon, L'Isle-sur-Serein, Ligny-le-Châtel, Migennes, Noyers, Quarré-les-Tombes, Saint-
-Florentin, Seignelay, Tonnerre, Vermenton, Vézelay.
+Cantons de : Ancy-le-Franc, Avallon, Brienon-sur-Armançon, Chablis, Coulanges-sur-Yonne (moins les communes d'Andryes et
+d'Etais-la-Sauvin), Cruzy-le-Châtel, Flogny-la-Chapelle, Guillon, L'Isle-sur-Serein, Ligny-le-Châtel, Migennes, Noyers,
+Quarré-les-Tombes, Saint-Florentin, Seignelay (moins la commune de Monéteau), Tonnerre, Vermenton, Vézelay 
 
 </td>
     </tr>
@@ -961,13 +951,13 @@ Florentin, Seignelay, Tonnerre, Vermenton, Vézelay.
 </td>
       <td width="388">
 
-Cantons de : Brienon-sur-Armançon, Cerisiers, Chéroy, Joigny, Pont-sur-Yonne, Saint-Julien-du-Sault, Sens Nord-Est, Sens
-Ouest, Sens Sud-Est, Sergines, Villeneuve-l'Archevêque, Villeneuve-sur-Yonne.
+Cantons de : Cerisiers, Chéroy, Joigny, Pont-sur-Yonne, Saint-Julien-du-Sault, Sens Nord-Est, Sens Ouest, Sens Sud-Est,
+Sergines, Villeneuve-l'Archevêque, Villeneuve-sur-Yonne 
 
 </td>
     </tr>
     <tr>
-      <td width="605" colspan="2">
+      <td colspan="2" width="605">
 
 Territoire de Belfort
 
@@ -998,7 +988,7 @@ Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges, Girom
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="605">
+      <td width="605" colspan="2">
 
 Essonne
 
@@ -1036,7 +1026,8 @@ Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt.
 </td>
       <td width="388">
 
-Cantons de : Arpajon, Brétigny-sur-Orge, Dourdan, Etréchy, Saint-Chéron.
+Cantons de : Arpajon (moins les communes de Bruyères-le-Châtel et Ollainville), Brétigny-sur-Orge, Dourdan, Etréchy, Saint-
+Chéron 
 
 </td>
     </tr>
@@ -1048,7 +1039,9 @@ Cantons de : Arpajon, Brétigny-sur-Orge, Dourdan, Etréchy, Saint-Chéron.
 </td>
       <td width="388">
 
-Cantons de : Limours, Longjumeau, Montlhéry, Villebon-sur-Yvette.
+Cantons de : Limours, Longjumeau, Montlhéry, Villebon-sur-Yvette 
+
+Communes de : Bruyères-le-Châtel, Ollainville 
 
 </td>
     </tr>
@@ -1163,7 +1156,10 @@ Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud.
 </td>
       <td width="388">
 
-Cantons de: Bois-Colombes, Courbevoie Nord, Courbevoie Sud, La Garenne-Colombes.
+Cantons de : Bois-Colombes, Courbevoie Nord, Courbevoie Sud (partie située au nord d'une ligne définie depuis la limite de la
+commune de Neuilly-sur-Seine, par l'axe des voies ci-après : prolongation de l'axe de la rue de l'Abreuvoir, rue de
+l'Abreuvoir, place Victor-Hugo, rue de Bezons et partie située à l'ouest de la ligne de chemin de fer de Paris à Versailles
+depuis la limite du canton de Courbevoie Nord jusqu'à la limite de la commune de Puteaux), La Garenne-Colombes 
 
 </td>
     </tr>
@@ -1199,7 +1195,8 @@ Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud.
 </td>
       <td width="388">
 
-Cantons de : Neuilly-sur-Seine Nord, Neuilly-sur-Seine Sud, Puteaux.
+Cantons de : Courbevoie Sud (partie non comprise dans la 3e circonscription), Neuilly-sur-Seine Nord, Neuilly-sur-seine Sud,
+Puteaux
 
 </td>
     </tr>
@@ -1329,9 +1326,7 @@ Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest
 </td>
       <td width="388">
 
-Cantons de : Aubervilliers Est, Aubervilliers Ouest, La Courneuve.
-
-Commune du Bourget.
+Cantons de : Neuilly-sur-Marne, Neuilly-Plaisance, Noisy-le-Grand 
 
 </td>
     </tr>
@@ -1343,9 +1338,7 @@ Commune du Bourget.
 </td>
       <td width="388">
 
-Cantons de : Le Blanc-Mesnil, Stains.
-
-Commune de Dugny.
+Cantons de : Le Blanc-Mesnil, La Courneuve, Stains, commune de Dugny 
 
 </td>
     </tr>
@@ -1357,9 +1350,7 @@ Commune de Dugny.
 </td>
       <td width="388">
 
-Canton de Bobigny.
-
-Commune de Drancy.
+Cantons de : Bobigny, Le Bourget (moins la commune de Dugny), Drancy 
 
 </td>
     </tr>
@@ -1371,7 +1362,7 @@ Commune de Drancy.
 </td>
       <td width="388">
 
-Cantons de : Bagnolet, Les Lilas, Pantin Est, Pantin Ouest.
+Cantons de : Aubervilliers Est, Aubervilliers Ouest, Pantin Est, Pantin Ouest 
 
 </td>
     </tr>
@@ -1383,7 +1374,7 @@ Cantons de : Bagnolet, Les Lilas, Pantin Est, Pantin Ouest.
 </td>
       <td width="388">
 
-Cantons de : Montreuil Est, Montreuil Nord, Montreuil Ouest.
+Cantons de : Bagnolet, Montreuil Est, Montreuil Nord, Montreuil Ouest 
 
 </td>
     </tr>
@@ -1407,7 +1398,7 @@ Cantons de : Gagny, Rosny-sous-Bois, Villemomble.
 </td>
       <td width="388">
 
-Cantons de : Bondy Nord-Ouest, Bondy Sud-Est, Noisy-le-Sec, Romainville.
+Cantons de : Bondy Nord-Ouest, Les Lilas, Noisy-le-Sec, Romainville 
 
 </td>
     </tr>
@@ -1419,7 +1410,7 @@ Cantons de : Bondy Nord-Ouest, Bondy Sud-Est, Noisy-le-Sec, Romainville.
 </td>
       <td width="388">
 
-Cantons de : Aulnay-sous-Bois Nord, Aulnay-sous-Bois Sud, Les Pavillons-sous-Bois.
+Cantons de : Aulnay-sous-Bois Nord, Aulnay-sous-Bois Sud, Bondy Sud-Est, Les Pavillons-sous-Bois 
 
 </td>
     </tr>
@@ -1448,18 +1439,6 @@ Cantons de : Livry-Gargan, Montfermeil, Le Raincy.
 </td>
     </tr>
     <tr>
-      <td width="217">
-
-13e circonscription
-
-</td>
-      <td width="388">
-
-Cantons de : Neuilly-Plaisance, Neuilly-sur-Marne, Noisy-le-Grand.
-
-</td>
-    </tr>
-    <tr>
       <td colspan="2" width="605">
 
 Val-de-Marne
@@ -1474,7 +1453,8 @@ Val-de-Marne
 </td>
       <td width="388">
 
-Cantons de : Bonneuil-sur-Marne, Créteil Nord, Saint-Maur-des-Fossés Centre, Saint-Maur-La-Varenne.
+Cantons de : Bonneuil-sur-Marne, Champigny-sur-Marne Ouest, Créteil Nord, Saint-Maur-des-Fossés Centre, Saint-Maur-des-Fossés
+Ouest, Saint-Maur-la-Varenne 
 
 </td>
     </tr>
@@ -1522,7 +1502,7 @@ Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers
 </td>
       <td width="388">
 
-Cantons de : Bry-sur-Marne, Champigny-sur-Marne Centre, Champigny-sur-Marne Est, Le Perreux-sur-Marne.
+Cantons de : Bry-sur-Marne, Champigny-sur-Marne Centre, Champigny-sur-Marne Est, Nogent-sur-Marne, Le Perreux-sur-Marne 
 
 </td>
     </tr>
@@ -1546,7 +1526,7 @@ Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vin
 </td>
       <td width="388">
 
-Cantons de : Champigny-sur-Marne Ouest, Joinville-le-Pont, Nogent-sur-Marne, Saint-Maur-des-Fossés Ouest.
+Cantons de : Chevilly-Larue, Fresnes, L'Hay-les-Roses, Thiais 
 
 </td>
     </tr>
@@ -1558,7 +1538,7 @@ Cantons de : Champigny-sur-Marne Ouest, Joinville-le-Pont, Nogent-sur-Marne, Sai
 </td>
       <td width="388">
 
-Cantons de : Charenton-le-Pont, Maisons-Alfort Nord, Maisons-Alfort Sud.
+Cantons de : Charenton-le-Pont, Joinville-le-Pont, Maisons-Alfort Nord, Maisons-Alfort Sud 
 
 </td>
     </tr>
@@ -1599,18 +1579,6 @@ Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest.
 </td>
     </tr>
     <tr>
-      <td width="217">
-
-12e circonscription
-
-</td>
-      <td width="388">
-
-Cantons de : Chevilly-Larue, Fresnes, L'Hay-les-Roses, Thiais.
-
-</td>
-    </tr>
-    <tr>
       <td colspan="2" width="605">
 
 Val-d'Oise
@@ -1637,7 +1605,7 @@ Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du
 </td>
       <td width="388">
 
-Cantons de : Cergy Nord, Cergy Sud, L'Hautil, L'Isle-Adam, Saint-Ouen-l'Aumône.
+Cantons de : Cergy Sud, L'Isle-Adam, Saint-Ouen-l'Aumône, Viarmes, commune de Neuville-sur-Oise 
 
 </td>
     </tr>
@@ -1697,7 +1665,7 @@ Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency.
 </td>
       <td width="388">
 
-Cantons de : Domont, Ecouen, Montmorency, Sarcelles Sud-Ouest, Viarmes.
+Cantons de : Domont, Ecouen, Montmorency, Sarcelles Sud-Ouest 
 
 </td>
     </tr>
@@ -1726,7 +1694,15 @@ Cantons de : Gonesse, Goussainville, Luzarches.
 </td>
     </tr>
     <tr>
-      <td width="605" colspan="2">
+      <td>
+
+10e circonscription
+
+</td>
+      <td>Cantons de : Cergy Nord, L'Hautil (moins la commune de Neuville-sur-Oise) </td>
+    </tr>
+    <tr>
+      <td colspan="2" width="605">
 
 Guadeloupe
 
@@ -1741,7 +1717,7 @@ Guadeloupe
       <td width="388">
 
 Cantons de : Les Abymes I, Les Abymes II, Les Abymes III, Les Abymes IV, Les Abymes V, Capesterre-de-Marie-Galante, Grand-
-Bourg, Pointe-à-Pitre I, Pointe-à-Pitre II, Pointe-à-Pitre III, Saint-Louis.
+Bourg, Morne-à-l'Eau I, Morne-à-l'Eau II, Pointe-à-Pitre I, Pointe-à-Pitre II, Pointe-à-Pitre III, Saint-Louis 
 
 </td>
     </tr>
@@ -1753,8 +1729,8 @@ Bourg, Pointe-à-Pitre I, Pointe-à-Pitre II, Pointe-à-Pitre III, Saint-Louis.
 </td>
       <td width="388">
 
-Cantons de : La Désirade, Le Gosier I, Le Gosier II, Morne-à-l'Eau I, Morne-à-l'Eau II, Le Moule I, Le Moule II, Petit-Canal,
-Port-Louis, Saint-François, Sainte-Anne I, Sainte-Anne II.
+Cantons de : La Désirade, Le Gosier I, Le Gosier II, Le Moule I, Le Moule II, Petit-Canal, Port-Louis, Saint-François,
+Sainte-Anne I, Sainte-Anne II 
 
 </td>
     </tr>
@@ -1766,8 +1742,7 @@ Port-Louis, Saint-François, Sainte-Anne I, Sainte-Anne II.
 </td>
       <td width="388">
 
-Cantons de : Baie-Mahault, Capesterre-Belle-Eau I, Capesterre-Belle-Eau II, Goyave, Lamentin, Petit-Bourg, Pointe-Noire,
-Sainte-Rose I, Sainte-Rose II.
+Cantons de : Baie-Mahault, Goyave, Lamentin, Petit-Bourg, Pointe-Noire, Sainte-Rose I, Sainte-Rose II 
 
 </td>
     </tr>
@@ -1779,14 +1754,13 @@ Sainte-Rose I, Sainte-Rose II.
 </td>
       <td width="388">
 
-Cantons de : Basse-Terre I, Basse-Terre II, Bouillante, Gourbeyre, Saint-Claude, Saint-Martin.
-
-Les Saintes, Trois-Rivières, Vieux-Habitants.
+Cantons de : Basse-Terre I, Basse-Terre II, Bouillante, Capesterre-Belle-Eau I, Capesterre-Belle-Eau II, Gourbeyre, Saint-
+Claude, Les Saintes, Trois-Rivières, Vieux-Habitants 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="605">
+      <td width="605" colspan="2">
 
 Guyane
 
@@ -1800,7 +1774,8 @@ Guyane
 </td>
       <td width="388">
 
-Cantons de : Cayenne I, Cayenne II, Cayenne III, Cayenne IV, Cayenne V, Cayenne VI, Macouria.
+Cantons de : Approuague-Kaw, Cayenne I Nord-Ouest, Cayenne II Nord-Est, Cayenne III Sud-Ouest, Cayenne IV Centre, Cayenne V
+Sud, Cayenne VI Sud-Est, Matoury, Remire-Montjoly, Roura, Saint-Georges-Oyapock 
 
 </td>
     </tr>
@@ -1812,13 +1787,12 @@ Cantons de : Cayenne I, Cayenne II, Cayenne III, Cayenne IV, Cayenne V, Cayenne 
 </td>
       <td width="388">
 
-Cantons de : Approuague-Kaw, Iracoubo, Kourou, Mana, Maripasoula, Matoury, Montsinéry-Tonnégrande, L'Oyapok, Rémire-Montjoly,
-Roura, Saint-Laurent-du-Maroni, Sinnamary.
+Cantons de : Iracoubo, Kourou, Macouria, Mana, Maripasoula, Montsinéry-Tonnegrande, Saint-Laurent-du-Maroni, Sinnamary 
 
 </td>
     </tr>
     <tr>
-      <td width="605" colspan="2">
+      <td colspan="2" width="605">
 
 Martinique
 
@@ -1832,8 +1806,8 @@ Martinique
 </td>
       <td width="388">
 
-Cantons de : L'Ajoupa-Bouillon, Basse-Pointe, Macouba, Gros-Morne, Le Lorrain, Le Marigot, Saint-Joseph, Sainte-Marie I,
-Sainte-Marie II, La Trinité.
+Cantons de : Le François I, Le François II, Gros-Morne, Le Lamentin I, Le Lamentin II, Le Lamentin III, Le Robert I, Le
+Robert II, La Trinité 
 
 </td>
     </tr>
@@ -1845,8 +1819,8 @@ Sainte-Marie II, La Trinité.
 </td>
       <td width="388">
 
-Cantons de : Case-Pilote, Le Carbet, Fort-de-France I, Fort-de-France II, Fort-de-France III, Fort-de-France IX, Fort-de-
-France X, Le Morne-Rouge, Le Prêcheur, Saint-Pierre, Schoelcher I, Schoelcher II.
+Cantons de : L'Ajoupa-Bouillon, Basse-Pointe, Case-Pilote, Le Carbet, Le Lorrain, Macouba, Le Marigot, Le Morne-Rouge, Le
+Prêcheur, Saint-Pierre, Saint-Joseph, Schœlcher I, Schœlcher II, Sainte-Marie I, Sainte-Marie II 
 
 </td>
     </tr>
@@ -1858,8 +1832,8 @@ France X, Le Morne-Rouge, Le Prêcheur, Saint-Pierre, Schoelcher I, Schoelcher I
 </td>
       <td width="388">
 
-Cantons de : Fort-de-France IV, Fort-de-France V, Fort-de-France VI, Fort-de-France VII, Fort-de-France VIII, Le Lamentin I,
-Le Lamentin II, Le Lamentin III. 
+Cantons de : Fort-de-France I, Fort-de-France II, Fort-de-France III, Fort-de-France IV, Fort-de-France V, Fort-de-France VI,
+Fort-de-France VII, Fort-de-France VIII, Fort-de-France IX, Fort-de-France X 
 
 </td>
     </tr>
@@ -1871,8 +1845,8 @@ Le Lamentin II, Le Lamentin III.
 </td>
       <td width="388">
 
-Cantons de : Les Anses-d'Arlets, Le Diamant, Ducos, Le François I, Le François II, Le Marin, Rivière-Pilote, Rivière-Salée,
-Le Robert I, Le Robert II, Saint-Esprit, Sainte-Anne, Sainte-Luce, Les Trois-Ilets, Le Vauclin.
+Cantons de : Les Anses-d'Arlets, Le Diamant, Ducos, Le Marin, Rivière-Pilote, Rivière-Salée, Saint-Esprit, Sainte-Anne,
+Sainte-Luce, Les Trois-Ilets, Le Vauclin 
 
 </td>
     </tr>
@@ -1891,8 +1865,7 @@ Réunion
 </td>
       <td width="388">
 
-Cantons de : Saint-Denis I, Saint-Denis II, Saint-Denis III, Saint-Denis IV (par décret n° 88-400 du 21 avril 1988 art. 4, en
-remplacement des cantons de Saint-Denis I à IV, ont été créés neuf cantons dénommés Saint-Denis I à IX).
+Cantons de : Saint-Denis I, Saint-Denis II, Saint-Denis III, Saint-Denis IV, Saint-Denis V, Saint-Denis VI, Saint-Denis VIII 
 
 </td>
     </tr>
@@ -1904,10 +1877,7 @@ remplacement des cantons de Saint-Denis I à IV, ont été créés neuf cantons 
 </td>
       <td width="388">
 
-Cantons de : La Possession, Le Port (par décret n° 88-400 du 21 avril 1988 art. 1er, le canton du Port a été divisé en deux
-cantons dénommés Le Port I et Le Port II), Saint-Paul I, Saint-Paul II, Saint-Paul III (Par décret n° 91-231 du 28 février
-1991 art. 3, en remplacement des cantons de Saint-Paul I à III, ont été créés cinq cantons dénommés Saint-Paul I à V), Les
-Trois-Bassins.
+Cantons de : Le Port I Nord, Le Port II Sud, La Possession, Saint-Paul I, Saint-Paul II, Saint-Paul III 
 
 </td>
     </tr>
@@ -1919,10 +1889,7 @@ Trois-Bassins.
 </td>
       <td width="388">
 
-Cantons de : Les Avirons, Cilaos, Entre-Deux, L'Etang-Salé, Saint-Leu I, Saint-Leu II, Saint-Louis I, Saint-Louis II, Le
-Tampon I, Le Tampon II (par décret n° 88-400 du 21 avril 1988 art. 2, en remplacement des cantons du Tampon I et du Tampon
-II, ont été créés trois cantons dénommés Le Tampon I à III. Par décret du 27 février 1997 art. 3, les cantons du Tampon I et
-du Tampon III ont été remodelés en trois cantons dénommés "Le Tampon I", "Le Tampon III" et "Le Tampon IV").
+Cantons de : Saint-Louis III-Cilaos, Entre-Deux, Saint-Louis II, Le Tampon I, Le Tampon II, Le Tampon III, Le Tampon IV 
 
 </td>
     </tr>
@@ -1934,9 +1901,7 @@ du Tampon III ont été remodelés en trois cantons dénommés "Le Tampon I", "L
 </td>
       <td width="388">
 
-Cantons de: Petite-Ile, Saint-Joseph I, Saint-Joseph II, Saint-Philippe, Saint-Pierre I, Saint-Pierre II, Saint-Pierre III
-(par décret n° 88-400 du 21 avril 1988 art. 3, le canton de Saint-Pierre III a été divisé en deux cantons dénommés Saint-
-Pierre III et Saint-Pierre IV), Sainte-Rose).
+Cantons de : Petite-Ile, Saint-Joseph I, Saint-Joseph II, Saint-Pierre I, Saint-Pierre II, Saint-Pierre III, Saint-Pierre IV 
 
 </td>
     </tr>
@@ -1948,47 +1913,49 @@ Pierre III et Saint-Pierre IV), Sainte-Rose).
 </td>
       <td width="388">
 
-Cantons de : Bras-Panon, La Plaine-des-Palmistes, Saint-André (par décret du 27 février 1997 art. 1er, le canton de Saint-
-André I a été divisé en deux cantons dénommés "Saint-André I" et "Saint-André III"), Saint-André II, Saint-Benoît (par décret
-n° 91-231 du 28 février 1991 art. 1, le canton de Saint-Benoît a été divisé en deux cantons dénommés Saint-Benoît I et Saint-
-Benoît II), Sainte-Marie, Sainte-Suzanne, Salazie.
+Cantons de : Bras-Panon, La Plaine-des-Palmistes, Saint-André II, Saint-André III, Saint-Benoît I, Saint-Benoît II, Saint-
+Philippe, Sainte-Rose, Salazie 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+6e circonscription
+
+</td>
+      <td>Cantons de : Saint-André I, Saint-Denis VII, Saint-Denis IX, Sainte-Marie, Sainte-Suzanne </td>
+    </tr>
+    <tr>
+      <td>
+
+7e circonscription
+
+</td>
+      <td>
+
+Cantons de : Les Avirons, L'Etang-Salé, Saint-Leu I, Saint-Leu II, Saint-Louis I, Saint-Paul IV, Saint-Paul V, Les Trois-
+Bassins </td>
     </tr>
   </tbody>
 </table>
 
-**Nota:**
-
-(1) Aux termes de la loi n° 86-97 du 24 novembre 1986, article 3 : 
-
-" Les limites des cantons, des communes et des arrondissements municipaux auxquels se réfère le tableau n° 1 sont celles qui
-résultent des dispositions en vigueur à la date de publication de ladite loi ".
-
-Loi 2007-224 du 21 février 2007 art. 26 I : les présentes dispositions entrent en vigueur à compter du renouvellement général
-de l'Assemblée nationale suivant le renouvellement de juin 2007.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 	**Cite**:
 
-	  - Décret n°88-400 1988-04-21 art. 1, art. 2, art. 3, art. 4
-	  - Décret n°91-220 1991-02-27 art. 1
-	  - Décret n°91-222 1991-02-27 art. 1, art. 2
-	  - Décret n°91-221 1991-02-27 art. 1, art. 2
-	  - Décret n°91-219 1991-02-27 art. 1, art. 2
-	  - Décret n°91-232 1991-02-28 art. 1
-	  - Décret n°91-231 1991-02-28 art. 3, art. 1
-	  - Décret n°93-260 du 26 février 1993 - art. 1, v. init.
-	  - Décret n°97-21 du 13 janvier 1997 - art. 1 (V)
-	  - Décret n°97-21 du 13 janvier 1997 - art. 2 (V)
+	  - Décret n°88-400 du 21 avril 1988
+	  - Décret n°91-220 du 27 février 1991
+	  - Décret n°91-222 du 27 février 1991
+	  - Décret n°91-221 du 27 février 1991
+	  - Décret n°91-219 du 27 février 1991
+	  - Décret n°91-232 du 28 février 1991
+	  - Décret n°91-231 du 28 février 1991
+	  - Décret n°93-260 du 26 février 1993 - art. 1
+	  - Décret n°97-21 du 13 janvier 1997 - art. 1
+	  - Décret n°97-21 du 13 janvier 1997 - art. 2
 	  - Loi n°86-97 1986-11-24 art. 3
 
 	**Modifié par**:
 
-	  - Décret du 16 août 1989, v. init.
-	  - Loi n°2007-224 2007-02-21 art. 9 1° JORF 22 février 2007
+	  - Ordonnance n°2009-935 du 29 juillet 2009 - art.
