@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2010-06-30
+Version Consolidée au 2010-07-18
 
 # Partie législative
 
@@ -28157,6 +28157,35 @@ scrutin.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L317 (V)
+
+
+## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France
+
+### Section 6 : Dépouillement et recensement des votes
+
+###### Article R177
+
+Sous réserve des dispositions de la présente section, les articles R. 62 à R. 66, R. 66-2 à R. 69, R. 71, 
+R. 104, R. 106, R. 108 et R. 109 sont applicables à l'élection de députés par les Français établis hors de France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. R*104
+	  - Code électoral - art. R*106
+	  - Code électoral - art. R*108
+	  - Code électoral - art. R62
+	  - Code électoral - art. R66-2
+	  - Code électoral - art. R71
 
 
 ## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse
