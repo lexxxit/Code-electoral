@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2010-07-25
+Version Consolidée au 2010-09-01
 
 # Partie législative
 
@@ -11167,8 +11167,13 @@ Les sénateurs sont élus pour six ans.
 
 ###### Article LO276
 
-Le Sénat est renouvelable par tiers. A cet effet, les sénateurs sont répartis en trois séries A, B et C, d'importance
+Le Sénat est renouvelable par moitié. A cet effet, les sénateurs sont répartis en deux séries 1 et 2, d'importance
 approximativement égale, suivant le tableau n° 5 annexé au présent code.
+
+**Nota:**
+
+Loi n° 2003-696 du 30 juillet 2003 art. 2 III : Ces dispositions entreront en vigueur à compter du renouvellement partiel de
+2010.
 
 **Liens relatifs à cet article**
 
@@ -11187,6 +11192,10 @@ approximativement égale, suivant le tableau n° 5 annexé au présent code.
 	  - Code électoral - art. L501 (V)
 	  - Code électoral - art. L528 (V)
 	  - Code électoral - art. L556 (V)
+
+	**Modifié par**:
+
+	  - Loi organique 2003-696 2003-07-30 art. 2 I JORF 31 juillet 2003
 
 
 ###### Article LO277
