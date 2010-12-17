@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2010-12-09
+Version Consolidée au 2010-12-18
 
 # Partie législative
 
@@ -8674,55 +8674,51 @@ personne appelée à remplacer le candidat comme conseiller général dans le ca
 et L. 163 sont applicables à la désignation du remplaçant. Le candidat et son remplaçant sont de sexe différent.
 
 A cette déclaration sont jointes les pièces propres à prouver que le candidat et son remplaçant répondent aux conditions
-d'éligibilité prévues par l'article L. 194.
+d'éligibilité prévues par l'article L. 194. 
 
 Si la déclaration de candidature n'est pas conforme aux dispositions du premier alinéa, qu'elle n'est pas accompagnée des
 pièces mentionnées au deuxième alinéa ou si ces pièces n'établissent pas que le candidat et son remplaçant répondent aux
-conditions d'éligibilité prévues par l'article L. 194, elle n'est pas enregistrée.
+conditions d'éligibilité prévues par l'article L. 194, elle n'est pas enregistrée. 
 
-Nul ne peut être candidat dans plus d'un canton.
+Nul ne peut être candidat dans plus d'un canton. 
 
 Si le candidat fait, contrairement aux prescriptions de l'alinéa précédent, acte de candidature dans plusieurs cantons, sa
-candidature n'est pas enregistrée.
+candidature n'est pas enregistrée. 
 
 Le candidat qui s'est vu opposer un refus d'enregistrement dispose de vingt-quatre heures pour saisir le tribunal
-administratif qui statue sous trois jours.
+administratif qui statue sous trois jours. 
 
-Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature doit être enregistrée.
+Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature doit être enregistrée. 
 
 Nul ne peut être candidat au deuxième tour s'il ne s'est présenté au premier tour et s'il n'a obtenu un nombre de suffrages
-au moins égal à 10 % du nombre des électeurs inscrits.
+égal au moins à 12,5 % du nombre des électeurs inscrits. 
 
 Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu après celui-ci le plus grand nombre de
-suffrages au premier tour peut se maintenir au second.
+suffrages au premier tour peut se maintenir au second. 
 
 Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
 premier tour peuvent se maintenir au second.
 
 **Nota:**
 
-: Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions de cet article entrent en vigueur à compter du premier
-renouvellement par moitié des conseils généraux qui suit la publication de la présente loi.(Date indéterminée).
+Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions de cet article entrent en vigueur à compter du premier
+renouvellement par moitié des conseils généraux qui suit la publication de la présente loi. (Date indéterminée).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Entrée en vigueur : date indéterminée
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2007-128 du 31 janvier 2007 - art. 4 () JORF 1er février 2007
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 2
 
 	**Cite**:
 
-	  - Code électoral - art. L155 (M)
-	  - Code électoral - art. L163 (M)
-	  - Code électoral - art. L194 (M)
+	  - Code électoral - art. L155
+	  - Code électoral - art. L163
+	  - Code électoral - art. L194
 
 	**Cité par**:
 
@@ -8930,9 +8926,9 @@ Il doit y avoir un intervalle de quinze jours francs entre la date de la convoca
 ###### Article L221
 
 Le conseiller général dont le siège devient vacant pour cause de décès, de démission intervenue en application des articles
-L. 46-1,L. 46-2, LO 151ou LO 151-1 du présent code, de présomption d'absence au sens de l'article 112 du code civil ou
-d'acceptation de la fonction de membre du Conseil constitutionnel, est remplacé jusqu'au renouvellement de la série dont il
-est issu par la personne élue en même temps que lui à cet effet. 
+L. 46-1,L. 46-2, LO 151ou LO 151-1 du présent code ou pour tout autre motif, de présomption d'absence au sens de l'article
+112 du code civil ou d'acceptation de la fonction de membre du Conseil constitutionnel, est remplacé jusqu'au renouvellement
+de la série dont il est issu par la personne élue en même temps que lui à cet effet. 
 
 En cas de vacance pour toute autre cause ou lorsque le premier alinéa ne peut plus être appliqué, il est procédé à une
 élection partielle dans le délai de trois mois. 
@@ -8947,7 +8943,7 @@ représentant de l'Etat dans le département et, s'il y a lieu, au ministre de l
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 81
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 4
 
 	**Cité par**:
 
@@ -11352,25 +11348,33 @@ et leurs suppléants. Un intervalle de six semaines au moins doit séparer cette
 
 Les conseils municipaux élisent parmi leurs membres dans les communes de moins de 9 000 habitants :
 
-- un délégué pour les conseils municipaux de neuf et onze membres;
+- un délégué pour les conseils municipaux de neuf et onze membres ;
 
-- trois délégués pour les conseils municipaux de quinze membres;
+- trois délégués pour les conseils municipaux de quinze membres ;
 
-- cinq délégués pour les conseils municipaux de dix-neuf membres;
+- cinq délégués pour les conseils municipaux de dix-neuf membres ;
 
-- sept délégués pour les conseils municipaux de vingt-trois membres;
+- sept délégués pour les conseils municipaux de vingt-trois membres ;
 
-- quinze délégués pour les conseils municipaux de vingt-sept et vingt-neuf membres.
+- quinze délégués pour les conseils municipaux de vingt-sept et vingt-neuf membres. 
 
 Dans le cas où le conseil municipal est constitué par application des articles L. 2113-6 et L. 2113-7 du code général des
-collectivités territoriales relatif aux fusions de communes, le nombre de délégués est égal à celui auquel les anciennes
+collectivités territoriales relatif aux fusions de communes dans leur rédaction antérieure à la loi n° 2010-1563 du 16
+décembre 2010 de réforme des collectivités territoriales, le nombre de délégués est égal à celui auquel les anciennes
 communes auraient eu droit avant la fusion.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -11382,14 +11386,15 @@ communes auraient eu droit avant la fusion.
 	  - Code électoral - art. L439-2 (V)
 	  - Code électoral - art. R*136 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-404 du 10 mai 2004 - art. 4 () JORF 11 mai 2004
-
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2113-6 (M)
-	  - Code général des collectivités territoriales - art. L2113-7 (M)
+	  - Loi n°2010-1563 du 16 décembre 2010 (V)
+	  - Code général des collectivités territoriales - art. L2113-6 (V)
+	  - Code général des collectivités territoriales - art. L2113-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 24 (V)
 
 
 ###### Article L285
