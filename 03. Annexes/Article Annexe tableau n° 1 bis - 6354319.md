@@ -5,88 +5,59 @@
     <tr>
       <td width="325">
 
-Territoires
+TERRITOIRES
 
 </td>
       <td width="325">
 
-Composition
+COMPOSITION 
 
 </td>
     </tr>
     <tr>
-      <td width="325">
+      <td width="325" colspan="2">
 
-Nouvelle-Calédonie
-
-</td>
-      <td width="325">
+Nouvelle-Calédonie 
 
 </td>
     </tr>
     <tr>
-      <td width="325">
+      <td width="325" align="center">
 
-1re circonscription
+1re circonscription 
 
 </td>
       <td width="325">
 
-Communes de L'Ile des Pins, Lifou, Maré, Nouméa, Ouvéa.
+Communes de : L'Ile des Pins, Lifou, Maré, Nouméa, Ouvéa 
 
 </td>
     </tr>
     <tr>
-      <td width="325" valign="top">
+      <td valign="top" width="325" align="center">
 
-2e circonscription
+2e circonscription 
 
 </td>
       <td width="325">
 
-Communes de Belep, Bouloupari, Bourail, Canala, Dumbéa, Farino, Hienghène, Houaïlou, Kaala-Gomen, Koné, Kouaoua, Koumac, La
+Communes de : Belep, Bouloupari, Bourail, Canala, Dumbéa, Farino, Hienghène, Houaïlou, Kaala-Gomen, Koné, Kouaoua, Koumac, La
 Foa, Moindou, Le Mont-Dore, Ouégoa, Païta, Poindimié, Ponérihouen, Pouebo, Pouembout, Poum, Poya, Sarraméa, Thio, Touho, Voh,
-Yaté.
+Yaté 
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2" width="325">
 
-Mayotte
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-1re circonscription
+Polynésie française 
 
 </td>
-      <td>Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II, Mtsamboro, Pamandzi </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top" width="325" align="center">
 
-2e circonscription
-
-</td>
-      <td>Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou III, M'Tsangamouji, Ouangani,
-Sada, Tsingoni. </td>
-    </tr>
-    <tr>
-      <td width="325">
-
-Polynésie française
-
-</td>
-      <td width="325">
-    </td></tr>
-    <tr>
-      <td width="325" valign="top">
-
-1re circonscription
+1re circonscription 
 
 </td>
       <td width="325">
@@ -98,9 +69,9 @@ Ua-Pou
 </td>
     </tr>
     <tr>
-      <td valign="top" width="325">
+      <td width="325" align="center" valign="top">
 
-2e circonscription
+2e circonscription 
 
 </td>
       <td width="325">
@@ -111,9 +82,9 @@ Uta, Tubuai
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
 
-3e circonscription
+3e circonscription 
 
 </td>
       <td>Communes de : Bora-Bora, Faaa, Huahine, Maupiti, Punaauia, Tahaa, Taputapuatea, Tumaraa, Uturoa </td>
@@ -139,10 +110,10 @@ Saint-Pierre-et-Miquelon
     <tr>
       <td>
 
-Iles Wallis et Futuna 
+Iles Wallis-et-Futuna 
 
 </td>
-      <td>Circonscription unique </td>
+      <td>Circonscription unique</td>
     </tr>
   </tbody>
 </table>
@@ -151,4 +122,4 @@ Iles Wallis et Futuna
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-935 du 29 juillet 2009 - art.
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 9

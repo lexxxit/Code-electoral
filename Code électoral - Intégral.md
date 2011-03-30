@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2010-12-18
+Version Consolidée au 2011-03-31
 
 # Partie législative
 
@@ -6052,26 +6052,32 @@ liste électorale.
 
 ###### Article LO130
 
-Les individus dont la condamnation empêche temporairement l'inscription sur une liste électorale sont inéligibles pendant une
-période double de celle durant laquelle ils ne peuvent être inscrits sur la liste électorale.
+Sont inéligibles pendant la durée de leurs fonctions : 
 
-Sont en outre inéligibles :
+1° Le Défenseur des droits et ses adjoints (1) ; 
 
-1° les individus privés par décision judiciaire de leur droit d'éligibilité, en application des lois qui autorisent cette
-privation;
+2° Le contrôleur général des lieux de privation de liberté.
 
-2° les personnes pourvues d'un conseil judiciaire.
+**Nota:**
+
+(1) Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la
+date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4,
+les mots " et ses adjoints ".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
 	  - Loi n°77-729 du 7 juillet 1977 - art. 5 (V)
 	  - Décret n°84-558 du 4 juillet 1984 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 
 ###### Article LO130-1
@@ -7624,12 +7630,12 @@ Les élections partielles prévues à l'article LO. 178 ont lieu selon les règl
 ###### Article LO176
 
 Les députés dont le siège devient vacant pour cause de décès, d'acceptation des fonctions de membre du Conseil
-constitutionnel ou de prolongation au-delà du délai de six mois d'une mission temporaire confiée par le Gouvernement sont
-remplacés jusqu'au renouvellement de l'Assemblée nationale par les personnes élues en même temps qu'eux à cet effet. 
+constitutionnel ou de Défenseur des droits ou de prolongation au-delà du délai de six mois d'une mission temporaire confiée
+par le Gouvernement sont remplacés jusqu'au renouvellement de l'Assemblée nationale par les personnes élues en même temps
+qu'eux à cet effet. 
 
 Les députés qui acceptent des fonctions gouvernementales sont remplacés, jusqu'à l'expiration d'un délai d'un mois suivant la
-cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet. [Dispositions déclarées non conformes à
-la Constitution par la décision du Conseil constitutionnel n° 2008-572 DC du 8 janvier 2009.]
+cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -7642,7 +7648,7 @@ la Constitution par la décision du Conseil constitutionnel n° 2008-572 DC du 8
 
 	**Modifié par**:
 
-	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 2
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 
 ###### Article LO177
@@ -8119,15 +8125,18 @@ Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasse
 
 ###### Article L194-1
 
-Pendant la durée de leurs fonctions, le Médiateur de la République, le Défenseur des enfants et le Contrôleur général des
-lieux de privation de liberté ne peuvent être candidats à un mandat de conseiller général s'ils n'exerçaient le même mandat
-antérieurement à leur nomination.
+Pendant la durée de ses fonctions, le Contrôleur général des lieux de privation de liberté ne peut être candidat à un mandat
+de conseiller général s'il n'exerçait le même mandat antérieurement à sa nomination.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -8137,7 +8146,7 @@ antérieurement à leur nomination.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1545 du 30 octobre 2007 - art. 3 () JORF 31 octobre 2007
+	  - Loi n°2011-334 du 29 mars 2011 - art. 21
 
 
 ###### Article L195
@@ -8471,6 +8480,17 @@ préfet n'est pas suspensif.
 	**Cité par**:
 
 	  - Code électoral - art. L221 (VT)
+
+
+###### Article LO194-2
+
+Pendant la durée de ses fonctions, le Défenseur des droits ne peut être candidat à un mandat de conseiller général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 
 #### Chapitre IV : Incompatibilités
@@ -8926,9 +8946,10 @@ Il doit y avoir un intervalle de quinze jours francs entre la date de la convoca
 ###### Article L221
 
 Le conseiller général dont le siège devient vacant pour cause de décès, de démission intervenue en application des articles
-L. 46-1,L. 46-2, LO 151ou LO 151-1 du présent code ou pour tout autre motif, de présomption d'absence au sens de l'article
-112 du code civil ou d'acceptation de la fonction de membre du Conseil constitutionnel, est remplacé jusqu'au renouvellement
-de la série dont il est issu par la personne élue en même temps que lui à cet effet. 
+L. 46-1, L. 46-2, LO 151 ou
+LO 151-1 du présent code ou pour tout autre motif, de présomption d'absence au sens de l'article 112 du code civil ou
+d'acceptation de la fonction de membre du Conseil constitutionnel ou de Défenseur des droits, est remplacé jusqu'au
+renouvellement de la série dont il est issu par la personne élue en même temps que lui à cet effet. 
 
 En cas de vacance pour toute autre cause ou lorsque le premier alinéa ne peut plus être appliqué, il est procédé à une
 élection partielle dans le délai de trois mois. 
@@ -8939,11 +8960,15 @@ se fait à la même époque.
 Le président du conseil général est chargé de veiller à l'exécution du présent article. Il adresse ses réquisitions au
 représentant de l'Etat dans le département et, s'il y a lieu, au ministre de l'Intérieur.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1563 du 16 décembre 2010 - art. 4
+	  - Loi n°2011-334 du 29 mars 2011 - art. 21
 
 	**Cité par**:
 
@@ -9387,19 +9412,27 @@ mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par 
 
 ###### Article L230-1
 
-Pendant la durée de leurs fonctions, le Médiateur de la République, le Défenseur des enfants et le Contrôleur général des
-lieux de privation de liberté ne peuvent être candidats à un mandat de conseiller municipal s'ils n'exerçaient le même mandat
-antérieurement à leur nomination.
+Pendant la durée de ses fonctions, le Contrôleur général des lieux de privation de liberté ne peut être candidat à un mandat
+de conseiller municipal s'il n'exerçait le même mandat antérieurement à sa nomination.
+
+**Nota:**
+
+La présente loi entre en vigueur à la date prévue au I de l'article 44 de la loi organique n° 2011-333 du 29 mars 2011
+relative au Défenseur des droits (31 mars 2011).
+
+Toutefois, entrent en vigueur à la date prévue au premier alinéa du II du même article (1er mai 2011), les troisième, sixième
+et dernier alinéas de l'article 21 en tant qu'ils suppriment la référence au Défenseur des enfants aux articles L. 194-1, L.
+230-1 et L. 340 du code électoral.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2007-1545 du 30 octobre 2007 - art. 3 () JORF 31 octobre 2007
+	  - Loi n°2011-334 du 29 mars 2011 - art. 21
 
 
 ###### Article L231
@@ -9619,6 +9652,17 @@ européenne autres que la France déchus du droit d'éligibilité dans leur Etat
 	**Cité par**:
 
 	  - Code électoral - art. LO236-1 (V)
+
+
+###### Article LO230-3
+
+Pendant la durée de ses fonctions, le Défenseur des droits ne peut être candidat à un mandat de conseiller municipal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 
 ###### Article LO236-1
@@ -12432,13 +12476,11 @@ deux tours.
 ###### Article LO319
 
 Les sénateurs élus au scrutin majoritaire dont le siège devient vacant pour cause de décès, d'acceptation des fonctions de
-membre du Conseil constitutionnel ou de prolongation au-delà du délai de six mois d'une mission temporaire confiée par le
-Gouvernement sont remplacés par les personnes élues en même temps qu'eux à cet effet. 
+membre du Conseil constitutionnel ou de Défenseur des droits ou de prolongation au-delà du délai de six mois d'une mission
+temporaire confiée par le Gouvernement sont remplacés par les personnes élues en même temps qu'eux à cet effet. 
 
 Les sénateurs élus au scrutin majoritaire qui acceptent des fonctions gouvernementales sont remplacés, jusqu'à l'expiration
 d'un délai d'un mois suivant la cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet.
-[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2008-572 DC du 8
-janvier 2009.]
 
 **Liens relatifs à cet article**
 
@@ -12453,7 +12495,7 @@ janvier 2009.]
 
 	**Modifié par**:
 
-	  - Loi organique n°2009-38 du 13 janvier 2009 - art. 3
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 
 ###### Article LO320
@@ -13234,38 +13276,47 @@ devaient y être inscrits à ce jour.
 
 ###### Article L340
 
-Ne sont pas éligibles :
+Ne sont pas éligibles : 
 
 1° Les personnes énumérées aux articles L. 195 et L. 196, lorsque leurs fonctions concernent ou ont concerné tout ou partie
-du territoire de la région ;
+du territoire de la région ; 
 
 2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et affectés au secrétariat général pour les
-affaires régionales en qualité de secrétaire général ou de chargé de mission ;
+affaires régionales en qualité de secrétaire général ou de chargé de mission ; 
 
 3° Pour une durée d'un an, le président de conseil régional ou le conseiller régional visé au deuxième alinéa de l'article 2
-de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article.
+de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article. 
 
-Pendant la durée de leurs fonctions, le Médiateur de la République, le Défenseur des enfants et le Contrôleur général des
-lieux de privation de liberté ne peuvent être candidats à un mandat de conseiller régional s'ils n'exerçaient le même mandat
-antérieurement à leur nomination.
+Pendant la durée de ses fonctions, le Contrôleur général des lieux de privation de liberté ne peut être candidat à un mandat
+de conseiller régional s'il n'exerçait le même mandat antérieurement à sa nomination. 
 
 Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux.
+
+**Nota:**
+
+La présente loi entre en vigueur à la date prévue au I de l'article 44 de la loi organique n° 2011-333 du 29 mars 2011
+relative au Défenseur des droits (31 mars 2011).
+
+Toutefois, entrent en vigueur à la date prévue au premier alinéa du II du même article (1er mai 2011), les troisième, sixième
+et dernier alinéas de l'article 21 en tant qu'ils suppriment la référence au Défenseur des enfants aux articles L. 194-1, L.
+230-1 et L. 340 du code électoral.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
-	  - Code électoral - art. L195 (M)
-	  - Code électoral L195, L196 et L199 à L203
+	  - Loi n°88-227 du 11 mars 1988 - art. 2 (VT)
+	  - Code électoral - art. L195 (V)
+	  - Code électoral - art. L196 (V)
+	  - Code électoral - art. L199 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2007-1545 du 30 octobre 2007 - art. 3 () JORF 31 octobre 2007
+	  - Loi n°2011-334 du 29 mars 2011 - art. 21
 
 	**Cité par**:
 
@@ -13323,6 +13374,17 @@ prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rej
 	**Cite**:
 
 	  - Code électoral - art. L52-12 (VT)
+
+
+###### Article LO340-1
+
+Pendant la durée de ses fonctions, le Défenseur des droits ne peut être candidat à un mandat de conseiller régional.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 
 #### Chapitre IV : Incompatibilités
@@ -17122,34 +17184,19 @@ Les modalités d'application du présent livre sont fixées par décret en Conse
 
 ###### Article L451
 
-Pour l'application du présent code à Mayotte, il y a lieu de lire :
+Pour l'application du présent code à Mayotte, il y a lieu de lire : 
 
-1° "collectivité départementale de Mayotte" au lieu de :
+1° "Département de Mayotte" au lieu de : "département" ; 
 
-"département" ou "arrondissement" ;
+2° "tribunal de première instance" au lieu de : "tribunal d'instance" et "tribunal de grande instance" ; 
 
-2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" ou "sous-préfet" et
-de :
-
-"Institut national de la statistique et des études économiques" ou "préfecture" ;
-
-3° "tribunal de première instance" au lieu de : "tribunal d'instance" et "tribunal de grande instance" ;
-
-4° "tribunal supérieur d'appel" au lieu de : "cour d'appel" ;
-
-5° "secrétaire général" au lieu de : "secrétaire général de préfecture" ;
-
-6° "budget du service de la poste" au lieu de : "budget annexe des postes et télécommunications" ;
-
-7° "archives de la collectivité départementale" au lieu de :
-
-"archives départementales".
+3° "tribunal supérieur d'appel" au lieu de : "cour d'appel".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -17158,38 +17205,9 @@ de :
 	  - Code électoral - art. L558-46 (VD)
 	  - Code électoral - art. L562 (VD)
 
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
-
-
-###### Article L452
-
-Le contrôle des inscriptions sur les listes électorales est assuré par le représentant de l'Etat. Par dérogation à l'article
-L. 37, il est créé à cette fin un fichier général des électrices et des électeurs de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
-
-	**Cité par**:
-
-	  - Code électoral - art. D287 (Ab)
-	  - Code électoral - art. R286 (Ab)
-
-	**Cite**:
-
-	  - Code électoral - art. L37
 
 
 ###### Article L453
@@ -17233,106 +17251,11 @@ Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à 
 	  - Code électoral - art. L52-12 (V)
 
 
-###### Article LO450
-
-Pour l'application du présent code à Mayotte, il y a lieu de lire :
-
-1° "collectivité départementale"  au lieu de : "département" ;
-
-2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" et "préfecture".
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Modifié par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. LO1112-14-1 (V)
-
-	**Anciens textes**:
-
-	  - Code électoral - art. L385 (M)
-
-	**Nouveaux textes**:
-
-	  - Code électoral - art. L568 (V)
-
-
 #### Chapitre III : Dispositions applicables à l'élection des conseillers généraux
-
-###### Article L460
-
-Tout candidat à l'élection au conseil général doit obligatoirement, avant chaque tour de scrutin, souscrire une déclaration
-de candidature. Cette déclaration, revêtue de la signature du candidat, énonce les nom, prénoms, sexe, date et lieu de
-naissance, domicile et profession. Elle mentionne également la personne appelée à remplacer le candidat comme conseiller
-général dans le cas prévu à l'article LO 469. Les articles L. 155 et L. 163 sont applicables à la désignation du remplaçant.
-Le candidat et son remplaçant sont de sexe différent. 
-
-A cette déclaration sont jointes les pièces propres à prouver que le candidat et son remplaçant répondent aux conditions
-d'éligibilité. 
-
-Si la déclaration de candidature n'est pas conforme au premier alinéa, si elle n'est pas accompagnée des pièces mentionnées
-au deuxième alinéa ou si ces pièces n'établissent pas que le candidat et son remplaçant répondent aux conditions
-d'éligibilité, elle n'est pas enregistrée. 
-
-Si le candidat fait, contrairement aux dispositions de l'article LO 458, acte de candidature dans plusieurs cantons, sa
-candidature n'est pas enregistrée. 
-
-Le refus d'enregistrement est motivé. 
-
-Le candidat qui s'est vu opposer un refus d'enregistrement dispose de vingt-quatre heures pour saisir le tribunal
-administratif qui statue sous trois jours. 
-
-Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature doit être enregistrée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
-
-	**Cite**:
-
-	  - Code électoral - art. L155
-	  - Code électoral - art. L163
-	  - Code électoral - art. LO458
-	  - Code électoral - art. LO469
-
-	**Cité par**:
-
-	  - Code électoral - art. R293 (VT)
-
 
 ###### Article L462
 
-I. - La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci. Elle
-prend fin le samedi précédant le scrutin, à minuit.
-
-La campagne électorale pour le second tour commence le lundi suivant le premier tour à midi et s'achève le samedi précédant
-le scrutin, à minuit.
+I. (Abrogé) ; 
 
 II. - A Mayotte, les antennes de la société nationale chargée du service public de la communication audiovisuelle outre-mer
 sont mises à la disposition des partis et groupements politiques représentant des candidats dont la candidature a été
@@ -17364,15 +17287,19 @@ V. - Les conditions de production, de programmation et de diffusion des émissio
 l'audiovisuel. Celui-ci adresse des recommandations aux exploitants des autres services de communication audiovisuelle
 autorisés dans la collectivité. Il désigne un représentant à Mayotte pendant toute la durée de la campagne.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
 
 
 ###### Article L463
@@ -17399,576 +17326,6 @@ Pour son application à Mayotte, l'article L. 216 est complété par un alinéa 
 	**Cite**:
 
 	  - Code électoral - art. L216 (VT)
-
-
-###### Article L464
-
-Les électeurs sont convoqués par décret, au plus tard le quatrième lundi précédant la date du scrutin.
-
-Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat, au plus tard le
-quatrième lundi précédant la date du scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
-
-
-###### Article LO456
-
-Chaque canton de Mayotte élit un membre du conseil général.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-
-###### Article LO457
-
-Les conseillers généraux sont élus pour six ans ; ils sont renouvelés par moitié tous les trois ans.
-
-Le conseil général de Mayotte est renouvelé en même temps que les conseils généraux des départements.
-
-En cas de renouvellement intégral, à la réunion qui suit ce renouvellement, le conseil général divise les cantons de la
-collectivité en deux séries et il procède ensuite à un tirage au sort pour régler l'ordre du renouvellement des séries.
-
-Lorsqu'un nouveau canton est créé par la fusion de deux cantons qui n'appartiennent pas à la même série de renouvellement, il
-est procédé à une élection à la date du renouvellement le plus proche afin de pourvoir le siège de ce nouveau canton. Dans ce
-cas, et malgré la suppression du canton où il a été élu, le conseiller général de celui des deux anciens cantons qui
-appartient à la série renouvelée à la date la plus lointaine peut exercer son mandat jusqu'à son terme.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-
-###### Article LO458
-
-Nul n'est élu membre du conseil général au premier tour de scrutin s'il n'a réuni :
-
-1° La majorité absolue des suffrages exprimés ;
-
-2° Un nombre de suffrages égal au quart de celui des électeurs inscrits.
-
-Au second tour de scrutin, l'élection a lieu à la majorité relative, quel que soit le nombre des votants. Si plusieurs
-candidats obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
-
-Nul ne peut être candidat dans plus d'un canton.
-
-Nul ne peut être candidat au second tour s'il ne s'est présenté au premier tour et s'il n'a obtenu un nombre de suffrages au
-moins égal à 10 % du nombre des électeurs inscrits.
-
-Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu après celui-ci le plus grand nombre de
-suffrages au premier tour peut se maintenir au second.
-
-Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
-premier tour peuvent se maintenir au second.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Code électoral - art. L460 (VT)
-
-
-###### Article LO459
-
-Nul ne peut être élu conseiller général s'il n'est âgé de dix-huit ans révolus et ne jouit de ses droits civils et
-politiques. Les majeurs en tutelle ou en curatelle ne peuvent être élus.
-
-Sont éligibles au conseil général tous les citoyens inscrits sur une liste électorale d'une commune de Mayotte ou justifiant
-qu'ils devaient y être inscrits avant le jour de l'élection, qui sont domiciliés à Mayotte, et ceux qui, sans y être
-domiciliés, y sont inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait
-l'élection ou justifient qu'ils devaient y être inscrits à ce jour ou ont hérité depuis la même époque d'une propriété
-foncière à Mayotte.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-
-###### Article LO461
-
-I. - Sont inéligibles au conseil général :
-
-1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil général et les
-membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars 1988
-relative à la transparence financière de la vie politique ;
-
-2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
-application des lois qui autorisent cette privation ;
-
-3° Les représentants de l'Etat, les secrétaires généraux, les secrétaires généraux adjoints et les sous-préfets chargés de
-mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
-leurs fonctions à Mayotte depuis moins de trois ans ;
-
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
-
-5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
-membre du conseil général qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
-conformément à l'article LO 6131-4 du code général des collectivités territoriales ;
-
-6° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
-nomination.
-
-II. - En outre, ne peuvent être élus membres du conseil général s'ils exercent leurs fonctions à Mayotte ou s'ils les ont
-exercées depuis moins de six mois :
-
-1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire
-général de la chambre territoriale des comptes ;
-
-2° Les membres des corps d'inspection et de contrôle de l'Etat ;
-
-3° Le vice-recteur, les directeurs, chefs de service, chefs de bureau des services du représentant de l'Etat et des autres
-administrations civiles de l'Etat ;
-
-4° Le directeur général des services de la collectivité et les directeurs généraux adjoints, les directeurs, les chefs de
-service et chefs de bureau de la collectivité ou de l'un de ses établissements publics ; les membres du cabinet du président
-du conseil général ;
-
-5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ;
-
-6° Les fonctionnaires des corps actifs de police ;
-
-7° Les agents et comptables de la collectivité agissant en qualité de fonctionnaire employés à l'assiette, à la perception et
-au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ;
-
-8° Le directeur de l'établissement public de santé territorial de Mayotte ; le directeur, les directeurs adjoints et le
-secrétaire général de l'agence régionale de l'hospitalisation.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°88-227 du 11 mars 1988
-	  - Code électoral - art. L118-3
-	  - Code général des collectivités territoriales - art. LO6131-4
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Code électoral - art. LO465 (V)
-
-
-###### Article LO465
-
-I. - Le mandat de conseiller général est incompatible :
-
-1° Avec les fonctions de représentant de l'Etat, directeur de cabinet, secrétaire général, secrétaire général adjoint et
-directeur de préfecture ;
-
-2° Avec la qualité de membre du Conseil économique, social et environnemental ou du conseil de la culture, de l'éducation et
-de l'environnement de Mayotte ;
-
-3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
-alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
-Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
-le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général d'un département, de conseiller régional, de
-conseiller de Paris ou de membre de l'Assemblée de Corse ;
-
-4° Avec les fonctions de militaire en activité ;
-
-5° Avec les fonctions de magistrat des juridictions administratives ou des juridictions judiciaires, de juge de proximité ou
-de secrétaire général de la chambre territoriale des comptes ;
-
-6° Avec les fonctions de directeur ou de président d'établissement public, lorsqu'elles sont rémunérées ;
-
-7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO 461 ;
-
-8° Avec les fonctions d'architecte de la collectivité, d'ingénieur des travaux publics de l'Etat, de chef de section
-principal ou de chef de section des travaux publics de l'Etat chargé d'une circonscription territoriale de voirie ;
-
-9° Avec les fonctions d'agent salarié ou subventionné sur les fonds de la collectivité ou des établissements publics et
-agences créés par elle ;
-
-10° Avec les fonctions d'agent salarié des établissements publics de coopération dont la collectivité fait partie ;
-
-11° Avec la qualité d'entrepreneur des services de la collectivité départementale.
-
-II. - Un conseiller général ne peut cumuler son mandat avec plus d'un des mandats suivants : conseiller municipal, député ou
-sénateur, représentant au Parlement européen.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. L231-7 (V)
-	  - Code électoral - art. LO467 (VT)
-	  - Code électoral - art. LO469 (VT)
-
-
-###### Article LO466
-
-Tout conseiller général dont l'inéligibilité se révèle après l'expiration du délai pendant lequel son élection peut être
-contestée ou qui, pendant la durée de son mandat, se trouve frappé de l'une des incapacités qui fait perdre la qualité
-d'électeur est déclaré démissionnaire par arrêté du représentant de l'Etat, soit d'office, soit sur réclamation de tout
-électeur.
-
-Les recours contre les arrêtés mentionnés au premier alinéa sont portés devant le tribunal administratif, qui statue dans un
-délai de trois mois. En cas d'appel, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours.
-Le recours devant le tribunal administratif et le recours en appel devant le Conseil d'Etat sont suspensifs. Toutefois, le
-recours n'est pas suspensif lorsqu'un conseiller territorial est déclaré démissionnaire d'office à la suite d'une
-condamnation pénale devenue définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques,
-civils et de famille.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-
-###### Article LO467
-
-Le conseiller général qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO 465 doit,
-dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du juge
-administratif, démissionner de son mandat de conseiller général ou mettre fin à la situation incompatible avec l'exercice de
-celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes
-conditions.
-
-A l'expiration du délai prévu au premier alinéa, le conseiller général qui se trouve dans un des cas d'incompatibilité visés
-à l'article LO 465 est déclaré démissionnaire d'office par le juge administratif à la requête du représentant de l'Etat ou de
-tout électeur.
-
-Dans le délai prévu au premier alinéa, tout conseiller général est tenu d'adresser au représentant de l'Etat une déclaration
-certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt général, même non
-rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit déclarer dans les
-mêmes formes tout élément de nature à modifier sa déclaration initiale. Ces déclarations sont publiées au bulletin officiel
-de la collectivité.
-
-Le représentant de l'Etat examine si les activités ainsi déclarées sont compatibles avec le mandat de conseiller général.
-S'il y a doute sur la compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le représentant
-de l'Etat, le conseiller général lui-même ou tout électeur saisit le tribunal administratif qui apprécie si le conseiller
-général intéressé se trouve dans un cas d'incompatibilité. En cas d'appel, le Conseil d'Etat rend sa décision dans les trois
-mois de l'enregistrement du recours.
-
-Si une incompatibilité est constatée, le conseiller général doit régulariser sa situation dans un délai de trente jours à
-compter de la date à laquelle la décision du juge administratif est devenue définitive. A défaut, le juge administratif le
-déclare démissionnaire d'office de son mandat.
-
-Le conseiller général qui n'a pas procédé à la déclaration prévue au premier alinéa est déclaré démissionnaire d'office sans
-délai par le juge administratif à la requête du représentant de l'Etat ou de tout électeur.
-
-La démission d'office est aussitôt notifiée au représentant de l'Etat, au président du conseil général et à l'intéressé. Elle
-n'entraîne pas d'inéligibilité.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-	**Cite**:
-
-	  - Code électoral - art. LO465
-
-
-###### Article LO468
-
-Lorsque le nombre de conseillers non domiciliés dans la collectivité dépasse le quart de l'effectif du conseil général, ce
-dernier détermine, en séance publique et par la voie du sort, celui ou ceux dont l'élection doit être annulée. Si une
-question préjudicielle concernant le domicile est soulevée, la procédure de tirage au sort est suspendue. Lorsqu'il apparaît
-que le nombre de conseillers non domiciliés dans la collectivité est toujours supérieur au quart de l'effectif du conseil
-général, le tirage au sort est fait par le bureau du conseil général réuni à cet effet.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Code électoral - art. R295 (VT)
-
-
-###### Article LO469
-
-Le conseiller général dont le siège devient vacant pour cause de décès, de démission intervenue en application du II de
-l'article LO 465, de présomption d'absence au sens de l'article 112 du code civil ou d'acceptation de la fonction de membre
-du Conseil constitutionnel est remplacé jusqu'au renouvellement de la série dont il est issu par la personne élue en même
-temps que lui à cet effet.
-
-En cas de vacance pour toute autre cause ou lorsque le premier alinéa du présent article ne peut plus être appliqué, il est
-procédé à une élection partielle dans le délai de trois mois.
-
-Toutefois, si le renouvellement d'une série sortante doit avoir lieu dans les trois mois de la vacance, l'élection partielle
-se fait à la même époque.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Code électoral - art. L460 (VT)
-
-	**Cite**:
-
-	  - Code électoral - art. LO465
-	  - Code civil - art. 112
-
-
-###### Article LO470
-
-Les élections peuvent être contestées dans les quinze jours suivant la proclamation des résultats par tout candidat ou tout
-électeur du canton et par le représentant de l'Etat devant le tribunal administratif.
-
-Le recours du représentant de l'Etat ne peut être fondé que sur l'inobservation des conditions et formalités prescrites par
-les lois.
-
-Le conseiller général proclamé élu reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
-Toutefois, l'appel au Conseil d'Etat contre la décision du tribunal administratif n'a pas d'effet suspensif lorsque
-l'élection du même conseiller a déjà été annulée sur un précédent pourvoi dirigé contre des opérations électorales
-antérieures, pour la même cause d'inéligibilité, par une décision du tribunal administratif devenue définitive ou confirmée
-en appel par le Conseil d'Etat. Dans les cas de cette espèce, le tribunal administratif est tenu de spécifier que l'appel
-éventuel n'a pas d'effet suspensif.
-
-Le tribunal administratif peut, en cas d'annulation d'une élection pour manoeuvres dans l'établissement de la liste
-électorale ou irrégularité dans le déroulement du scrutin, décider, nonobstant appel, la suspension du mandat de celui dont
-l'élection est annulée. En ce cas, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours. A
-défaut de décision définitive dans ce délai, il est mis fin à la suspension. Dans les autres cas, le Conseil d'Etat rend sa
-décision dans les six mois qui suivent l'enregistrement du recours.
-
-**Nota:**
-
-En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
-et le 27 mars en cas de deuxième tour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
-
-	**Cité par**:
-
-	  - Code électoral - art. R301 (VT)
-
-
-#### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux
-
-###### Article L471
-
-Les quatrième à sixième alinéas de l'article L. 238 et le premier alinéa de l'article L. 256 ne sont pas applicables à
-Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
-
-	**Cite**:
-
-	  - Code électoral - art. L238
-	  - Code électoral - art. L256
-
-
-###### Article L472
-
-Les fonctions de conseiller municipal sont incompatibles avec celles de :
-
-1° Représentant de l'Etat, secrétaire général, secrétaire général adjoint et directeur de cabinet ;
-
-2° Fonctionnaire des corps actifs de police ;
-
-3° Militaire en activité.
-
-Tout conseiller municipal placé, au moment de son élection, dans l'une des situations précitées dispose d'un délai d'un mois
-à partir de la date à laquelle son élection est devenue définitive pour démissionner de son mandat ou mettre fin à la
-situation incompatible avec l'exercice de celui-ci. Il fait connaître son option par écrit au représentant de l'Etat, qui en
-informe le maire. A défaut d'option dans le délai imparti, il est réputé démissionnaire de son mandat ; cette démission est
-constatée par arrêté du représentant de l'Etat.
-
-Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
-
-A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
-conseiller municipal est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
 
 
 #### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte
@@ -18439,74 +17796,80 @@ candidat placé en tête de la liste sur laquelle ils figuraient au premier tour
 
 ###### Article LO489
 
-I. - Sont inéligibles au conseil territorial :
+I.-Sont inéligibles au conseil territorial : 
 
 1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
 les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
-1988 relative à la transparence financière de la vie politique ;
+1988 relative à la transparence financière de la vie politique ; 
 
 2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
-application des lois qui autorisent cette privation ;
+application des lois qui autorisent cette privation ; 
 
 3° Les représentants de l'Etat, les secrétaires généraux, les secrétaires généraux adjoints et les sous-préfets chargés de
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
-leurs fonctions à Saint-Barthélemy depuis moins de trois ans ;
+leurs fonctions à Saint-Barthélemy depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
-conformément à l'article LO 6221-3 du code général des collectivités territoriales ;
+conformément à l'article LO 6221-3 du code général des collectivités territoriales ; 
 
-6° Le Médiateur de la République et le défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
-nomination.
+6° Le Défenseur des droits (1). 
 
-II. - En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Barthélemy ou
-s'ils les ont exercées depuis moins de six mois :
+II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Barthélemy ou s'ils
+les ont exercées depuis moins de six mois : 
 
 1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire
-général de la chambre territoriale des comptes ;
+général de la chambre territoriale des comptes ; 
 
-2° Les membres des corps d'inspection et de contrôle de l'Etat ;
+2° Les membres des corps d'inspection et de contrôle de l'Etat ; 
 
 3° Les directeurs, chefs de service, chefs de bureau des services du représentant de l'Etat et des autres administrations
-civiles de l'Etat ;
+civiles de l'Etat ; 
 
 4° Le directeur général des services de la collectivité et les directeurs généraux adjoints, les directeurs, les chefs de
 service de la collectivité ou de l'un de ses établissements publics ; les membres du cabinet du président du conseil
-territorial ;
+territorial ; 
 
-5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ;
+5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ; 
 
-6° Les fonctionnaires des corps actifs de police ;
+6° Les fonctionnaires des corps actifs de police ; 
 
 7° Les agents et comptables de la collectivité agissant en qualité de fonctionnaire employés à l'assiette, à la perception et
-au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ;
+au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ; 
 
 8° Les directeurs et directeurs généraux des hôpitaux publics ; le directeur, les directeurs adjoints et le secrétaire
 général de l'agence régionale de l'hospitalisation ; les directeurs des organismes régionaux et locaux de la sécurité
-sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale.
+sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale. 
 
-III. - Les agents salariés de la collectivité ne peuvent être élus au conseil territorial. Ne sont pas compris dans cette
+III.-Les agents salariés de la collectivité ne peuvent être élus au conseil territorial. Ne sont pas compris dans cette
 catégorie ceux qui, étant fonctionnaires ou exerçant une profession indépendante, ne reçoivent une indemnité de la
 collectivité qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession et ceux qui ne sont agents
 salariés de la collectivité qu'au titre d'une activité saisonnière ou occasionnelle.
+
+**Nota:**
+
+(1) Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la
+date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4,
+le 6° de l'article 42 en tant qu'il supprime, aux articles LO 489, LO 516 et LO 544 du code électoral, la référence au
+Défenseur des enfants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°88-227 1988-03-11
-	  - Code électoral - art. L118-3 (M)
-	  - Code général des collectivités territoriales - art. LO6221-3 (V)
+	  - Loi n°88-227 du 11 mars 1988
+	  - Code électoral - art. L118-3
+	  - Code général des collectivités territoriales - art. LO6221-3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 	**Cité par**:
 
@@ -19279,74 +18642,80 @@ candidat placé en tête de la liste sur laquelle ils figuraient au premier tour
 
 ###### Article LO516
 
-I. - Sont inéligibles au conseil territorial :
+I.-Sont inéligibles au conseil territorial : 
 
 1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
 les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
-1988 relative à la transparence financière de la vie politique ;
+1988 relative à la transparence financière de la vie politique ; 
 
 2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
-application des lois qui autorisent cette privation ;
+application des lois qui autorisent cette privation ; 
 
 3° Les représentants de l'Etat, les secrétaires généraux, les secrétaires généraux adjoints et les sous-préfets chargés de
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
-leurs fonctions à Saint-Martin depuis moins de trois ans ;
+leurs fonctions à Saint-Martin depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
-conformément à l'article LO 6321-3 du code général des collectivités territoriales ;
+conformément à l'article LO 6321-3 du code général des collectivités territoriales ; 
 
-6° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
-nomination.
+6° Le Défenseur des droits (1). 
 
-II. - En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Martin ou s'ils
-les ont exercées depuis moins de six mois :
+II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Martin ou s'ils les
+ont exercées depuis moins de six mois : 
 
 1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire
-général de la chambre territoriale des comptes ;
+général de la chambre territoriale des comptes ; 
 
-2° Les membres des corps d'inspection et de contrôle de l'Etat ;
+2° Les membres des corps d'inspection et de contrôle de l'Etat ; 
 
 3° Les directeurs, chefs de service, chefs de bureau des services du représentant de l'Etat et des autres administrations
-civiles de l'Etat ;
+civiles de l'Etat ; 
 
 4° Le directeur général des services de la collectivité et les directeurs généraux adjoints, les directeurs, les chefs de
 service de la collectivité ou de l'un de ses établissements publics ; les membres du cabinet du président du conseil
-territorial ;
+territorial ; 
 
-5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ;
+5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ; 
 
-6° Les fonctionnaires des corps actifs de police ;
+6° Les fonctionnaires des corps actifs de police ; 
 
 7° Les agents et comptables de la collectivité agissant en qualité de fonctionnaire employés à l'assiette, à la perception et
-au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ;
+au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ; 
 
 8° Les directeurs et directeurs généraux des hôpitaux publics ; le directeur, les directeurs adjoints et le secrétaire
 général de l'agence régionale de l'hospitalisation ; les directeurs des organismes régionaux et locaux de la sécurité
-sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale.
+sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale. 
 
-III. - Les agents salariés de la collectivité ne peuvent être élus au conseil territorial. Ne sont pas compris dans cette
+III.-Les agents salariés de la collectivité ne peuvent être élus au conseil territorial. Ne sont pas compris dans cette
 catégorie ceux qui, étant fonctionnaires ou exerçant une profession indépendante, ne reçoivent une indemnité de la
 collectivité qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession et ceux qui ne sont agents
 salariés de la collectivité qu'au titre d'une activité saisonnière ou occasionnelle.
+
+**Nota:**
+
+(1) Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la
+date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4,
+le 6° de l'article 42 en tant qu'il supprime, aux articles LO 489, LO 516 et LO 544 du code électoral, la référence au
+Défenseur des enfants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°88-227 1988-03-11
-	  - Code électoral - art. L118-3 (M)
-	  - Code général des collectivités territoriales - art. LO6321-3 (V)
+	  - Loi n°88-227 du 11 mars 1988
+	  - Code électoral - art. L118-3
+	  - Code général des collectivités territoriales - art. LO6321-3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 	**Cité par**:
 
@@ -20154,70 +19523,76 @@ candidat placé en tête de la liste sur laquelle ils figuraient au premier tour
 
 ###### Article LO544
 
-I. - Sont inéligibles au conseil territorial :
+I.-Sont inéligibles au conseil territorial : 
 
 1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
 les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
-1988 relative à la transparence financière de la vie politique ;
+1988 relative à la transparence financière de la vie politique ; 
 
 2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
-application des lois qui autorisent cette privation ;
+application des lois qui autorisent cette privation ; 
 
 3° Les représentants de l'Etat, les secrétaires généraux, les secrétaires généraux adjoints et les sous-préfets chargés de
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
-leurs fonctions à Saint-Pierre-et-Miquelon depuis moins de trois ans ;
+leurs fonctions à Saint-Pierre-et-Miquelon depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer certaines des fonctions qui lui sont dévolues par
-la loi, conformément à l'article LO 6431-3 du code général des collectivités territoriales ;
+la loi, conformément à l'article LO 6431-3 du code général des collectivités territoriales ; 
 
-6° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
-nomination.
+6° Le Défenseur des droits(1). 
 
-II. - En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Pierre-et-Miquelon
-ou s'ils les ont exercées depuis moins de six mois :
+II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Pierre-et-Miquelon
+ou s'ils les ont exercées depuis moins de six mois : 
 
 1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire
-général de la chambre territoriale des comptes ;
+général de la chambre territoriale des comptes ; 
 
-2° Les membres des corps d'inspection et de contrôle de l'Etat ;
+2° Les membres des corps d'inspection et de contrôle de l'Etat ; 
 
 3° Les directeurs, chefs de service, chefs de bureau des services du représentant de l'Etat, des autres administrations
 civiles de l'Etat ; ingénieurs des travaux publics de l'Etat, chef de section principale ou chef de section des travaux
-publics de l'Etat chargé d'une circonscription territoriale de voirie ;
+publics de l'Etat chargé d'une circonscription territoriale de voirie ; 
 
 4° Le directeur général des services de la collectivité et les directeurs généraux adjoints, les directeurs, les chefs de
 service de la collectivité ou de l'un de ses établissements publics ; les membres du cabinet du président du conseil
-territorial ;
+territorial ; 
 
-5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ;
+5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ; 
 
-6° Les fonctionnaires des corps actifs de police ;
+6° Les fonctionnaires des corps actifs de police ; 
 
 7° Les agents et comptables de la collectivité agissant en qualité de fonctionnaire employés à l'assiette, à la perception et
-au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ;
+au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ; 
 
 8° Les directeurs et directeurs généraux des hôpitaux publics ; le directeur, les directeurs adjoints et le secrétaire
 général de l'agence régionale de l'hospitalisation ; les directeurs des organismes régionaux et locaux de la sécurité
 sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale.
 
+**Nota:**
+
+(1) Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la
+date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4,
+le 6° de l'article 42 en tant qu'il supprime, aux articles LO 489, LO 516 et LO 544 du code électoral, la référence au
+Défenseur des enfants.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°88-227 1988-03-11
-	  - Code électoral - art. L118-3 (M)
-	  - Code général des collectivités territoriales - art. LO6431-3 (V)
+	  - Loi n°88-227 du 11 mars 1988
+	  - Code électoral - art. L118-3
+	  - Code général des collectivités territoriales - art. LO6431-3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 	**Cité par**:
 
@@ -31109,14 +30484,14 @@ scrutin.
 
 ###### Article R284
 
-Les dispositions des livres Ier et II du présent code (partie réglementaire), conformément à l'article LO 6113-1 du code
-général des collectivités territoriales, sont applicables à Mayotte, sous réserve des dispositions du présent titre.
+Les dispositions des livres Ier et II du présent code (partie réglementaire) sont applicables à Mayotte, sous réserve des
+dispositions du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
+	  - Décret n°2011-330 du 25 mars 2011 - art. 6
 
 	**Cite**:
 
@@ -31125,16 +30500,15 @@ général des collectivités territoriales, sont applicables à Mayotte, sous r�
 
 ###### Article R285
 
-Pour l'application des dispositions des livres I et II à Mayotte, il y a lieu de lire : 
+Pour l'application du présent code à Mayotte il y a lieu de lire :
 
-1° " collectivité départementale de Mayotte " , au lieu de : " département " ou " arrondissement " ; 
+1° "Département de Mayotte" au lieu de : "département" ;
 
-2° " représentant de l'Etat " et " services du représentant de l'Etat ", au lieu respectivement de : " préfet " ou " sous-
-préfet " et de " Institut national de la statistique et des études économiques " ou " préfecture " ; 
+2° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou "tribunal d'instance" ;
 
-3° " tribunal de première instance ", au lieu de : " tribunal de grande instance " ou de " tribunal d'instance " ; 
+3° "tribunal supérieur d'appel" au lieu de : "cour d'appel" ;
 
-4° " tribunal supérieur d'appel ", au lieu de : " cour d'appel ".
+4° "directeur de La Poste" au lieu de : "directeur départemental des postes et télécommunications" ;
 
 **Liens relatifs à cet article**
 
@@ -31142,403 +30516,12 @@ préfet " et de " Institut national de la statistique et des études économique
 
 	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
 
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-
-###### Article R286
-
-I.-Le fichier mentionné à l'article L. 452 est tenu par le représentant de l'Etat. 
-
-Ce fichier est constitué à partir : 
-
-1° Des listes électorales de Mayotte ; 
-
-2° Des listes électorales complémentaires établies à Mayotte pour l'application du chapitre Ier bis de la loi n° 77-729 du 7
-juillet 1977 relative à l'élection des représentants au Parlement européen ; 
-
-3° Des listes électorales complémentaires établies à Mayotte pour l'application des articles LO 227-1 à LO 227-4. 
-
-II.-Il est mis à jour à partir : 
-
-1° Des décisions des commissions administratives chargées de la révision des listes électorales relatives aux inscriptions et
-radiations effectuées sur ces listes ; 
-
-2° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ; 
-
-3° Des avis de perte ou de recouvrement de la capacité électorale établis par les services du casier judiciaire ; 
-
-4° Des avis de décès établis par les mairies ; 
-
-5° Des avis reçus de l'Institut national de la statistique et des études économiques, de l'Institut territorial de la
-statistique et des études économiques de la Nouvelle-Calédonie, des représentants de l'Etat chargés du contrôle des listes
-électorales en Polynésie française et dans les îles Wallis et Futuna relatifs aux personnes inscrites sur une liste
-électorale à Mayotte et qui : 
-
-a) Soit, étant également inscrites sur une liste électorale hors de Mayotte, doivent être radiées à Mayotte ; 
-
-b) Soit sont décédées hors de Mayotte ; 
-
-c) Soit ont fait l'objet hors de Mayotte d'une décision les privant de leurs droits civils et politiques. 
-
-III.-Les catégories d'informations traitées sont : 
-
-1° Identité de l'électeur : nom, prénoms, sexe, nom d'épouse ou de veuve, date et lieu de naissance ; 
-
-2° Lieu et date d'inscription sur les listes électorales ; 
-
-3° Nature de la liste électorale (générale ou complémentaire) ; 
-
-4° Perte des droits civils et politiques, date d'effet et durée ; 
-
-5° Acquisition ou perte de la nationalité française ; 
-
-6° Nationalité, pour les ressortissants de l'Union européenne autres que les citoyens français ; 
-
-7° Décès. 
-
-IV.-Les destinataires des informations traitées sont : 
-
-1° Les maires, pour ce qui concerne leur commune ; 
-
-2° L'Institut national de la statistique et des études économiques, l'Institut de la statistique et des études économiques de
-la Nouvelle-Calédonie et, en Polynésie française et dans les îles Wallis et Futuna, le représentant de l'Etat chargé du
-contrôle des listes électorales, pour les informations de la nature de celles qui sont mentionnées au 5° du I.
-
-V.-Le droit d'accès prévu par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés s'exerce auprès du représentant de l'Etat. 
-
-VI.-Le fichier ne peut servir à des fins de recherche de personnes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°77-729 du 7 juillet 1977
-	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (V)
-	  - Code électoral - art. L452
-	  - Code électoral - art. LO227-1
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-
-###### Article R287
-
-La commission de propagande prévue aux articles R. 32, 
-R. 158 et R. 297 est présidée à Mayotte par un magistrat du siège désigné par le président du tribunal supérieur d'appel,
-assisté de trois fonctionnaires désignés par le représentant de l'Etat. 
-
-Un suppléant à chaque membre peut être désigné dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Cité par**:
-
-	  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. R*158
-	  - Code électoral - art. R32
-
-
-###### Article R288
-
-Pour l'application de l'article R. 41, le représentant de l'Etat peut en outre avancer par arrêté l'heure de clôture du
-scrutin sans que la durée du scrutin puisse être inférieure à dix heures.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Cité par**:
-
-	  - Décret n°2010-1399 du 12 novembre 2010 - art. 3 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. R41
-
-
-###### Article R289
-
-Les protestations formées contre l'une des élections organisées par le présent titre sont déposées, selon la nature de
-l'élection, soit au greffe du tribunal administratif, soit au secrétariat du contentieux du Conseil d'Etat, soit au
-secrétariat général du Conseil constitutionnel, soit, quelle que soit la nature de l'élection, auprès des services du
-représentant de l'Etat. Dans ce dernier cas, la requête est marquée d'un timbre indiquant la date de son arrivée et elle est
-transmise par le représentant de l'Etat au greffe ou au secrétariat de la juridiction compétente. Il en est délivré récépissé
-à la partie qui le demande.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-
-###### Article R290
-
-Jusqu'au 1er juillet 2009 et par dérogation aux dispositions de l'article R. 60, les électeurs qui ne seraient pas en mesure
-de produire l'un des documents mentionnés dans l'arrêté pris en application de cet article pourront néanmoins être admis à
-voter à l'occasion de tout scrutin organisé au suffrage universel à Mayotte si leur identité peut être confirmée par deux
-électeurs inscrits sur la même liste électorale et porteurs de l'un de ces documents.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. R60
-
-
-#### Chapitre II : Dispositions applicables à l'élection du député
-
-###### Article R291
-
-En cas de dissolution de l'Assemblée nationale, les déclarations de candidature peuvent, par dérogation aux dispositions de
-l'article R. 98, être reçues à Paris dans les services du ministre chargé de l'outre-mer, selon les modalités fixées par
-arrêté de ce ministre. 
-
-Le ministre délivre un récépissé et le transmet sans délai au représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. R*98
-
-
-###### Article R292
-
-La commission de recensement général des votes prévue par l'article R. 107 est présidée à Mayotte par un magistrat du siège
-appartenant au tribunal supérieur d'appel désigné par le président de cette juridiction, assisté de deux fonctionnaires qu'il
-désigne sur proposition du représentant de l'Etat, d'un conseiller général et d'un fonctionnaire désigné par le représentant
-de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. R*107
 
 
 #### Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte
-
-###### Article R293
-
-La déclaration de candidature prescrite à l'article L. 460 est déposée à la préfecture par le candidat, son remplaçant ou un
-mandataire désigné par le candidat, dans un délai fixé par arrêté préfectoral, pour le premier tour de scrutin. En cas de
-second tour, elle est déposée dans les mêmes conditions au plus tard à seize heures le mardi suivant le premier tour. 
-
-La déclaration de candidature et l'acceptation du remplaçant sont rédigés sur papier libre. 
-
-La candidature ne peut être retirée que jusqu'à la limite fixée pour le dépôt des candidatures. Le retrait est enregistré
-comme la déclaration de candidature. 
-
-Un candidat ne peut présenter pour le second tour un remplaçant autre que celui qu'il avait désigné lors du premier tour,
-sous réserve des dispositions de l'alinéa suivant. 
-
-Lorsqu'il y a lieu à application de l'article L. 163, la désignation du remplaçant doit être notifiée au représentant de
-l'Etat au plus tard à dix-huit heures le jeudi précédant le scrutin.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. L163
-	  - Code électoral - art. L460
-
-
-###### Article R294
-
-A la déclaration de candidature, il est joint pour le candidat et le remplaçant : 
-
-1° Une attestation d'inscription sur la liste électorale comportant les mentions prévues aux articles L. 18 et L. 19 délivrée
-par le maire de la commune d'inscription dans les trente jours précédant le dépôt de la candidature, ou une copie de la
-décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut, un certificat de nationalité ou la carte nationale
-d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois ; 
-
-2° Si l'intéressé n'est pas domicilié dans la collectivité ou que les pièces mentionnées au 1° n'établissent pas son domicile
-dans la collectivité : 
-
-a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établit que l'intéressé est
-inscrit au rôle des contributions directes de la collectivité au 1er janvier de l'année de l'élection ; 
-
-b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
-propriétaire d'un immeuble dans la collectivité ou d'un acte enregistré au cours de la même année établissant que l'intéressé
-est devenu locataire d'un immeuble d'habitation dans la collectivité ; 
-
-c) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
-précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de la situation dont
-l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
-dans la collectivité au 1er janvier de l'année de l'élection. 
-
-En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces prévues au
-présent article, fournies à l'occasion du premier tour. 
-
-Un récépissé attestant de l'enregistrement de la candidature est délivré dans les quatre jours du dépôt de la déclaration si
-celle-ci est conforme aux prescriptions en vigueur. 
-
-La liste des candidats et de leurs remplaçants dont la déclaration a été définitivement enregistrée est arrêtée et publiée
-par le représentant de l'Etat, au plus tard le quatrième jour après la date limite du dépôt des candidatures. 
-
-La délivrance du récépissé par le représentant de l'Etat ne fait pas obstacle à ce que l'éligibilité du candidat ou du
-remplaçant puisse être contestée devant le juge de l'élection. 
-
-En cas d'élection partielle, toute candidature est soumise aux mêmes conditions d'enregistrement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. L18
-
-	**Cité par**:
-
-	  - Code électoral - art. R296 (VT)
-
-
-###### Article R295
-
-Les bulletins de vote sont imprimés à l'encre noire. 
-
-Ils ne comportent, à la suite du nom du candidat, que l'une des mentions suivantes : " remplaçant " ou " suppléant ", ainsi
-que le nom de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article LO 469.
-
-Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que ceux du candidat. 
-
-Les bulletins de vote peuvent également comporter le nom d'un ou plusieurs partis ou groupements politiques, ainsi qu'un
-emblème.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. LO468
-
-
-###### Article R296
-
-Par dérogation à l'article R. 66-2, n'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-
-verbal : 
-
-1° Les bulletins établis au nom d'un candidat qui n'a pas fait l'objet de la publication prévue à l'article R. 294 ; 
-
-2° Les bulletins qui ne répondent pas aux dispositions des articles R. 30 et R. 295 ; 
-
-3° Les bulletins d'un modèle différent de ceux qui ont été produits par les candidats ; 
-
-4° Les bulletins manuscrits ou qui comportent une mention manuscrite ; 
-
-5° Les circulaires utilisées comme bulletin.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. R294
-	  - Code électoral - art. R30
-	  - Code électoral - art. R66-2
-
-
-###### Article R297
-
-La commission de propagande prévue à l'article L. 463 est instituée par arrêté du représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. L463
-
 
 ###### Article R298
 
@@ -31582,56 +30565,6 @@ Les résultats sont proclamés en public par son président et publiés par le r
 	**Créé par**:
 
 	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-
-###### Article R301
-
-Lorsque la protestation formée contre l'élection d'un membre au conseil général par un électeur du canton ou par un candidat
-a été consignée dans le procès-verbal des opérations électorales, ce procès-verbal doit être transmis dès sa réception par le
-représentant de l'Etat au greffe du tribunal administratif. 
-
-En application de l'article LO 470, les protestations peuvent également être déposées directement au greffe du tribunal
-administratif dans les quinze jours qui suivent l'élection. 
-
-Le recours qui peut être formé par le représentant de l'Etat pour inobservation des conditions et formalités légales doit
-être déposé au greffe du tribunal administratif dans les quinze jours qui suivent l'élection.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. LO470
-
-
-#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte
-
-###### Article R302
-
-Le bureau du collège électoral prévu à l'article R. 163 est présidé à Mayotte par un magistrat appartenant au tribunal
-supérieur d'appel désigné par le président de cette juridiction, assisté de deux chefs de service qu'il désigne et de deux
-conseillers généraux les plus âgés présents à l'ouverture du scrutin et non candidats.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
-
-	**Cite**:
-
-	  - Code électoral - art. R*163
 
 
 ### Titre II : Dispositions particulières à Saint-Barthélemy
@@ -38439,7 +37372,7 @@ Ourville-en-Caux, Saint-Saëns, Saint-Valery-en-Caux, Tôtes, Yerville, Yvetot
 <table>
   <tbody>
     <tr>
-      <td colspan="2" width="605">
+      <td width="605" colspan="2">
 
 Seine-et-Marne
 
@@ -38451,7 +37384,7 @@ Seine-et-Marne
 1re circonscription
 
 </td>
-      <td width="388">
+      <td width="388" align="left">
 
 Cantons de : Melun Nord, Melun Sud, Perthes 
 
@@ -38463,9 +37396,9 @@ Cantons de : Melun Nord, Melun Sud, Perthes
 2e circonscription
 
 </td>
-      <td width="388">
+      <td align="left" width="388">
 
-Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours.
+Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours
 
 </td>
     </tr>
@@ -38475,7 +37408,7 @@ Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Boc
 3e circonscription
 
 </td>
-      <td width="388">
+      <td align="left" width="388">
 
 Cantons de : Le Châtelet-en-Brie, Montereau-Fault-Yonne, Moret-sur-Loing, Mormant 
 
@@ -38487,10 +37420,10 @@ Cantons de : Le Châtelet-en-Brie, Montereau-Fault-Yonne, Moret-sur-Loing, Morma
 4e circonscription
 
 </td>
-      <td width="388">
+      <td width="388" align="left">
 
 Cantons de : Bray-sur-Seine, Donnemarie-Dontilly, La Ferté-Gaucher, Nangis, Provins, Rebais, Rozay-en-Brie, Villiers-Saint-
-Georges.
+Georges
 
 </td>
     </tr>
@@ -38500,7 +37433,7 @@ Georges.
 5e circonscription
 
 </td>
-      <td width="388">
+      <td align="left" width="388">
 
 Cantons de : Coulommiers, Crécy-la-Chapelle, La Ferté-sous-Jouarre 
 
@@ -38514,7 +37447,7 @@ Communes de : Bailly-Romainvilliers, Magny-le-Hongre, Serris
 6e circonscription
 
 </td>
-      <td width="388">
+      <td width="388" align="left">
 
 Cantons de : Lizy-sur-Ourcq, Meaux Nord, Meaux Sud 
 
@@ -38529,7 +37462,7 @@ l'Evêque, Rouvres, Saint-Mard, Saint-Pathus, Saint-Soupplets, Vinantes
 7e circonscription
 
 </td>
-      <td width="388">
+      <td width="388" align="left">
 
 Cantons de : Claye-Souilly, Dammartin-en-Goële (moins les communes de Cuisy, Forfry, Gesvres-le-Chapitre, Juilly,
 Marchémoret, Montgé-en-Goële, Monthyon, Oissery, Le Plessis-l'Evêque, Rouvres, Saint-Mard, Saint-Pathus, Saint-Soupplets,
@@ -38543,7 +37476,7 @@ Vinantes), Lagny-sur-Marne, Mitry-Mory
 8e circonscription
 
 </td>
-      <td width="388">
+      <td align="left" width="388">
 
 Cantons de : Roissy-en-Brie, Thorigny-sur-Marne (moins les communes de Bailly-Romainvilliers, Magny-le-Hongre et Serris),
 Torcy 
@@ -38556,7 +37489,7 @@ Torcy
 9e circonscription
 
 </td>
-      <td width="388">
+      <td align="left" width="388">
 
 Cantons de : Brie-Comte-Robert, Pontault-Combault, Tournan-en-Brie 
 
@@ -38570,7 +37503,7 @@ Commune de Combs-la-Ville
 10e circonscription
 
 </td>
-      <td>Cantons de : Champs-sur-Marne, Chelles, Noisiel, Vaires-sur-Marne </td>
+      <td align="left">Cantons de : Champs-sur-Marne, Chelles, Noisiel, Vaires-sur-Marne </td>
     </tr>
     <tr>
       <td>
@@ -38578,7 +37511,8 @@ Commune de Combs-la-Ville
 11e circonscription
 
 </td>
-      <td>Cantons de : Combs-la-Ville (moins la commune de Combs-la-Ville), Le Mée-sur-Seine, Savigny-le-Temple </td>
+      <td align="left">Cantons de : Combs-la-Ville (moins la commune de Combs-la-Ville), Le Mée-sur-Seine, Savigny-le-Temple
+</td>
     </tr>
     <tr>
       <td colspan="2" width="605">
@@ -38635,7 +37569,7 @@ Cantons de : La Celle-Saint-Cloud, Le Chesnay, Saint-Nom-la-Bretèche, commune d
 </td>
       <td width="388">
 
-Cantons de : Chatou, Houilles, Marly-le-Roi.
+Cantons de : Chatou, Houilles, Marly-le-Roi
 
 </td>
     </tr>
@@ -38647,7 +37581,7 @@ Cantons de : Chatou, Houilles, Marly-le-Roi.
 </td>
       <td width="388">
 
-Cantons de Maisons-Laffitte, Sartrouville, Le Vésinet.
+Cantons de : Maisons-Laffitte, Sartrouville, Le Vésinet
 
 </td>
     </tr>
@@ -38673,7 +37607,7 @@ Communes de Carrières-sous-Poissy, Médan et Villennes-sur-Seine
 </td>
       <td width="388">
 
-Cantons de: Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-sur-Seine.
+Cantons de : Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-sur-Seine
 
 </td>
     </tr>
@@ -38685,7 +37619,7 @@ Cantons de: Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des M
 </td>
       <td width="388">
 
-Cantons de: Limay, Mantes-la-Jolie, Mantes-la-Ville.
+Cantons de : Limay, Mantes-la-Jolie, Mantes-la-Ville
 
 </td>
     </tr>
@@ -38697,9 +37631,9 @@ Cantons de: Limay, Mantes-la-Jolie, Mantes-la-Ville.
 </td>
       <td width="388">
 
-Cantons de: Aubergenville, Bonnières-sur-Seine, Guerville, Houdan.
+Cantons de : Aubergenville, Bonnières-sur-Seine, Guerville, Houdan
 
-Communes de : Les Mureaux, Chapet.
+Communes de : Les Mureaux, Chapet
 
 </td>
     </tr>
@@ -38867,7 +37801,7 @@ Santerre, Roye
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="605">
+      <td width="605" colspan="2">
 
 Tarn
 
@@ -38942,12 +37876,12 @@ Villebrumier)
       <td width="388">
 
 Cantons de : Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin I, Castelsarrasin II, Grisolles, Lauzerte, Lavit,
-Moissac I, Moissac II, Montech, Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Verdun-sur-Garonne.
+Moissac I, Moissac II, Montech, Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Verdun-sur-Garonne
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="605">
+      <td width="605" colspan="2">
 
 Var
 
@@ -39062,7 +37996,7 @@ Vaucluse
 </td>
       <td width="388">
 
-Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud.
+Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud
 
 </td>
     </tr>
@@ -39098,7 +38032,7 @@ Cantons de : Bédarrides, Carpentras Sud, Pernes-les-Fontaines
 </td>
       <td width="388">
 
-Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas.
+Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas
 
 </td>
     </tr>
@@ -39125,7 +38059,7 @@ Vendée
 </td>
       <td width="388">
 
-Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon Nord.
+Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon Nord
 
 </td>
     </tr>
@@ -39138,7 +38072,7 @@ Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, 
       <td width="388">
 
 Cantons de : Chantonnay, Mareuil-sur-Lay-Dissais, La Mothe-Achard, Moutiers-les-Mauxfaits, La Roche-sur-Yon Sud, Talmont-
-Saint-Hilaire.
+Saint-Hilaire
 
 </td>
     </tr>
@@ -39151,7 +38085,7 @@ Saint-Hilaire.
       <td width="388">
 
 Cantons de : Beauvoir-sur-Mer, L'Ile-d'Yeu, Noirmoutier-en-l'Ile, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Saint-Jean-
-de-Monts.
+de-Monts
 
 </td>
     </tr>
@@ -39163,7 +38097,7 @@ de-Monts.
 </td>
       <td width="388">
 
-Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulgent.
+Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulgent
 
 </td>
     </tr>
@@ -39176,7 +38110,7 @@ Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulge
       <td width="388">
 
 Cantons de : Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Maillezais, Sainte-Hermine, Saint-
-Hilaire-des-Loges.
+Hilaire-des-Loges
 
 </td>
     </tr>
@@ -39208,7 +38142,7 @@ Julien-l'Ars
 </td>
       <td width="388">
 
-Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du-Clain, Vivonne, Vouillé.
+Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du-Clain, Vivonne, Vouillé
 
 </td>
     </tr>
@@ -39234,7 +38168,7 @@ Montmorillon, Saint-Savin, La Trimouille, Vouneuil-sur-Vienne, commune de La Puy
       <td width="388">
 
 Cantons de : Châtellerault Nord, Châtellerault Ouest, Châtellerault Sud, Dangé-Saint-Romain, Lencloître, Loudun, Moncontour,
-Monts-sur-Guesnes, Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clochers, Les Trois-Moutiers.
+Monts-sur-Guesnes, Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clochers, Les Trois-Moutiers
 
 </td>
     </tr>
@@ -39287,7 +38221,7 @@ Sulpice-les-Feuilles
 </td>
     </tr>
     <tr>
-      <td width="605" colspan="2">
+      <td colspan="2" width="605">
 
 Vosges
 
@@ -39301,7 +38235,7 @@ Vosges
 </td>
       <td width="388">
 
-Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xertigny.
+Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xertigny
 
 </td>
     </tr>
@@ -39314,7 +38248,7 @@ Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xerti
       <td width="388">
 
 Cantons de : Brouvelieures, Bruyères, Corcieux, Fraize, Provenchères-sur-Fave, Raon-l'Etape, Saint-Dié Est, Saint-Dié Ouest,
-Senones.
+Senones
 
 </td>
     </tr>
@@ -39326,7 +38260,7 @@ Senones.
 </td>
       <td width="388">
 
-Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot.
+Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot
 
 </td>
     </tr>
@@ -39339,12 +38273,12 @@ Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselo
       <td width="388">
 
 Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney, Dompaire, Lamarche, Mirecourt, Monthureux-
-sur-Saône, Neufchâteau, Vittel.
+sur-Saône, Neufchâteau, Vittel
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="605">
+      <td width="605" colspan="2">
 
 Yonne
 
@@ -39361,7 +38295,7 @@ Yonne
 Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord, Auxerre Nord-Ouest, Auxerre Sud, Auxerre Sud-Ouest, Bléneau,
 Charny, Coulanges-la-Vineuse, Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy 
 
-Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne) Monéteau (issue du canton de Seignelay) 
+Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne), Monéteau (issue du canton de Seignelay) 
 
 </td>
     </tr>
@@ -39393,7 +38327,7 @@ Sergines, Villeneuve-l'Archevêque, Villeneuve-sur-Yonne
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="605">
+      <td width="605" colspan="2">
 
 Territoire de Belfort
 
@@ -39407,7 +38341,7 @@ Territoire de Belfort
 </td>
       <td width="388">
 
-Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Grandvillars.
+Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Grandvillars
 
 </td>
     </tr>
@@ -39419,12 +38353,12 @@ Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Gr
 </td>
       <td width="388">
 
-Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges, Giromagny, Offemont, Rougemont-le-Château, Valdoie.
+Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges, Giromagny, Offemont, Rougemont-le-Château, Valdoie
 
 </td>
     </tr>
     <tr>
-      <td width="605" colspan="2">
+      <td colspan="2" width="605">
 
 Essonne
 
@@ -39438,7 +38372,7 @@ Essonne
 </td>
       <td width="388">
 
-Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.
+Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud
 
 </td>
     </tr>
@@ -39450,7 +38384,7 @@ Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.
 </td>
       <td width="388">
 
-Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt.
+Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt
 
 </td>
     </tr>
@@ -39489,7 +38423,7 @@ Communes de : Bruyères-le-Châtel, Ollainville
 </td>
       <td width="388">
 
-Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis.
+Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis
 
 </td>
     </tr>
@@ -39501,7 +38435,7 @@ Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis.
 </td>
       <td width="388">
 
-Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau.
+Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau
 
 </td>
     </tr>
@@ -39513,7 +38447,7 @@ Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau.
 </td>
       <td width="388">
 
-Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon.
+Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon
 
 </td>
     </tr>
@@ -39525,7 +38459,7 @@ Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon.
 </td>
       <td width="388">
 
-Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres.
+Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres
 
 </td>
     </tr>
@@ -39537,7 +38471,7 @@ Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres.
 </td>
       <td width="388">
 
-Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil.
+Cantons de : Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil
 
 </td>
     </tr>
@@ -39549,7 +38483,7 @@ Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbei
 </td>
       <td width="388">
 
-Cantons de: Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge.
+Cantons de : Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge
 
 </td>
     </tr>
@@ -39568,7 +38502,7 @@ Hauts-de-Seine
 </td>
       <td width="388">
 
-Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevilliers Sud, Villeneuve-la-Garenne.
+Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevilliers Sud, Villeneuve-la-Garenne
 
 </td>
     </tr>
@@ -39580,7 +38514,7 @@ Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevi
 </td>
       <td width="388">
 
-Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud.
+Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud
 
 </td>
     </tr>
@@ -39607,7 +38541,7 @@ depuis la limite du canton de Courbevoie Nord jusqu'à la limite de la commune d
 </td>
       <td width="388">
 
-Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes.
+Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes
 
 </td>
     </tr>
@@ -39619,7 +38553,7 @@ Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes.
 </td>
       <td width="388">
 
-Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud.
+Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud
 
 </td>
     </tr>
@@ -39644,7 +38578,7 @@ Puteaux
 </td>
       <td width="388">
 
-Cantons de : Garches, Rueil-Malmaison, Saint-Cloud.
+Cantons de : Garches, Rueil-Malmaison, Saint-Cloud
 
 </td>
     </tr>
@@ -39656,7 +38590,7 @@ Cantons de : Garches, Rueil-Malmaison, Saint-Cloud.
 </td>
       <td width="388">
 
-Cantons de: Chaville, Meudon, Sèvres.
+Cantons de : Chaville, Meudon, Sèvres
 
 </td>
     </tr>
@@ -39670,7 +38604,7 @@ Cantons de: Chaville, Meudon, Sèvres.
 
 Cantons de : Boulogne-Billancourt Nord-Est, Boulogne-Billancourt Nord-Ouest, Boulogne-Billancourt Sud (partie située au nord
 d'une ligne définie par l'axe des voies ci-après : rue Yves-Kermen, avenue Pierre-Grenier, boulevard de la République
-jusqu'au pont d'Issy).
+jusqu'au pont d'Issy)
 
 </td>
     </tr>
@@ -39683,7 +38617,7 @@ jusqu'au pont d'Issy).
       <td width="388">
 
 Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9 circonscription), Issy-les-Moulineaux Est, Issy-les-
-Moulineaux Ouest, Vanves.
+Moulineaux Ouest, Vanves
 
 </td>
     </tr>
@@ -39695,7 +38629,7 @@ Moulineaux Ouest, Vanves.
 </td>
       <td width="388">
 
-Cantons de : Bagneux, Malakoff, Montrouge.
+Cantons de : Bagneux, Malakoff, Montrouge
 
 </td>
     </tr>
@@ -39707,7 +38641,7 @@ Cantons de : Bagneux, Malakoff, Montrouge.
 </td>
       <td width="388">
 
-Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.
+Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson
 
 </td>
     </tr>
@@ -39719,7 +38653,7 @@ Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.
 </td>
       <td width="388">
 
-Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux.
+Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux
 
 </td>
     </tr>
@@ -39738,7 +38672,7 @@ Seine-Saint-Denis
 </td>
       <td width="388">
 
-Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.
+Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen
 
 </td>
     </tr>
@@ -39750,7 +38684,7 @@ Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.
 </td>
       <td width="388">
 
-Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest.
+Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest
 
 </td>
     </tr>
@@ -39822,7 +38756,7 @@ Cantons de : Bagnolet, Montreuil Est, Montreuil Nord, Montreuil Ouest
 </td>
       <td width="388">
 
-Cantons de : Gagny, Rosny-sous-Bois, Villemomble.
+Cantons de : Gagny, Rosny-sous-Bois, Villemomble
 
 </td>
     </tr>
@@ -39858,7 +38792,7 @@ Cantons de : Aulnay-sous-Bois Nord, Aulnay-sous-Bois Sud, Bondy Sud-Est, Les Pav
 </td>
       <td width="388">
 
-Cantons de : Sevran, Tremblay-en-France, Villepinte.
+Cantons de : Sevran, Tremblay-en-France, Villepinte
 
 </td>
     </tr>
@@ -39870,7 +38804,7 @@ Cantons de : Sevran, Tremblay-en-France, Villepinte.
 </td>
       <td width="388">
 
-Cantons de : Livry-Gargan, Montfermeil, Le Raincy.
+Cantons de : Livry-Gargan, Montfermeil, Le Raincy
 
 </td>
     </tr>
@@ -39902,7 +38836,7 @@ Ouest, Saint-Maur-la-Varenne
 </td>
       <td width="388">
 
-Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly.
+Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly
 
 </td>
     </tr>
@@ -39914,7 +38848,7 @@ Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly.
 </td>
       <td width="388">
 
-Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges.
+Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges
 
 </td>
     </tr>
@@ -39926,7 +38860,7 @@ Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Vil
 </td>
       <td width="388">
 
-Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers-sur-Marne.
+Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers-sur-Marne
 
 </td>
     </tr>
@@ -39950,7 +38884,7 @@ Cantons de : Bry-sur-Marne, Champigny-sur-Marne Centre, Champigny-sur-Marne Est,
 </td>
       <td width="388">
 
-Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vincennes Est, Vincennes Ouest.
+Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vincennes Est, Vincennes Ouest
 
 </td>
     </tr>
@@ -39986,7 +38920,7 @@ Cantons de : Charenton-le-Pont, Joinville-le-Pont, Maisons-Alfort Nord, Maisons-
 </td>
       <td width="388">
 
-Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-Seine Ouest.
+Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-Seine Ouest
 
 </td>
     </tr>
@@ -39998,7 +38932,7 @@ Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-S
 </td>
       <td width="388">
 
-Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitry-sur-Seine Nord.
+Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitry-sur-Seine Nord
 
 </td>
     </tr>
@@ -40010,7 +38944,7 @@ Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitr
 </td>
       <td width="388">
 
-Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest.
+Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest
 
 </td>
     </tr>
@@ -40029,7 +38963,7 @@ Val-d'Oise
 </td>
       <td width="388">
 
-Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du-Sausseron, Vigny.
+Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du-Sausseron, Vigny
 
 </td>
     </tr>
@@ -40053,7 +38987,7 @@ Cantons de : Cergy Sud, L'Isle-Adam, Saint-Ouen-l'Aumône, Viarmes, commune de N
 </td>
       <td width="388">
 
-Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny.
+Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny
 
 </td>
     </tr>
@@ -40065,7 +38999,7 @@ Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny.
 </td>
       <td width="388">
 
-Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt.
+Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt
 
 </td>
     </tr>
@@ -40077,7 +39011,7 @@ Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt.
 </td>
       <td width="388">
 
-Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons.
+Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons
 
 </td>
     </tr>
@@ -40089,7 +39023,7 @@ Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons.
 </td>
       <td width="388">
 
-Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency.
+Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency
 
 </td>
     </tr>
@@ -40113,7 +39047,7 @@ Cantons de : Domont, Ecouen, Montmorency, Sarcelles Sud-Ouest
 </td>
       <td width="388">
 
-Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-Est, Villiers-le-Bel.
+Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-Est, Villiers-le-Bel
 
 </td>
     </tr>
@@ -40125,7 +39059,7 @@ Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-
 </td>
       <td width="388">
 
-Cantons de : Gonesse, Goussainville, Luzarches.
+Cantons de : Gonesse, Goussainville, Luzarches
 
 </td>
     </tr>
@@ -40196,7 +39130,7 @@ Claude, Les Saintes, Trois-Rivières, Vieux-Habitants
 </td>
     </tr>
     <tr>
-      <td width="605" colspan="2">
+      <td colspan="2" width="605">
 
 Guyane
 
@@ -40287,9 +39221,33 @@ Sainte-Luce, Les Trois-Ilets, Le Vauclin
 </td>
     </tr>
     <tr>
+      <td colspan="2">
+
+Mayotte
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+1re circonscription
+
+</td>
+      <td>Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II, Mtsamboro, Pamandzi </td>
+    </tr>
+    <tr>
+      <td>
+
+2e circonscription
+
+</td>
+      <td>Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou III, M'Tsangamouji, Ouangani,
+Sada, Tsingoni</td>
+    </tr>
+    <tr>
       <td colspan="2" width="605">
 
-Réunion
+La Réunion
 
 </td>
     </tr>
@@ -40394,7 +39352,7 @@ Bassins </td>
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-935 du 29 juillet 2009 - art.
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
 ## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).
@@ -40406,88 +39364,59 @@ Bassins </td>
     <tr>
       <td width="325">
 
-Territoires
+TERRITOIRES
 
 </td>
       <td width="325">
 
-Composition
+COMPOSITION 
 
 </td>
     </tr>
     <tr>
-      <td width="325">
+      <td width="325" colspan="2">
 
-Nouvelle-Calédonie
-
-</td>
-      <td width="325">
+Nouvelle-Calédonie 
 
 </td>
     </tr>
     <tr>
-      <td width="325">
+      <td width="325" align="center">
 
-1re circonscription
+1re circonscription 
 
 </td>
       <td width="325">
 
-Communes de L'Ile des Pins, Lifou, Maré, Nouméa, Ouvéa.
+Communes de : L'Ile des Pins, Lifou, Maré, Nouméa, Ouvéa 
 
 </td>
     </tr>
     <tr>
-      <td width="325" valign="top">
+      <td valign="top" width="325" align="center">
 
-2e circonscription
+2e circonscription 
 
 </td>
       <td width="325">
 
-Communes de Belep, Bouloupari, Bourail, Canala, Dumbéa, Farino, Hienghène, Houaïlou, Kaala-Gomen, Koné, Kouaoua, Koumac, La
+Communes de : Belep, Bouloupari, Bourail, Canala, Dumbéa, Farino, Hienghène, Houaïlou, Kaala-Gomen, Koné, Kouaoua, Koumac, La
 Foa, Moindou, Le Mont-Dore, Ouégoa, Païta, Poindimié, Ponérihouen, Pouebo, Pouembout, Poum, Poya, Sarraméa, Thio, Touho, Voh,
-Yaté.
+Yaté 
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2" width="325">
 
-Mayotte
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>
-
-1re circonscription
+Polynésie française 
 
 </td>
-      <td>Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II, Mtsamboro, Pamandzi </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top" width="325" align="center">
 
-2e circonscription
-
-</td>
-      <td>Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou III, M'Tsangamouji, Ouangani,
-Sada, Tsingoni. </td>
-    </tr>
-    <tr>
-      <td width="325">
-
-Polynésie française
-
-</td>
-      <td width="325">
-    </td></tr>
-    <tr>
-      <td width="325" valign="top">
-
-1re circonscription
+1re circonscription 
 
 </td>
       <td width="325">
@@ -40499,9 +39428,9 @@ Ua-Pou
 </td>
     </tr>
     <tr>
-      <td valign="top" width="325">
+      <td width="325" align="center" valign="top">
 
-2e circonscription
+2e circonscription 
 
 </td>
       <td width="325">
@@ -40512,9 +39441,9 @@ Uta, Tubuai
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
 
-3e circonscription
+3e circonscription 
 
 </td>
       <td>Communes de : Bora-Bora, Faaa, Huahine, Maupiti, Punaauia, Tahaa, Taputapuatea, Tumaraa, Uturoa </td>
@@ -40540,10 +39469,10 @@ Saint-Pierre-et-Miquelon
     <tr>
       <td>
 
-Iles Wallis et Futuna 
+Iles Wallis-et-Futuna 
 
 </td>
-      <td>Circonscription unique </td>
+      <td>Circonscription unique</td>
     </tr>
   </tbody>
 </table>
@@ -40552,7 +39481,7 @@ Iles Wallis et Futuna
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-935 du 29 juillet 2009 - art.
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
 ## Tableau des circonscriptions électorales des français établis hors de France
@@ -41637,7 +40566,7 @@ sièges de sénateurs entre les séries est ainsi rédigé :
 SÉRIE A
 
 </td>
-      <td width="205" colspan="2">
+      <td colspan="2" width="205">
 
 SÉRIE B
 
@@ -41894,24 +40823,24 @@ II. - A compter du renouvellement partiel de 2008, le tableau précité est ains
 <table>
   <tbody>
     <tr>
-      <td width="205" colspan="2">
+      <td colspan="2" width="205">
 
 SÉRIE A
 
 </td>
-      <td colspan="2" width="205">
+      <td width="205" colspan="2">
 
 SÉRIE B
 
 </td>
-      <td colspan="2" width="205">
+      <td width="205" colspan="2">
 
 SÉRIE C
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="6">
+      <td colspan="6" width="614">
 
 Représentation des départements
 
@@ -42156,12 +41085,12 @@ III. - A compter du renouvellement partiel de 2011, le tableau précité est ain
 <table>
   <tbody>
     <tr>
-      <td width="202" colspan="2">
+      <td colspan="2" width="202">
 
 SÉRIE 1
 
 </td>
-      <td width="202" colspan="2">
+      <td colspan="2" width="202">
 
 SÉRIE 2
 
@@ -42243,26 +41172,24 @@ Guyane
     <tr>
       <td width="101">
 
-Guadeloupe, Martinique, La Réunion
+Guadeloupe, Martinique, Mayotte, La Réunion
 
 </td>
       <td width="100">
 
-9
+11
 
 </td>
       <td width="101">
       </td><td width="100">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="101">
 
 </td>
       <td width="100">
 
-159
+161
 
 </td>
       <td width="101">
@@ -42281,13 +41208,7 @@ Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
     </tr>
     <tr>
       <td width="101">
-
-Mayotte
-
-</td>
-      <td width="100">
-
-2
+      </td><td width="100">
 
 </td>
       <td width="101">
@@ -42420,11 +41341,11 @@ Total
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 8 () JORF 22 février 2007
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
 ## Election des sénateurs
