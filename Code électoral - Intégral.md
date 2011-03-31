@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-04-01
 
 # Partie législative
 
@@ -17186,11 +17186,17 @@ Les modalités d'application du présent livre sont fixées par décret en Conse
 
 Pour l'application du présent code à Mayotte, il y a lieu de lire : 
 
-1° "Département de Mayotte" au lieu de : "département" ; 
+1° " Département de Mayotte " au lieu de : " département " ; 
 
-2° "tribunal de première instance" au lieu de : "tribunal d'instance" et "tribunal de grande instance" ; 
+2° " tribunal de première instance " au lieu de : " tribunal d'instance " et " tribunal de grande instance " ; 
 
-3° "tribunal supérieur d'appel" au lieu de : "cour d'appel".
+3° "    chambre d'appel de Mamoudzou " au lieu de : " cour d'appel ".
+
+**Nota:**
+
+Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
+instance est remplacée par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
+compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -17207,7 +17213,7 @@ Pour l'application du présent code à Mayotte, il y a lieu de lire :
 
 	**Modifié par**:
 
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 
 ###### Article L453
@@ -30500,15 +30506,23 @@ dispositions du présent titre.
 
 ###### Article R285
 
-Pour l'application du présent code à Mayotte il y a lieu de lire :
+Pour l'application du présent code à Mayotte il y a lieu de lire : 
 
-1° "Département de Mayotte" au lieu de : "département" ;
+1° " Département de Mayotte " au lieu de : " département " ; 
 
-2° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou "tribunal d'instance" ;
+2° " tribunal de première instance " au lieu de : " tribunal de grande instance " ou " tribunal d'instance " ; 
 
-3° "tribunal supérieur d'appel" au lieu de : "cour d'appel" ;
+3°      "chambre d'appel de Mamoudzou" au lieu de : " cour d'appel " ; 
 
-4° "directeur de La Poste" au lieu de : "directeur départemental des postes et télécommunications" ;
+4° " directeur de La Poste " au lieu de : " directeur départemental des postes et télécommunications " ;
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -30518,22 +30532,22 @@ Pour l'application du présent code à Mayotte il y a lieu de lire :
 
 	**Modifié par**:
 
-	  - Décret n°2011-330 du 25 mars 2011 - art. 6
+	  - Décret n°2011-338 du 29 mars 2011 - art. 17 (M)
 
 
 #### Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte
 
 ###### Article R298
 
-La commission de recensement général des votes est présidée par un magistrat du siège désigné par le premier président du
-tribunal supérieur d'appel, assisté de deux fonctionnaires désignés par le représentant de l'Etat. Elle est instituée par un
-arrêté du représentant de l'Etat.
+La commission de recensement général des votes est présidée par un magistrat du siège désigné par le premier      président
+de la chambre d'appel de Mamoudzou, assisté de deux fonctionnaires désignés par le représentant de l'Etat. Elle est instituée
+par un arrêté du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
+	  - Décret n°2011-338 du 29 mars 2011 - art. 17 (V)
 
 
 ###### Article R299
