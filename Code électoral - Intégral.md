@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-04-20
 
 # Partie législative
 
@@ -2015,6 +2015,29 @@ Nul ne peut être élu s'il ne justifie avoir satisfait aux obligations de la lo
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
+###### Article L45-1
+
+Ne peuvent pas faire acte de candidature : 
+
+1° Pendant une durée maximale de trois ans suivant la date de sa décision, les personnes déclarées inéligibles par le juge
+administratif en application des articles L. 118-3 et L. 118-4 ; 
+
+2° Pendant une durée maximale de trois ans suivant la date de sa décision, les personnes déclarées inéligibles par le Conseil
+constitutionnel en application des articles LO 136-1 et LO 136-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. LO136-3 (V)
+
+
 #### Chapitre IV : Incompatibilités
 
 ###### Article L46
@@ -2207,11 +2230,36 @@ applicables que sous réserve des dispositions de la loi locale du 10 juillet 19
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
+###### Article L48-1
+
+Les interdictions et restrictions prévues par le présent code en matière de propagande électorale sont applicables à tout
+message ayant le caractère de propagande électorale diffusé par tout moyen de communication au public par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 2
+
+
+###### Article L48-2
+
+Il est interdit à tout candidat de porter à la connaissance du public un élément nouveau de polémique électorale à un moment
+tel que ses adversaires n'aient pas la possibilité d'y répondre utilement avant la fin de la campagne électorale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 3
+
+
 ###### Article L49
 
-Il est interdit de distribuer ou faire distribuer, le jour du scrutin, des bulletins, circulaires et autres documents.
+A partir de la veille du scrutin à zéro heure, il est interdit de distribuer ou faire distribuer des bulletins, circulaires
+et autres documents.
 
-A partir de la veille du scrutin à zéro heure, il est interdit de diffuser ou de faire diffuser par tout moyen de
+A partir de la veille du scrutin à zéro heure, il est également  interdit de diffuser ou de faire diffuser par tout moyen de
 communication au public par voie électronique tout message ayant le caractère de propagande électorale.
 
 **Liens relatifs à cet article**
@@ -2237,15 +2285,23 @@ communication au public par voie électronique tout message ayant le caractère 
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
+	  - Loi n°2011-412 du 14 avril 2011 - art. 4
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Code électoral - art. L89 (M)
+###### Article L49-1
+
+A partir de la veille du scrutin à zéro heure, il est interdit de procéder, par un système automatisé ou non, à l'appel
+téléphonique en série des électeurs afin de les inciter à voter pour un candidat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 5
 
 
 ###### Article L50
@@ -2290,7 +2346,7 @@ circulaires des candidats.
 
 ###### Article L50-1
 
-Pendant les trois mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est
+Pendant les six  mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est
 acquise, aucun numéro d'appel téléphonique ou télématique gratuit ne peut être porté à la connaissance du public par un
 candidat, une liste de candidats ou à leur profit.
 
@@ -2298,11 +2354,7 @@ candidat, une liste de candidats ou à leur profit.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°90-55 du 15 janvier 1990 - art. 4 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -2313,6 +2365,10 @@ candidat, une liste de candidats ou à leur profit.
 	  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
 	  - Code général des collectivités territoriales - art. LO1112-9 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 6
+
 
 ###### Article L51
 
@@ -2321,9 +2377,14 @@ municipale pour l'apposition des affiches électorales.
 
 Dans chacun de ces emplacements, une surface égale est attribuée à chaque candidat ou à chaque liste de candidats.
 
-Pendant les trois mois  précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci
-est acquise, tout affichage relatif à l'élection, même par affiches timbrées, est interdit en dehors de cet emplacement ou
-sur l'emplacement réservé aux autres candidats.
+Pendant les six  mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est
+acquise, tout affichage relatif à l'élection, même par affiches timbrées, est interdit en dehors de cet emplacement ou sur
+l'emplacement réservé aux autres candidats, ainsi qu'en dehors des panneaux d'affichage d'expression libre lorsqu'il en
+existe.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -2357,15 +2418,12 @@ sur l'emplacement réservé aux autres candidats.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 2 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code électoral - art. L90 (M)
+	  - Loi n°2011-412 du 14 avril 2011 - art. 6
+	  - Loi n°2011-412 du 14 avril 2011 - art. 7
 
 
 ###### Article L52
@@ -2391,9 +2449,9 @@ prises pour leur exécution, le préfet doit en assurer immédiatement l'applica
 
 ###### Article L52-1
 
-Pendant les trois mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est
+Pendant les six  mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est
 acquise, l'utilisation à des fins de propagande électorale de tout procédé de publicité commerciale par la voie de la presse
-ou par tout moyen de communication audiovisuelle est interdite.
+ou par tout moyen de communication audiovisuelle est interdite. 
 
 A compter du premier jour du sixième mois précédant le mois au cours duquel il doit être procédé à des élections générales,
 aucune campagne de promotion publicitaire des réalisations ou de la gestion d'une collectivité ne peut être organisée sur le
@@ -2405,14 +2463,14 @@ titre.
 
 **Nota:**
 
-Loi n° 2001-2 du 3 janvier 2001, article 23 II ; Les dispositions des deux dernières phrases du deuxième alinéa revêtent un
-caractère interprétatif.
+Loi n° 2001-2 du 3 janvier 2001, article 23 II ; Les dispositions des  deux dernières phrases du deuxième alinéa revêtent un
+caractère  interprétatif.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -2436,7 +2494,7 @@ caractère interprétatif.
 
 	**Modifié par**:
 
-	  - Loi n°2001-2 du 3 janvier 2001 - art. 23 () JORF 4 janvier 2001
+	  - Loi n°2011-412 du 14 avril 2011 - art. 6
 
 
 ###### Article L52-2
@@ -2500,23 +2558,27 @@ Chaque candidat ou liste de candidats peut faire imprimer un emblème sur ses bu
 
 ###### Article L52-4
 
-Tout candidat à une élection désigne un mandataire au plus tard à la date à laquelle sa candidature est enregistrée. Ce
-mandataire peut être une association de financement électoral, ou une personne physique dénommée "le mandataire financier".
-Un même mandataire ne peut être commun à plusieurs candidats.
+Tout candidat à une élection déclare un mandataire conformément aux articles L. 52-5 et L. 52-6 au plus tard à la date à
+laquelle sa candidature est enregistrée. Ce mandataire peut être une association de financement électoral, ou une personne
+physique dénommée " le mandataire financier ". Un même mandataire ne peut être commun à plusieurs candidats. 
 
 Le mandataire recueille, pendant l'année précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du
-compte de campagne du candidat, les fonds destinés au financement de la campagne.
+compte de campagne du candidat, les fonds destinés au financement de la campagne. 
 
 Il règle les dépenses engagées en vue de l'élection et antérieures à la date du tour de scrutin où elle a été acquise, à
 l'exception des dépenses prises en charge par un parti ou groupement politique. Les dépenses antérieures à sa désignation
 payées directement par le candidat ou à son profit font l'objet d'un remboursement par le mandataire et figurent dans son
-compte bancaire ou postal.
+compte bancaire ou postal. 
 
 En cas d'élection anticipée ou partielle, ces dispositions ne sont applicables qu'à compter de l'événement qui rend cette
-élection nécessaire.
+élection nécessaire. 
 
 Les dispositions du présent article ne sont pas applicables à l'élection des conseillers généraux dans les cantons de moins
 de 9 000 habitants et à l'élection des conseillers municipaux dans les communes de moins de 9 000 habitants.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -2551,16 +2613,11 @@ de 9 000 habitants et à l'élection des conseillers municipaux dans les commune
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-	  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 2 () JORF 9 décembre 2003
+	  - Loi n°2011-412 du 14 avril 2011 - art. 11
 
 
 ###### Article L52-5
@@ -2635,18 +2692,36 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 Le candidat déclare par écrit à la préfecture de son domicile le nom du mandataire financier qu'il choisit. La déclaration
 doit être accompagnée de l'accord exprès du mandataire désigné. L'expert-comptable chargé de la présentation du compte de
 campagne ne peut exercer cette fonction. Dans le cas d'un scrutin de liste, aucun membre de la liste ne peut être le
-mandataire financier du candidat tête de la liste sur laquelle il figure.
+mandataire financier du candidat tête de la liste sur laquelle il figure. 
 
 Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses opérations
 financières. L'intitulé du compte précise que le titulaire agit en qualité de mandataire financier du candidat, nommément
-désigné. Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a désigné ou au compte de campagne du
-candidat tête de liste lorsque le candidat qui l'a désigné figure sur cette liste.
+désigné. 
 
-Le mandataire financier ne peut recueillir de fonds que pendant la période prévue au deuxième alinéa de l'article L. 52-4.
+Tout mandataire financier a droit à l'ouverture de ce compte, ainsi qu'à la mise à disposition des moyens de paiement
+nécessaires à son fonctionnement, dans l'établissement de crédit de son choix. L'ouverture de ce compte intervient sur
+présentation d'une attestation sur l'honneur du mandataire qu'il ne dispose pas déjà d'un compte en tant que mandataire
+financier du candidat. 
+
+En cas de refus de la part de l'établissement choisi, le mandataire peut saisir la Banque de France afin qu'elle lui désigne
+un établissement de crédit situé dans la circonscription dans laquelle se déroule l'élection ou à proximité d'un autre lieu
+de son choix, dans un délai d'un jour ouvré à compter de la réception de la demande du mandataire et des pièces requises.
+Toute décision de clôture de compte à l'initiative de l'établissement de crédit désigné par la Banque de France doit faire
+l'objet d'une notification écrite et motivée adressée au mandataire et à la Banque de France pour information. Un délai
+minimal de deux mois doit être obligatoirement consenti au mandataire. En cas de clôture, le mandataire peut à nouveau
+exercer son droit au compte dans les conditions prévues au présent article. Dans ce cas, l'existence de comptes successifs ne
+constitue pas une violation de l'obligation de disposer d'un compte bancaire ou postal unique prévue au deuxième alinéa. Les
+modalités de mise en œuvre de ce droit sont précisées par décret. Le contrôle du respect de ce droit est assuré par
+l'Autorité de contrôle prudentiel et relève de la procédure prévue à l'article L. 612-31 du code monétaire et financier. 
+
+Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a désigné ou au compte de campagne du candidat
+tête de liste lorsque le candidat qui l'a désigné figure sur cette liste. 
+
+Le mandataire financier ne peut recueillir de fonds que pendant la période prévue au deuxième alinéa de l'article L. 52-4. 
 
 Les fonctions du mandataire financier cessent de plein droit trois mois après le dépôt du compte de campagne du candidat qui
 l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les délais légaux, à l'expiration du délai de dépôt
-des candidatures.
+des candidatures. 
 
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif ne
 provenant pas de l'apport du candidat apparaît, il est dévolu, sur décision du candidat, soit à une association de
@@ -2671,21 +2746,16 @@ acceptée.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-	  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Ordonnance 2003-1165 2003-12-08 art. 4 I, II JORF 9 décembre 2003
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 4 () JORF 9 décembre 2003
+	  - Loi n°2011-412 du 14 avril 2011 - art. 13
 
 	**Cite**:
 
-	  - Code électoral - art. L52-4 (M)
+	  - Code électoral - art. L52-4
+	  - Code monétaire et financier - art. L612-31
 
 
 ###### Article L52-7
@@ -2725,24 +2795,27 @@ scrutin plurinominal, à une association à laquelle un ou plusieurs candidats a
 ###### Article L52-8
 
 Les dons consentis par une personne physique dûment identifiée pour le financement de la campagne d'un ou plusieurs candidats
-lors des mêmes élections ne peuvent excéder 4 600 euros.
+lors des mêmes élections ne peuvent excéder 4 600 euros. 
 
 Les personnes morales, à l'exception des partis ou groupements politiques, ne peuvent participer au financement de la
 campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des
-biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués.
+biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués. 
 
 Tout don de plus de 150 euros consenti à un candidat en vue de sa campagne doit être versé par chèque, virement, prélèvement
-automatique ou carte bancaire.
+automatique ou carte bancaire. 
 
 Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du montant des dépenses autorisées lorsque ce
-montant est égal ou supérieur à 15 000 euros en application de l'article L. 52-11.
+montant est égal ou supérieur à 15 000 euros en application de l'article L. 52-11. 
 
 Aucun candidat ne peut recevoir, directement ou indirectement, pour quelque dépense que ce soit, des contributions ou aides
-matérielles d'un Etat étranger ou d'une personne morale de droit étranger.
+matérielles d'un Etat étranger ou d'une personne morale de droit étranger. 
 
 Par dérogation au premier alinéa de l'article L. 52-1, les candidats ou les listes de candidats peuvent recourir à la
 publicité par voie de presse pour solliciter les dons autorisés par le présent article. La publicité ne peut contenir
-d'autres mentions que celles propres à permettre le versement du don.
+d'autres mentions que celles propres à permettre le versement du don. 
+
+Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la
+consommation des ménages, hors tabac.
 
 **Liens relatifs à cet article**
 
@@ -2764,21 +2837,16 @@ d'autres mentions que celles propres à permettre le versement du don.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 5 () JORF 31 décembre 2005
+	  - Loi n°2011-412 du 14 avril 2011 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. L52-1 (M)
-	  - Code électoral - art. L52-11 (M)
+	  - Code électoral - art. L52-1
+	  - Code électoral - art. L52-11
 
 
 ###### Article L52-9
@@ -2836,7 +2904,7 @@ mentionnent pas le nom du ou des candidats bénéficiaires ou la dénomination d
 
 Pour les élections auxquelles l'article L. 52-4 est applicable, il est institué un plafond des dépenses électorales (1),
 autres que les dépenses de propagande directement prises en charge par l'Etat, exposées par chaque candidat ou chaque liste
-de candidats, ou pour leur compte, au cours de la période mentionnée au même article. 
+de candidats, ou pour leur compte, au cours de la période mentionnée au même article.
 
 Le montant du plafond est déterminé en fonction du nombre d'habitants de la circonscription d'élection, conformément au
 tableau ci-après : 
@@ -2856,17 +2924,17 @@ Plafond par habitant des de penses électorales (en euros) :
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="246">
+      <td width="246" colspan="2">
 
 Election des conseillers municipaux : 
 
 </td>
-      <td width="123" rowspan="2">
+      <td rowspan="2" width="123">
 
 Election des conseillers généraux 
 
 </td>
-      <td width="123" rowspan="2">
+      <td rowspan="2" width="123">
 
 Election des conseillers régionaux 
 
@@ -3077,19 +3145,22 @@ Excédant 250 000 habitants :
 </table>
 
 Le plafond des dépenses pour l'élection des députés est de 38 000 euros par candidat. Il est majoré de 0, 15 euro par
-habitant de la circonscription. 
+habitant de la circonscription.
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de
-Corse. 
+Corse.
 
-Ces plafonds sont actualisés tous les trois ans par décret, en fonction de l'indice du coût de la vie de l'Institut national
-de la statistique et des études économiques.
+Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la
+consommation des ménages, hors tabac.
 
 **Nota:**
 
 (1) : Décret 2009-1730 du 30 décembre 2009 art. 1 : Le montant du plafond des dépenses électorales est multiplié par le
 coefficient de 1,23 pour les élections auxquelles les dispositions de l'article L. 52-11 du code électoral sont applicables,
 à l'exception de celles des députés et des représentants au Parlement européen.
+
+Décret 2008-1300 du 10 décembre 2008 art. 1 : Le montant du plafond des dépenses électorales pour l'élection des députés dans
+les départements et la collectivité territoriale de Saint-Pierre-et-Miquelon est multiplié par le coefficient 1,26.
 
 **Liens relatifs à cet article**
 
@@ -3132,39 +3203,36 @@ coefficient de 1,23 pour les élections auxquelles les dispositions de l'article
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-	  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-	  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe II JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-412 du 14 avril 2011 - art. 14
 
 	**Cite**:
 
-	  - Code électoral - art. L52-4 (V)
+	  - Code électoral - art. L52-4
 
 
 ###### Article L52-11-1
 
 Les dépenses électorales des candidats aux élections auxquelles l'article L. 52-4 est applicable font l'objet d'un
 remboursement forfaitaire de la part de l'Etat égal à 50 % de leur plafond de dépenses. Ce remboursement ne peut excéder le
-montant des dépenses réglées sur l'apport personnel des candidats et retracées dans leur compte de campagne.
+montant des dépenses réglées sur l'apport personnel des candidats et retracées dans leur compte de campagne. 
 
 Le remboursement forfaitaire n'est pas versé aux candidats qui ont obtenu moins de 5 % des suffrages exprimés au premier tour
-de scrutin ni à ceux qui ne se sont pas conformés aux prescriptions des articles L. 52-11 et L. 52-12 ou dont le compte de
-campagne a été rejeté ou qui n'ont pas déposé leur déclaration de situation patrimoniale, s'ils sont astreints à cette
-obligation.
+de scrutin, qui ne se sont pas conformés aux prescriptions de l'article L. 52-11, qui n'ont pas déposé leur compte de
+campagne dans le délai prévu au deuxième alinéa de l'article L. 52-12 ou dont le compte de campagne est rejeté pour d'autres
+motifs ou qui n'ont pas déposé leur déclaration de situation patrimoniale, s'ils sont astreints à cette obligation. 
+
+Dans les cas où les irrégularités commises ne conduisent pas au rejet du compte, la décision concernant ce dernier peut
+réduire le montant du remboursement forfaitaire en fonction du nombre et de la gravité de ces irrégularités.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -3181,52 +3249,52 @@ obligation.
 	  - Code électoral - art. R110-1 (V)
 	  - Code électoral - art. R175-5 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-	  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
-
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 5 () JORF 9 décembre 2003
+	  - Loi n°2011-412 du 14 avril 2011 - art. 9
 
 	**Cite**:
 
-	  - Code électoral - art. L52-11 (M)
-	  - Code électoral - art. L52-12 (M)
-	  - Code électoral - art. L52-4 (M)
+	  - Code électoral - art. L52-11
+	  - Code électoral - art. L52-12
+	  - Code électoral - art. L52-4
 
 
 ###### Article L52-12
 
-Chaque candidat ou candidat tête de liste soumis au plafonnement prévu à l'article L. 52-11 est tenu d'établir un compte de
-campagne retraçant, selon leur origine, l'ensemble des recettes perçues et, selon leur nature, l'ensemble des dépenses
-engagées ou effectuées en vue de l'élection, hors celles de la campagne officielle par lui-même ou pour son compte, au cours
-de la période mentionnée à l'article L. 52-4. Sont réputées faites pour son compte les dépenses exposées directement au
-profit du candidat et avec l'accord de celui-ci, par les personnes physiques qui lui apportent leur soutien, ainsi que par
-les partis et groupements politiques qui ont été créés en vue de lui apporter leur soutien ou qui lui apportent leur soutien.
-Le candidat estime et inclut, en recettes et en dépenses, les avantages directs ou indirects, les prestations de services et
-dons en nature dont il a bénéficié. Le compte de campagne doit être en équilibre ou excédentaire et ne peut présenter un
-déficit.
+Chaque candidat ou candidat tête de liste soumis au plafonnement prévu à l'article L. 52-11 et qui a obtenu au moins 1 % des
+suffrages exprimés est tenu d'établir un compte de campagne retraçant, selon leur origine, l'ensemble des recettes perçues
+et, selon leur nature, l'ensemble des dépenses engagées ou effectuées en vue de l'élection, hors celles de la campagne
+officielle par lui-même ou pour son compte, au cours de la période mentionnée à l'article L. 52-4. La même obligation incombe
+au candidat ou au candidat tête de liste dès lors qu'il a bénéficié de dons de personnes physiques conformément à l'article
+L. 52-8 du présent code selon les modalités prévues à l'article 200 du code général des impôts. Sont réputées faites pour son
+compte les dépenses exposées directement au profit du candidat et avec l'accord de celui-ci, par les personnes physiques qui
+lui apportent leur soutien, ainsi que par les partis et groupements politiques qui ont été créés en vue de lui apporter leur
+soutien ou qui lui apportent leur soutien. Le candidat estime et inclut, en recettes et en dépenses, les avantages directs ou
+indirects, les prestations de services et dons en nature dont il a bénéficié. Le compte de campagne doit être en équilibre ou
+excédentaire et ne peut présenter un déficit. 
 
-Au plus tard avant 18 heures le neuvième vendredi suivant le tour de scrutin où l'élection a été acquise, chaque candidat ou
-candidat tête de liste présent au premier tour dépose à la Commission nationale des comptes de campagne et des financements
-politiques son compte de campagne et ses annexes, présentés par un membre de l'ordre des experts-comptables et des comptables
-agréés et accompagné des justificatifs de ses recettes ainsi que des factures, devis et autres documents de nature à établir
-le montant des dépenses payées ou engagées par le candidat ou pour son compte. Cette présentation n'est pas nécessaire
-lorsque aucune dépense ou recette ne figure au compte de campagne. Dans ce cas, le mandataire établit une attestation
-d'absence de dépense et de recette.
+Au plus tard avant 18 heures le dixième vendredi suivant le premier tour de scrutin, chaque candidat ou candidat tête de
+liste présent au premier tour dépose à la Commission nationale des comptes de campagne et des financements politiques son
+compte de campagne et ses annexes accompagné des justificatifs de ses recettes ainsi que des factures, devis et autres
+documents de nature à établir le montant des dépenses payées ou engagées par le candidat ou pour son compte. Le compte de
+campagne est présenté par un membre de l'ordre des experts-comptables et des comptables agréés ; celui-ci met le compte de
+campagne en état d'examen et s'assure de la présence des pièces justificatives requises. Cette présentation n'est pas
+nécessaire lorsque aucune dépense ou recette ne figure au compte de campagne. Dans ce cas, le mandataire établit une
+attestation d'absence de dépense et de recette. Cette présentation n'est pas non plus nécessaire lorsque le candidat ou la
+liste dont il est tête de liste a obtenu moins de 1 % des suffrages exprimés et qu'il n'a pas bénéficié de dons de personnes
+physiques selon les modalités prévues à l'article 200 du code général des impôts. 
 
 Sous réserve du règlement de dépenses engagées avant le premier tour de scrutin, le compte de campagne des candidats présents
 au seul premier tour ne peut retracer de dépenses postérieures à la date de celui-ci. La valeur vénale résiduelle des
 immobilisations éventuellement constituées au cours de la période mentionnée à l'article L. 52-4 doit être déduite des
-charges retracées dans le compte de campagne.
+charges retracées dans le compte de campagne. 
 
-La commission assure la publication des comptes de campagne dans une forme simplifiée.
+La commission assure la publication des comptes de campagne dans une forme simplifiée. 
 
 Pour l'application de l'article L. 52-11, les frais de transport aérien, maritime et fluvial dûment justifiés, exposés par
 les candidats aux élections législatives et aux élections régionales à l'intérieur de chacun des départements d'outre-mer, ne
-sont pas inclus dans le plafond des dépenses.
+sont pas inclus dans le plafond des dépenses. 
 
 Par dérogation aux dispositions du deuxième alinéa, en Guadeloupe, en Guyane, en Martinique et à La Réunion, le compte de
 campagne peut également être déposé à la préfecture ou la sous-préfecture.
@@ -3266,16 +3334,17 @@ campagne peut également être déposé à la préfecture ou la sous-préfecture
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
+	  - Loi n°2011-412 du 14 avril 2011 - art. 10
 
 	**Cite**:
 
-	  - Code électoral - art. L52-11 (M)
-	  - Code électoral - art. L52-4 (M)
+	  - Code général des impôts, CGI. - art. 200
+	  - Code électoral - art. L52-11
+	  - Code électoral - art. L52-4
 
 
 ###### Article L52-13
@@ -5736,17 +5805,20 @@ l'élection partielle consécutive à cette annulation.
 Si le juge administratif est saisi de la contestation d'une élection dans une circonscription où le montant des dépenses
 électorales est plafonné, il sursoit à statuer jusqu'à réception des décisions de la commission instituée par l'article L.
 52-14 qui doit se prononcer sur les comptes de campagne des candidats à cette élection dans le délai de deux mois suivant
-l'expiration du délai fixé au deuxième alinéa de l'article L. 52-12.
+l'expiration du délai fixé au deuxième alinéa de l'article L. 52-12. 
+
+Sans préjudice de l'article L. 52-15, lorsqu'il constate que la commission instituée par l'article L. 52-14 n'a pas statué à
+bon droit, le juge de l'élection fixe le montant du remboursement dû au candidat en application de l'article L. 52-11-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 6 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Loi n°2011-412 du 14 avril 2011 - art. 15
 
 	**Cité par**:
 
@@ -5757,30 +5829,38 @@ l'expiration du délai fixé au deuxième alinéa de l'article L. 52-12.
 
 	**Cite**:
 
-	  - Code électoral L52-12 et L52-14
+	  - Code électoral - art. L52-11-1
+	  - Code électoral - art. L52-12
+	  - Code électoral - art. L52-14
 
 
 ###### Article L118-3
 
-Saisi par la commission instituée par l'article L. 52-14, le juge de l'élection peut déclarer inéligible pendant un an le
-candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du plafond des dépenses
-électorales. 
+Saisi par la commission instituée par l'article L. 52-14, le juge de l'élection peut déclarer inéligible le candidat dont le
+compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du plafond des dépenses électorales. 
 
-Dans les autres cas, le juge de l'élection peut ne pas prononcer l'inéligibilité du candidat dont la bonne foi est établie,
-ou relever le candidat de cette inéligibilité. 
+Saisi dans les mêmes conditions, le juge de l'élection peut déclarer inéligible le candidat qui n'a pas déposé son compte de
+campagne dans les conditions et le délai prescrits à l'article L. 52-12. 
+
+Il prononce également l'inéligibilité du candidat dont le compte de campagne a été rejeté à bon droit en cas de volonté de
+fraude ou de manquement d'une particulière gravité aux règles relatives au financement des campagnes électorales. 
+
+L'inéligibilité déclarée sur le fondement des premier à troisième alinéas est prononcée pour une durée maximale de trois ans
+et s'applique à toutes les élections. Toutefois, elle n'a pas d'effet sur les mandats acquis antérieurement à la date de la
+décision. 
 
 Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il annule son élection ou, si l'élection n'a pas été
 contestée, le déclare démissionnaire d'office.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°96-300 du 10 avril 1996 - art. 3 ()
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -5803,9 +5883,40 @@ contestée, le déclare démissionnaire d'office.
 	  - Code électoral - art. R190 (V)
 	  - Code électoral - art. R212 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 16
+
 	**Cite**:
 
-	  - Code électoral - art. L52-14 (V)
+	  - Code électoral - art. L52-12
+	  - Code électoral - art. L52-14
+
+
+###### Article L118-4
+
+Saisi d'une contestation formée contre l'élection, le juge de l'élection peut déclarer inéligible, pour une durée maximale de
+trois ans, le candidat qui a accompli des manœuvres frauduleuses ayant eu pour objet ou pour effet de porter atteinte à la
+sincérité du scrutin.
+
+L'inéligibilité déclarée sur le fondement du premier alinéa s'applique à toutes les élections. Toutefois, elle n'a pas
+d'effet sur les mandats acquis antérieurement à la date de la décision.
+
+Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il annule son élection.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 17
+
+	**Cité par**:
+
+	  - Loi n°2013-659 du 22 juillet 2013 - art. 15 (V)
 
 
 ### Titre II : Dispositions spéciales à l'élection des députés
@@ -5965,8 +6076,8 @@ En cas d'égalité de suffrages, le plus âgé des candidats est élu.
 
 ###### Article LO127
 
-Tout citoyen qui a vingt-trois ans révolus et la qualité d'électeur peut être élu à l'Assemblée nationale dans les conditions
-et sous les réserves énoncées aux articles suivants.
+Toute personne qui, à la date du premier tour de scrutin, remplit les conditions pour être électeur et n'entre dans aucun des
+cas d'inéligibilité prévus par le présent livre peut être élue à l'Assemblée nationale.
 
 **Nota:**
 
@@ -5977,7 +6088,7 @@ général de l'Assemblée nationale suivant sa promulgation.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -5986,17 +6097,26 @@ général de l'Assemblée nationale suivant sa promulgation.
 
 	**Modifié par**:
 
-	  - Loi n°2000-294 du 5 avril 2000 - art. 1 () JORF 6 avril 2000
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
 
 
 ###### Article LO128
 
-Est inéligible pendant un an celui qui n'a pas déposé l'une des déclarations prévues à l'article LO. 135-1. 
+Ne peuvent pas faire acte de candidature : 
 
-Est également inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
-prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit. Peut également être déclaré
-inéligible, pour la même durée, celui qui a dépassé le plafond des dépenses électorales tel qu'il résulte de l'article L.
-52-11.
+1° Pendant une durée maximale de trois ans suivant la date de sa décision, les personnes déclarées inéligibles par le juge
+administratif en application des articles L. 118-3 et L. 118-4 ; 
+
+2° Pendant une durée maximale de trois ans suivant la date de sa décision, les personnes déclarées inéligibles par le Conseil
+constitutionnel en application des articles LO 136-1 et LO 136-3 ; 
+
+3° Pendant un an suivant la date de sa décision, les personnes déclarées inéligibles par le Conseil constitutionnel en
+application de l'article LO 136-2.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
@@ -6017,37 +6137,42 @@ inéligible, pour la même durée, celui qui a dépassé le plafond des dépense
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°88-226 du 11 mars 1988 - art. 14 (V)
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°95-62 du 19 janvier 1995 - art. 9 () JORF 20 janvier 1995
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
 
 	**Cite**:
 
-	  - Code électoral - art. L52-11 (V)
-	  - Code électoral - art. L52-12 (V)
-	  - Code électoral - art. LO135-1 (VT)
+	  - Code électoral - art. L118-3
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. LO136-2 (V)
+	  - Code électoral - art. LO136-3 (V)
 
 
 ###### Article LO129
 
-Sont inéligibles les individus condamnés lorsque la condamnation empêche d'une manière définitive leur inscription sur une
-liste électorale.
+Les majeurs en tutelle ou en curatelle sont inéligibles.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
 	  - Décret n°84-558 du 4 juillet 1984 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
 
 
 ###### Article LO130
@@ -6056,13 +6181,16 @@ Sont inéligibles pendant la durée de leurs fonctions :
 
 1° Le Défenseur des droits et ses adjoints (1) ; 
 
-2° Le contrôleur général des lieux de privation de liberté.
+2° Le Contrôleur général des lieux de privation de liberté.
 
 **Nota:**
 
 (1) Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la
 date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4,
 les mots " et ses adjoints ".
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
@@ -6077,46 +6205,23 @@ les mots " et ses adjoints ".
 
 	**Modifié par**:
 
-	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
-
-
-###### Article LO130-1
-
-Le médiateur est inéligible dans toutes les circonscriptions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Loi n°77-729 du 7 juillet 1977 - art. 5 (V)
-
-	**Abrogé par**:
-
 	  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
 
 
 ###### Article LO131
 
-Les inspecteurs généraux de l'administration en mission extraordinaire et les préfets ne peuvent être élus dans toute
-circonscription comprise dans le ressort dans lequel ils exercent ou dans lequel ils ont exercé leurs fonctions depuis moins
-de trois ans.
+Nul ne peut être élu s'il ne justifie avoir satisfait aux obligations imposées par le code du service national.
 
-Les sous-préfets et secrétaires généraux de préfecture sont inéligibles dans toutes les circonscriptions du département dans
-lesquelles ils exercent ou ont exercé leurs fonctions depuis moins d'un an.
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°82-213 1982-03-02 art. 58 JORF 3 mars 1982
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -6125,73 +6230,108 @@ lesquelles ils exercent ou ont exercé leurs fonctions depuis moins d'un an.
 	  - Code électoral - art. LO438-3 (V)
 	  - Code électoral - art. R**215 (V)
 
+	**Modifié par**:
 
-###### Article LO133
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
 
-Ne peuvent être élus dans toute circonscription comprise dans le ressort dans lequel ils exercent ou dans lequel ils ont
-exercé leurs fonctions depuis moins de six mois :
 
-1° les inspecteurs généraux de l'économie nationale, les ingénieurs généraux des ponts et chaussées, les ingénieurs généraux
-du génie rural, des eaux et des forêts, et de l'agriculture, les contrôleurs généraux des services vétérinaires, chargés de
-circonscription ;
+###### Article LO132
 
-2° les magistrats des cours d'appel ;
+I. - Les préfets sont inéligibles en France dans toute circonscription comprise en tout ou partie dans le ressort dans lequel
+ils exercent ou ont exercé leurs fonctions depuis moins de trois ans à la date du scrutin. 
 
-3° les membres des tribunaux administratifs ;
+II. - Sont inéligibles en France dans toute circonscription comprise en tout ou partie dans le ressort dans lequel ils
+exercent ou ont exercé leurs fonctions depuis moins d'un an à la date du scrutin les titulaires des fonctions suivantes : 
 
-4° les magistrats des tribunaux ;
+1° Les sous-préfets, les secrétaires généraux de préfecture, les directeurs de cabinet de préfet et les directeurs des
+services de cabinet de préfet ; 
 
-5° les officiers des armées de terre, de mer et de l'air exerçant un commandement territorial ;
+2° Le secrétaire général et les chargés de mission du secrétariat général pour les affaires régionales ou pour les affaires
+de Corse ; 
 
-6° les recteurs et inspecteurs d'académie ;
+3° Les directeurs de préfecture, les chefs de bureau de préfecture et les secrétaires généraux de sous-préfecture ; 
 
-7° les inspecteurs régionaux et départementaux de la jeunesse et des sports, les inspecteurs de l'enseignement primaire, les
-inspecteurs de l'enseignement technique ;
+4° Les directeurs, directeurs adjoints et chefs de service des administrations civiles de l'Etat dans la région ou le
+département ; 
 
-8° les trésoriers-payeurs généraux, les receveurs particuliers des finances ;
+5° Les directeurs régionaux, départementaux ou locaux des finances publiques et leurs fondés de pouvoir ainsi que les
+comptables publics ; 
 
-9° les directeurs des impôts, les directeurs des douanes et les directeurs des enquêtes économiques ;
+6° Les recteurs d'académie, les inspecteurs d'académie, les inspecteurs d'académie adjoints et les inspecteurs de l'éducation
+nationale chargés d'une circonscription du premier degré ; 
 
-10° les ingénieurs en chef, ingénieurs en chef adjoints et ingénieurs des ponts et chaussées ;
+7° Les inspecteurs du travail ; 
 
-11° les ingénieurs en chef, ingénieurs principaux et ingénieurs des eaux et forêts, chargés de circonscription; les
-ingénieurs en chef et ingénieurs des services agricoles chargés des fonctions de directeur des services agricoles ou
-d'inspecteur de la protection des végétaux; les ingénieurs en chef et ingénieurs du génie rural; les vétérinaires inspecteurs
-en chef, vétérinaires inspecteurs principaux et vétérinaires inspecteurs chargés des fonctions de directeur des services
-vétérinaires; les inspecteurs des lois sociales en agriculture ;
+8° Les responsables de circonscription territoriale ou de direction territoriale des établissements publics de l'Etat et les
+directeurs de succursale et directeurs régionaux de la Banque de France ; 
 
-12° les directeurs régionaux de la sécurité sociale, les inspecteurs divisionnaires du travail, les directeurs départementaux
-et inspecteurs du travail et de la main-d'oeuvre ;
+9° Les magistrats des cours d'appel, des tribunaux de grande instance et les juges de proximité ; 
 
-13° les directeurs des organismes régionaux et locaux de sécurité sociale relevant du contrôle de la cour des comptes et les
-directeurs des caisses régionales de crédit agricole ;
+10° Les présidents des cours administratives d'appel et les magistrats des cours administratives d'appel et des tribunaux
+administratifs ; 
 
-14° les directeurs départementaux de l'action sanitaire et sociale ;
+11° Les présidents de chambre régionale ou territoriale des comptes et les magistrats des chambres régionales ou
+territoriales des comptes ; 
 
-15° les directeurs interdépartementaux des anciens combattants; les secrétaires généraux des offices départementaux des
-combattants ;
+12° Les présidents des tribunaux de commerce et les présidents des conseils de prud'hommes ; 
 
-16° les directeurs départementaux de la construction et de l'urbanisme ;
+13° Les officiers et sous-officiers de la gendarmerie nationale exerçant un commandement territorial ainsi que leurs adjoints
+pour l'exercice de ce commandement ; 
 
-17° les directeurs régionaux et départementaux des postes et télécommunications ;
+14° Les fonctionnaires des corps actifs de la police nationale exerçant un commandement territorial ainsi que leurs adjoints
+pour l'exercice de ce commandement ; 
 
-18° les chefs de division de préfecture, les inspecteurs départementaux des services d'incendie ;
+15° Les militaires, autres que les gendarmes, exerçant un commandement territorial ou le commandement d'une formation
+administrative ainsi que leurs adjoints pour l'exercice de ce commandement ; 
 
-19° les directeurs départementaux de la police et commissaires de police.
+16° Les directeurs des organismes régionaux et locaux de la sécurité sociale relevant du contrôle de la Cour des comptes ; 
+
+17° Les directeurs, directeurs adjoints et secrétaires généraux des agences régionales de santé ; 
+
+18° Les directeurs généraux et directeurs des établissements publics de santé ; 
+
+19° Les directeurs départementaux des services d'incendie et de secours et leurs adjoints ; 
+
+20° Les directeurs généraux, directeurs généraux adjoints, directeurs, directeurs adjoints et chefs de service du conseil
+régional, de la collectivité territoriale de Corse, du conseil général, des communes de plus de 20 000 habitants, des
+communautés de communes de plus de 20 000 habitants, des communautés d'agglomération, des communautés urbaines et des
+métropoles ; 
+
+21° Les directeurs généraux, directeurs généraux adjoints et directeurs des établissements publics dont l'organe délibérant
+est composé majoritairement de représentants des collectivités territoriales ou des groupements de collectivités mentionnés
+au 20° ; 
+
+22° Les membres du cabinet du président du conseil régional, du président de l'Assemblée de Corse, du président du conseil
+exécutif de Corse, du président du conseil général, des maires des communes de plus de 20 000 habitants, des présidents des
+communautés de communes de plus de 20 000 habitants, des présidents des communautés d'agglomération, des présidents des
+communautés urbaines et des présidents des métropoles.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+Une nouvelle version de cet article modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des
+conseillers municipaux, des conseillers communautaires et des conseillers départementaux s’appliquera aux élections
+organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils départementaux, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
-	  - Loi n°85-689 du 10 juillet 1985 - art. 2-1 (Ab)
+	  - Loi n°83-499 du 17 juin 1983 - art. 2 (V)
+	  - Code électoral - art. LO328 (V)
 	  - Code électoral - art. LO394-2 (V)
-	  - Code électoral - art. LO438-3 (V)
+	  - Code électoral - art. LO477-1 (V)
+	  - Code électoral - art. LO504-1 (V)
+	  - Code électoral - art. LO533 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
 
@@ -6233,20 +6373,33 @@ Dans les deux mois qui suivent son entrée en fonction, le député est tenu de 
 transparence financière de la vie politique une déclaration certifiée sur l'honneur exacte et sincère de sa situation
 patrimoniale concernant notamment la totalité de ses biens propres ainsi que, éventuellement, ceux de la communauté ou les
 biens réputés indivis en application de l'article 1538 du code civil. Ces biens sont évalués à la date du fait générateur de
-la déclaration comme en matière de droit de mutation à titre gratuit.
+la déclaration comme en matière de droit de mutation à titre gratuit. 
 
 Les députés communiquent à la Commission pour la transparence financière de la vie politique, pendant l'exercice de leur
-mandat, toutes les modifications substantielles de leur patrimoine, chaque fois qu'ils le jugent utile.
+mandat, toutes les modifications substantielles de leur patrimoine, chaque fois qu'ils le jugent utile. 
 
 Une déclaration conforme aux dispositions qui précèdent est déposée auprès de la Commission pour la transparence financière
 de la vie politique deux mois au plus tôt et un mois au plus tard avant l'expiration du mandat de député ou, en cas de
 dissolution de l'Assemblée nationale ou de cessation du mandat de député pour une cause autre que le décès, dans les deux
 mois qui suivent la fin des fonctions. Le député peut joindre à sa déclaration ses observations sur l'évolution de son
-patrimoine.
+patrimoine. 
 
 Toutefois, aucune nouvelle déclaration n'est exigée du député lorsqu'il a établi depuis moins de six mois une déclaration de
 sa situation patrimoniale en application du présent article ou des articles 1er et 2 de la loi n° 88-227 du 11 mars 1988
-relative à la transparence financière de la vie politique.
+relative à la transparence financière de la vie politique. 
+
+Le fait pour un député d'omettre sciemment de déclarer une part substantielle de son patrimoine ou d'en fournir une
+évaluation mensongère qui porte atteinte à la sincérité de sa déclaration et à la possibilité pour la Commission pour la
+transparence financière de la vie politique d'exercer sa mission est puni de 30 000 € d'amende et, le cas échéant, de
+l'interdiction des droits civiques selon les modalités prévues à l'article 131-26 du code pénal, ainsi que de l'interdiction
+d'exercer une fonction publique selon les modalités prévues à l'article 131-27 du même code. 
+
+Tout manquement aux obligations prévues au troisième alinéa est puni de 15 000 € d'amende.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
@@ -6294,20 +6447,17 @@ relative à la transparence financière de la vie politique.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°88-227 1988-03-11 art. 1, art. 2
-	  - Code civil - art. 1538 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°88-226 du 11 mars 1988 - art. 14 (V)
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°95-63 du 19 janvier 1995 - art. 1 ()
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code civil - art. 1538
 
 
 ###### Article LO135-2
@@ -6351,6 +6501,36 @@ ou utile pour la découverte de la vérité.
 	  - Code électoral - art. LO135-1 (V)
 
 
+###### Article LO135-3
+
+La Commission pour la transparence financière de la vie politique peut demander à un député communication des déclarations
+qu'il a souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de
+l'article 885 W du même code. 
+
+A défaut de communication dans un délai de deux mois des déclarations mentionnées au premier alinéa, la commission peut
+demander à l'administration fiscale copie de ces mêmes déclarations.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 885 W
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L139 B (V)
+
+
 ###### Article LO136
 
 Sera déchu de plein droit de la qualité de membre de l'Assemblée nationale celui dont l'inéligibilité se révélera après la
@@ -6374,14 +6554,31 @@ juridiction qui a prononcé la condamnation.
 
 ###### Article LO136-1
 
-La commission instituée par l'article L. 52-14 saisit le Conseil constitutionnel du cas de tout candidat susceptible de se
-voir opposer les dispositions du deuxième alinéa de l'article L.O. 128. Le Conseil constitutionnel constate, le cas échéant,
-l'inéligibilité et, s'il s'agit du candidat proclamé élu, il le déclare, par la même décision, démissionnaire d'office.
+Saisi d'une contestation formée contre l'élection ou dans les conditions prévues au troisième alinéa de l'article L. 52-15,
+le Conseil constitutionnel peut déclarer inéligible le candidat dont le compte de campagne, le cas échéant après réformation,
+fait apparaître un dépassement du plafond des dépenses électorales. 
 
-La Commission pour la transparence financière de la vie politique saisit le bureau de l'Assemblée nationale du cas de tout
-député susceptible de se voir opposer les dispositions du premier alinéa de l'article L.O. 128. Le Conseil constitutionnel,
-saisi par le bureau de l'Assemblée nationale, constate, le cas échéant, l'inéligibilité et, par la même décision, déclare le
-député démissionnaire d'office.
+Saisi dans les mêmes conditions, le Conseil constitutionnel peut déclarer inéligible le candidat qui n'a pas déposé son
+compte de campagne dans les conditions et le délai prescrits à l'article L. 52-12. 
+
+Il prononce également l'inéligibilité du candidat dont le compte de campagne a été rejeté à bon droit en cas de volonté de
+fraude ou de manquement d'une particulière gravité aux règles relatives au financement des campagnes électorales. 
+
+L'inéligibilité déclarée sur le fondement des trois premiers alinéas du présent article est prononcée pour une durée maximale
+de trois ans et s'applique à toutes les élections. Toutefois, elle n'a pas d'effet sur les mandats acquis antérieurement à la
+date de la décision. 
+
+Lorsque le Conseil constitutionnel a déclaré inéligible un candidat proclamé élu, il annule son élection ou, si l'élection
+n'a pas été contestée, le déclare démissionnaire d'office. 
+
+Sans préjudice de l'article L. 52-15, lorsqu'il constate que la commission instituée par l'article L. 52-14 n'a pas statué à
+bon droit, le Conseil constitutionnel fixe dans sa décision le montant du remboursement forfaitaire prévu à l'article L.
+52-11-1.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
@@ -6402,16 +6599,77 @@ député démissionnaire d'office.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°95-63 du 19 janvier 1995 - art. 2 ()
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 5
 
 	**Cite**:
 
-	  - Code électoral - art. L52-14 (M)
-	  - Code électoral LO128 al. 2, L52-14
+	  - Code électoral - art. L52-11-1 (V)
+	  - Code électoral - art. L52-12
+	  - Code électoral - art. L52-14 (V)
+	  - Code électoral - art. L52-15
+
+
+###### Article LO136-2
+
+La Commission pour la transparence financière de la vie politique saisit le bureau de l'Assemblée nationale du cas de tout
+député qui n'a pas déposé l'une des déclarations prévues à l'article LO 135-1. 
+
+Le Conseil constitutionnel, saisi par le bureau de l'Assemblée nationale, constate, le cas échéant, l'inéligibilité du député
+concerné et le déclare démissionnaire d'office par la même décision.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 5
+
+	**Cité par**:
+
+	  - Code électoral - art. LO128 (V)
+	  - Code électoral - art. LO135-1 (V)
+
+
+###### Article LO136-3
+
+Saisi d'une contestation contre l'élection, le Conseil constitutionnel peut déclarer inéligible, pour une durée maximale de
+trois ans, le candidat qui a accompli des manœuvres frauduleuses ayant eu pour objet ou pour effet de porter atteinte à la
+sincérité du scrutin. 
+
+L'inéligibilité déclarée sur le fondement du premier alinéa s'applique à toutes les élections. Toutefois, elle n'a pas
+d'effet sur les mandats acquis antérieurement à la date de la décision. 
+
+Lorsque le Conseil constitutionnel a déclaré inéligible un candidat proclamé élu, il annule son élection ou, si l'élection
+n'a pas été contestée, le déclare démissionnaire d'office.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 5
+
+	**Cité par**:
+
+	  - Code électoral - art. L234 (V)
+	  - Code électoral - art. L341-1 (V)
+	  - Code électoral - art. L45-1 (V)
+	  - Code électoral - art. LO128 (V)
+	  - Code électoral - art. LO489 (V)
+	  - Code électoral - art. LO516 (V)
+	  - Code électoral - art. LO544 (V)
 
 
 #### Chapitre IV : Incompatibilités
@@ -6826,40 +7084,31 @@ portées à un an d'emprisonnement et 7 500 euros d'amende.
 
 ###### Article LO151
 
-Le député qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés au présent code doit, dans les
-trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du Conseil
-constitutionnel, se démettre des fonctions ou mandats incompatibles avec son mandat parlementaire ou, s'il est titulaire d'un
-emploi public, demander à être placé dans la position spéciale prévue par son statut.
+Le député qui se trouve dans un des cas d'incompatibilité mentionnés à l'article LO 141 est tenu de faire cesser cette
+incompatibilité en démissionnant du mandat de son choix, au plus tard le trentième jour qui suit la date de la proclamation
+des résultats de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de contestation, la date à laquelle le
+jugement confirmant cette élection est devenu définitif. 
 
-A l'expiration du délai prévu au premier alinéa ci-dessus, le député qui se trouve dans un des cas d'incompatibilité visés à
-l'article L.O. 141 est déclaré démissionnaire d'office par le Conseil constitutionnel à la requête du bureau de l'Assemblée
-nationale ou du garde des sceaux, ministre de la justice.
+A défaut d'option dans le délai imparti, le mandat local acquis à la date la plus ancienne prend fin de plein droit. 
 
-Dans le délai prévu au premier alinéa ci-dessus, tout député est tenu de déposer sur le bureau de l'Assemblée nationale une
-déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
-général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
-déclarer, dans les mêmes formes, tout élément de nature à modifier sa déclaration initiale.
+En cas d'élections acquises le même jour, l'intéressé est déclaré démissionnaire d'office du mandat acquis dans la
+circonscription comptant le moins grand nombre d'habitants. 
 
-Le bureau examine si les activités ainsi déclarées sont compatibles avec le mandat parlementaire. S'il y a doute sur la
-compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le bureau de l'Assemblée nationale,
-le garde des sceaux, ministre de la Justice ou le député lui-même, saisit le Conseil constitutionnel qui apprécie
-souverainement si le député intéressé se trouve dans un cas d'incompatibilité.
+Si la cause d'incompatibilité survient postérieurement à l'élection à l'Assemblée nationale, le droit d'option est ouvert à
+l'élu dans les mêmes conditions à compter de la date de la proclamation des résultats de l'élection qui l'a mis en situation
+d'incompatibilité ou, en cas de contestation, de la date à laquelle le jugement confirmant cette élection est devenu
+définitif.
 
-Dans l'affirmative, le député doit régulariser sa situation dans le délai de trente jours à compter de la notification qui
-lui est faite de la décision du Conseil constitutionnel. A défaut, le Conseil constitutionnel le déclare démissionnaire
-d'office de son mandat.
+**Nota:**
 
-Le député qui n'a pas procédé à la déclaration prévue au troisième alinéa ou qui a méconnu les dispositions des articles L.O.
-149 et L.O. 150 est déclaré démissionnaire d'office, sans délai, par le Conseil constitutionnel, à la requête du bureau de
-l'Assemblée nationale ou du garde des sceaux, ministre de la justice.
-
-La démission d'office est aussitôt notifiée au président de l'Assemblée nationale. Elle n'entraîne pas d'inéligibilité.
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -6875,35 +7124,34 @@ La démission d'office est aussitôt notifiée au président de l'Assemblée nat
 
 	**Modifié par**:
 
-	  - Loi n°2000-294 du 5 avril 2000 - art. 4 ()
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
 
 	**Cite**:
 
-	  - Code électoral - art. L141 (Ab)
-	  - Code électoral - art. LO149 (M)
-	  - Code électoral - art. LO150 (M)
+	  - Code électoral - art. LO141
 
 
 ###### Article LO151-1
 
-Tout député qui acquiert un mandat électoral propre à le placer dans un des cas d'incompatibilité visés à l'article LO 141
-postérieurement à son élection à l'Assemblée nationale dispose, pour démissionner du mandat de son choix, d'un délai de
-trente jours à compter de la date de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de contestation, de la
-date à laquelle le jugement confirmant cette élection est devenu définitif. A défaut d'option dans le délai imparti, le
-mandat acquis ou renouvelé à la date la plus récente prend fin de plein droit.
+Au plus tard le trentième jour qui suit son entrée en fonction ou, en cas de contestation de son élection, la date de la
+décision du Conseil constitutionnel, le député qui se trouve dans un cas d'incompatibilité mentionné aux articles LO 139, LO
+140 et LO 142 à LO 148 se démet des fonctions ou mandats incompatibles avec son mandat parlementaire. S'il est titulaire d'un
+emploi public, il demande à être placé dans la position spéciale prévue par son statut.
 
-Pour l'application du présent article, lorsque les élections législatives ou sénatoriales sont organisées le même jour que
-d'autres élections, ces dernières sont réputées postérieures quel que soit le moment de la proclamation des résultats.
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2000-294 du 5 avril 2000 - art. 5 ()
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
 
 	**Cité par**:
 
@@ -6915,7 +7163,88 @@ d'autres élections, ces dernières sont réputées postérieures quel que soit 
 
 	**Cite**:
 
-	  - Code électoral - art. L141 (Ab)
+	  - Code électoral - art. LO139
+	  - Code électoral - art. LO142
+
+
+###### Article LO151-2
+
+Dans le délai prévu à l'article LO 151-1, tout député dépose sur le bureau de l'Assemblée nationale une déclaration certifiée
+sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt général, même non rémunérées,
+qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. Toutefois, cette déclaration ne fait pas mention des
+activités visées à l'article LO 148. En cours de mandat, il doit déclarer, dans les mêmes formes, tout élément de nature à
+modifier sa déclaration initiale. 
+
+Le bureau examine si les activités ainsi déclarées sont compatibles avec le mandat parlementaire. S'il y a doute sur la
+compatibilité des fonctions ou activités exercées, le bureau de l'Assemblée nationale, le garde des sceaux, ministre de la
+justice, ou le député lui-même saisit le Conseil constitutionnel. 
+
+Si le Conseil constitutionnel décide que le député est en situation d'incompatibilité, ce dernier régularise sa situation au
+plus tard le trentième jour qui suit la notification de la décision du Conseil constitutionnel. 
+
+A défaut, le Conseil constitutionnel le déclare démissionnaire d'office de son mandat.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
+
+	**Cite**:
+
+	  - Code électoral - art. LO148
+	  - Code électoral - art. LO151-1
+
+	**Cité par**:
+
+	  - Code électoral - art. LO151-3 (V)
+
+
+###### Article LO151-3
+
+Le député qui n'a pas respecté les articles LO 149 ou LO 150 ou qui n'a pas procédé à la déclaration prévue à l'article LO
+151-2 est déclaré démissionnaire d'office par le Conseil constitutionnel, à la requête du bureau de l'Assemblée nationale ou
+du garde des sceaux, ministre de la justice.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
+
+	**Cite**:
+
+	  - Code électoral - art. LO149
+	  - Code électoral - art. LO151-2
+
+
+###### Article LO151-4
+
+La démission d'office prononcée par le Conseil constitutionnel est aussitôt notifiée au président de l'Assemblée nationale et
+au ministre de l'intérieur. 
+
+Elle n'entraîne pas d'inéligibilité.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
 
 
 ###### Article LO152
@@ -6970,16 +7299,25 @@ L'incompatibilité ne prend pas effet si le Gouvernement est démissionnaire ava
 ###### Article L154
 
 Les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leurs nom, prénoms, sexe, date et lieu
-de naissance, domicile et profession.
+de naissance, domicile et profession. 
 
-A cette déclaration sont jointes les pièces de nature à prouver que le candidat est âgé de vingt-trois ans révolus et possède
-la qualité d'électeur.
+A cette déclaration sont jointes les pièces de nature à prouver que le candidat est âgé de dix-huit ans révolus et possède la
+qualité d'électeur. 
+
+Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le candidat a procédé à la
+déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les
+pièces prévues au premier alinéa de ces mêmes articles.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -6989,14 +7327,14 @@ la qualité d'électeur.
 	  - Code électoral - art. L190 (V)
 	  - Code électoral - art. R99 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Le titre IV de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 11 () JORF 9 décembre 2003
+	  - Loi n°2011-412 du 14 avril 2011 - art. 12
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 20
+
+	**Cite**:
+
+	  - Code électoral - art. L52-5 (V)
 
 
 ###### Article L155
@@ -7218,24 +7556,34 @@ Lorsqu'un remplaçant décède pendant la même période, le candidat peut dési
 
 ###### Article LO160
 
-Est interdit l'enregistrement de la candidature d'une personne inéligible.
+Est interdit l'enregistrement de la candidature d'une personne inéligible. Le refus d'enregistrement est motivé. 
 
-S'il apparaît qu'une déclaration de candidature a été déposée par une personne inéligible, le préfet doit surseoir à
-l'enregistrement de la candidature et saisir, dans les vingt-quatre heures, le tribunal administratif qui statue dans les
-trois jours. La décision du tribunal ne peut être contestée que devant le conseil constitutionnel saisi de l'élection.
+Le candidat ou la personne qu'il désigne à cet effet peut, dans les vingt-quatre heures qui suivent la notification du refus
+d'enregistrement, le contester devant le tribunal administratif. Celui-ci rend sa décision au plus tard le troisième jour
+suivant le jour de sa saisine. La décision du tribunal ne peut être contestée que devant le conseil constitutionnel saisi de
+l'élection.
 
-Si les délais mentionnés à l'alinéa précédent ne sont pas respectés, la candidature doit être enregistrée.
+Si le tribunal ne s'est pas prononcé dans le délai imparti, la candidature est enregistrée.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
 	  - Loi n°83-499 du 17 juin 1983 - art. 3 (V)
 	  - Code électoral - art. LO304 (V)
+
+	**Modifié par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 13
 
 
 #### Chapitre VI : Propagande
@@ -7264,30 +7612,29 @@ Les dispositions de l'article L. 51 sont applicables à partir du même jour.
 
 ###### Article L165
 
-Un décret en Conseil d' Etat fixe le nombre et les dimensions de s affiches que chaque candidat peut faire apposer sur les
-emplacements prévus à l'article L. 51 ainsi que le nombre et les dimensions des circulaires et bulletins de vote qu'il peut
-faire imprimer et envoyer aux électeurs.
+Un décret en Conseil d'Etat fixe le nombre et les dimensions des affiches que chaque candidat peut faire apposer sur les
+emplacements et panneaux d'affichage visés à l'article L. 51 ainsi que le nombre et les dimensions des circulaires et
+bulletins de vote qu'il peut faire imprimer et envoyer aux électeurs. 
 
 Sous réserve des dispositions de l'article L. 163 le bulletin de vote doit comporter le nom du candidat et celui du
-remplaçant.
+remplaçant. 
 
-L'impression et l'utilisation, sous quelque forme que ce soit, de tout autre circulaire, affiche ou bulletin et de tout tract
-sont interdites.
+L'impression et l'utilisation, sous quelque forme que ce soit, de tout autre circulaire, affiche ou bulletin sont interdites.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+	  - Loi n°2011-412 du 14 avril 2011 - art. 7
 
 	**Cite**:
 
-	  - Code électoral - art. L163 (M)
-	  - Code électoral - art. L51 (M)
+	  - Code électoral - art. L163
+	  - Code électoral - art. L51
 
 	**Cité par**:
 
@@ -7296,10 +7643,6 @@ sont interdites.
 	  - Code électoral - art. L356 (V)
 	  - Code électoral - art. L558-28 (V)
 	  - Code électoral - art. R*104 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code électoral R26 A R30 ET R103
 
 
 ###### Article L166
@@ -7703,27 +8046,25 @@ l'Assemblée nationale.
 
 ###### Article LO179
 
-Conformément à l'article 32 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil
-constitutionnel, le ministre de l'intérieur ou le ministre chargé de l'outre-mer communique sans délai à l'Assemblée
-nationale les noms des personnes proclamées élues.
+Sont fixées par l'article 32 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil
+constitutionnel : 
 
-Les procès-verbaux des commissions chargées du recensement, auxquels le représentant de l'Etat joint l'expédition de l'acte
-de naissance et le bulletin n° 2 du casier judiciaire des élus et de leurs remplaçants, sont tenus à la disposition des
-personnes inscrites sur les listes électorales et des personnes ayant fait une déclaration de candidature, pendant un délai
-de dix jours.
+1° Les modalités de communication à l'Assemblée nationale des noms des personnes proclamées élues ; 
 
-Passé ce délai, les procès-verbaux et leurs annexes sont déposés aux archives départementales ou à celles de la collectivité.
-Ils ne peuvent être communiqués qu'au Conseil constitutionnel, à sa demande.
+2° La durée pendant laquelle les procès-verbaux des commissions chargées du recensement et les pièces qui y sont jointes sont
+tenus à la disposition des personnes auxquelles le droit de contester l'élection est ouvert ; 
+
+3° Les modalités de versement des documents mentionnés au 2° aux archives et de leur communication.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 58-1067 1958-11-07 art. 32
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 32
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -7733,51 +8074,50 @@ Ils ne peuvent être communiqués qu'au Conseil constitutionnel, à sa demande.
 
 	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 12 () JORF 22 février 2007
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 14
 
 
 ###### Article LO180
 
-Ainsi qu'il est dit à l'article 33 de l'ordonnance n° 58-1067 du 7 novembre 1958, l'élection d'un député peut être contestée
-devant le Conseil constitutionnel durant les dix jours qui suivent la proclamation des résultats du scrutin.
+Sont fixés par l'article 33 de l'ordonnance n° 58-1067 du 7 novembre 1958 précitée : 
 
-Le droit de contester une élection appartient à toutes les personnes inscrites sur les listes électorales de la
-circonscription dans laquelle il a été procédé à l'élection ainsi qu'aux personnes qui ont fait acte de candidature.
+1° Le délai pendant lequel l'élection d'un député peut être contestée ; 
+
+2° La détermination des personnes auxquelles ce droit est ouvert.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 33 (V)
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 33
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 14
 
 
 ###### Article LO181
 
-Ainsi qu'il est dit à l'article 34 de l'ordonnance n° 58-1067 du 7 novembre 1958, le Conseil constitutionnel ne peut être
-saisi que par une requête écrite adressée au secrétariat général du Conseil ou au préfet.
-
-Le représentant de l'Etat avise, par voie électronique, le secrétaire général et assure la transmission de la requête dont il
-a été saisi.
-
-Le secrétaire général du Conseil donne sans délai avis à l'Assemblée nationale des requêtes dont il a été saisi ou avisé.
+Les modalités de la saisine du Conseil constitutionnel sont fixées par l'article 34 de l'ordonnance n° 58-1067 du 7 novembre
+1958 précitée.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 34 (M)
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 34
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 12 () JORF 22 février 2007
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 14
 
 
 ###### Article LO182
@@ -7872,24 +8212,23 @@ et proclamer le candidat qui a été régulièrement élu.
 
 ###### Article LO186-1
 
-Ainsi qu'il est dit à l'article 41-1 de l'ordonnance n° 58-1067 du 7 novembre 1958, le Conseil, si l'instruction fait
-apparaître qu'un candidat se trouve dans l'un des cas mentionnés au deuxième alinéa de l'article L.O. 128, prononce son
-inéligibilité conformément à cet article et, s'il s'agit du candidat proclamé élu, annule son élection.
+L'inéligibilité et, le cas échéant, l'annulation de l'élection du candidat visées à l'article LO 136-1 sont prononcées par le
+Conseil constitutionnel dans les conditions fixées à l'article 41-1 de l'ordonnance n° 58-1067 du 7 novembre 1958 précitée.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 41-1 (V)
-	  - Code électoral LO128 al. 2
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 41-1
+	  - Code électoral - art. LO136-1
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-383 du 10 mai 1990 - art. 8 () JORF 11 mai 1990
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 14
 
 
 ###### Article LO187
@@ -8295,14 +8634,14 @@ cessation de leurs fonctions.
 
 ###### Article L197
 
-Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
-prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+Ne peuvent pas faire acte de candidature les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4,
+LO 136-1 ou LO 136-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -8312,11 +8651,12 @@ prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rej
 
 	**Modifié par**:
 
-	  - Loi n°96-300 du 10 avril 1996 - art. 3 ()
+	  - Loi n°2011-412 du 14 avril 2011 - art. 18
 
 	**Cite**:
 
-	  - Code électoral - art. L52-12 (M)
+	  - Code électoral - art. L118-3
+	  - Code électoral - art. LO136-1
 
 
 ###### Article L199
@@ -8691,10 +9031,14 @@ Tout candidat à l'élection au conseil général doit obligatoirement, avant ch
 de candidature dans les conditions prévues par un décret en Conseil d'Etat. Cette déclaration, revêtue de la signature du
 candidat, énonce les nom, prénoms, sexe, date et lieu de naissance, domicile et profession. Elle mentionne également la
 personne appelée à remplacer le candidat comme conseiller général dans le cas prévu à l'article L. 221. Les articles L. 155
-et L. 163 sont applicables à la désignation du remplaçant. Le candidat et son remplaçant sont de sexe différent.
+et L. 163 sont applicables à la désignation du remplaçant. Le candidat et son remplaçant sont de sexe différent. 
 
 A cette déclaration sont jointes les pièces propres à prouver que le candidat et son remplaçant répondent aux conditions
 d'éligibilité prévues par l'article L. 194. 
+
+Pour le premier tour de scrutin dans les cantons de 9 000 habitants et plus, sont également jointes les pièces de nature à
+prouver que le candidat a procédé à la déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a
+pas procédé à cette déclaration, les pièces prévues au premier alinéa de ces mêmes articles. 
 
 Si la déclaration de candidature n'est pas conforme aux dispositions du premier alinéa, qu'elle n'est pas accompagnée des
 pièces mentionnées au deuxième alinéa ou si ces pièces n'établissent pas que le candidat et son remplaçant répondent aux
@@ -8721,8 +9065,7 @@ premier tour peuvent se maintenir au second.
 
 **Nota:**
 
-Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions de cet article entrent en vigueur à compter du premier
-renouvellement par moitié des conseils généraux qui suit la publication de la présente loi. (Date indéterminée).
+
 
 **Liens relatifs à cet article**
 
@@ -8732,13 +9075,14 @@ renouvellement par moitié des conseils généraux qui suit la publication de la
 
 	**Modifié par**:
 
-	  - Loi n°2010-1563 du 16 décembre 2010 - art. 2
+	  - Loi n°2011-412 du 14 avril 2011 - art. 12
 
 	**Cite**:
 
 	  - Code électoral - art. L155
 	  - Code électoral - art. L163
 	  - Code électoral - art. L194
+	  - Code électoral - art. L52-5
 
 	**Cité par**:
 
@@ -8753,7 +9097,7 @@ renouvellement par moitié des conseils généraux qui suit la publication de la
 
 ###### Article L211
 
-L'impression et l'utilisation, sous quelque forme que ce soit, de circulaires, tracts, affiches et bulletins de vote pour la
+L'impression et l'utilisation, sous quelque forme que ce soit, de circulaires,  affiches et bulletins de vote pour la
 propagande électorale, en dehors des conditions fixées par les dispositions en vigueur, sont interdites.
 
 **Liens relatifs à cet article**
@@ -8775,7 +9119,11 @@ propagande électorale, en dehors des conditions fixées par les dispositions en
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 7
 
 
 ###### Article L212
@@ -9543,22 +9891,24 @@ Les dispositions des articles L. 199 et L. 201 à L. 203 sont applicables.
 
 ###### Article L234
 
-Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
-prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+Ne peuvent pas faire acte de candidature les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4,
+LO 136-1 ou LO 136-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°96-300 du 10 avril 1996 - art. 3 ()
+	  - Loi n°2011-412 du 14 avril 2011 - art. 18
 
 	**Cite**:
 
-	  - Code électoral - art. L52-12 (M)
+	  - Code électoral - art. L118-3
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. LO136-3 (V)
 
 
 ###### Article L235
@@ -9873,14 +10223,18 @@ l'article L. 239.
 
 ###### Article L240
 
-L'impression et l'utilisation, sous quelque forme que ce soit, de circulaires, tracts, affiches et bulletins de vote pour la
+L'impression et l'utilisation, sous quelque forme que ce soit, de circulaires,  affiches et bulletins de vote pour la
 propagande électorale en dehors des conditions fixées par les dispositions en vigueur sont interdites.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2011-412 du 14 avril 2011 - art. 7
 
 	**Cité par**:
 
@@ -10644,34 +10998,38 @@ personne ayant eu la qualité de responsable de la liste constituée par ces can
 ###### Article L265
 
 La déclaration de candidature résulte du dépôt à la préfecture ou à la sous-préfecture d'une liste répondant aux conditions
-fixées aux articles L. 260, L. 263, L. 264 et LO 265-1. Il en est délivré récépissé.
+fixées aux articles L. 260, L. 263, L. 264 et LO. 265-1. Il en est délivré récépissé. 
 
 Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
 candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
 personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
-second tours. La liste déposée indique expressément :
+second tours. La liste déposée indique expressément : 
 
-1° Le titre de la liste présentée ;
+1° Le titre de la liste présentée ; 
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
 
 Le dépôt de la liste doit être assorti, pour le premier tour, de l'ensemble des mandats des candidats qui y figurent ainsi
 que des documents officiels qui justifient qu'ils satisfont aux conditions posées par les deux premiers alinéas de l'article
-L. 228.
+L. 228. 
 
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
 compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
-signature.
+signature. 
 
 Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
-procèdent à aucune modification de leur composition au second tour.
+procèdent à aucune modification de leur composition au second tour. 
+
+Pour le premier tour de scrutin dans les communes de 9 000 habitants et plus, sont également jointes les pièces de nature à
+prouver que le candidat a procédé à la déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a
+pas procédé à cette déclaration, les pièces prévues au premier alinéa de ces mêmes articles. 
 
 Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies et si les documents officiels
 visés au quatrième alinéa établissent que les candidats satisfont aux conditions d'éligibilité posées par les deux premiers
-alinéas de l'article L. 228.
+alinéas de l'article L. 228. 
 
 En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose de vingt-quatre heures pour saisir
-le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête.
+le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête. 
 
 Faute par le tribunal administratif d'avoir statué dans ce délai, le récépissé est délivré.
 
@@ -10679,7 +11037,7 @@ Faute par le tribunal administratif d'avoir statué dans ce délai, le récépis
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -10689,22 +11047,17 @@ Faute par le tribunal administratif d'avoir statué dans ce délai, le récépis
 	  - Code électoral - art. R128 (V)
 	  - Code électoral - art. R128-3 (VD)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Le titre VI de la présente ordonnance est applicable en Nouvelle-Calédonie
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
-
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 27 () JORF 9 décembre 2003
+	  - Loi n°2011-412 du 14 avril 2011 - art. 12
 
 	**Cite**:
 
-	  - Code électoral - art. L228 (V)
-	  - Code électoral - art. L260 (V)
-	  - Code électoral - art. L263 (V)
-	  - Code électoral - art. L264 (M)
-	  - Code électoral L260, L263, L264, L228, LO 265-1
+	  - Code électoral - art. L228
+	  - Code électoral - art. L260
+	  - Code électoral - art. L263
+	  - Code électoral - art. L52-5
+	  - Code électoral - art. LO265-1
 
 
 ###### Article L266
@@ -12116,37 +12469,6 @@ Les dispositions de l'article LO. 160 sont applicables.
 
 #### Chapitre V : Propagande
 
-###### Article L306
-
-Des réunions électorales pour l'élection des sénateurs peuvent être tenues au cours des six semaines qui précèdent le jour du
-scrutin.
-
-Les membres du collège électoral de la circonscription et leurs suppléants, ainsi que les candidats et leurs remplaçants,
-peuvent seuls assister à ces réunions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 14 () JORF 11 juillet 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2011-412 du 14 avril 2011 - art. 19
-
-	**Cité par**:
-
-	  - Code électoral - art. R154 (V)
-
-
 ###### Article L307
 
 Sont applicables :
@@ -12643,22 +12965,23 @@ titre Ier et des articles L. 47, L. 48, L. 51, L. 52, L. 53 et L. 85-1.
 
 Pour l'application de ces dispositions à l'élection des députés par les Français établis hors de France : 
 
-1° Il y a lieu de lire : " liste électorale consulaire " au lieu de : " liste électorale " et " circonscription " au lieu
-de : " commune " ; 
+1° Il y a lieu de lire : " liste électorale consulaire " au lieu de : " liste électorale " et, aux articles L. 71 et L. 72, "
+circonscription consulaire " au lieu de : " commune " ; 
 
 2° Un décret en Conseil d'Etat détermine les attributions conférées au préfet et au maire qui sont exercées par le ministre
 des affaires étrangères, par le ministre de l'intérieur, par l'ambassadeur ou par le chef de poste consulaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
+	  - Loi n°2011-411 du 14 avril 2011 - art. 2
 
 	**Cite**:
 
 	  - Code électoral - art. L47
 	  - Code électoral - art. L51
+	  - Code électoral - art. L71 (V)
 	  - Code électoral - art. L85-1
 
 
@@ -12691,6 +13014,57 @@ Il est chargé du contrôle des inscriptions sur ces listes.
 	**Créé par**:
 
 	  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
+
+
+###### Article LO328
+
+Les dispositions ayant valeur organique du titre II du livre Ier sont applicables à l'élection des députés par les Français
+établis hors de France, à l'exception de l'article LO. 132.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 15
+
+	**Cite**:
+
+	  - Code électoral - art. LO132
+
+
+###### Article LO329
+
+Les chefs de mission diplomatique et les chefs de poste consulaire ne peuvent pas faire acte de candidature à l'élection des
+députés par les Français établis hors de France dans toute circonscription incluant le ressort dans lequel ils exercent ou
+ont exercé leurs fonctions depuis moins de trois ans à la date du scrutin. 
+
+En outre, ne peuvent être élus dans toute circonscription incluant le ressort dans lequel ils exercent ou ont exercé leurs
+fonctions depuis moins d'un an à la date du scrutin : 
+
+1° Les adjoints des chefs de mission diplomatique et des chefs de poste consulaire ; 
+
+2° Les chefs de missions militaires et des services civils placés auprès d'eux, ainsi que leurs adjoints ; 
+
+3° Les fonctionnaires consulaires honoraires, au sens de la convention de Vienne sur les relations consulaires du 24 avril
+1963 ; 
+
+4° Les officiers exerçant un commandement dans la circonscription.
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 15
 
 
 ### Section 1 : Liste électorale
@@ -12750,14 +13124,19 @@ du précédent alinéa.
 
 ###### Article L330-4
 
-Chaque candidat ou son représentant peut prendre communication et copie de la liste électorale consulaire à l'ambassade, au
-poste consulaire ou au ministère des affaires étrangères. Il en est de même de tout parti ou groupement politique représenté
-par un mandataire dûment habilité. 
+Les candidats ou leurs représentants peuvent prendre communication et copie des listes électorales de la circonscription à
+l'ambassade, au poste consulaire ou au ministère des affaires étrangères. Il en est de même de tout parti ou groupement
+politique représenté par un mandataire dûment habilité. 
+
+Les députés élus par les Français établis hors de France peuvent prendre communication et copie de l'ensemble des listes
+électorales consulaires de leur circonscription.
 
 Tout électeur peut prendre communication et copie de la liste électorale consulaire sur laquelle il est inscrit au lieu de
-son dépôt ou du double de cette liste au ministère des affaires étrangères. Toutefois, cette faculté peut être restreinte ou
-refusée si, en raison de circonstances locales, la divulgation des informations relatives à l'adresse ou à la nationalité
-française des personnes inscrites est de nature à porter atteinte à leur sécurité ou à leur sûreté.
+son dépôt ou du double de cette liste au ministère des affaires étrangères. 
+
+La faculté prévue au présent article peut être restreinte ou refusée si, en raison de circonstances locales, la divulgation
+des informations relatives à l'adresse ou à la nationalité française des personnes inscrites est de nature à porter atteinte
+à la sécurité ou à leur sûreté.
 
 **Liens relatifs à cet article**
 
@@ -12771,9 +13150,9 @@ française des personnes inscrites est de nature à porter atteinte à leur séc
 	  - Décret n°2015-1407 du 5 novembre 2015 - art. Annexe 1 (V)
 	  - Loi n°2016-1919 du 29 décembre 2016 - art. 3 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
+	  - Loi n°2011-411 du 14 avril 2011 - art. 2
 
 
 ### Section 2 : Déclaration de candidature
@@ -12782,16 +13161,16 @@ française des personnes inscrites est de nature à porter atteinte à leur séc
 
 Par dérogation à l'article L. 157 : 
 
-1° Les déclarations de candidature sont déposées au plus tard le troisième vendredi précédant le premier tour de scrutin
-auprès de l'autorité ministérielle compétente ; 
+1° (Abrogé) ; 
 
-2° Outre le candidat et son remplaçant, le mandataire du candidat est habilité à remettre la déclaration de candidature.
+2° Outre le candidat et son remplaçant, un représentant du candidat, spécialement mandaté, peut remettre la déclaration de
+candidature.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
+	  - Loi n°2011-411 du 14 avril 2011 - art. 2
 
 	**Cité par**:
 
@@ -12810,13 +13189,18 @@ A l'intérieur des locaux des ambassades et des postes consulaires et des bureau
 emplacements sont réservés, pendant la durée de la campagne électorale, pour l'apposition des affiches électorales des
 candidats. 
 
-Dans chacun de ces emplacements, une surface égale est attribuée à chaque candidat. 
+Dans chacun de ces emplacements, une surface égale est attribuée à chaque candidat.
+
+Pendant la durée de la campagne électorale et sous réserve des nécessités de service, l'Etat met ses locaux diplomatiques,
+consulaires, culturels et scolaires à la disposition des candidats qui en font la demande pour la tenue de réunions
+électorales.
 
 Les attributions de la commission prévue à l'article L. 166 sont exercées par la commission électorale mentionnée à l'article
 7 de la loi organique du 31 janvier 1976 susmentionnée. 
 
-Les ambassades et les postes consulaires assurent l'envoi aux électeurs des circulaires et des bulletins de vote des
-candidats dans des conditions fixées par décret en Conseil d'Etat. 
+Les ambassades et les postes consulaires participent à l'envoi aux électeurs des circulaires et des bulletins de vote des
+candidats dans des conditions fixées par décret en Conseil d'Etat. Ils les tiennent à disposition des électeurs dans leurs
+locaux.
 
 Les références à l'article L. 51 figurant aux articles L. 164 et L. 165 s'entendent des références au présent article.
 
@@ -12829,9 +13213,9 @@ Les références à l'article L. 51 figurant aux articles L. 164 et L. 165 s'ent
 	  - Code électoral - art. L166
 	  - Code électoral - art. L51
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
+	  - Loi n°2011-411 du 14 avril 2011 - art. 2
 
 	**Cité par**:
 
@@ -12842,6 +13226,43 @@ Les références à l'article L. 51 figurant aux articles L. 164 et L. 165 s'ent
 
 
 ### Section 4 : Financement de la campagne électorale
+
+###### Article L330-6-1
+
+Par dérogation à l'article L. 52-4, le mandataire peut autoriser par écrit une personne par pays de la circonscription, autre
+que le candidat ou son suppléant, à régler des dépenses mentionnées dans l'autorisation. Ces dépenses sont remboursées par le
+mandataire. Les autorisations sont annexées au compte de campagne. 
+
+En outre, dans les pays où la monnaie n'est pas convertible, dans ceux où les transferts financiers en France sont
+impossibles et dans ceux où existe un contrôle des changes faisant obstacle en tout ou partie aux transferts nécessaires aux
+dépenses électorales, la personne autorisée mentionnée au premier alinéa peut, avec l'accord du mandataire, ouvrir un compte
+spécial dans le pays concerné pour y déposer les fonds collectés pour la campagne. Dans la limite des fonds disponibles, les
+dépenses mentionnées dans l'autorisation sont réglées à partir de ce compte spécial. 
+
+Toutes les informations relatives à ces comptes et aux justificatifs des mouvements enregistrés sont transmises au mandataire
+du candidat pour être annexées au compte de campagne. 
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-411 du 14 avril 2011 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 5 octobre 2011 - art. 1 (Ab)
+	  - Arrêté du 12 juin 2014 - art. 1 (Ab)
+	  - Arrêté du 28 décembre 2016 - art. 1 (V)
+	  - Arrêté du 28 décembre 2016 - art. 2
+	  - Code électoral - art. R175-1 (V)
+	  - Code électoral - art. R175-2 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-4
+
 
 ###### Article L330-7
 
@@ -12920,17 +13341,33 @@ remboursement est forfaitaire, dans la limite de plafonds fixés par zones géog
 	  - Code électoral - art. L52-11-1 (V)
 
 
-###### Article L330-10
+###### Article L330-9-1
 
-Les montants en euros fixés par le chapitre V bis du titre Ier sont remplacés par leur contre-valeur exprimée dans la ou les
-devises qui ont cours dans la circonscription. Le taux de change utilisé pour procéder aux opérations prévues à l'article L.
-52-12 est celui en vigueur le 1er janvier précédant l'élection.
+Par dérogation au deuxième alinéa de l'article L. 52-12, le compte de campagne doit être déposé avant dix-huit heures le
+quinzième vendredi qui suit le tour de scrutin où l'élection a été acquise.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
+	  - Loi n°2011-411 du 14 avril 2011 - art. 2
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12
+
+
+###### Article L330-10
+
+Les montants en euros fixés par le chapitre V bis du titre Ier sont remplacés par leur contre-valeur exprimée dans la ou les
+devises qui ont cours dans la circonscription. Le taux de change utilisé pour procéder aux opérations prévues à l'article L.
+52-12 est celui en vigueur le premier jour du douzième mois précédant l'élection.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2011-411 du 14 avril 2011 - art. 2
 
 	**Cite**:
 
@@ -13349,31 +13786,29 @@ pénale définitive prononcée à son encontre et entraînant de ce fait la pert
 
 ###### Article L341-1
 
-Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
-prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+Ne peuvent pas faire acte de candidature les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4,
+LO. 136-1 ou LO. 136-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°96-300 du 10 avril 1996 - art. 3 ()
+	  - Loi n°2011-412 du 14 avril 2011 - art. 18
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. LO136-3 (V)
 
 	**Cité par**:
 
 	  - Code électoral - art. L350 (V)
 	  - Code électoral - art. L351 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L52-12 (VT)
 
 
 ###### Article LO340-1
@@ -13542,35 +13977,40 @@ de la liste sur laquelle ils figuraient au premier tour.
 ###### Article L347
 
 La déclaration de candidature résulte du dépôt à la préfecture chef-lieu de la région d'une liste répondant aux conditions
-fixées aux articles L. 338, L. 346 et L. 348.
+fixées aux articles L. 338, L. 346 et L. 348. 
 
 Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
-établi par ce candidat. Elle indique expressément :
+établi par ce candidat. Elle indique expressément : 
 
-1° Le titre de la liste présentée ;
+1° Le titre de la liste présentée ; 
 
-2° Les nom et prénoms du candidat tête de liste ;
+2° Les nom et prénoms du candidat tête de liste ; 
 
-3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
+3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
 
 Pour chaque tour de scrutin, la déclaration comporte la signature de chaque candidat, sauf, pour le second tour, lorsque la
-composition d'une liste n'a pas été modifiée.
+composition d'une liste n'a pas été modifiée. 
+
+Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le candidat a procédé à la
+déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les
+pièces prévues au premier alinéa de ces mêmes articles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 2004-12-09 art. 14 2° JORF 10 décembre 2004
+	  - Loi n°2011-412 du 14 avril 2011 - art. 12
 
 	**Cite**:
 
-	  - Code électoral - art. L338 (M)
-	  - Code électoral - art. L346 (M)
-	  - Code électoral - art. L348 (M)
+	  - Code électoral - art. L338
+	  - Code électoral - art. L346 (V)
+	  - Code électoral - art. L348 (V)
+	  - Code électoral - art. L52-5
 
 	**Cité par**:
 
@@ -14237,24 +14677,32 @@ arrêtés des représentants de l'Etat dans les collectivités concernées.
 
 Une déclaration de candidature est obligatoire pour chaque liste de candidats et chaque tour de scrutin. Sur chacune des
 listes, l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à un. Chaque liste est composée
-alternativement d'un candidat de chaque sexe.
+alternativement d'un candidat de chaque sexe. 
 
 La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
-porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité territoriale.
+porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité territoriale. 
+
+Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le candidat a procédé à la
+déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les
+pièces prévues au premier alinéa de ces mêmes articles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2003-1201 2003-12-18 article unique JORF 19 décembre 2003
+	  - Loi n°2011-412 du 14 avril 2011 - art. 12
 
 	**Cité par**:
 
 	  - Code électoral - art. L372 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L52-5
 
 
 ###### Article L372
@@ -14817,8 +15265,8 @@ statistique et des études économiques "  ;
 ###### Article L388
 
 Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la
-loi n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures, à l'exception
-des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
+loi n° 2011-412 du 14 avril 2011 portant simplification de dispositions du code électoral et relative à la transparence
+financière de la vie politique, à l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
 
@@ -14832,23 +15280,26 @@ du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
 titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-
 mer ; 
 
-5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française. 
+5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
-Le présent article, dans sa rédaction issue de la loi n° 2009-526 du 12 mai 2009 précitée, entre en vigueur en Nouvelle-
-Calédonie le 11 mai 2009.
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°61-814 du 29 juillet 1961
-	  - Loi n°99-209 du 19 mars 1999
-	  - Loi organique n°2004-192 du 27 février 2004
-	  - Loi n°2009-526 du 12 mai 2009 (V)
-	  - Code électoral - art. L15
-	  - Code électoral - art. L15-1
-	  - Code électoral - art. L46-1
-	  - Code électoral - art. L66
+	  - Loi n°61-814 du 29 juillet 1961 (V)
+	  - Loi n°99-209 du 19 mars 1999 (V)
+	  - Loi n°2004-192 du 27 février 2004 (V)
+	  - Loi n°2011-412 du 14 avril 2011 (V)
+	  - Code électoral - art. L15 (V)
+	  - Code électoral - art. L46-1 (V)
+	  - Code électoral - art. L66 (V)
 
 	**Cité par**:
 
@@ -14858,7 +15309,7 @@ Calédonie le 11 mai 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 2
+	  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
 
 
 ###### Article L389
@@ -15001,7 +15452,7 @@ de 545 000 francs CFP, de 18 180 francs CFP et de 1 818 000 francs CFP.
 <table>
   <tbody>
     <tr>
-      <td rowspan="3" width="227">
+      <td width="227" rowspan="3">
 
 Fraction de la population
 
@@ -15020,7 +15471,7 @@ Plafond par habitant des dépenses électorales (en Francs CFP)
 Election des conseillers municipaux
 
 </td>
-      <td width="227" rowspan="2" valign="top">
+      <td valign="top" width="227" rowspan="2">
 
 Election des membres du congrès et des assemblées de province de la Nouvelle-Calédonie
 
@@ -15043,39 +15494,39 @@ au second tour
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 N'excédant pas 15 000 habitants
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 146
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 200
 
 </td>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 127
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 De 15 001 à 30 000 habitants
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 128
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 182
 
@@ -15087,7 +15538,7 @@ De 15 001 à 30 000 habitants
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 De 30 001 à 60 000 habitants
 
@@ -15102,7 +15553,7 @@ De 30 001 à 60 000 habitants
 146
 
 </td>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 91
 
@@ -15114,12 +15565,12 @@ De 30 001 à 60 000 habitants
 Plus de 60 000 habitants
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 100
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 137
 
@@ -15138,168 +15589,168 @@ Plus de 60 000 habitants
 <table>
   <tbody>
     <tr>
-      <td width="223" rowspan="3">
+      <td rowspan="3">
 
 FRACTION DE LA POPULATION
 
 DE LA CIRCONSCRIPTION
 
 </td>
-      <td width="452" colspan="4">
+      <td colspan="4">
 
 PLAFOND PAR HABITANT DES DÉPENSES ÉLECTORALES (EN FRANCS CFP)
 
 </td>
     </tr>
     <tr>
-      <td width="225" colspan="2">
+      <td colspan="2">
 
-Election des conseillers municipaux
+Election des conseillers municipaux 
 
 </td>
-      <td colspan="2" width="224">
+      <td colspan="2">
 
 Election des membres
 
-de l'assemblée de la Polynésie française
+de l'assemblée de la Polynésie française 
 
 </td>
     </tr>
     <tr>
-      <td width="112">
+      <td>
 
 Listes présentes
 
-au premier tour
+au premier tour 
 
 </td>
-      <td width="111">
+      <td>
 
 Listes présentes
 
 au second tour
 
 </td>
-      <td width="111">
+      <td>
 
 Listes présentes
 
-au premier tour
+au premier tour 
 
 </td>
-      <td width="111">
+      <td>
 
 Listes présentes
 
-au second tour
+au second tour 
 
 </td>
     </tr>
     <tr>
-      <td width="223" valign="top">
+      <td align="center">
 
 N'excédant pas 15 000 habitants 
 
 </td>
-      <td width="112" valign="top">
+      <td align="center">
 
-156
-
-</td>
-      <td valign="top" width="111">
-
-214
+156 
 
 </td>
-      <td width="111" valign="top">
+      <td align="center">
 
-136
-
-</td>
-      <td width="111" valign="top">
-
-186
+214 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="223">
+      <td align="center">
 
-De 15 001 à 30 000 habitants 
+136 
 
 </td>
-      <td valign="top" width="112">
+      <td align="center">
 
-137
-
-</td>
-      <td valign="top" width="111">
-
-195
-
-</td>
-      <td valign="top" width="111">
-
-107
-
-</td>
-      <td width="111" valign="top">
-
-152
+186 
 
 </td>
     </tr>
     <tr>
-      <td width="223" valign="top">
+      <td align="center">
 
-De 30 001 à 60 000 habitants 
-
-</td>
-      <td width="112" valign="top">
-
-118
+De 15 001 à 30 000 habitants
 
 </td>
-      <td width="111" valign="top">
+      <td align="center">
 
-156
-
-</td>
-      <td valign="top" width="111">
-
-97
+137 
 
 </td>
-      <td width="111" valign="top">
+      <td align="center">
 
-129
+195 
+
+</td>
+      <td align="center">
+
+107 
+
+</td>
+      <td align="center">
+
+152 
 
 </td>
     </tr>
     <tr>
-      <td width="223" valign="top">
+      <td align="center">
 
-De plus de 60 000 habitants 
-
-</td>
-      <td valign="top" width="112">
-
-107
+De 30 001 à 60 000 habitants
 
 </td>
-      <td valign="top" width="111">
+      <td align="center">
 
-147
-
-</td>
-      <td width="111" valign="top">
-
-68
+118 
 
 </td>
-      <td valign="top" width="111">
+      <td align="center">
 
-94
+156 
+
+</td>
+      <td align="center">
+
+97 
+
+</td>
+      <td align="center">
+
+129 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+De plus de 60 000 habitants
+
+</td>
+      <td align="center">
+
+107 
+
+</td>
+      <td align="center">
+
+147 
+
+</td>
+      <td align="center">
+
+68 
+
+</td>
+      <td align="center">
+
+94 
 
 </td>
     </tr>
@@ -15309,8 +15760,8 @@ De plus de 60 000 habitants
 5° Le plafond des dépenses pour l'élection des députés mentionné au troisième alinéa de l'article L. 52-11 est de 4 545 000
 francs CFP ; il est majoré de 20 francs CFP par habitant de la circonscription. 
 
-6° Dans l'article L. 52-11, la référence à l'indice du coût de la vie de l'Institut national de la statistique et des études
-économiques est remplacée : 
+6° Aux articles L. 52-8 et L. 52-11, la référence à l'indice du coût de la vie de l'Institut national de la statistique et
+des études économiques est remplacée : 
 
 a) En Nouvelle-Calédonie, par la référence à l'indice du coût de la vie (hors tabac) de l'Institut territorial de la
 statistique et des études économiques ; 
@@ -15339,14 +15790,14 @@ auprès des services du représentant de l'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1720 du 7 décembre 2007 - art. 1
+	  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
 
 	**Cite**:
 
-	  - Code électoral - art. L52-10 (V)
-	  - Code électoral - art. L52-11 (V)
-	  - Code électoral - art. L52-12 (V)
-	  - Code électoral - art. L52-8 (V)
+	  - Code électoral - art. L52-10
+	  - Code électoral - art. L52-11
+	  - Code électoral - art. L52-12
+	  - Code électoral - art. L52-8
 
 
 ###### Article L392-2
@@ -15585,25 +16036,25 @@ délimitées conformément au tableau n° 1 bis annexé au présent code.
 ###### Article L395
 
 Les dispositions du titre II du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la loi
-n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer, sont
-applicables à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, à
-l'exception du deuxième alinéa de l'article L. 125 et de l'article L. 175.
+n° 2011-412 du 14 avril 2011 portant simplification de dispositions du code électoral et relative à la transparence
+financière de la vie politique, sont applicables à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et
+dans les îles Wallis et Futuna, à l'exception du deuxième alinéa de l'article L. 125 et de l'article L. 175.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°2007-224 2007-02-21
-	  - Code électoral - art. L125 (M)
-	  - Code électoral - art. L175 (M)
+	  - Loi n°2011-412 du 14 avril 2011
+	  - Code électoral - art. L125
+	  - Code électoral - art. L175
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 2007-02-21 art. 9 1° JORF 22 février 2007
+	  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
 
 
 ###### Article L396
@@ -15668,24 +16119,48 @@ Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
 
 ###### Article LO394-2
 
-Pour l'application des dispositions des articles LO 131 et LO 133, un décret pris après avis conforme du Conseil d'Etat
-déterminera celles des fonctions exercées en Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna qui
-sont assimilées, quelle que soit la collectivité dont elles relèvent, aux fonctions énumérées auxdits articles.
+I. - Pour l'application de l'article LO 132 en Nouvelle-Calédonie, il y a lieu de lire : 
+
+1° " de la Nouvelle-Calédonie " au lieu de : " du conseil régional " ; 
+
+2° " président du congrès de la Nouvelle-Calédonie " au lieu de : " président du conseil régional " ; 
+
+3° " président d'une assemblée de province " au lieu de : " président de l'Assemblée de Corse " ; 
+
+4° " président du gouvernement de la Nouvelle-Calédonie " au lieu de : " président du conseil exécutif de Corse ". 
+
+II. - Pour l'application de l'article LO. 132 en Polynésie française, il y a lieu de lire : 
+
+1° " de la Polynésie française " au lieu de : " du conseil régional " ; 
+
+2° " président de l'assemblée de la Polynésie française " au lieu de : " président du conseil régional " ; 
+
+3° " président de la Polynésie française " au lieu de : " président du conseil exécutif de Corse ". 
+
+III. - Pour l'application de l'article LO. 132 dans les îles Wallis et Futuna, il y a lieu de lire : 
+
+1° " des îles Wallis et Futuna " au lieu de : " du conseil régional " ; 
+
+2° " président de l'assemblée territoriale " au lieu de : " président du conseil régional ".
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 4
 
 	**Cite**:
 
-	  - Code électoral - art. LO131 (V)
-	  - Code électoral - art. LO133 (V)
+	  - Code électoral - art. LO132 (VD)
 
 	**Cité par**:
 
@@ -16492,10 +16967,11 @@ statué sur la réclamation.
 ###### Article L428
 
 Pour l'élection des conseillers municipaux en Nouvelle-Calédonie, les dispositions du titre IV du livre Ier sont applicables,
-dans leur rédaction en vigueur à la date de promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions
-statutaires et institutionnelles relatives à l'outre-mer, sous réserve des dispositions prévues au présent chapitre.
+dans leur rédaction en vigueur à la date de promulgation de la loi n° 2011-412 du 14 avril 2011 portant simplification de
+dispositions du code électoral et relative à la transparence financière de la vie politique, sous réserve des dispositions
+prévues au présent chapitre. 
 
-Pour son application en Nouvelle-Calédonie, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé :
+Pour son application en Nouvelle-Calédonie, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé : 
 
 " 8° Le directeur du cabinet du président et des membres du gouvernement, du président du congrès et des présidents des
 assemblées de province, le secrétaire général et les secrétaires généraux adjoints de la Nouvelle-Calédonie et les
@@ -16503,20 +16979,27 @@ secrétaires généraux des provinces, les directeurs généraux, inspecteurs g�
 adjoints de la Nouvelle-Calédonie ou des provinces ou de l'un des établissements publics de la Nouvelle-Calédonie ou des
 provinces. "
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°2007-224 2007-02-21
-	  - Code électoral - art. L231 (M)
+	  - Loi n°2011-412 du 14 avril 2011
+	  - Code électoral - art. L231
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 2007-02-21 art. 9 2° JORF 22 février 2007
+	  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
 
 
 ###### Article L429
@@ -16739,18 +17222,26 @@ municipaux et communautaires, y compris aux opérations préparatoires à ce scr
 Les dispositions du chapitre II du titre IV du livre Ier du présent code, dans leur rédaction en vigueur à la date de
 promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à
 l'outre-mer, sont applicables dans les communes du territoire de la Polynésie française de moins de 3 500 habitants et de 3
-500 habitants et plus composées de communes associées.
+500 habitants et plus composées de communes associées. 
 
 Les dispositions du chapitre III du titre IV du livre Ier du présent code, dans leur rédaction en vigueur à la date de
-promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à
-l'outre-mer, à l'exception des trois derniers alinéas de l'article L. 261, sont applicables aux communes du territoire de la
-Polynésie française de 3 500 habitants et plus qui ne sont pas composées de communes associées.
+promulgation de la loi n° 2011-412 du 14 avril 2011 portant simplification de dispositions du code électoral et relative à la
+transparence financière de la vie politique, à l'exception des trois derniers alinéas de l'article L. 261, sont applicables
+aux communes du territoire de la Polynésie française de 3 500 habitants et plus qui ne sont pas composées de communes
+associées.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -16761,12 +17252,13 @@ Polynésie française de 3 500 habitants et plus qui ne sont pas composées de c
 
 	**Cite**:
 
-	  - Loi n°2007-224 2007-02-21
-	  - Code électoral - art. L261 (V)
+	  - Loi n°2007-224 du 21 février 2007
+	  - Loi n°2011-412 du 14 avril 2011
+	  - Code électoral - art. L261
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 2007-02-21 art. 9 1° JORF 22 février 2007
+	  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
 
 
 ### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
@@ -16775,24 +17267,25 @@ Polynésie française de 3 500 habitants et plus qui ne sont pas composées de c
 
 Les dispositions du titre III, des chapitres Ier à VII du titre IV et du titre VI du livre II, à l'exception de l'article L.
 301, ainsi que celles des articles L. 385 à L. 387, sont applicables, dans leur rédaction en vigueur à la date de
-promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à
-l'outre-mer, à l'élection des sénateurs en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
+promulgation de la loi n° 2011-412 du 14 avril 2011 portant simplification de dispositions du code électoral et relative à la
+transparence financière de la vie politique, à l'élection des sénateurs en Polynésie française, en Nouvelle-Calédonie et dans
+les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°2007-224 2007-02-21
-	  - Code électoral - art. L301 (M)
-	  - Code électoral L301, L385 à L387
+	  - Loi n°2011-412 du 14 avril 2011
+	  - Code électoral - art. L301
+	  - Code électoral - art. L385
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 2007-02-21 art. 9 2° JORF 22 février 2007
+	  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
 
 	**Cité par**:
 
@@ -17134,29 +17627,22 @@ c) " chef de circonscription territoriale " au lieu de : " sous-préfet ".
 
 ###### Article LO438-3
 
-Pour l'application des articles LO 131 et LO 133, un décret pris après avis conforme du Conseil d'Etat déterminera celles des
-fonctions exercées en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna qui sont assimilées,
-quelle que soit la collectivité dont elles relèvent, aux fonctions énumérées auxdits articles.
-
-**Nota:**
-
-Loi 2003-696 du 30 juillet 2003 art. 6 III : Ces dispositions prennent effet pour la Nouvelle-Calédonie et la Polynésie
-française à compter du prochain renouvellement de la série à laquelle elles appartiennent.
+L'article LO. 394-2 est applicable à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-696 du 30 juillet 2003 - art. 6 (V) JORF 31 juillet 2003
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 16
 
 	**Cite**:
 
-	  - Code électoral - art. LO131 (V)
-	  - Code électoral - art. LO133 (V)
+	  - Code électoral - art. LO394-2
 
 
 ### Titre VIII : Conditions d'application
@@ -17502,6 +17988,30 @@ scrutin est organisé le samedi.
 	  - Code électoral - art. L55 (V)
 
 
+###### Article LO477-1
+
+Pour l'application de l'article LO. 132 à Saint-Barthélemy, il y a lieu de lire : 
+
+1° " de la collectivité de Saint-Barthélemy " au lieu de : " du conseil régional " ; 
+
+2° " président du conseil territorial " au lieu de : " président du conseil régional ".
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 4
+
+	**Cite**:
+
+	  - Code électoral - art. LO132 (VD)
+
+
 #### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux
 
 ###### Article L487
@@ -17815,7 +18325,7 @@ application des lois qui autorisent cette privation ;
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
 leurs fonctions à Saint-Barthélemy depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ; 
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
@@ -17870,18 +18380,20 @@ Défenseur des enfants.
 	**Cite**:
 
 	  - Loi n°88-227 du 11 mars 1988
-	  - Code électoral - art. L118-3
+	  - Code électoral - art. L118-3 (V)
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. LO136-3 (V)
 	  - Code général des collectivités territoriales - art. LO6221-3
-
-	**Modifié par**:
-
-	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 	**Cité par**:
 
 	  - Loi organique n°2011-333 du 29 mars 2011 - art. 44 (V)
 	  - Code électoral - art. L487 (V)
 	  - Code électoral - art. LO493 (V)
+
+	**Modifié par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 6
 
 
 ###### Article LO493
@@ -17968,33 +18480,36 @@ de ses droits civiques, civils et de famille.
 
 ###### Article LO495
 
-Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO 493
+Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO. 493
 doit, dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du
 Conseil d'Etat, démissionner de son mandat de conseiller territorial ou mettre fin à la situation incompatible avec
 l'exercice de celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert
-dans les mêmes conditions.
+dans les mêmes conditions. 
 
 A l'expiration du délai prévu au premier alinéa, le conseiller territorial qui se trouve dans un des cas d'incompatibilité
-visés à l'article LO 493 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de l'Etat ou
-de tout électeur.
+visés au I de l'article LO. 493 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de
+l'Etat ou de tout électeur. 
+
+A l'expiration du délai prévu au premier alinéa du présent article, les deuxième et troisième alinéas de l'article LO. 151
+sont applicables au conseiller territorial qui se trouve dans un des cas d'incompatibilité visés au II de l'article LO. 493. 
 
 Dans le délai prévu au premier alinéa, tout conseiller territorial est tenu d'adresser au représentant de l'Etat une
 déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
 général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
 déclarer dans les mêmes formes tout élément de nature à modifier sa déclaration initiale. Ces déclarations sont publiées au
-bulletin officiel de la collectivité.
+bulletin officiel de la collectivité. 
 
 Le représentant de l'Etat examine si les activités ainsi déclarées sont compatibles avec le mandat de conseiller territorial.
 S'il y a doute sur la compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le représentant
 de l'Etat, le conseiller territorial lui-même ou tout électeur saisit le Conseil d'Etat qui apprécie si le conseiller
-territorial intéressé se trouve dans un cas d'incompatibilité.
+territorial intéressé se trouve dans un cas d'incompatibilité. 
 
 Si une incompatibilité est constatée, le conseiller territorial doit régulariser sa situation dans un délai de trente jours à
 compter de la notification qui lui est faite de la décision du Conseil d'Etat. A défaut, le Conseil d'Etat le déclare
-démissionnaire d'office de son mandat.
+démissionnaire d'office de son mandat. 
 
 Le conseiller territorial qui n'a pas procédé à la déclaration prévue au premier alinéa est déclaré démissionnaire d'office
-sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur.
+sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur. 
 
 La démission d'office est aussitôt notifiée au représentant de l'Etat, au président du conseil territorial et à l'intéressé.
 Elle n'entraîne pas d'inéligibilité.
@@ -18003,11 +18518,11 @@ Elle n'entraîne pas d'inéligibilité.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 10
 
 	**Cité par**:
 
@@ -18015,7 +18530,8 @@ Elle n'entraîne pas d'inéligibilité.
 
 	**Cite**:
 
-	  - Code électoral - art. LO493 (V)
+	  - Code électoral - art. LO151 (VT)
+	  - Code électoral - art. LO493
 
 
 ###### Article LO496
@@ -18310,6 +18826,30 @@ est organisé le samedi.
 	**Cite**:
 
 	  - Code électoral - art. L55 (V)
+
+
+###### Article LO504-1
+
+Pour l'application de l'article LO. 132 à Saint-Martin, il y a lieu de lire : 
+
+1° " de la collectivité de Saint-Martin " au lieu de : " du conseil régional " ; 
+
+2° " président du conseil territorial " au lieu de : " président du conseil régional ".
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 4
+
+	**Cite**:
+
+	  - Code électoral - art. LO132 (VD)
 
 
 #### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux
@@ -18661,7 +19201,7 @@ application des lois qui autorisent cette privation ;
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
 leurs fonctions à Saint-Martin depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ; 
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
@@ -18716,12 +19256,14 @@ Défenseur des enfants.
 	**Cite**:
 
 	  - Loi n°88-227 du 11 mars 1988
-	  - Code électoral - art. L118-3
+	  - Code électoral - art. L118-3 (V)
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. LO136-3 (V)
 	  - Code général des collectivités territoriales - art. LO6321-3
 
 	**Modifié par**:
 
-	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 6
 
 	**Cité par**:
 
@@ -18812,33 +19354,36 @@ de ses droits civiques, civils et de famille.
 
 ###### Article LO522
 
-Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO 520
+Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO. 520
 doit, dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du
 Conseil d'Etat, démissionner de son mandat de conseiller territorial ou mettre fin à la situation incompatible avec
 l'exercice de celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert
-dans les mêmes conditions.
+dans les mêmes conditions. 
 
 A l'expiration du délai prévu au premier alinéa, le conseiller territorial qui se trouve dans un des cas d'incompatibilité
-visés à l'article LO 520 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de l'Etat ou
-de tout électeur.
+visés au I de l'article LO. 520 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de
+l'Etat ou de tout électeur. 
+
+A l'expiration du délai prévu au premier alinéa du présent article, les deuxième et troisième alinéas de l'article LO. 151
+sont applicables au conseiller territorial qui se trouve dans un des cas d'incompatibilité visés au II de l'article LO. 520. 
 
 Dans le délai prévu au premier alinéa, tout conseiller territorial est tenu d'adresser au représentant de l'Etat une
 déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
 général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
 déclarer dans les mêmes formes tout élément de nature à modifier sa déclaration initiale. Ces déclarations sont publiées au
-Bulletin officiel de la collectivité.
+Bulletin officiel de la collectivité. 
 
 Le représentant de l'Etat examine si les activités ainsi déclarées sont compatibles avec le mandat de conseiller territorial.
 S'il y a doute sur la compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le représentant
 de l'Etat, le conseiller territorial lui-même ou tout électeur saisit le Conseil d'Etat qui apprécie si le conseiller
-territorial intéressé se trouve dans un cas d'incompatibilité.
+territorial intéressé se trouve dans un cas d'incompatibilité. 
 
 Si une incompatibilité est constatée, le conseiller territorial doit régulariser sa situation dans un délai de trente jours à
 compter de la notification qui lui est faite de la décision du Conseil d'Etat. A défaut, le Conseil d'Etat le déclare
-démissionnaire d'office de son mandat.
+démissionnaire d'office de son mandat. 
 
 Le conseiller territorial qui n'a pas procédé à la déclaration prévue au premier alinéa est déclaré démissionnaire d'office
-sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur.
+sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur. 
 
 La démission d'office est aussitôt notifiée au représentant de l'Etat, au président du conseil territorial et à l'intéressé.
 Elle n'entraîne pas d'inéligibilité.
@@ -18847,11 +19392,11 @@ Elle n'entraîne pas d'inéligibilité.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 10
 
 	**Cité par**:
 
@@ -18859,7 +19404,8 @@ Elle n'entraîne pas d'inéligibilité.
 
 	**Cite**:
 
-	  - Code électoral - art. LO520 (V)
+	  - Code électoral - art. LO151
+	  - Code électoral - art. LO520
 
 
 ###### Article LO523
@@ -19185,6 +19731,34 @@ inclus dans le plafond des dépenses.
 	**Cite**:
 
 	  - Code électoral - art. L52-11 (VT)
+
+
+###### Article LO533
+
+Pour l'application de l'article LO. 132 à Saint-Pierre-et-Miquelon, il y a lieu de lire : 
+
+1° " de la collectivité de Saint-Pierre-et-Miquelon " au lieu de : " du conseil régional " ; 
+
+2° " président du conseil territorial " au lieu de : " président du conseil régional ".
+
+**Nota:**
+
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
+général de l'Assemblée nationale suivant sa promulgation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 4
+
+	**Cite**:
+
+	  - Code électoral - art. LO132 (VD)
 
 
 #### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux
@@ -19542,13 +20116,13 @@ application des lois qui autorisent cette privation ;
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
 leurs fonctions à Saint-Pierre-et-Miquelon depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ; 
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer certaines des fonctions qui lui sont dévolues par
 la loi, conformément à l'article LO 6431-3 du code général des collectivités territoriales ; 
 
-6° Le Défenseur des droits(1). 
+6° Le Défenseur des droits (1). 
 
 II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Pierre-et-Miquelon
 ou s'ils les ont exercées depuis moins de six mois : 
@@ -19593,12 +20167,14 @@ Défenseur des enfants.
 	**Cite**:
 
 	  - Loi n°88-227 du 11 mars 1988
-	  - Code électoral - art. L118-3
+	  - Code électoral - art. L118-3 (V)
+	  - Code électoral - art. LO136-1 (V)
+	  - Code électoral - art. LO136-3 (V)
 	  - Code général des collectivités territoriales - art. LO6431-3
 
 	**Modifié par**:
 
-	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 6
 
 	**Cité par**:
 
@@ -19689,33 +20265,36 @@ de ses droits civiques, civils et de famille.
 
 ###### Article LO550
 
-Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO 548
+Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO. 548
 doit, dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du
 Conseil d'Etat, démissionner de son mandat de conseiller territorial ou mettre fin à la situation incompatible avec
 l'exercice de celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert
-dans les mêmes conditions.
+dans les mêmes conditions. 
 
 A l'expiration du délai prévu au premier alinéa, le conseiller territorial qui se trouve dans un des cas d'incompatibilité
-visés à l'article LO 548 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de l'Etat ou
-de tout électeur.
+visés au I de l'article LO. 548 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de
+l'Etat ou de tout électeur. 
+
+A l'expiration du délai prévu au premier alinéa du présent article, les deuxième et troisième alinéas de l'article LO. 151
+sont applicables au conseiller territorial qui se trouve dans un des cas d'incompatibilité visés au II de l'article LO. 548. 
 
 Dans le délai prévu au premier alinéa, tout conseiller territorial est tenu d'adresser au représentant de l'Etat une
 déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
 général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
 déclarer dans les mêmes formes tout élément de nature à modifier sa déclaration initiale. Ces déclarations sont publiées au
-bulletin officiel de la collectivité.
+bulletin officiel de la collectivité. 
 
 Le représentant de l'Etat examine si les activités ainsi déclarées sont compatibles avec le mandat de conseiller territorial.
 S'il y a doute sur la compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le représentant
 de l'Etat, le conseiller territorial lui-même ou tout électeur saisit le Conseil d'Etat qui apprécie si le conseiller
-territorial intéressé se trouve dans un cas d'incompatibilité.
+territorial intéressé se trouve dans un cas d'incompatibilité. 
 
 Si une incompatibilité est constatée, le conseiller territorial doit régulariser sa situation dans un délai de trente jours à
 compter de la notification qui lui est faite de la décision du Conseil d'Etat. A défaut, le Conseil d'Etat le déclare
-démissionnaire d'office de son mandat.
+démissionnaire d'office de son mandat. 
 
 Le conseiller territorial qui n'a pas procédé à la déclaration prévue au premier alinéa est déclaré démissionnaire d'office
-sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur.
+sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur. 
 
 La démission d'office est aussitôt notifiée au représentant de l'Etat, au président du conseil territorial et à l'intéressé.
 Elle n'entraîne pas d'inéligibilité.
@@ -19724,11 +20303,11 @@ Elle n'entraîne pas d'inéligibilité.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-410 du 14 avril 2011 - art. 10
 
 	**Cité par**:
 
@@ -19736,7 +20315,8 @@ Elle n'entraîne pas d'inéligibilité.
 
 	**Cite**:
 
-	  - Code électoral - art. LO548 (V)
+	  - Code électoral - art. LO151
+	  - Code électoral - art. LO548
 
 
 ###### Article LO551
