@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-04-20
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -2002,7 +2002,7 @@ d'incapacité ou d'inéligibilité prévus par la loi.
 
 ###### Article L45
 
-Nul ne peut être élu s'il ne justifie avoir satisfait aux obligations de la loi sur le recrutement de l'armée.
+Nul ne peut être élu s'il ne justifie avoir satisfait aux obligations imposées par le code du service national.
 
 **Liens relatifs à cet article**
 
@@ -2012,7 +2012,11 @@ Nul ne peut être élu s'il ne justifie avoir satisfait aux obligations de la lo
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 181
 
 
 ###### Article L45-1
