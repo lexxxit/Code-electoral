@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-07-18
+Version Consolidée au 2011-07-29
 
 # Partie législative
 
@@ -2073,7 +2073,8 @@ cette activité au sein de sa circonscription.
 ###### Article L46-1
 
 Nul ne peut cumuler plus de deux des mandats électoraux énumérés ci-après : conseiller régional, conseiller à l'Assemblée de
-Corse, conseiller général, conseiller de Paris, conseiller municipal. 
+Corse, conseiller général, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à l'assemblée de Martinique,
+conseiller municipal. 
 
 Quiconque, à l'exception des personnes visées aux articles L. 270, L. 272-6 et L. 360 du présent code, se trouve dans ce cas
 doit faire cesser l'incompatibilité en démissionnant d'un des mandats qu'il détenait antérieurement. Il dispose à cet effet
@@ -2094,7 +2095,7 @@ la date la plus ancienne.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -2114,13 +2115,9 @@ la date la plus ancienne.
 	  - Code électoral - art. L388 (VT)
 	  - Code électoral - art. L558-32 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 5
 
 
 ###### Article L46-2
@@ -11648,6 +11645,8 @@ Les sénateurs sont élus dans chaque département par un collège électoral co
 2° Des conseillers régionaux de la section départementale correspondant au département et des conseillers de l'Assemblée de
 Corse désignés dans les conditions prévues par le titre III bis du présent livre ;
 
+2° bis Des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique ;
+
 3° Des conseillers généraux ;
 
 4° Des délégués des conseils municipaux ou des suppléants de ces délégués.
@@ -11656,7 +11655,7 @@ Corse désignés dans les conditions prévues par le titre III bis du présent l
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -11671,26 +11670,26 @@ Corse désignés dans les conditions prévues par le titre III bis du présent l
 
 	**Modifié par**:
 
-	  - Loi n°2003-327 du 11 avril 2003 - art. 10 () JORF 12 avril 2003
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 6
 
 
 ###### Article L281
 
-Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux qui ont été
-proclamés par les commissions de recensement sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote
-même si leur élection est contestée. En cas d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de
-vote par procuration. Le mandataire doit être membre du collège électoral sénatorial et ne peut disposer de plus d'une
-procuration.
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse, les conseillers à l'assemblée de Guyane, les
+conseillers à l'assemblée de Martinique et les conseillers généraux qui ont été proclamés par les commissions de recensement
+sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote même si leur élection est contestée. En cas
+d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de vote par procuration. Le mandataire doit
+être membre du collège électoral sénatorial et ne peut disposer de plus d'une procuration.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2004-404 du 10 mai 2004 - art. 2 () JORF 11 mai 2004
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 6
 
 
 ###### Article L282
@@ -11698,14 +11697,15 @@ procuration.
 Dans le cas où un conseiller général est député, conseiller régional ou conseiller à l'Assemblée de Corse, un remplaçant lui
 est désigné, sur sa présentation, par le président du conseil général.
 
-Dans le cas où un conseiller régional ou un conseiller à l'Assemblée de Corse est député, un remplaçant lui est désigné, sur
-sa présentation, par le président du conseil régional ou celui de l'Assemblée de Corse.
+Dans le cas où un conseiller régional, un conseiller à l'Assemblée de Corse, un conseiller à l'assemblée de Guyane ou un
+conseiller à l'assemblée de Martinique est député, un remplaçant lui est désigné, sur sa présentation, par le président du
+conseil régional, celui de l'Assemblée de Corse, celui de l'assemblée de Guyane ou celui de l'assemblée de Martinique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -11714,13 +11714,9 @@ sa présentation, par le président du conseil régional ou celui de l'Assemblé
 	  - Code électoral - art. R*148-2 (Ab)
 	  - Code électoral - art. R130-1 (VT)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 12 () JORF 14 mai 1991
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 6
 
 
 ### Titre III : Désignation des délégués des conseils municipaux
@@ -20540,6 +20536,1223 @@ Les conditions d'application du présent livre sont fixées par décret en Conse
 	**Créé par**:
 
 	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+## Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique
+
+### Titre Ier : Election des conseillers à l'assemblée de Guyane
+
+#### Chapitre Ier : Composition de l'assemblée de Guyane 
+et durée du mandat 
+
+
+
+###### Article L558-1
+
+Les conseillers à l'assemblée de Guyane sont élus pour six ans en même temps que les conseillers régionaux. Ils sont
+rééligibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Décret n°2015-939 du 30 juillet 2015 (V)
+
+
+###### Article L558-2
+
+L'assemblée de Guyane est composée de cinquante et un membres. 
+
+Si la population de la collectivité territoriale de Guyane dépasse 249 999 habitants, le nombre de conseillers à l'assemblée
+de Guyane est porté à cinquante-cinq. 
+
+Si la population dépasse 299 999 habitants, il est porté à soixante et un.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-3 (V)
+
+
+#### Chapitre II : Mode de scrutin 
+
+
+###### Article L558-3
+
+La Guyane forme une circonscription électorale unique, composée de huit sections dont la délimitation est fixée conformément
+au tableau ci-après : 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+SECTION 
+
+</td>
+      <td>
+
+COMPOSITION 
+
+de la section 
+
+</td>
+      <td>
+
+NOMBRE 
+
+de sièges 
+
+de la section 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de Cayenne 
+
+</td>
+      <td align="center">
+
+Commune de Cayenne 
+
+</td>
+      <td align="center">
+
+12 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la petite Couronne 
+
+</td>
+      <td align="center">
+
+Communes de Rémire-Montjoly et Matoury 
+
+</td>
+      <td align="center">
+
+10 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la grande Couronne 
+
+</td>
+      <td align="center">
+
+Communes de Macouria, Roura et Montsinéry 
+
+</td>
+      <td align="center">
+
+3 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de l'Oyapock 
+
+</td>
+      <td align="center">
+
+Communes de Régina, Camopi, Saint-Georges-de-l'Oyapock et Ouanary 
+
+</td>
+      <td align="center">
+
+3 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section des Savanes 
+
+</td>
+      <td align="center">
+
+Communes de Sinnamary, Iracoubo, Kourou et Saint-Elie 
+
+</td>
+      <td align="center">
+
+7 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section du Haut-Maroni 
+
+</td>
+      <td align="center">
+
+Communes de Apatou, Grand Santi, Papaïchton, Maripasoula et Saül 
+
+</td>
+      <td align="center">
+
+5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de Saint-Laurent-du-Maroni 
+
+</td>
+      <td align="center">
+
+Commune de Saint-Laurent-du-Maroni 
+
+</td>
+      <td align="center">
+
+8 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la Basse-Mana 
+
+</td>
+      <td align="center">
+
+Communes de Awala Yalimapo et Mana 
+
+</td>
+      <td align="center">
+
+3 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Il est procédé à la révision du nombre de sièges de chaque section lorsque la population de la collectivité territoriale de
+Guyane dépasse les seuils fixés à l'article L. 558-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-2 (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-4 (V)
+
+
+###### Article L558-4
+
+Les conseillers à l'assemblée de Guyane sont élus au scrutin de liste à deux tours, sans adjonction ni suppression de noms et
+sans modification de l'ordre de présentation. Chaque liste est constituée de huit sections. Elle comprend un nombre de
+candidats égal au nombre de sièges dans chaque section, conformément au tableau figurant à l'article L. 558-3, augmenté de
+deux par section. 
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés dans la
+circonscription un nombre de onze sièges, répartis dans chaque section conformément au tableau ci-après : 
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+
+Section de Cayenne 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la petite Couronne 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la grande Couronne 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de l'Oyapock 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section des Savanes 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section du Haut-Maroni 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de Saint-Laurent-du-Maroni 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la Basse-Mana 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Cette attribution opérée, les autres sièges sont répartis au sein de chaque section, entre toutes les listes ayant obtenu au
+moins 5 % des suffrages exprimés sur l'ensemble de la circonscription, au prorata des voix obtenues par chaque liste dans la
+section, à la représentation proportionnelle suivant la règle de la plus forte moyenne. 
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. 
+
+Il est attribué à la liste qui a obtenu le plus de voix à ce second tour dans la circonscription un nombre de onze sièges,
+répartis dans chaque section conformément au tableau du présent article. En cas d'égalité de suffrages entre les listes
+arrivées en tête, ces sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
+attribution opérée, les autres sièges sont répartis au sein de chaque section entre toutes les listes ayant obtenu au moins 5
+% des suffrages exprimés au second tour sur l'ensemble de la circonscription, au prorata des voix obtenues par chaque liste
+dans la section, à la représentation proportionnelle suivant la règle de la plus forte moyenne. 
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège dans une section, celui-ci revient à la liste qui
+a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats
+susceptibles d'être proclamés élus. 
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-20 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L558-3 (V)
+
+
+### Titre II : Election des conseillers à l'assemblée de Martinique
+
+#### Chapitre Ier : Composition de l'assemblée de Martinique et durée du mandat 
+
+
+
+
+###### Article L558-5
+
+Les conseillers à l'assemblée de Martinique sont élus pour six ans en même temps que les conseillers régionaux. Ils sont
+rééligibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Décret n°2015-939 du 30 juillet 2015 (V)
+
+
+###### Article L558-6
+
+L'assemblée de Martinique est composée de cinquante et un membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre II : Mode de scrutin 
+
+
+
+
+###### Article L558-7
+
+La Martinique forme une circonscription électorale unique, composée de quatre sections qui correspondent aux circonscriptions
+pour l'élection des députés en Martinique telles qu'elles figurent au tableau n° 1 annexé au présent code et dont la
+délimitation est fixée conformément au tableau ci-après : 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+SECTION 
+
+</td>
+      <td>
+
+COMPOSITION 
+
+de la section 
+
+</td>
+      <td>
+
+NOMBRE 
+
+de candidats 
+
+de la section 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section du Centre 
+
+</td>
+      <td align="center">
+
+1re circonscription 
+
+</td>
+      <td align="center">
+
+17 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section du Nord 
+
+</td>
+      <td align="center">
+
+2e circonscription 
+
+</td>
+      <td align="center">
+
+16 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de Fort-de-France 
+
+</td>
+      <td align="center">
+
+3e circonscription 
+
+</td>
+      <td align="center">
+
+15 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section du Sud 
+
+</td>
+      <td align="center">
+
+4e circonscription 
+
+</td>
+      <td align="center">
+
+16 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-8 (V)
+
+
+###### Article L558-8
+
+Les conseillers à l'assemblée de Martinique sont élus au scrutin de liste à deux tours, sans adjonction ni suppression de
+noms et sans modification de l'ordre de présentation. Chaque liste est constituée de quatre sections. Elle comprend un nombre
+de candidats par section conformément au tableau figurant à l'article L. 558-7. 
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés dans la
+circonscription un nombre de onze sièges. Cette attribution opérée, les autres sièges sont répartis entre toutes les listes
+ayant obtenu au moins 5 % des suffrages exprimés sur l'ensemble de la circonscription, à la représentation proportionnelle
+suivant la règle de la plus forte moyenne. 
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. 
+
+Il est attribué à la liste qui a obtenu le plus de voix à ce second tour dans la circonscription un nombre de onze sièges. En
+cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont attribués à la liste dont les candidats ont la
+moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges sont répartis entre toutes les listes ayant obtenu
+au second tour au moins 5 % des suffrages exprimés sur l'ensemble de la circonscription, à la représentation proportionnelle
+suivant la règle de la plus forte moyenne. 
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-20 (V)
+	  - Code électoral - art. L558-9 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L558-7
+
+
+###### Article L558-9
+
+Les sièges attribués à chaque liste en application de l'article L. 558-8 sont répartis entre les sections qui la composent au
+prorata des voix obtenues par la liste dans chaque section. Cette attribution opérée, les sièges restant à attribuer sont
+répartis entre les sections selon la règle de la plus forte moyenne. Si plusieurs sections ont la même moyenne pour
+l'attribution du dernier siège, celui-ci revient à la section qui a obtenu le plus grand nombre de suffrages. En cas
+d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être proclamés élus. 
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-8
+
+
+### Titre III : Dispositions communes
+
+#### Chapitre Ier : Conditions d'éligibilité et inéligibilités 
+
+
+
+###### Article L558-10
+
+Nul ne peut être élu s'il n'est âgé de dix-huit ans révolus. 
+
+Sont éligibles tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y être inscrits avant le
+jour de l'élection, qui sont domiciliés dans la collectivité territoriale ou ceux qui, sans y être domiciliés, y sont
+inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait l'élection, ou justifient
+qu'ils devaient y être inscrits à ce jour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-22 (V)
+	  - Code électoral - art. L558-23 (V)
+
+
+###### Article L558-11
+
+Ne sont pas éligibles : 
+
+1° Les personnes énumérées aux articles L. 195 et L. 196, lorsque leurs fonctions concernent ou ont concerné tout ou partie
+du territoire de la collectivité territoriale ; 
+
+2° Les fonctionnaires placés auprès du représentant de l'Etat dans la collectivité territoriale et affectés au secrétariat
+général pour les affaires régionales en qualité de secrétaire général ou de chargé de mission ; 
+
+3° Pour une durée d'un an, le président de l'assemblée de Guyane, le conseiller à l'assemblée de Guyane, le président de
+l'assemblée de Martinique, le conseiller à l'assemblée de Martinique, le président du conseil exécutif de Martinique ou le
+conseiller exécutif de Martinique qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11
+mars 1988 relative à la transparence financière de la vie politique. 
+
+Les articles L. 199 à L. 203 et le cinquième alinéa de l'article L. 340 sont applicables à l'élection des conseillers à
+l'assemblée de Guyane ou de Martinique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°88-227 du 11 mars 1988 - art. 2
+	  - Code électoral - art. L195
+	  - Code électoral - art. L196
+	  - Code électoral - art. L199
+	  - Code électoral - art. L340
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-13 (V)
+	  - Code électoral - art. L558-22 (V)
+	  - Code électoral - art. L558-23 (V)
+
+
+###### Article L558-13
+
+Tout conseiller à l'assemblée de Guyane ou de Martinique qui, pour une cause survenue postérieurement à son élection, se
+trouve dans un cas d'inéligibilité prévu à l'article L. 558-11 ou se trouve frappé d'une des incapacités qui font perdre la
+qualité d'électeur est déclaré démissionnaire d'office par arrêté du représentant de l'Etat dans la collectivité
+territoriale, sauf recours au Conseil d'Etat dans les dix jours de la notification. Lorsqu'un conseiller à l'assemblée de
+Guyane ou de Martinique est déclaré démissionnaire d'office à la suite d'une condamnation pénale définitive prononcée à son
+encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'arrêté du
+représentant de l'Etat dans la collectivité territoriale n'est pas suspensif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-11
+
+
+###### Article L558-14
+
+Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
+prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L52-12
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-22 (V)
+	  - Code électoral - art. L558-23 (V)
+
+
+###### Article LO558-12
+
+Pendant la durée de ses fonctions, le Défenseur des droits ne peut être candidat à un mandat de conseiller à l'assemblée de
+Guyane ou de conseiller à l'assemblée de Martinique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2011-883 du 27 juillet 2011 - art. 5
+
+
+#### Chapitre II : Incompatibilités 
+
+
+
+###### Article L558-15
+
+Le mandat de conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique est incompatible, dans toute la France, avec
+les fonctions énumérées à l'article L. 46 et aux 1° et 6° de l'article L. 195.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L195
+	  - Code électoral - art. L46
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-17 (V)
+
+
+###### Article L558-16
+
+Le mandat de conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique est incompatible avec les fonctions d'agent
+salarié de la collectivité territoriale. 
+
+Ce mandat est également incompatible avec les fonctions d'entrepreneur des services de la collectivité territoriale et celles
+d'agent salarié des établissements publics et agences créés par la collectivité territoriale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-17 (V)
+
+
+###### Article L558-17
+
+Tout conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique qui, au moment de son élection, est placé dans l'une
+des situations prévues aux articles L. 558-15 et L. 558-16 dispose d'un délai d'un mois à partir de la date à laquelle son
+élection est devenue définitive pour démissionner de son mandat ou mettre fin à la situation incompatible avec l'exercice de
+celui-ci. Il fait connaître son option par écrit au représentant de l'Etat dans la collectivité territoriale qui en informe
+le président de l'assemblée. A défaut d'option dans le délai imparti, il est réputé démissionnaire de son mandat ; cette
+démission est constatée par arrêté du représentant de l'Etat dans la collectivité territoriale. 
+
+Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
+A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
+conseiller est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat dans la collectivité territoriale. 
+
+Les arrêtés du représentant de l'Etat dans la collectivité territoriale mentionnés aux deux premiers alinéas peuvent être
+contestés dans les dix jours suivant leur notification devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-15
+	  - Code électoral - art. L558-16
+
+
+###### Article L558-18
+
+Nul ne peut être conseiller à l'assemblée de Guyane et conseiller à l'assemblée de Martinique. 
+
+Nul ne peut être conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique et conseiller régional ou conseiller à
+l'Assemblée de Corse. 
+
+A défaut de leur avoir fait connaître son option dans les trois jours de son élection, celui qui se trouve dans l'une de ces
+situations est déclaré démissionnaire de ses mandats par arrêtés des représentants de l'Etat dans les collectivités
+concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre III : Déclarations de candidature 
+
+
+
+
+###### Article L558-19
+
+Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin. 
+
+Au sein de chaque section, la liste est composée alternativement d'un candidat de chaque sexe. 
+
+Seules peuvent se présenter au second tour de scrutin les listes ayant obtenu au premier tour un nombre de suffrages au moins
+égal à 10 % des suffrages exprimés. Dans le cas où une seule liste remplit cette condition, la liste ayant obtenu après
+celle-ci le plus grand nombre de suffrages au premier tour peut se maintenir au second. Dans le cas où aucune liste ne
+remplit cette condition, les deux listes ayant obtenu le plus grand nombre de suffrages au premier tour peuvent se maintenir
+au second. La composition de ces listes peut être modifiée pour comprendre les candidats ayant figuré au premier tour sur
+d'autres listes, sous réserve que celles-ci aient obtenu au premier tour au moins 5 % des suffrages exprimés et ne se
+présentent pas au second tour. En cas de modification de la composition d'une liste, le titre de la liste et l'ordre de
+présentation des candidats peuvent également être modifiés. 
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
+choix de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture de la collectivité territoriale
+par le candidat tête de la liste sur laquelle ils figuraient au premier tour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-20 (V)
+	  - Code électoral - art. L558-22 (V)
+
+
+###### Article L558-20
+
+La déclaration de candidature résulte du dépôt à la préfecture de la collectivité territoriale d'une liste répondant aux
+conditions fixées aux articles L. 558-4 ou L. 558-8, selon le cas, et aux articles L. 558-19 et L. 558-21. 
+
+Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
+établi par ce candidat. 
+
+Elle indique expressément : 
+
+1° Le titre de la liste présentée ; 
+
+2° Les nom et prénoms du candidat tête de liste ; 
+
+3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+
+Pour chaque tour de scrutin, la déclaration comporte la signature de chaque candidat, sauf, pour le second tour, lorsque la
+composition d'une liste n'a pas été modifiée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-19
+	  - Code électoral - art. L558-21
+	  - Code électoral - art. L558-4
+	  - Code électoral - art. L558-8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-22 (V)
+
+
+###### Article L558-21
+
+Nul ne peut être candidat sur plus d'une liste. 
+
+Est nul et non avenu l'enregistrement de listes portant le nom d'une ou plusieurs personnes figurant sur une autre liste de
+candidats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-20 (V)
+
+
+###### Article L558-22
+
+Pour le premier tour, les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du
+scrutin, à midi. Il en est donné récépissé provisoire. 
+
+Elles sont enregistrées si les conditions prévues aux articles L. 558-10, L. 558-11, L. 558-14 et L. 558-19 à L. 558-21 sont
+remplies. Le refus d'enregistrement est motivé. 
+
+Un récépissé définitif est délivré par le représentant de l'Etat dans la collectivité territoriale, après enregistrement, au
+plus tard le quatrième vendredi qui précède le jour du scrutin, à midi. 
+
+Pour le second tour, les déclarations de candidature sont déposées au plus tard le mardi suivant le premier tour, à dix-huit
+heures. Récépissé définitif est délivré immédiatement aux listes répondant aux conditions fixées aux articles L. 558-19 et L.
+558-20. Il vaut enregistrement. Le refus d'enregistrement est motivé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-10
+	  - Code électoral - art. L558-11
+	  - Code électoral - art. L558-14
+	  - Code électoral - art. L558-19
+	  - Code électoral - art. L558-20 (V)
+
+
+###### Article L558-23
+
+Pour les déclarations de candidature avant le premier tour, le candidat désigné tête de liste ou son mandataire dispose d'un
+délai de quarante-huit heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort
+duquel se trouve le chef-lieu de la collectivité territoriale, qui statue dans les trois jours. 
+
+Lorsque le refus d'enregistrement est motivé par l'inobservation des articles L. 558-10, L. 558-11, L. 558-14 ou L. 558-21,
+la liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal administratif
+confirmant le refus. 
+
+Dans le cas prévu au deuxième alinéa, la candidature est enregistrée si le tribunal administratif, saisi par le candidat tête
+de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa. 
+
+Pour les déclarations de candidature avant le second tour, le candidat désigné tête de liste ou son mandataire dispose d'un
+délai de vingt-quatre heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort duquel
+se trouve le chef-lieu de la collectivité territoriale, qui statue dans les vingt-quatre heures de la requête. Faute pour le
+tribunal d'avoir statué dans ce délai, la candidature de la liste est enregistrée. 
+
+Dans tous les cas, les décisions du tribunal administratif ne peuvent être contestées qu'à l'occasion d'un recours contre
+l'élection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-10
+	  - Code électoral - art. L558-11
+	  - Code électoral - art. L558-14
+
+	**Cité par**:
+
+	  - Code électoral - art. R352 (V)
+
+
+###### Article L558-24
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt d'une liste. 
+
+Les listes complètes peuvent être retirées, avant le premier tour, au plus tard le quatrième samedi précédant le scrutin, à
+midi ; avant le second tour, avant l'expiration du délai de dépôt des candidatures. La déclaration de retrait est signée par
+la majorité des candidats de la liste. Il est donné récépissé des déclarations de retrait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre IV : Propagande 
+
+
+
+
+###### Article L558-25
+
+La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci. 
+
+La campagne électorale pour le second tour commence le lundi suivant le premier tour à midi. 
+
+Les antennes du service public de télévision et de radiodiffusion dans la collectivité territoriale sont mises à la
+disposition des listes dont la candidature a été régulièrement enregistrée, pour une durée totale de trois heures à la
+télévision et de trois heures à la radio. Ces durées sont réparties également entre les listes. 
+
+Les horaires des émissions et les modalités de leur réalisation sont fixés par le Conseil supérieur de l'audiovisuel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+###### Article L558-26
+
+Dans la collectivité territoriale, une commission de propagande, dont la composition et le fonctionnement sont fixés par
+décret en Conseil d'Etat, est chargée d'assurer l'envoi et la distribution des documents de propagande électorale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-27 (V)
+
+
+###### Article L558-27
+
+L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L.
+558-26 ainsi que celles qui résultent de leur fonctionnement. 
+
+Sont remboursés aux listes ayant obtenu au moins 5 % des suffrages exprimés : le coût du papier, l'impression des bulletins
+de vote, affiches, circulaires et les frais d'affichage. Un décret en Conseil d'Etat détermine la nature et le nombre des
+bulletins, affiches et circulaires dont le coût est remboursé ; il détermine également le montant des frais d'affichage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-26
+
+
+###### Article L558-28
+
+Les articles L. 165, L. 211 et L. 215 sont applicables à l'élection des conseillers à l'assemblée de Guyane et des
+conseillers à l'assemblée de Martinique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L165
+	  - Code électoral - art. L211
+	  - Code électoral - art. L215
+
+
+#### Chapitre V : Opérations préparatoires au scrutin 
+
+
+
+
+###### Article L558-29
+
+Le collège électoral est convoqué par décret publié au moins cinq semaines avant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre VI : Opérations de vote 
+
+
+
+
+
+
+###### Article L558-30
+
+Le recensement général des votes est effectué au chef-lieu de la collectivité territoriale le lundi qui suit le jour du
+scrutin, avant dix-huit heures, en présence des représentants des listes, par une commission dont la composition et le
+fonctionnement sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code électoral - art. R356 (V)
+	  - Code électoral - art. R357 (V)
+
+
+###### Article L558-31
+
+Les voix données aux listes comprenant un candidat qui a fait acte de candidature sur plusieurs listes sont considérées comme
+nulles ; ces listes ne peuvent obtenir aucun siège.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre VII : Remplacement des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique 
+
+
+
+###### Article L558-32
+
+Le candidat venant sur une liste immédiatement après le dernier élu dans la même section est appelé à remplacer le conseiller
+à l'assemblée de Guyane ou à l'assemblée de Martinique élu sur cette liste dont le siège devient vacant pour quelque cause
+que ce soit. 
+
+Si le candidat ainsi appelé à remplacer le conseiller se trouve de ce fait dans l'un des cas d'incompatibilité mentionnés à
+l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser
+l'incompatibilité en démissionnant de l'un des mandats mentionnés à ce même article. A défaut d'option dans le délai imparti,
+le remplacement est assuré par le candidat suivant dans l'ordre de la section. 
+
+Le représentant de l'Etat dans la collectivité territoriale notifie le nom de ce remplaçant au président de l'assemblée. 
+
+Le mandat de la personne ayant remplacé un conseiller dont le siège était devenu vacant expire lors du renouvellement de
+l'assemblée qui suit son entrée en fonctions. 
+
+Lorsque les deux premiers alinéas ne peuvent être appliqués, le siège demeure vacant jusqu'au prochain renouvellement de
+l'assemblée. Toutefois, si le tiers des sièges de l'assemblée vient à être vacant par suite du décès de leurs titulaires, il
+est procédé au renouvellement intégral de l'assemblée dans les trois mois qui suivent la dernière vacance pour cause de
+décès, sauf le cas où le renouvellement général des conseils régionaux doit intervenir dans les trois mois suivant ladite
+vacance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L7224-4 (VD)
+	  - Code électoral - art. L558-33 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L46-1
+
+
+#### Chapitre VIII : Contentieux 
+
+
+
+
+###### Article L558-33
+
+Les élections peuvent être contestées dans les dix jours suivant la proclamation des résultats par tout candidat ou tout
+électeur de la collectivité territoriale devant le Conseil d'Etat statuant au contentieux. 
+
+Le même droit est ouvert au représentant de l'Etat dans la collectivité territoriale s'il estime que les formes et conditions
+légalement prescrites n'ont pas été respectées. 
+
+L'éligibilité d'un candidat devenu conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique par application du
+premier alinéa de l'article L. 558-32 peut être contestée dans le délai de dix jours à compter de la date à laquelle ce
+candidat a remplacé le conseiller dont le siège est devenu vacant. 
+
+La constatation par le Conseil d'Etat de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection
+que du ou des élus inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+	**Cite**:
+
+	  - Code électoral - art. L558-32
+
+
+###### Article L558-34
+
+Le conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique dont l'élection est contestée reste en fonctions jusqu'à
+ce qu'il ait été définitivement statué sur la réclamation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+###### Article L558-35
+
+En cas d'annulation de l'ensemble des opérations électorales, il est procédé à de nouvelles élections dans un délai de trois
+mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+### Titre IV : Conditions d'application
+
+###### Article L558-36
+
+Des décrets en Conseil d'Etat déterminent les conditions d'application du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
 
 
 ## Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution
@@ -44878,7 +46091,7 @@ par section départementale
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Alsace
 
@@ -44903,10 +46116,10 @@ Bas-Rhin
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Haut-Rhin
 
@@ -44923,7 +46136,7 @@ Haut-Rhin
 Aquitaine
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 85
 
@@ -44933,14 +46146,14 @@ Aquitaine
 Dordogne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 14
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -44958,7 +46171,7 @@ Gironde
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -44969,7 +46182,7 @@ Gironde
 Landes
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 12
 
@@ -44982,7 +46195,7 @@ Landes
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Lot-et-Garonne
 
@@ -44997,15 +46210,15 @@ Lot-et-Garonne
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Pyrénées-Atlantiques
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 19
 
@@ -45017,12 +46230,12 @@ Pyrénées-Atlantiques
 Auvergne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 47
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Allier
 
@@ -45034,10 +46247,10 @@ Allier
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -45058,7 +46271,7 @@ Cantal
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Haute-Loire
 
@@ -45070,10 +46283,10 @@ Haute-Loire
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -45081,7 +46294,7 @@ Haute-Loire
 Puy-de-Dôme
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 22
 
@@ -45093,17 +46306,17 @@ Puy-de-Dôme
 Bourgogne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 57
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Côte d'Or
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 19
 
@@ -45113,10 +46326,10 @@ Côte d'Or
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Nièvre
 
@@ -45128,13 +46341,13 @@ Nièvre
 </td>
     </tr>
     <tr>
+      <td valign="top" width="154">
+
+</td>
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Saône-et-Loire
 
@@ -45149,10 +46362,10 @@ Saône-et-Loire
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Yonne
 
@@ -45179,14 +46392,14 @@ Bretagne
 Côte-d'Armor
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 18
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -45210,22 +46423,22 @@ Finistère
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Ille-et-Vilaine
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 26
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -45240,17 +46453,17 @@ Morbihan
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Centre
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 77
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Cher
 
@@ -45268,7 +46481,7 @@ Cher
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Eure-et-Loir
 
@@ -45280,13 +46493,13 @@ Eure-et-Loir
 </td>
     </tr>
     <tr>
+      <td width="154" valign="top">
+
+</td>
+      <td width="154" valign="top">
+
+</td>
       <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
 
 Indre
 
@@ -45301,7 +46514,7 @@ Indre
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -45316,31 +46529,31 @@ Indre-et-Loire
 </td>
     </tr>
     <tr>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
       <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
 
 Loir-et-Cher
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 12
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
       <td valign="top" width="154">
+
+</td>
+      <td width="154" valign="top">
+
+</td>
+      <td width="154" valign="top">
 
 Loiret
 
@@ -45352,17 +46565,17 @@ Loiret
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Champagne-Ardenne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 49
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Ardennes
 
@@ -45398,12 +46611,12 @@ Aube
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Marne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 21
 
@@ -45413,7 +46626,7 @@ Marne
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -45421,7 +46634,7 @@ Marne
 Haute-Marne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 10
 
@@ -45438,7 +46651,7 @@ Franche-Comté
 43
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Territoire de Belfort
 
@@ -45450,7 +46663,7 @@ Territoire de Belfort
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -45461,7 +46674,7 @@ Territoire de Belfort
 Doubs
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 20
 
@@ -45471,10 +46684,10 @@ Doubs
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Jura
 
@@ -45486,7 +46699,7 @@ Jura
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -45504,7 +46717,7 @@ Haute-Saône
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Guadeloupe
 
@@ -45514,7 +46727,7 @@ Guadeloupe
 41
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Guadeloupe
 
@@ -45526,34 +46739,12 @@ Guadeloupe
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-Guyane
-
-</td>
-      <td valign="top" width="154">
-
-31
-
-</td>
-      <td valign="top" width="154">
-
-Guyane
-
-</td>
-      <td valign="top" width="154">
-
-33
-
-</td>
-    </tr>
-    <tr>
       <td width="154" valign="top">
 
 Ile-de-France
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 209
 
@@ -45588,10 +46779,10 @@ Hauts-de-Seine
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -45599,7 +46790,7 @@ Hauts-de-Seine
 Ville de Paris
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 44
 
@@ -45609,7 +46800,7 @@ Ville de Paris
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -45617,17 +46808,17 @@ Ville de Paris
 Seine-et-Marne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 23
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -45635,14 +46826,14 @@ Seine-et-Marne
 Seine-Saint-Denis
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 29
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -45660,10 +46851,10 @@ Val-de-Marne
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -45681,15 +46872,15 @@ Val-d'Oise
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Yvelines
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 28
 
@@ -45701,17 +46892,17 @@ Yvelines
 Languedoc-Roussillon
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 67
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Aude
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 12
 
@@ -45724,25 +46915,25 @@ Aude
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Gard
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 20
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-</td>
       <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
+
+</td>
+      <td width="154" valign="top">
 
 Hérault
 
@@ -45772,13 +46963,13 @@ Lozère
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Pyrénées-Orientales
 
@@ -45800,7 +46991,7 @@ Limousin
 43
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Corrèze
 
@@ -45830,13 +47021,13 @@ Creuse
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-</td>
       <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
+
+</td>
+      <td valign="top" width="154">
 
 Haute-Vienne
 
@@ -45853,12 +47044,12 @@ Haute-Vienne
 Lorraine
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 73
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Meurthe et Moselle
 
@@ -45870,10 +47061,10 @@ Meurthe et Moselle
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -45881,7 +47072,7 @@ Meurthe et Moselle
 Meuse
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 9
 
@@ -45906,10 +47097,10 @@ Moselle
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -45920,28 +47111,6 @@ Vosges
       <td valign="top" width="154">
 
 15
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Martinique
-
-</td>
-      <td width="154" valign="top">
-
-41
-
-</td>
-      <td width="154" valign="top">
-
-Martinique
-
-</td>
-      <td valign="top" width="154">
-
-43
 
 </td>
     </tr>
@@ -45968,18 +47137,18 @@ Ariège
 </td>
     </tr>
     <tr>
+      <td valign="top" width="154">
+
+</td>
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Aveyron
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 12
 
@@ -45992,7 +47161,7 @@ Aveyron
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Haute-Garonne
 
@@ -46022,18 +47191,18 @@ Gers
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-</td>
       <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
+
+</td>
+      <td valign="top" width="154">
 
 Lot
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 8
 
@@ -46043,10 +47212,10 @@ Lot
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hautes-Pyrénées
 
@@ -46061,15 +47230,15 @@ Hautes-Pyrénées
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Tarn
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 15
 
@@ -46082,7 +47251,7 @@ Tarn
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Tarn-et-Garonne
 
@@ -46099,7 +47268,7 @@ Tarn-et-Garonne
 Basse-Normandie
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 47
 
@@ -46116,7 +47285,7 @@ Calvados
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -46127,42 +47296,42 @@ Calvados
 Manche
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 18
 
 </td>
     </tr>
     <tr>
+      <td width="154" valign="top">
+
+</td>
+      <td width="154" valign="top">
+
+</td>
       <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
 
 Orne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 12
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Haute-Normandie
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 55
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Eure
 
@@ -46174,7 +47343,7 @@ Eure
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -46185,14 +47354,14 @@ Eure
 Seine-Maritime
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 40
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Nord - Pas-de-Calais
 
@@ -46202,25 +47371,25 @@ Nord - Pas-de-Calais
 113
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Nord
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 74
 
 </td>
     </tr>
     <tr>
+      <td width="154" valign="top">
+
+</td>
+      <td width="154" valign="top">
+
+</td>
       <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
 
 Pas-de-Calais
 
@@ -46237,7 +47406,7 @@ Pas-de-Calais
 Pays de la Loire
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 93
 
@@ -46254,13 +47423,13 @@ Loire-Atlantique
 </td>
     </tr>
     <tr>
+      <td width="154" valign="top">
+
+</td>
+      <td width="154" valign="top">
+
+</td>
       <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
 
 Maine-et-Loire
 
@@ -46272,10 +47441,10 @@ Maine-et-Loire
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -46283,7 +47452,7 @@ Maine-et-Loire
 Mayenne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 11
 
@@ -46293,15 +47462,15 @@ Mayenne
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Sarthe
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 18
 
@@ -46311,7 +47480,7 @@ Sarthe
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -46319,7 +47488,7 @@ Sarthe
 Vendée
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 18
 
@@ -46341,17 +47510,17 @@ Picardie
 Aisne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 19
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -46366,13 +47535,13 @@ Oise
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-</td>
       <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
+
+</td>
+      <td width="154" valign="top">
 
 Somme
 
@@ -46384,7 +47553,7 @@ Somme
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Poitou-Charentes
 
@@ -46409,15 +47578,15 @@ Charente
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Charente-Maritime
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 20
 
@@ -46427,15 +47596,15 @@ Charente-Maritime
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Deux-Sèvres
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 14
 
@@ -46445,15 +47614,15 @@ Deux-Sèvres
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Vienne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 15
 
@@ -46465,7 +47634,7 @@ Vienne
 Provence-Alpes-Côte d'Azur
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 123
 
@@ -46482,18 +47651,18 @@ Alpes-de-Haute-Provence
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Hautes-Alpes
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 6
 
@@ -46511,14 +47680,14 @@ Hautes-Alpes
 Alpes-Maritimes
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 30
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -46536,10 +47705,10 @@ Bouches-du-Rhône
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -46554,10 +47723,10 @@ Var
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -46572,7 +47741,7 @@ Vaucluse
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 La Réunion
 
@@ -46587,7 +47756,7 @@ La Réunion
 La Réunion
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 47
 
@@ -46599,12 +47768,12 @@ La Réunion
 Rhône-Alpes
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 157
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Ain
 
@@ -46619,10 +47788,10 @@ Ain
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Ardèche
 
@@ -46637,7 +47806,7 @@ Ardèche
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -46645,20 +47814,20 @@ Ardèche
 Drôme
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 14
 
 </td>
     </tr>
     <tr>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
       <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
 
 Isère
 
@@ -46691,7 +47860,7 @@ Loire
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -46699,7 +47868,7 @@ Loire
 Rhône
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 45
 
@@ -46709,7 +47878,7 @@ Rhône
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -46717,7 +47886,7 @@ Rhône
 Savoie
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 13
 
@@ -46727,10 +47896,10 @@ Savoie
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Haute-Savoie
 
@@ -46748,15 +47917,10 @@ Haute-Savoie
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 5 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 86 (V) JORF 14 mai 1991
-	  - Loi n°91-1384 du 31 décembre 1991 - art. 1 (P) JORF 1er janvier 1992
-	  - Loi n°91-1384 du 31 décembre 1991 - art. 3 (P) JORF 1er janvier 1992
-	  - Loi n°99-36 du 19 janvier 1999 - art. 26 () JORF 20 janvier 1999
-	  - Loi n°2003-327 du 11 avril 2003 - art. 5 () JORF 12 avril 2003
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 7
 
 
