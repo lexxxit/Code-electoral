@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-07-29
+Version Consolidée au 2011-08-04
 
 # Partie législative
 
@@ -16651,11 +16651,12 @@ scrutin " sont remplacés par les mots : " 3 % des suffrages exprimés au premie
 
 ###### Article L415-2
 
-Dans les circonscriptions électorales mentionnées à l'article 104 de la loi organique n° 2004-192 du 27 février 2004 portant
-statut d'autonomie de la Polynésie française, à l'exception de celle des îles du Vent, les frais de transport aérien dûment
-justifiés, exposés à l'intérieur de la circonscription intéressée par les candidats à l'élection des membres de l'assemblée
-de la Polynésie française, sont remboursés aux listes ayant obtenu au moins 3 % des suffrages exprimés au premier tour de
-scrutin dans la circonscription concernée, dans la limite d'un plafond fixé par arrêté du ministre chargé de l'outre-mer. 
+Dans les sections composant la circonscription électorale unique mentionnée à l'article 104 de la loi organique n° 2004-192
+du 27 février 2004 portant statut d'autonomie de la Polynésie française, à l'exception des première, deuxième et troisième
+sections des îles du Vent, les frais de transport aérien dûment justifiés, exposés à l'intérieur de la section intéressée par
+les candidats à l'élection des membres de l'assemblée de la Polynésie française, sont remboursés aux listes ayant obtenu au
+moins 3 % des suffrages exprimés au premier tour de scrutin dans la section concernée, dans la limite d'un plafond fixé par
+arrêté du ministre chargé de l'outre-mer. 
 
 Un arrêté du haut-commissaire de la République fixe le barème et les modalités suivant lesquels ces dépenses sont remboursées
 par l'Etat.
@@ -16664,12 +16665,12 @@ par l'Etat.
 
 	**Cite**:
 
-	  - Loi n°2004-192 du 27 février 2004 (V)
+	  - Loi organique n°2004-192 du 27 février 2004
 	  - Loi organique n°2004-192 du 27 février 2004 - art. 104
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1720 du 7 décembre 2007 - art. 1
+	  - Loi organique n°2011-918 du 1er août 2011 - art. 5
 
 
 ###### Article L416
@@ -18556,35 +18557,29 @@ territorial, le tirage au sort est fait par le conseil exécutif réuni à cet e
 ###### Article LO497
 
 Les élections au conseil territorial peuvent être contestées dans les quinze jours suivant la proclamation des résultats par
-tout candidat ou tout électeur de la collectivité devant le Conseil d'Etat statuant au contentieux.
+tout candidat ou tout électeur de la collectivité devant le Conseil d'Etat statuant au contentieux. 
 
 Le même droit est ouvert au représentant de l'Etat s'il estime que les conditions et les formes légalement prescrites n'ont
-pas été respectées.
+pas été respectées. 
 
-La proclamation du candidat devenu conseiller territorial par application de l'article LO 498 peut être contestée dans le
+La proclamation du candidat devenu conseiller territorial par application de l'article LO. 498 peut être contestée dans le
 délai de quinze jours à compter de la date à laquelle ce candidat a remplacé le conseiller territorial dont le siège est
-devenu vacant.
+devenu vacant. 
 
 La constatation par le Conseil d'Etat de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de l'élection
-que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste. 
 
 Le conseiller territorial proclamé élu reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
-
-Saisi dans les conditions fixées au troisième alinéa de l'article L. 52-15, le Conseil d'Etat peut déclarer inéligible
-pendant un an le candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du
-plafond des dépenses électorales. Dans les autres cas, le Conseil d'Etat peut ne pas prononcer l'inéligibilité du candidat
-dont la bonne foi est établie. Si le Conseil d'Etat a déclaré inéligible un candidat proclamé élu, il annule son élection ou,
-si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-918 du 1er août 2011 - art. 27
 
 	**Cité par**:
 
@@ -18592,7 +18587,6 @@ si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
 
 	**Cite**:
 
-	  - Code électoral - art. L52-15 (M)
 	  - Code électoral - art. LO498 (V)
 
 
@@ -19430,35 +19424,29 @@ territorial, le tirage au sort est fait par le conseil exécutif réuni à cet e
 ###### Article LO524
 
 Les élections au conseil territorial peuvent être contestées dans les quinze jours suivant la proclamation des résultats par
-tout candidat ou tout électeur de la collectivité, devant le Conseil d'Etat statuant au contentieux.
+tout candidat ou tout électeur de la collectivité, devant le Conseil d'Etat statuant au contentieux. 
 
 Le même droit est ouvert au représentant de l'Etat s'il estime que les conditions et les formes légalement prescrites n'ont
-pas été respectées.
+pas été respectées. 
 
-La proclamation du candidat devenu conseiller territorial par application de l'article LO 525 peut être contestée dans le
+La proclamation du candidat devenu conseiller territorial par application de l'article LO. 525 peut être contestée dans le
 délai de quinze jours à compter de la date à laquelle ce candidat a remplacé le conseiller territorial dont le siège est
-devenu vacant.
+devenu vacant. 
 
 La constatation par le Conseil d'Etat de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de l'élection
-que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste. 
 
 Le conseiller territorial proclamé élu reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
-
-Saisi dans les conditions fixées au troisième alinéa de l'article L. 52-15, le Conseil d'Etat peut déclarer inéligible
-pendant un an le candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du
-plafond des dépenses électorales. Dans les autres cas, le Conseil d'Etat peut ne pas prononcer l'inéligibilité du candidat
-dont la bonne foi est établie. Si le Conseil d'Etat a déclaré inéligible un candidat proclamé élu, il annule son élection ou,
-si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-918 du 1er août 2011 - art. 27
 
 	**Cité par**:
 
@@ -19466,8 +19454,7 @@ si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
 
 	**Cite**:
 
-	  - Code électoral - art. L52-15 (M)
-	  - Code électoral - art. LO525 (V)
+	  - Code électoral - art. LO525
 
 
 ###### Article LO525
@@ -20341,35 +20328,29 @@ territorial, le tirage au sort est fait par le conseil exécutif réuni à cet e
 ###### Article LO552
 
 Les élections au conseil territorial peuvent être contestées dans les quinze jours suivant la proclamation des résultats par
-tout candidat ou tout électeur de la collectivité, devant le Conseil d'Etat statuant au contentieux.
+tout candidat ou tout électeur de la collectivité, devant le Conseil d'Etat statuant au contentieux. 
 
 Le même droit est ouvert au représentant de l'Etat s'il estime que les conditions et les formes légalement prescrites n'ont
-pas été respectées.
+pas été respectées. 
 
-La proclamation du candidat devenu conseiller territorial par application de l'article LO 553 peut être contestée dans le
+La proclamation du candidat devenu conseiller territorial par application de l'article LO. 553 peut être contestée dans le
 délai de quinze jours à compter de la date à laquelle ce candidat a remplacé le conseiller territorial dont le siège est
-devenu vacant.
+devenu vacant. 
 
 La constatation par le Conseil d'Etat de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de l'élection
-que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste. 
 
 Le conseiller territorial proclamé élu reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
-
-Saisi dans les conditions fixées au troisième alinéa de l'article L. 52-15, le Conseil d'Etat peut déclarer inéligible
-pendant un an le candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du
-plafond des dépenses électorales. Dans les autres cas, le Conseil d'Etat peut ne pas prononcer l'inéligibilité du candidat
-dont la bonne foi est établie. Si le Conseil d'Etat a déclaré inéligible un candidat proclamé élu, il annule son élection ou,
-si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2011-918 du 1er août 2011 - art. 27
 
 	**Cité par**:
 
@@ -20377,7 +20358,6 @@ si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
 
 	**Cite**:
 
-	  - Code électoral - art. L52-15 (M)
 	  - Code électoral - art. LO553 (V)
 
 
