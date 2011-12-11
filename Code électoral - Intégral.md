@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-09-25
+Version Consolidée au 2011-12-12
 
 # Partie législative
 
@@ -24491,6 +24491,91 @@ principal, les titres de perception nécessaires au recouvrement des sommes ment
 	  - Code électoral - art. L52-15 (VT)
 
 
+###### Article R39-6
+
+Dans le cas où l'établissement de crédit refuse l'ouverture d'un compte de dépôt au mandataire financier d'un candidat à une
+élection, il remet à ce dernier une attestation de refus, selon les modalités prévues par l'article R. 312-3 du code
+monétaire et financier, et informe le mandataire financier qu'il dispose d'un droit au compte qu'il peut exercer auprès de la
+Banque de France et des modalités d'exercice de ce droit.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R312-3
+
+
+###### Article R39-7
+
+Le mandataire financier qui exerce son droit au compte auprès de la Banque de France transmet à celle-ci les documents dont
+la liste est fixée par arrêté conjoint du ministre en charge de l'économie et du ministre de l'intérieur. 
+
+Ces documents sont fournis sans préjudice des pièces requises et des documents complémentaires susceptibles d'être demandés
+par l'établissement de crédit désigné par la Banque de France en application des dispositions législatives et réglementaires
+relatives à l'ouverture de comptes de dépôt.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 9 décembre 2011 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 1
+
+
+###### Article R39-8
+
+L'établissement de crédit est désigné par la Banque de France en prenant en considération les souhaits exprimés par le
+mandataire financier ainsi que, notamment, les parts de marché de chaque établissement concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 1
+
+
+###### Article R39-9
+
+Dans le délai d'un jour ouvré prévu à l'article L. 52-6, la Banque de France communique au mandataire financier le nom et
+l'adresse de l'établissement de crédit désigné pour ouvrir le compte. 
+
+Elle informe l'établissement de crédit désigné dans le même délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L52-6
+
+
+###### Article R39-10
+
+L'établissement de crédit désigné par la Banque de France informe le mandataire financier des conditions d'utilisation du
+compte, du prix des différents services auxquels il donne accès, notamment des moyens de paiement nécessaires au
+fonctionnement du compte et des engagements réciproques de l'établissement et du client.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 1
+
+
 #### Chapitre VI : Vote
 
 ##### Section 1 : Opérations préparatoires au scrutin
@@ -31544,21 +31629,13 @@ Pour l'application des dispositions du présent code en Nouvelle-Calédonie, il 
 
 4° "Services du haut-commissaire", au lieu de : "préfecture" ;
 
-5° "Secrétaire général du haut-commissariat", au lieu de :
+5° "Secrétaire général du haut-commissariat", au lieu de : "secrétaire général de préfecture" ;
 
-"secrétaire général de préfecture" ;
+6° "Subdivision administrative territoriale", au lieu de : "arrondissement" ;
 
-6° "Subdivision administrative territoriale", au lieu de :
+7° "Service du commissaire délégué de la République", au lieu de : "sous-préfecture" ;
 
-"arrondissement" ;
-
-7° "Service du commissaire délégué de la République", au lieu de :
-
-"sous-préfecture" ;
-
-8° "Commissaire délégué de la République", au lieu de :
-
-"sous-préfet" ;
+8° "Commissaire délégué de la République", au lieu de : "sous-préfet" ;
 
 9° "Province", au lieu de : "département" et de : "cantons" ;
 
@@ -31579,13 +31656,15 @@ des études économiques" ;
 
 17° (Abrogé) ;
 
-18° "Archives de la Nouvelle-Calédonie" ou "archives de la province", au lieu de : "archives départementales".
+18° "Archives de la Nouvelle-Calédonie" ou "archives de la province", au lieu de : "archives départementales" ;
+
+19° "Institut d'émission d'outre-mer" au lieu de : "Banque de France".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -31597,7 +31676,7 @@ des études économiques" ;
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 7 () JORF 13 octobre 2006
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
 
 
 ###### Article R202
@@ -31611,16 +31690,11 @@ des études économiques" ;
 
 3° "Services du haut-commissaire", au lieu de : "préfecture" ;
 
-4° "Secrétaire général du haut-commissariat", au lieu de :
+4° "Secrétaire général du haut-commissariat", au lieu de : "Secrétaire général de préfecture" ;
 
-"Secrétaire général de préfecture" ;
-
-5° "Services du chef de subdivision administrative", au lieu de :
-
-"sous-préfecture" ;
+5° "Services du chef de subdivision administrative", au lieu de : "sous-préfecture" ;
 
 6° "Subdivision administrative", au lieu de : "arrondissement", et : "chef de subdivision administrative", au lieu de :
-
 "sous-préfet" ;
 
 7° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
@@ -31635,14 +31709,22 @@ des études économiques" ;
 
 12° "Chambre territoriale des comptes", au lieu de : "chambre régionale des comptes" ;
 
-13° "Chef du service des affaires économiques", au lieu de :
-
-"directeur départemental des enquêtes européennes" ;
+13° "Chef du service des affaires économiques", au lieu de : "directeur départemental des enquêtes européennes" ;
 
 14° "Un agent désigné par le directeur de l'office des postes et télécommunications de la Polynésie française" au lieu de : "
 Un fonctionnaire désigné par le directeur départemental des postes et télécommunications" ; 
 
-15° "Archives de la Polynésie française", au lieu de : "archives départementales".
+15° "Archives de la Polynésie française", au lieu de : "archives départementales" ;
+
+16° "Institut d'émission d'outre-mer" au lieu de : "Banque de France".
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -31656,62 +31738,56 @@ Un fonctionnaire désigné par le directeur départemental des postes et téléc
 
 	**Modifié par**:
 
-	  - Décret n°2008-42 du 14 janvier 2008 - art. 1
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
 
 
 ###### Article R203
 
-Pour l'application des dispositions du présent code dans les îles Wallis et Futuna, il y a lieu de lire :
+Pour l'application des dispositions du présent code dans les îles Wallis et Futuna, il y a lieu de lire : 
 
-1° "Territoire", au lieu de : "département" ;
+1° " Territoire ", au lieu de : " département " ; 
 
-2° "Territoriaux", au lieu de : "départementaux" ;
+2° " Territoriaux ", au lieu de : " départementaux " ; 
 
-3° "Administrateur supérieur", au lieu de : "préfet", de :
+3° " Administrateur supérieur ", au lieu de : " préfet ", de : " autorité préfectorale " ou de : " Institut national de la
+statistique et des études économiques " ; 
 
-"autorité préfectorale" ou de : "Institut national de la statistique et des études économiques" ;
+4° " De l'administrateur supérieur ", au lieu de : " préfectoral " ou de : " préfectoraux " ; 
 
-4° "De l'administrateur supérieur", au lieu de : "préfectoral" ou de : "préfectoraux" ;
+5° " Secrétaire général ", au lieu de : " secrétaire général de préfecture " ; 
 
-5° "Secrétaire général", au lieu de : "secrétaire général de préfecture" ;
+6° " Services de l'administrateur supérieur ", au lieu de : " préfecture " ; 
 
-6° "Services de l'administrateur supérieur", au lieu de :
+7° " Chef de circonscription ", au lieu de : " sous-préfet ", de : " maire ", de : " administration municipale " ou de : "
+municipalité " ; 
 
-"préfecture" ;
+8° " Services du chef de circonscription ", au lieu de : " sous-préfecture " ; 
 
-7° "Chef de circonscription", au lieu de : "sous-préfet", de :
+9° " Siège de circonscription territoriale ", au lieu de : " mairie " ou de : " conseil municipal " ; 
 
-"maire", de : "administration municipale" ou de :
+10° " Tribunal de première instance ", au lieu de : " tribunal d'instance " ; 
 
-"municipalité" ;
+11° " Circonscription territoriale ", au lieu de : " commune " ; 
 
-8° "Services du chef de circonscription", au lieu de :
+12° " Membre de l'assemblée territoriale ", au lieu de : " conseiller général " et de : " conseiller régional " ; 
 
-"sous-préfecture" ;
+13° " Archives du territoire ", au lieu de : " archives départementales " ; 
 
-9° "Siège de circonscription territoriale", au lieu de : "mairie" ou de : "conseil municipal" ;
+14° " Directeur du commerce et des prix ", au lieu de : " directeur départemental des enquêtes économiques " ; 
 
-10° "Tribunal de première instance", au lieu de : "tribunal d'instance".
+15° Abrogé 
 
-11° "Circonscription territoriale", au lieu de : "commune".
+16° Abrogé 
 
-12° "Membre de l'assemblée territoriale", au lieu de : "conseiller général" et de : "conseiller régional" ;
+17° " Conseil du contentieux administratif ", au lieu de : " tribunal administratif " ; 
 
-13° "Archives du territoire", au lieu de : "archives départementales" ;
-
-14° "Directeur du commerce et des prix", au lieu de : "directeur départemental des enquêtes économiques" ;
-
-15° Abrogé
-
-16° Abrogé
-
-17° "Conseil du contentieux administratif", au lieu de : "tribunal administratif".
+18° " Institut d'émission d'outre-mer " au lieu de : " Banque de France ".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -31724,14 +31800,14 @@ Pour l'application des dispositions du présent code dans les îles Wallis et Fu
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 7 () JORF 13 octobre 2006
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
 
 
 ###### Article R204
 
 Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
-blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2009-430 du 20
-avril 2009 : 
+blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2011-1854 du 9
+décembre 2011 : 
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 20 à R. 22, R.
 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; 
@@ -31752,9 +31828,15 @@ vigueur le 1er juillet 2009.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
+	  - Décret n°2016-1819 du 22 décembre 2016 - art. 4
+	  - Code électoral - art. R210 (V)
+
 	**Cite**:
 
-	  - Décret n°2009-430 du 20 avril 2009 (V)
+	  - Décret n°2011-1854 du 9 décembre 2011
 	  - Code électoral - art. R*20
 	  - Code électoral - art. R30
 	  - Code électoral - art. R43
@@ -31762,13 +31844,7 @@ vigueur le 1er juillet 2009.
 
 	**Modifié par**:
 
-	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
-
-	**Cité par**:
-
-	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
-	  - Décret n°2016-1819 du 22 décembre 2016 - art. 4
-	  - Code électoral - art. R210 (V)
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
 
 
 ###### Article R205
@@ -32098,18 +32174,21 @@ village, ou, à défaut, par le plus âgé des assesseurs.
 ###### Article R214
 
 Les dispositions du titre II du livre Ier du présent code (partie réglementaire), à l'exception des articles R. 98, R. 106 et
-du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2009-430 du 20
-avril 2009 à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2011-1854 du 9
+décembre 2011 à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2009-430 du 20 avril 2009
+	  - Décret n°2011-1854 du 9 décembre 2011
+	  - Code électoral - art. R*106
+	  - Code électoral - art. R*107
+	  - Code électoral - art. R*98
 
 	**Modifié par**:
 
-	  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
 
 
 #### Chapitre II : Régime des inéligibilités
@@ -33614,7 +33693,7 @@ Les résultats des scrutins sont publiés au Journal officiel de la Polynésie f
 ###### Article R271
 
 Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction en vigueur à
-la date du décret n° 2008-170 du 22 février 2008, les dispositions suivantes du livre II du code électoral (partie
+la date du décret n° 2011-1854 du 9 décembre 2011, les dispositions suivantes du livre II du code électoral (partie
 Réglementaire) : 
 
 1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164, R. 164-1 et R. 169 ; 
@@ -33627,7 +33706,7 @@ Réglementaire) :
 
 	**Cite**:
 
-	  - Décret n°2008-170 du 22 février 2008
+	  - Décret n°2011-1854 du 9 décembre 2011
 	  - Code électoral - art. R*130-1
 	  - Code électoral - art. R*150
 	  - Code électoral - art. R*151
@@ -33637,7 +33716,7 @@ Réglementaire) :
 
 	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 2
+	  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
 
 	**Cité par**:
 
