@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-12-12
+Version Consolidée au 2011-12-30
 
 # Partie législative
 
@@ -2915,12 +2915,14 @@ tableau ci-après :
     <tr>
       <td width="123" rowspan="3">
 
-Fraction de la population de la circonscription : 
+FRACTION DE LA
+
+population de la circonscription : 
 
 </td>
       <td width="491" colspan="4">
 
-Plafond par habitant des de penses électorales (en euros) : 
+PLAFOND PAR HABITANT DES DEPENSES ELECTORALES (EN EUROS) : 
 
 </td>
     </tr>
@@ -2961,22 +2963,22 @@ N'excédant pas 15 000 habitants :
 </td>
       <td width="123">
 
-1, 22 
+1,22 
 
 </td>
       <td width="123">
 
-1, 68 
+1,68 
 
 </td>
       <td width="123">
 
-0, 64 
+0,64 
 
 </td>
       <td width="123">
 
-0, 53 
+0,53 
 
 </td>
     </tr>
@@ -2988,22 +2990,22 @@ De 15 001 à 30 000 habitants :
 </td>
       <td width="123">
 
-1, 07 
+1,07 
 
 </td>
       <td width="123">
 
-1, 52 
+1,52 
 
 </td>
       <td width="123">
 
-0, 53 
+0,53 
 
 </td>
       <td width="123">
 
-0, 53 
+0,53 
 
 </td>
     </tr>
@@ -3015,22 +3017,22 @@ De 30 001 à 60 000 habitants :
 </td>
       <td width="123">
 
-0, 91 
+0,91 
 
 </td>
       <td width="123">
 
-1, 22 
+1,22 
 
 </td>
       <td width="123">
 
-0, 43 
+0,43 
 
 </td>
       <td width="123">
 
-0, 53 
+0,53 
 
 </td>
     </tr>
@@ -3042,22 +3044,22 @@ De 60 001 à 100 000 habitants :
 </td>
       <td width="123">
 
-0, 84 
+0,84 
 
 </td>
       <td width="123">
 
-1, 14 
+1,14 
 
 </td>
       <td width="123">
 
-0, 30 
+0,30 
 
 </td>
       <td width="123">
 
-0, 53 
+0,53 
 
 </td>
     </tr>
@@ -3069,12 +3071,12 @@ De 100 001 à 150 000 habitants :
 </td>
       <td width="123">
 
-0, 76 
+0,76 
 
 </td>
       <td width="123">
 
-1, 07
+1,07
 
 </td>
       <td width="123">
@@ -3084,7 +3086,7 @@ De 100 001 à 150 000 habitants :
 </td>
       <td width="123">
 
-0, 38 
+0,38 
 
 </td>
     </tr>
@@ -3096,12 +3098,12 @@ De 150 001 à 250 000 habitants :
 </td>
       <td width="123">
 
-0, 69 
+0,69 
 
 </td>
       <td width="123">
 
-0, 84
+0,84
 
 </td>
       <td width="123">
@@ -3111,7 +3113,7 @@ De 150 001 à 250 000 habitants :
 </td>
       <td width="123">
 
-0, 30 
+0,30 
 
 </td>
     </tr>
@@ -3123,12 +3125,12 @@ Excédant 250 000 habitants :
 </td>
       <td width="123">
 
-0, 53 
+0,53 
 
 </td>
       <td width="123">
 
-0, 76
+0,76
 
 </td>
       <td width="123">
@@ -3138,30 +3140,28 @@ Excédant 250 000 habitants :
 </td>
       <td width="123">
 
-0, 23 
+0,23 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Le plafond des dépenses pour l'élection des députés est de 38 000 euros par candidat. Il est majoré de 0, 15 euro par
-habitant de la circonscription.
+Le plafond des dépenses pour l'élection des députés est de 38 000 euros par candidat. Il est majoré de 0,15 euro par habitant
+de la circonscription.
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de
 Corse.
 
 Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la
-consommation des ménages, hors tabac.
+consommation des ménages, hors tabac. Il n'est pas procédé à une telle actualisation à compter de 2012 et jusqu'à l'année au
+titre de laquelle le déficit public des administrations publiques est nul. Ce déficit est constaté dans les conditions
+prévues au deuxième alinéa de l'article 3 du règlement (CE) n° 479/2009 du Conseil, du 25 mai 2009, relatif à l'application
+du protocole sur la procédure concernant les déficits excessifs annexé au traité instituant la Communauté européenne.
 
 **Nota:**
 
-(1) : Décret 2009-1730 du 30 décembre 2009 art. 1 : Le montant du plafond des dépenses électorales est multiplié par le
-coefficient de 1,23 pour les élections auxquelles les dispositions de l'article L. 52-11 du code électoral sont applicables,
-à l'exception de celles des députés et des représentants au Parlement européen.
 
-Décret 2008-1300 du 10 décembre 2008 art. 1 : Le montant du plafond des dépenses électorales pour l'élection des députés dans
-les départements et la collectivité territoriale de Saint-Pierre-et-Miquelon est multiplié par le coefficient 1,26.
 
 **Liens relatifs à cet article**
 
@@ -3208,7 +3208,7 @@ les départements et la collectivité territoriale de Saint-Pierre-et-Miquelon e
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 14
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 112
 
 	**Cite**:
 
@@ -3218,13 +3218,13 @@ les départements et la collectivité territoriale de Saint-Pierre-et-Miquelon e
 ###### Article L52-11-1
 
 Les dépenses électorales des candidats aux élections auxquelles l'article L. 52-4 est applicable font l'objet d'un
-remboursement forfaitaire de la part de l'Etat égal à 50 % de leur plafond de dépenses. Ce remboursement ne peut excéder le
-montant des dépenses réglées sur l'apport personnel des candidats et retracées dans leur compte de campagne. 
+remboursement forfaitaire de la part de l'Etat égal à 47,5 % de leur plafond de dépenses. Ce remboursement ne peut excéder le
+montant des dépenses réglées sur l'apport personnel des candidats et retracées dans leur compte de campagne.
 
 Le remboursement forfaitaire n'est pas versé aux candidats qui ont obtenu moins de 5 % des suffrages exprimés au premier tour
 de scrutin, qui ne se sont pas conformés aux prescriptions de l'article L. 52-11, qui n'ont pas déposé leur compte de
 campagne dans le délai prévu au deuxième alinéa de l'article L. 52-12 ou dont le compte de campagne est rejeté pour d'autres
-motifs ou qui n'ont pas déposé leur déclaration de situation patrimoniale, s'ils sont astreints à cette obligation. 
+motifs ou qui n'ont pas déposé leur déclaration de situation patrimoniale, s'ils sont astreints à cette obligation.
 
 Dans les cas où les irrégularités commises ne conduisent pas au rejet du compte, la décision concernant ce dernier peut
 réduire le montant du remboursement forfaitaire en fonction du nombre et de la gravité de ces irrégularités.
@@ -3252,7 +3252,7 @@ réduire le montant du remboursement forfaitaire en fonction du nombre et de la 
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 9
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 112
 
 	**Cite**:
 
