@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-29
 
 # Partie législative
 
@@ -35143,6 +35143,266 @@ fort résultat.
 	**Créé par**:
 
 	  - Décret n°2008-170 du 22 février 2008 - art. 3
+
+
+## Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique
+
+### Titre Ier : Election des conseillers à l'assemblée de Guyane
+
+###### Article R347
+
+Les conseillers à l'assemblée de Guyane sont élus dans les conditions fixées par les dispositions du présent livre, ainsi
+que, sauf disposition contraire du présent livre, par les dispositions du titre Ier du livre Ier de la partie réglementaire
+du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+
+###### Article R348
+
+Pour l'application de ces dispositions en Guyane, il y a lieu de lire :
+
+1° " collectivité territoriale " au lieu de : " département " ;
+
+2° " de la collectivité territoriale " au lieu de : " départemental " ;
+
+3° " représentant de l'Etat dans la collectivité territoriale " au lieu de : " préfet "  ;
+
+4° " du représentant de l'Etat dans la collectivité territoriale " au lieu de : " préfectoral ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+
+### Titre II : Election des conseillers à l'assemblée de Martinique
+
+###### Article R349
+
+Les conseillers à l'assemblée de Martinique sont élus dans les conditions fixées par les dispositions du présent livre, ainsi
+que, sauf disposition contraire du présent livre, par les dispositions du titre Ier du livre Ier de la partie réglementaire
+du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+
+###### Article R350
+
+Pour l'application de ces dispositions en Martinique, il y a lieu de lire :
+
+1° " collectivité territoriale ” au lieu de : " département ” ;
+
+2° " de la collectivité territoriale ” au lieu de : " départemental ” ;
+
+3° " représentant de l'Etat dans la collectivité territoriale” au lieu de : " préfet " ;
+
+4° " du représentant de l'Etat dans la collectivité territoriale ” au lieu de : " préfectoral ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+
+### Titre III : Dispositions communes
+
+#### Chapitre III : Déclarations de candidature
+
+
+
+
+###### Article R351
+
+Les déclarations de candidature en vue du premier tour de scrutin sont reçues à compter du cinquième lundi qui précède le
+jour de ce premier tour. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le
+premier tour. 
+
+Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section électorale. 
+
+Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. R109-2
+
+
+###### Article R352
+
+L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre résultant du tirage au sort prévu à
+l'article R. 28, par le représentant de l'Etat dans la collectivité territoriale et publié par ses soins au plus tard le
+troisième samedi qui précède le jour de ce premier tour. 
+
+L'état des listes de candidats au second tour est, s'il y a lieu, arrêté et publié dans les mêmes conditions au plus tard le
+mercredi qui suit le premier tour. Il fait l'objet de publications supplémentaires lorsqu'il a été fait application du
+quatrième alinéa de l'article L. 558-23.
+
+Pour chaque tour, l'état indique le titre de la liste, l'ordre des sections électorales ainsi que les nom et prénoms du
+candidat désigné tête de liste, puis les noms et prénoms de tous les candidats composant la liste, répartis par section
+électorale et énumérés dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L558-23
+	  - Code électoral - art. R28
+
+	**Cité par**:
+
+	  - Code électoral - art. R353 (V)
+
+
+#### Chapitre IV : Propagande
+
+
+
+
+###### Article R353
+
+Les bulletins de vote comportent le titre de la liste, les nom et prénoms du candidat désigné tête de liste ainsi que les nom
+et prénoms de chacun des candidats composant la liste, répartis par section électorale et dans l'ordre de présentation tel
+qu'il résulte de la publication prévue par l'article R. 352.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. R352
+
+
+###### Article R354
+
+Pour l'application des dispositions de l'article R. 32 :
+
+1° Les mots : " un fonctionnaire désigné par le trésorier-payeur général ” sont remplacés par les mots : " un fonctionnaire
+désigné par le directeur régional des finances publiques ” ; 
+
+2° Les mots : " un fonctionnaire désigné par le directeur départemental des postes et télécommunications ” sont remplacés par
+les mots : " toute personne qualifiée dans la distribution du courrier que la commission associe à ses travaux avec voix
+consultative ” ; 
+
+3° Un suppléant à chaque membre peut être désigné dans les mêmes conditions ; 
+
+4° Les candidats ne peuvent participer aux travaux de la commission que par l'intermédiaire des mandataires des listes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. R32
+
+
+#### Chapitre VI : Opérations de vote
+
+
+
+
+
+
+###### Article R355
+
+Pour l'application de l'article R. 41, le représentant de l'Etat peut avancer par arrêté l'heure de clôture du scrutin sans
+que la durée d'ouverture des bureaux de vote puisse être inférieure à dix heures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-939 du 30 juillet 2015 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R41
+
+
+###### Article R356
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
+recensement instituée par l'article L. 558-30, soit par porteur, soit sous pli postal recommandé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L558-30
+
+
+###### Article R357
+
+Les dispositions des articles R. 107 à R. 109 sont applicables à la composition et au fonctionnement de la commission
+instituée par l'article L. 558-30.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L558-30
+	  - Code électoral - art. R*107
+
+
+#### Chapitre VIII : Contentieux
+
+
+
+
+
+
+###### Article R358
+
+Les dispositions de l'article R. 190 sont applicables à l'élection des conseillers à l'assemblée de Guyane et à celle des
+conseillers à l'assemblée de Martinique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. R190
 
 
 # Annexes
