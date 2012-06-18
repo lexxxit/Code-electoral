@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2012-03-19
+Version Consolidée au 2012-06-19
 
 # Partie législative
 
@@ -6019,16 +6019,15 @@ Le vote a lieu par circonscription.
 
 ###### Article L125
 
-Les circonscriptions sont déterminées conformément au tableau n° 1 annexé au présent code.
-
-Il est procédé à la révision des limites des circonscriptions, en fonction de l'évolution démographique, après le deuxième
-recensement général de la population suivant la dernière délimitation.
+Les circonscriptions sont déterminées conformément aux tableaux n° 1 pour les départements, n° 1 bis pour la Nouvelle-
+Calédonie et les collectivités d'outre-mer régies par l'article 74 de la Constitution et n° 1 ter pour les Français établis
+hors de France annexés au présent code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+	  - Constitution du 4 octobre 1958 - art. 74 (V)
 
 	**Cité par**:
 
@@ -6038,7 +6037,7 @@ recensement général de la population suivant la dernière délimitation.
 
 	**Modifié par**:
 
-	  - Loi n°86-825 du 11 juillet 1986 - art. 2 () JORF 12 juillet 1986
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 3 (V)
 
 
 ###### Article L126
@@ -16019,56 +16018,23 @@ des conditions prévues par la législation en vigueur relative à l'informatiqu
 
 ### Titre II : Election des députés
 
-###### Article L394
-
-La Nouvelle-Calédonie et la Polynésie française comprennent chacune deux circonscriptions. Ces circonscriptions sont
-délimitées conformément au tableau n° 1 bis annexé au présent code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code électoral annexe
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°2004-193 2004-02-27 art. 33 2° JORF 2 mars 2004
-
-	**Cité par**:
-
-	  - Loi n°2004-193 du 27 février 2004 - art. 33 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-39 du 13 janvier 2009 - art. 3 (V)
-
-
 ###### Article L395
 
 Les dispositions du titre II du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la loi
 n° 2011-412 du 14 avril 2011 portant simplification de dispositions du code électoral et relative à la transparence
 financière de la vie politique, sont applicables à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et
-dans les îles Wallis et Futuna, à l'exception du deuxième alinéa de l'article L. 125 et de l'article L. 175.
+dans les îles Wallis et Futuna, à l'exception de l'article L. 175.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°64-1086 du 27 octobre 1964
+	  - Loi n°2009-39 du 13 janvier 2009 - art. 3 (V)
 
 	**Cite**:
 
-	  - Loi n°2011-412 du 14 avril 2011
-	  - Code électoral - art. L125
+	  - Loi n°2011-412 du 14 avril 2011 (V)
 	  - Code électoral - art. L175
-
-	**Modifié par**:
-
-	  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
 
 
 ###### Article L396
