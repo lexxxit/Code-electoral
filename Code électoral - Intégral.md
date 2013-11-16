@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2013-10-21
+Version Consolidée au 2013-11-17
 
 # Partie législative
 
@@ -3310,11 +3310,15 @@ charges retracées dans le compte de campagne.
 La commission assure la publication des comptes de campagne dans une forme simplifiée. 
 
 Pour l'application de l'article L. 52-11, les frais de transport aérien, maritime et fluvial dûment justifiés, exposés par
-les candidats aux élections législatives et aux élections régionales à l'intérieur de chacun des départements d'outre-mer, ne
-sont pas inclus dans le plafond des dépenses. 
+les candidats aux élections législatives, aux élections sénatoriales et aux élections régionales à l'intérieur de chacun des
+départements d'outre-mer, ne sont pas inclus dans le plafond des dépenses. 
 
 Par dérogation aux dispositions du deuxième alinéa, en Guadeloupe, en Guyane, en Martinique et à La Réunion, le compte de
 campagne peut également être déposé à la préfecture ou la sous-préfecture.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -3355,7 +3359,7 @@ campagne peut également être déposé à la préfecture ou la sous-préfecture
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 10
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 	**Cite**:
 
@@ -12538,9 +12542,9 @@ Le chapitre V bis du titre Ier du livre Ier est applicable aux candidats aux él
 
 Le plafond des dépenses pour l'élection des sénateurs est de 10 000 € par candidat ou par liste. Il est majoré de : 
 
-1° 0,05 € par habitant du département pour les départements élisant trois sénateurs ou moins ; 
+1° 0,05 € par habitant du département pour les départements élisant deux sénateurs ou moins ; 
 
-2° 0,02 € par habitant du département pour les départements élisant quatre sénateurs ou plus. 
+2° 0,02 € par habitant du département pour les départements élisant trois sénateurs ou plus. 
 
 Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la
 consommation des ménages, hors tabac.
@@ -12559,7 +12563,7 @@ consommation des ménages, hors tabac.
 
 	**Modifié par**:
 
-	  - Loi n°2013-659 du 22 juillet 2013 - art. 59
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
 #### Chapitre VI : Opérations préparatoires au scrutin
@@ -15477,7 +15481,7 @@ des conseillers municipaux en Polynésie française.
 
 Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier : 
 
-1° Dans l'article L. 52-8, les sommes de 4 600 euros,150 euros et 15 000 euros sont respectivement remplacées par les sommes
+1° Dans l'article L. 52-8, les sommes de 4 600 euros, 150 euros et 15 000 euros sont respectivement remplacées par les sommes
 de 545 000 francs CFP, de 18 180 francs CFP et de 1 818 000 francs CFP. 
 
 2° Dans l'article L. 52-10, la somme de 3 000 euros est remplacée par la somme de 363 600 francs CFP. 
@@ -15501,12 +15505,12 @@ Plafond par habitant des dépenses électorales (en Francs CFP)
 </td>
     </tr>
     <tr>
-      <td width="227" colspan="2">
+      <td colspan="2" width="227">
 
 Election des conseillers municipaux
 
 </td>
-      <td valign="top" width="227" rowspan="2">
+      <td valign="top" rowspan="2" width="227">
 
 Election des membres du congrès et des assemblées de province de la Nouvelle-Calédonie
 
@@ -15534,12 +15538,12 @@ au second tour
 N'excédant pas 15 000 habitants
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 146
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 200
 
@@ -15556,12 +15560,12 @@ N'excédant pas 15 000 habitants
 De 15 001 à 30 000 habitants
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 128
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 182
 
@@ -15573,7 +15577,7 @@ De 15 001 à 30 000 habitants
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 De 30 001 à 60 000 habitants
 
@@ -15583,12 +15587,12 @@ De 30 001 à 60 000 habitants
 110
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 146
 
 </td>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 91
 
@@ -15640,14 +15644,14 @@ PLAFOND PAR HABITANT DES DÉPENSES ÉLECTORALES (EN FRANCS CFP)
     <tr>
       <td colspan="2">
 
-Election des conseillers municipaux 
+Election des conseillers municipaux
 
 </td>
       <td colspan="2">
 
 Election des membres
 
-de l'assemblée de la Polynésie française 
+de l'assemblée de la Polynésie française
 
 </td>
     </tr>
@@ -15656,7 +15660,7 @@ de l'assemblée de la Polynésie française
 
 Listes présentes
 
-au premier tour 
+au premier tour
 
 </td>
       <td>
@@ -15670,14 +15674,14 @@ au second tour
 
 Listes présentes
 
-au premier tour 
+au premier tour
 
 </td>
       <td>
 
 Listes présentes
 
-au second tour 
+au second tour
 
 </td>
     </tr>
@@ -15807,10 +15811,10 @@ statistique et des études économiques ;
 c) Dans les îles Wallis et Futuna, par la référence à l'indice local des prix à la consommation. 
 
 7° Les frais de transport aérien et maritime dûment justifiés, exposés à l'intérieur de la collectivité intéressée par les
-candidats aux élections législatives en Nouvelle-Calédonie, en Polynésie française et aux îles Wallis et Futuna et aux
-élections au congrès et aux assemblées de province de Nouvelle-Calédonie ou à l'assemblée de la Polynésie française ou à
-l'assemblée territoriale des îles Wallis et Futuna, ne sont pas inclus dans le plafond des dépenses électorales fixé par
-l'article L. 52-11. 
+candidats aux élections législatives et aux élections sénatoriales en Nouvelle-Calédonie, en Polynésie française et aux îles
+Wallis et Futuna et aux élections au congrès et aux assemblées de province de Nouvelle-Calédonie ou à l'assemblée de la
+Polynésie française ou à l'assemblée territoriale des îles Wallis et Futuna, ne sont pas inclus dans le plafond des dépenses
+électorales fixé par l'article L. 52-11. 
 
 8° Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, le compte de campagne peut également être déposé
 auprès des services du représentant de l'Etat.
@@ -15825,7 +15829,7 @@ auprès des services du représentant de l'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 	**Cite**:
 
@@ -17395,7 +17399,7 @@ Les sénateurs sont élus par un collège électoral composé :
 
 I. - En Nouvelle-Calédonie :
 
-1° Des députés ;
+1° Des députés et des sénateurs ;
 
 2° Des membres des assemblées de province ;
 
@@ -17403,7 +17407,7 @@ I. - En Nouvelle-Calédonie :
 
 II. - En Polynésie française :
 
-1° Des députés ;
+1° Des députés et des sénateurs ;
 
 2° Des membres de l'assemblée de la Polynésie française ;
 
@@ -17411,7 +17415,7 @@ II. - En Polynésie française :
 
 III. - Dans les îles Wallis et Futuna :
 
-1° Du député ;
+1° Du député et du sénateur ;
 
 2° Des membres de l'assemblée territoriale.
 
@@ -17419,11 +17423,11 @@ III. - Dans les îles Wallis et Futuna :
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 	**Cité par**:
 
@@ -17462,39 +17466,40 @@ Les dispositions du 2° prennent effet à compter du renouvellement partiel de 2
 
 Sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote, même si leur élection est contestée :
 
-1° En Nouvelle-Calédonie : les députés et les membres des assemblées de province ;
+1° En Nouvelle-Calédonie : les députés, les sénateurs et les membres des assemblées de province ;
 
-2° En Polynésie française : les députés et les membres de l'assemblée de la Polynésie française ;
+2° En Polynésie française : les députés, les sénateurs et les membres de l'assemblée de la Polynésie française ;
 
-3° Dans les îles Wallis et Futuna : le député et les membres de l'assemblée territoriale.
+3° Dans les îles Wallis et Futuna : le député, le sénateur et les membres de l'assemblée territoriale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
 ###### Article L444
 
 Dans le cas où un membre d'une assemblée de province de la Nouvelle-Calédonie, un membre de l'assemblée de la Polynésie
-française ou un membre de l'assemblée territoriale des îles Wallis et Futuna est député, un remplaçant lui est désigné sur sa
-présentation, en Nouvelle-Calédonie par le président de l'assemblée de province, en Polynésie française par le président de
-l'assemblée de la Polynésie française et dans les îles Wallis et Futuna par le président de l'assemblée territoriale.
+française ou un membre de l'assemblée territoriale des îles Wallis et Futuna est député ou sénateur, un remplaçant lui est
+désigné sur sa présentation, en Nouvelle-Calédonie par le président de l'assemblée de province, en Polynésie française par le
+président de l'assemblée de la Polynésie française et dans les îles Wallis et Futuna par le président de l'assemblée
+territoriale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 	**Cité par**:
 
@@ -17504,32 +17509,28 @@ l'assemblée de la Polynésie française et dans les îles Wallis et Futuna par 
 ###### Article L445
 
 En Nouvelle-Calédonie et en Polynésie française, le choix par les conseils municipaux de leurs délégués ne peut porter ni sur
-un député, ni sur un membre d'une assemblée de province en Nouvelle-Calédonie, ni sur un membre de l'assemblée de la
-Polynésie française.
+un député, ni sur un sénateur, ni sur un membre d'une assemblée de province en Nouvelle-Calédonie, ni sur un membre de
+l'assemblée de la Polynésie française.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 23 (V) JORF 11 juillet 2000
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
 	  - Loi n°2000-641 du 10 juillet 2000 - art. 23 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
+
 
 ###### Article L446
 
 Les déclarations de candidature doivent, pour le premier tour, être déposées en double exemplaire auprès des services du
-représentant de l'Etat au plus tard à dix-huit heures le deuxième vendredi qui précède le scrutin.
+représentant de l'Etat au plus tard à dix-huit heures le troisième vendredi qui précède le scrutin.
 
 Il est donné au déposant un reçu provisoire de déclaration. Un récépissé définitif est délivré dans les quatre jours du dépôt
 de la déclaration de candidature si celle-ci est conforme aux prescriptions en vigueur.
@@ -17538,15 +17539,11 @@ de la déclaration de candidature si celle-ci est conforme aux prescriptions en 
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2000-641 du 10 juillet 2000 - art. 21 () JORF 11 juillet 2000
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
 ###### Article L447
@@ -17571,20 +17568,20 @@ l'amende de 100 euros est fixée à 12 110 francs CFP.
 
 ###### Article L448
 
-Les députés et les membres des assemblées de province, les membres de l'assemblée de la Polynésie française ou les membres de
-l'assemblée territoriale des îles Wallis et Futuna, absents respectivement de Nouvelle-Calédonie, de Polynésie française ou
-des îles Wallis et Futuna le jour de l'élection, peuvent, sur leur demande et à titre exceptionnel, exercer leur droit de
-vote par procuration. Il ne peut être établi plus de deux procurations au nom d'un même mandataire.
+Les députés, les sénateurs et les membres des assemblées de province, les membres de l'assemblée de la Polynésie française ou
+les membres de l'assemblée territoriale des îles Wallis et Futuna, absents respectivement de Nouvelle-Calédonie, de Polynésie
+française ou des îles Wallis et Futuna le jour de l'élection, peuvent, sur leur demande et à titre exceptionnel, exercer leur
+droit de vote par procuration. Il ne peut être établi plus de deux procurations au nom d'un même mandataire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 	**Cité par**:
 
@@ -17886,7 +17883,7 @@ mandat et de l'âge d'éligibilité des sénateurs ainsi que de la composition d
 
 Par dérogation à l'article L. 280, les sénateurs sont élus par un collège électoral composé : 
 
-1° Du député ; 
+1° Des députés et des sénateurs ; 
 
 2° Des conseillers généraux ; 
 
@@ -17896,15 +17893,15 @@ Par dérogation à l'article L. 280, les sénateurs sont élus par un collège �
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 	**Cite**:
 
-	  - Code électoral - art. L280 (VT)
+	  - Code électoral - art. L280
 
 
 ###### Article LO473
@@ -17932,17 +17929,18 @@ Les dispositions organiques du livre II du présent code sont applicables à l'�
 
 Pour l'application des dispositions du présent code à Saint-Barthélemy, il y a lieu de lire :
 
-1° "collectivité" et "de la collectivité" au lieu respectivement de : "département" ou "arrondissement" et de :
-"départemental" ;
+1° " collectivité "  et  " de la collectivité  "   au lieu respectivement de :  "  département "   ou  "  arrondissement "
+et de :  "  départemental "   ;
 
-2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" ou "sous-préfet" et
-de :
+2°  "  représentant de l'Etat "   et  "  services du représentant de l'Etat "   au lieu respectivement de :  "  préfet "   ou
+"  sous-préfet "   et de :  "  préfecture "   ou  "  sous-préfecture "   ;
 
-"préfecture" ou "sous-préfecture" ;
+3°  "  tribunal de première instance "   au lieu de :  "  tribunal de grande instance "   ou  "  tribunal d'instance "   ;
 
-3° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou "tribunal d'instance" ;
+4°  "  circonscription électorale "   au lieu de :  "  canton "   ;
 
-4° "circonscription électorale" au lieu de : "canton".
+5°  "  conseiller territorial "   et  "  président du conseil territorial "   au lieu, respectivement, de :  "  conseiller
+général "   et  "  président du conseil général "  .
 
 **Liens relatifs à cet article**
 
@@ -17955,11 +17953,11 @@ de :
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
 ###### Article LO476
@@ -18716,7 +18714,7 @@ durée du mandat et de l'âge d'éligibilité des sénateurs ainsi que de la com
 
 Le sénateur est élu par un collège électoral composé :
 
-1° Du député ;
+1° Du député et du sénateur ;
 
 2° Des conseillers territoriaux de la collectivité.
 
@@ -18724,11 +18722,11 @@ Le sénateur est élu par un collège électoral composé :
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
 ###### Article LO500
@@ -18756,17 +18754,18 @@ Les dispositions organiques du livre II sont applicables à l'élection du séna
 
 Pour l'application des dispositions du présent code à Saint-Martin, il y a lieu de lire :
 
-1° "collectivité" et "de la collectivité" au lieu respectivement de : "département" ou "arrondissement" et de :
-"départemental" ;
+1° " collectivité "  et  " de la collectivité "  au lieu respectivement de :  " département "  ou  " arrondissement "  et
+de :  " départemental "  ;
 
-2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" ou "sous-préfet" et
-de :
+2°  " représentant de l'Etat "  et  " services du représentant de l'Etat "  au lieu respectivement de :  " préfet "  ou  "
+sous-préfet "  et de :  " préfecture "  ou  " sous-préfecture "  ;
 
-"préfecture" ou "sous-préfecture" ;
+3°  " tribunal de première instance "  au lieu de :  " tribunal de grande instance "  ou  " tribunal d'instance "  ;
 
-3° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou "tribunal d'instance" ;
+4°  " circonscription électorale "  au lieu de :  " canton "  ;
 
-4° "circonscription électorale" au lieu de : "canton".
+5°  " conseiller territorial "  et  " président du conseil territorial "  au lieu, respectivement, de :  " conseiller général
+"  et  " président du conseil général " .
 
 **Liens relatifs à cet article**
 
@@ -18779,11 +18778,11 @@ de :
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
 ###### Article LO503
@@ -19573,7 +19572,7 @@ mandat et de l'âge d'éligibilité des sénateurs ainsi que de la composition d
 
 Le sénateur est élu par un collège électoral composé :
 
-1° Du député ;
+1° Du député et du sénateur ;
 
 2° Des conseillers territoriaux de la collectivité.
 
@@ -19581,15 +19580,15 @@ Le sénateur est élu par un collège électoral composé :
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
 	  - Loi n°2007-224 du 21 février 2007 - art. 26 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
 ###### Article LO527
@@ -19617,19 +19616,20 @@ Les dispositions organiques du livre II sont applicables à l'élection du séna
 
 Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon, il y a lieu de lire :
 
-1° "collectivité territoriale" et "de la collectivité territoriale" au lieu respectivement de : "département" ou
-"arrondissement"et de : "départemental" ;
+1° " collectivité territoriale "  et  " de la collectivité territoriale "  au lieu respectivement de :  " département "  ou
+" arrondissement "  et de :  " départemental "  ;
 
-2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" ou "sous-préfet" et
-de :
+2°  " représentant de l'Etat "  et  " services du représentant de l'Etat "  au lieu respectivement de :  " préfet "  ou  "
+sous-préfet "  et de :  " préfecture "  ou  " sous-préfecture "  ;
 
-"préfecture" ou "sous-préfecture" ;
+3°  " tribunal supérieur d'appel "  au lieu de :  " cour d'appel "  ;
 
-3° "tribunal supérieur d'appel" au lieu de : "cour d'appel" ;
+4°  " tribunal de première instance "  au lieu de :  " tribunal de grande instance "  ou  " tribunal d'instance "  ;
 
-4° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou "tribunal d'instance" ;
+5°  " circonscription électorale "  au lieu de :  " canton "  ;
 
-5° "circonscription électorale" au lieu de : "canton".
+6°  " conseiller territorial "  et  " président du conseil territorial "  au lieu, respectivement, de :  " conseiller général
+"  et  " président du conseil général " .
 
 **Liens relatifs à cet article**
 
@@ -19643,11 +19643,11 @@ de :
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
 ###### Article L532
@@ -20470,7 +20470,7 @@ la durée du mandat et de l'âge d'éligibilité des sénateurs ainsi que de la 
 
 Par dérogation à l'article L. 280, le sénateur est élu par un collège électoral composé : 
 
-1° Du député ; 
+1° Du député et du sénateur ; 
 
 2° Des conseillers territoriaux de Saint-Pierre-et-Miquelon ; 
 
@@ -20480,15 +20480,15 @@ Par dérogation à l'article L. 280, le sénateur est élu par un collège élec
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 	**Cite**:
 
-	  - Code électoral - art. L280 (VT)
+	  - Code électoral - art. L280
 
 
 ###### Article LO555
@@ -23621,8 +23621,6 @@ des indications fournies par les électeurs qui ont dû retirer directement leur
 
 	  - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
 
-
-#### Chapitre II bis : Chiffre de la population à retenir en matière électorale
 
 #### Chapitre II bis : Dispositions générales en matière électorale
 
