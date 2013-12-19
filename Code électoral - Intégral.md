@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2013-11-17
+Version Consolidée au 2013-12-20
 
 # Partie législative
 
@@ -6390,37 +6390,110 @@ L.O. 176 un député nommé membre du Gouvernement ne peut, lors de l'élection 
 
 ###### Article LO135-1
 
-Dans les deux mois qui suivent son entrée en fonction, le député est tenu de déposer auprès de la Commission pour la
-transparence financière de la vie politique une déclaration certifiée sur l'honneur exacte et sincère de sa situation
-patrimoniale concernant notamment la totalité de ses biens propres ainsi que, éventuellement, ceux de la communauté ou les
-biens réputés indivis en application de l'article 1538 du code civil. Ces biens sont évalués à la date du fait générateur de
-la déclaration comme en matière de droit de mutation à titre gratuit. 
+I.-Dans les deux mois qui suivent son entrée en fonction, le député adresse personnellement au président de la Haute Autorité
+pour la transparence de la vie publique une déclaration exhaustive, exacte, sincère et certifiée sur l'honneur de sa
+situation patrimoniale concernant la totalité de ses biens propres ainsi que, le cas échéant, ceux de la communauté ou les
+biens indivis. Ces biens sont évalués à la date du fait générateur de la déclaration comme en matière de droits de mutation à
+titre gratuit. Dans les mêmes conditions, il adresse au président de la Haute Autorité ainsi qu'au bureau de l'Assemblée
+nationale une déclaration faisant apparaître les intérêts détenus à la date de son élection et dans les cinq années précédant
+cette date, ainsi que la liste des activités professionnelles ou d'intérêt général, même non rémunérées, qu'il envisage de
+conserver. Le député peut joindre des observations à chacune de ses déclarations. 
 
-Les députés communiquent à la Commission pour la transparence financière de la vie politique, pendant l'exercice de leur
-mandat, toutes les modifications substantielles de leur patrimoine, chaque fois qu'ils le jugent utile. 
+Toute modification substantielle de la situation patrimoniale ou des intérêts détenus donne lieu, dans le délai de deux mois,
+à déclaration dans les mêmes conditions, de même que tout élément de nature à modifier la liste des activités conservées. 
 
-Une déclaration conforme aux dispositions qui précèdent est déposée auprès de la Commission pour la transparence financière
-de la vie politique deux mois au plus tôt et un mois au plus tard avant l'expiration du mandat de député ou, en cas de
-dissolution de l'Assemblée nationale ou de cessation du mandat de député pour une cause autre que le décès, dans les deux
-mois qui suivent la fin des fonctions. Le député peut joindre à sa déclaration ses observations sur l'évolution de son
-patrimoine. 
+Une déclaration de situation patrimoniale conforme aux dispositions qui précèdent est déposée auprès de la Haute Autorité
+pour la transparence de la vie publique sept mois au plus tôt et six mois au plus tard avant l'expiration du mandat de député
+ou, en cas de dissolution de l'Assemblée nationale ou de cessation du mandat de député pour une cause autre que le décès,
+dans les deux mois qui suivent la fin des fonctions. Cette déclaration comporte une récapitulation de l'ensemble des revenus
+perçus par le député et, le cas échéant, par la communauté depuis le début du mandat parlementaire en cours. Le député peut
+joindre à sa déclaration ses observations sur l'évolution de son patrimoine. 
 
-Toutefois, aucune nouvelle déclaration n'est exigée du député lorsqu'il a établi depuis moins de six mois une déclaration de
-sa situation patrimoniale en application du présent article ou des articles 1er et 2 de la loi n° 88-227 du 11 mars 1988
-relative à la transparence financière de la vie politique. 
+Lorsque le député a établi depuis moins de six mois une déclaration de situation patrimoniale en application du présent
+article ou des articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique,
+aucune nouvelle déclaration mentionnée à la première phrase du premier alinéa du présent I n'est exigée et la déclaration
+prévue au troisième alinéa du même I est limitée à la récapitulation mentionnée à la deuxième phrase du même alinéa et à la
+présentation mentionnée au dernier alinéa du II. 
 
-Le fait pour un député d'omettre sciemment de déclarer une part substantielle de son patrimoine ou d'en fournir une
-évaluation mensongère qui porte atteinte à la sincérité de sa déclaration et à la possibilité pour la Commission pour la
-transparence financière de la vie politique d'exercer sa mission est puni de 30 000 € d'amende et, le cas échéant, de
-l'interdiction des droits civiques selon les modalités prévues à l'article 131-26 du code pénal, ainsi que de l'interdiction
-d'exercer une fonction publique selon les modalités prévues à l'article 131-27 du même code. 
+Le fait pour un député d'omettre de déclarer une partie substantielle de son patrimoine ou de ses intérêts ou de fournir une
+évaluation mensongère de son patrimoine est puni d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende. Peuvent
+être prononcées, à titre complémentaire, l'interdiction des droits civiques selon les modalités prévues aux articles 131-26
+et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique selon les modalités prévues à l'article
+131-27 du même code. 
 
-Tout manquement aux obligations prévues au troisième alinéa est puni de 15 000 € d'amende.
+Sans préjudice de l'article LO 136-2, tout manquement aux obligations prévues au troisième alinéa est puni de 15 000 €
+d'amende. 
+
+II.-La déclaration de situation patrimoniale porte sur les éléments suivants : 
+
+1° Les immeubles bâtis et non bâtis ; 
+
+2° Les valeurs mobilières ; 
+
+3° Les assurances vie ; 
+
+4° Les comptes bancaires courants ou d'épargne, les livrets et les autres produits d'épargne ; 
+
+5° Les biens mobiliers divers d'une valeur supérieure à un montant fixé par voie réglementaire ; 
+
+6° Les véhicules terrestres à moteur, bateaux et avions ; 
+
+7° Les fonds de commerce ou clientèles et les charges et offices ; 
+
+8° Les biens mobiliers, immobiliers et les comptes détenus à l'étranger ; 
+
+9° Les autres biens ; 
+
+10° Le passif. 
+
+Le cas échéant, la déclaration de situation patrimoniale précise, pour chaque élément mentionné aux 1° à 10° du présent II,
+s'il s'agit de biens propres, de biens de la communauté ou de biens indivis. 
+
+Les déclarations de situation patrimoniale déposées en application du troisième alinéa du I comportent, en plus des éléments
+mentionnés aux mêmes 1° à 10°, une présentation des événements majeurs ayant affecté la composition du patrimoine depuis la
+précédente déclaration. 
+
+III.-La déclaration d'intérêts et d'activités porte sur les éléments suivants : 
+
+1° Les activités professionnelles donnant lieu à rémunération ou gratification exercées à la date de l'élection ; 
+
+2° Les activités professionnelles ayant donné lieu à rémunération ou gratification exercées au cours des cinq dernières
+années ; 
+
+3° Les activités de consultant exercées à la date de l'élection et au cours des cinq dernières années ; 
+
+4° Les participations aux organes dirigeants d'un organisme public ou privé ou d'une société à la date de l'élection ou lors
+des cinq dernières années ; 
+
+5° Les participations financières directes dans le capital d'une société à la date de l'élection ; 
+
+6° Les activités professionnelles exercées à la date de l'élection par le conjoint, le partenaire lié par un pacte civil de
+solidarité ou le concubin ; 
+
+7° L'exercice de fonctions bénévoles susceptibles de faire naître un conflit d'intérêts ; 
+
+8° [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-675 DC du 9
+octobre 2013] ; 
+
+9° Les autres fonctions et mandats électifs exercés à la date de l'élection ; 
+
+10° Les noms des collaborateurs parlementaires ainsi que les autres activités professionnelles déclarées par eux ; 
+
+11° Les activités professionnelles ou d'intérêt général, même non rémunérées, que le député envisage de conserver durant
+l'exercice de son mandat. 
+
+La déclaration précise le montant des rémunérations, indemnités ou gratifications perçues par le député au titre des éléments
+mentionnés aux 1° à 5°, 9° et 11° du présent III. 
+
+IV.-Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise le
+modèle et le contenu des déclarations prévues au présent article et fixe leurs conditions de mise à jour et de conservation.
 
 **Nota:**
 
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de
+publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique.
+Le décret portant nomination du président de la Haute Autorité pour la  transparence de la vie publique a été publié le 20
+décembre 2013.
 
 **Liens relatifs à cet article**
 
@@ -6472,35 +6545,117 @@ général de l'Assemblée nationale suivant sa promulgation.
 
 	**Modifié par**:
 
-	  - Loi organique n°2011-410 du 14 avril 2011 - art. 2
+	  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26
 	  - Code pénal - art. 131-27
-	  - Code civil - art. 1538
 
 
 ###### Article LO135-2
 
-Les déclarations déposées par le député conformément aux dispositions de l'article L. O. 135-1 du code électoral ainsi que,
-éventuellement, les observations qu'il a formulées, ne peuvent être communiquées qu'à la demande expresse du déclarant ou de
-ses ayants droit ou sur requête des autorités judiciaires lorsque leur communication est nécessaire à la solution du litige
-ou utile pour la découverte de la vérité.
+I.-Les déclarations d'intérêts et d'activités déposées par le député en application de l'article LO 135-1 ainsi que, le cas
+échéant, les observations qu'il a formulées sont rendues publiques, dans les limites définies au III du présent article, par
+la Haute Autorité pour la transparence de la vie publique. Les électeurs peuvent adresser à la Haute Autorité toute
+observation écrite relative à ces déclarations d'intérêts et d'activités. 
+
+Les déclarations de situation patrimoniale déposées par le député en application du même article LO 135-1 sont transmises par
+la Haute Autorité pour la transparence de la vie publique à l'administration fiscale. Celle-ci fournit à la Haute Autorité,
+dans les trente jours suivant cette transmission, tous les éléments lui permettant d'apprécier l'exhaustivité, l'exactitude
+et la sincérité de la déclaration de situation patrimoniale, notamment les avis d'imposition de l'intéressé à l'impôt sur le
+revenu et, le cas échéant, à l'impôt de solidarité sur la fortune. 
+
+Dans un délai de trois mois suivant la réception des éléments mentionnés au deuxième alinéa du présent I, les déclarations de
+situation patrimoniale peuvent, avant d'être rendues publiques dans les limites définies au III du présent article, être
+assorties de toute appréciation de la Haute Autorité qu'elle estime utile quant à leur exhaustivité, leur exactitude et leur
+sincérité, après avoir mis le député concerné à même de présenter ses observations. 
+
+Les déclarations de situation patrimoniale sont, aux seules fins de consultation, tenues à la disposition des électeurs
+inscrits sur les listes électorales : 
+
+1° A la préfecture du département d'élection du député ; 
+
+2° Au haut-commissariat, pour les députés élus en Nouvelle-Calédonie ou en Polynésie française ; 
+
+3° A la préfecture, pour les députés élus dans les autres collectivités d'outre-mer régies par l'article 74 de la
+Constitution ; 
+
+4° A la préfecture de Paris, pour les députés élus par les Français établis hors de France. 
+
+Ces électeurs peuvent adresser à la Haute Autorité toute observation écrite relative aux déclarations qu'ils ont consultées. 
+
+Sauf si le déclarant a lui-même rendu publique sa déclaration de situation patrimoniale, le fait de publier ou de divulguer,
+de quelque manière que ce soit, tout ou partie des déclarations de situation patrimoniale, des observations ou des
+appréciations prévues aux deuxième à avant-dernier alinéas du présent I est puni de 45 000 € d'amende. 
+
+II.-La procédure prévue aux neuf derniers alinéas du I du présent article est applicable à la déclaration de situation
+patrimoniale déposée en fin de mandat en application du troisième alinéa du I de l'article LO 135-1. 
+
+III.-Ne peuvent être rendus publics les éléments suivants : les adresses personnelles de la personne soumise à déclaration,
+les noms du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin et des autres membres de sa famille. 
+
+Pour la déclaration de situation patrimoniale, ne peuvent être rendus publics, s'agissant des biens immobiliers : les
+indications, autres que le nom du département, relatives à la localisation des biens ; les noms des personnes qui possédaient
+auparavant les biens mentionnés dans la déclaration ; pour les biens qui sont en situation d'indivision, les noms des autres
+propriétaires indivis ; pour les biens en nue-propriété, les noms des usufruitiers ; pour les biens en usufruit, les noms des
+nus-propriétaires. 
+
+Pour la déclaration d'intérêts et d'activités, ne peuvent être rendus publics, s'agissant des biens immobiliers : les
+indications, autres que le nom du département, relatives à la localisation des biens. S'il s'agit du conjoint, du partenaire
+lié par un pacte civil de solidarité, du concubin : 
+
+1° Les noms des personnes qui possédaient auparavant des biens mentionnés dans cette déclaration ; 
+
+2° Pour les biens qui sont en situation d'indivision, les noms des autres propriétaires indivis ; 
+
+3° Pour les biens en nue-propriété, les noms des usufruitiers ; 
+
+4° Pour les biens en usufruit, les noms des nus-propriétaires. 
+
+Ne peuvent être rendus publics, s'agissant des biens mobiliers : les noms des personnes qui détenaient auparavant les biens
+mobiliers mentionnés dans la déclaration de situation patrimoniale ; les noms des personnes qui détenaient auparavant des
+biens mobiliers mentionnés dans la déclaration d'intérêts et d'activités s'il s'agit du conjoint, du partenaire lié par un
+pacte civil de solidarité, du concubin. 
+
+Ne peuvent être rendus publics, s'agissant des instruments financiers : les adresses des établissements financiers et les
+numéros des comptes détenus. 
+
+Le cas échéant : 
+
+1° L'évaluation rendue publique de la valeur des biens détenus en communauté correspond à la moitié de leur valeur vénale ; 
+
+2° L'évaluation rendue publique de la valeur des biens indivis correspond à la part des droits indivis détenus par le
+déclarant. 
+
+Les éléments mentionnés au présent III ne peuvent être communiqués qu'à la demande expresse du déclarant ou de ses ayants
+droit ou sur requête des autorités judiciaires lorsque leur communication est nécessaire à la solution du litige ou utile
+pour la découverte de la vérité. 
+
+IV.-Les informations contenues dans les déclarations d'intérêts et d'activités rendues publiques conformément et dans les
+limites fixées au présent article sont réutilisables dans les conditions prévues aux articles 10 à 13 de la loi n° 78-753 du
+17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses
+dispositions d'ordre administratif, social et fiscal. 
+
+V.-Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise les
+modalités d'application du présent article.
+
+**Nota:**
+
+Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de
+publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique.
+Le décret portant nomination du président de la Haute Autorité pour la  transparence de la vie publique a été publié le 20
+décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°88-226 du 11 mars 1988 - art. 14 (V)
-
-	**Créé par**:
-
-	  - Loi n°88-226 du 11 mars 1988 - art. 6 () JORF 12 mars 1988
+	  - Loi n°78-753 du 17 juillet 1978 - art. 10
+	  - Code électoral - art. LO135-1 (V)
 
 	**Cité par**:
 
@@ -6517,30 +6672,47 @@ ou utile pour la découverte de la vérité.
 	  - Décret n°2016-1819 du 22 décembre 2016 - art. 1
 	  - Livre des procédures fiscales - art. L139 B (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code électoral - art. LO135-1 (V)
+	  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
 
 
 ###### Article LO135-3
 
-La Commission pour la transparence financière de la vie politique peut demander à un député communication des déclarations
-qu'il a souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de
-l'article 885 W du même code. 
+La Haute Autorité pour la transparence de la vie publique peut demander à un député communication des déclarations qu'il a
+souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de l'article
+885 W du même code.
 
-A défaut de communication dans un délai de deux mois des déclarations mentionnées au premier alinéa, la commission peut
-demander à l'administration fiscale copie de ces mêmes déclarations.
+Elle peut également, si elle l'estime utile, demander les déclarations, mentionnées au premier alinéa, souscrites par le
+conjoint séparé de biens, le partenaire lié par un pacte civil de solidarité ou le concubin du député concerné.
+
+A défaut de communication dans un délai de deux mois des déclarations mentionnées aux deux premiers alinéas, la Haute
+Autorité peut demander à l'administration fiscale copie de ces mêmes déclarations, qui les lui transmet dans les trente
+jours.
+
+Elle peut demander à l'administration fiscale d'exercer le droit de communication prévu à la section I du chapitre II du
+titre II de la première partie du livre des procédures fiscales, en vue de recueillir toutes informations utiles à
+l'accomplissement de sa mission de contrôle. Ces informations sont transmises à la Haute Autorité dans les soixante jours
+suivant sa demande. 
+
+Elle peut, aux mêmes fins, demander à l'administration fiscale de mettre en œuvre les procédures d'assistance administrative
+internationale. 
+
+Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et des rapporteurs de la
+Haute Autorité, au titre des vérifications et contrôles qu'ils mettent en œuvre pour l'application du présent chapitre.
 
 **Nota:**
 
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de
+publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique.
+Le décret portant nomination du président de la Haute Autorité pour la  transparence de la vie publique a été publié le 20
+décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi organique n°2011-410 du 14 avril 2011 - art. 3
+	  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
 
 	**Cite**:
 
@@ -6550,6 +6722,92 @@ général de l'Assemblée nationale suivant sa promulgation.
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L139 B (V)
+
+
+###### Article LO135-4
+
+I.-Lorsqu'une déclaration déposée en application de l'article LO 135-1 est incomplète ou lorsqu'il n'a pas été donné suite à
+une demande d'explications de la Haute Autorité, celle-ci adresse au député une injonction tendant à ce que la déclaration
+complétée ou les explications demandées lui soient transmises sans délai. 
+
+II.-Le fait pour un député de ne pas déférer aux injonctions de la Haute Autorité pour la transparence de la vie publique ou
+de ne pas lui communiquer les informations et pièces utiles à l'exercice de sa mission dans un délai d'un mois à compter de
+la notification de l'injonction ou de la demande de communication est puni d'un an d'emprisonnement et de 15 000 € d'amende.
+
+**Nota:**
+
+Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de
+publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique.
+Le décret portant nomination du président de la Haute Autorité pour la  transparence de la vie publique a été publié le 20
+décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. LO135-1
+
+	**Cité par**:
+
+	  - Code électoral - art. LO135-5 (V)
+	  - Code électoral - art. LO135-6 (V)
+
+
+###### Article LO135-5
+
+La Haute Autorité pour la transparence de la vie publique apprécie la variation des situations patrimoniales des députés
+telle qu'elle résulte de leurs déclarations, des observations qu'ils ont pu lui adresser ou des autres éléments dont elle
+dispose. 
+
+Dans tous les cas où elle a relevé, après que le député a été mis en mesure de produire ses observations, un manquement à
+l'une des obligations prévues aux articles LO 135-1 et LO 135-4 ou des évolutions de patrimoine pour lesquelles elle ne
+dispose pas d'explications suffisantes, la Haute Autorité transmet le dossier au parquet.
+
+**Nota:**
+
+Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de
+publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique.
+Le décret portant nomination du président de la Haute Autorité pour la  transparence de la vie publique a été publié le 20
+décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. LO135-1
+	  - Code électoral - art. LO135-4 (V)
+
+
+###### Article LO135-6
+
+Lorsqu'elle constate un manquement aux obligations prévues aux articles LO 135-1 et LO 135-4, la Haute Autorité pour la
+transparence de la vie publique saisit le bureau de l'Assemblée nationale.
+
+**Nota:**
+
+Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de
+publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique.
+Le décret portant nomination du président de la Haute Autorité pour la  transparence de la vie publique a été publié le 20
+décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. LO135-1
+	  - Code électoral - art. LO135-4 (V)
 
 
 ###### Article LO136
@@ -6636,22 +6894,24 @@ général de l'Assemblée nationale suivant sa promulgation.
 
 ###### Article LO136-2
 
-La Commission pour la transparence financière de la vie politique saisit le bureau de l'Assemblée nationale du cas de tout
-député qui n'a pas déposé l'une des déclarations prévues à l'article LO 135-1. 
+La Haute Autorité pour la transparence de la vie publique saisit le bureau de l'Assemblée nationale du cas de tout député qui
+n'a pas déposé l'une des déclarations prévues à l'article LO 135-1. 
 
 Le Conseil constitutionnel, saisi par le bureau de l'Assemblée nationale, constate, le cas échéant, l'inéligibilité du député
 concerné et le déclare démissionnaire d'office par la même décision.
 
 **Nota:**
 
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent  article entre en vigueur à compter de la date de
+publication au Journal  officiel du décret nommant le président de la Haute Autorité pour la  transparence de la vie
+publique. Le décret portant nomination du  président de la Haute Autorité pour la  transparence de la vie publique a  été
+publié le 20 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi organique n°2011-410 du 14 avril 2011 - art. 5
+	  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
 
 	**Cité par**:
 
@@ -8514,91 +8774,88 @@ de conseiller général s'il n'exerçait le même mandat antérieurement à sa n
 
 ###### Article L195
 
-Ne peuvent être élus membres du conseil général : 
+Ne peuvent être élus membres du conseil général :
 
 1° Les préfets dans le département où ils exercent ou ont exercé leurs fonctions depuis moins de trois ans ; les sous-
 préfets, secrétaires généraux, directeurs de cabinet de préfet ou sous-préfets chargés de mission auprès d'un préfet, ainsi
 que les secrétaires en chef de sous-préfecture, dans le département où ils exercent ou ont exercé leurs fonctions depuis
-moins d'une année ; 
+moins d'une année ;
 
 2° Les magistrats du siège et du parquet des cours d'appel, dans le ressort de la juridiction où ils exercent ou ont exercé
-depuis moins de six mois ; 
+depuis moins de six mois ;
 
 3° Les membres des tribunaux administratifs ainsi que les magistrats et les secrétaires généraux des chambres régionales des
-comptes, dans le ressort de la juridiction où ils exercent ou ont exercé depuis moins de six mois ; 
+comptes, dans le ressort de la juridiction où ils exercent ou ont exercé depuis moins de six mois ;
 
 4° Les magistrats des tribunaux de grande instance et d'instance, dans le ressort de la juridiction où ils exercent ou ont
-exercé depuis moins de six mois ; 
+exercé depuis moins de six mois ;
 
 5° Les officiers des armées de terre, de mer et de l'air dans l'étendue de toute circonscription comprise dans le ressort où,
-dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois ; 
+dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois ;
 
 6° Les fonctionnaires des corps actifs de police dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
-de six mois ; 
+de six mois ;
 
 7° Dans les départements où ils exercent ou ont exercé leurs fonctions depuis moins de six mois : les ingénieurs en chef,
-ingénieurs en chef adjoints et ingénieurs des ponts et chaussées ; 
+ingénieurs en chef adjoints et ingénieurs des ponts et chaussées ;
 
 8° Les ingénieurs du service ordinaire des mines, dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
-de six mois ; 
+de six mois ;
 
 9° Les recteurs d'académie, dans tous les départements compris dans l'académie où ils exercent ou ont exercé depuis moins de
-six mois ; 
+six mois ;
 
 10° Les inspecteurs d'académie et les inspecteurs de l'enseignement primaire dans le département où ils exercent ou ont
-exercé leurs fonctions depuis moins de six mois ; 
+exercé leurs fonctions depuis moins de six mois ;
 
 11° Les agents et comptables de tout ordre agissant en qualité de fonctionnaire, employés à l'assiette, à la perception et au
 recouvrement des contributions directes ou indirectes, et au paiement des dépenses publiques de toute nature, dans le
-département où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
+département où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
 12° Les directeurs départementaux et inspecteurs principaux des postes et télécommunications, dans le département où ils
-exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
+exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
 13° Les ingénieurs en chef chargés de la direction d'un établissement du service des manufactures de tabac, les inspecteurs
 des manufactures de tabac et les directeurs du service de la culture et des magasins de tabac, dans le département où ils
-exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
+exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
 14° Les ingénieurs en chef, ingénieurs principaux, ingénieurs des travaux et autres agents du génie rural, des eaux et des
-forêts dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
+forêts dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
 15° Les inspecteurs des instruments de mesure dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de
-six mois ; 
+six mois ;
 
 16° Les directeurs départementaux et inspecteurs de l'action sanitaire et sociale dans le département où ils exercent ou ont
-exercé leurs fonctions depuis moins de six mois ; 
+exercé leurs fonctions depuis moins de six mois ;
 
 17° Les directeurs et chefs de service régionaux des administrations civiles de l'Etat dans les départements où ils exercent
-ou ont exercé leurs fonctions depuis moins de six mois ; 
+ou ont exercé leurs fonctions depuis moins de six mois ;
 
 18° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
 directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil général et de conseil régional
-dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
+dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
 19° Les membres du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse,
 les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité
 territoriale de Corse et de ses établissements publics dans les départements de la Corse-du-Sud et de la Haute-Corse, s'ils y
-exercent leurs fonctions ou les ont exercées depuis moins de six mois. 
+exercent leurs fonctions ou les ont exercées depuis moins de six mois.
 
 Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
-jour de l'élection, auront été admis à faire valoir leurs droits à la retraite. 
-
-Sont également inéligibles, pendant un an, le président du conseil général ou le conseiller général visé au deuxième alinéa
-de l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique, qui n'a pas
-déposé l'une des déclarations prévues par ce même article.
+jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s’appliquera aux élections organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964, v. init.
+
+	**Cite**:
+
+	  - Loi n°88-227 1988 03-11 art. 2
 
 	**Cité par**:
 
@@ -8615,18 +8872,9 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 	  - Code électoral - art. L558-11 (V)
 	  - Code électoral - art. L558-15 (V)
 
-	**Cite**:
-
-	  - Loi n°88-227 du 11 mars 1988 - art. 2 (VT)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-	  - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
-
 	**Modifié par**:
 
-	  - Loi n°2001-1248 du 21 décembre 2001 - art. 45 ()
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 30 (V)
 
 	**Anciens textes**:
 
@@ -9751,31 +9999,32 @@ Les députés et les sénateurs sont éligibles dans toutes les communes du dép
 
 ###### Article L230
 
-Ne peuvent être conseillers municipaux : 
+Ne peuvent être conseillers municipaux :
 
-1° Les individus privés du droit électoral ; 
+1° Les individus privés du droit électoral ;
 
-2° Les majeurs placés sous tutelle ou sous curatelle ; 
+2° Les majeurs placés sous tutelle ou sous curatelle ;
 
-3° (Abrogé) ; 
+3° (Abrogé) ;
 
-4° Pour une durée d'un an, le maire ou l'adjoint au maire visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du 11
-mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article.
+4° (Abrogé).
+
+**Nota:**
+
+Conformément à l'article 33 de la loi n° 2013-907 du 11 octobre 2013, l'article L230 du présent code entre en vigueur à la
+date de publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie
+publique. Le décret portant nomination du président de la Haute Autorité pour la transparence de la vie publique a été publié
+le 20 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cite**:
-
-	  - Loi n°88-227 du 11 mars 1988 - art. 2 (VT)
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 2005-02-11 art. 71 4° JORF 12 février 2005
-	  - Loi n°2005-102 du 11 février 2005 - art. 71
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 30 (V)
 
 	**Cité par**:
 
@@ -13756,8 +14005,7 @@ du territoire de la région ;
 2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et affectés au secrétariat général pour les
 affaires régionales en qualité de secrétaire général ou de chargé de mission ; 
 
-3° Pour une durée d'un an, le président de conseil régional ou le conseiller régional visé au deuxième alinéa de l'article 2
-de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article. 
+3° (Abrogé).
 
 Pendant la durée de ses fonctions, le Contrôleur général des lieux de privation de liberté ne peut être candidat à un mandat
 de conseiller régional s'il n'exerçait le même mandat antérieurement à sa nomination. 
@@ -13766,12 +14014,10 @@ Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers r�
 
 **Nota:**
 
-La présente loi entre en vigueur à la date prévue au I de l'article 44 de la loi organique n° 2011-333 du 29 mars 2011
-relative au Défenseur des droits (31 mars 2011).
-
-Toutefois, entrent en vigueur à la date prévue au premier alinéa du II du même article (1er mai 2011), les troisième, sixième
-et dernier alinéas de l'article 21 en tant qu'ils suppriment la référence au Défenseur des enfants aux articles L. 194-1, L.
-230-1 et L. 340 du code électoral.
+Conformément à l'article 33 de la loi n° 2013-907 du 11 octobre 2013, l'article L340 du présent code entre en vigueur à la
+date de publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie
+publique. Le décret portant nomination du président de la Haute Autorité pour la transparence de la vie publique a été publié
+le 20 décembre 2013.
 
 **Liens relatifs à cet article**
 
@@ -13779,16 +14025,15 @@ et dernier alinéas de l'article 21 en tant qu'ils suppriment la référence au 
 
 	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Cite**:
-
-	  - Loi n°88-227 du 11 mars 1988 - art. 2 (VT)
-	  - Code électoral - art. L195 (V)
-	  - Code électoral - art. L196 (V)
-	  - Code électoral - art. L199 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2011-334 du 29 mars 2011 - art. 21
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L195
+	  - Code électoral - art. L196
+	  - Code électoral - art. L199
 
 	**Cité par**:
 
@@ -14624,32 +14869,28 @@ Les dispositions des articles L. 339 à L. 341-1 sont applicables à l'élection
 
 Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la Corse " à la
 place de " de la région ", " Assemblée de Corse " à la place de " conseil régional ", " conseiller à l'Assemblée de Corse " à
-la place de " conseiller régional " et " affaires de Corse " à la place de " affaires régionales ". 
+la place de " conseiller régional " et " affaires de Corse " à la place de " affaires régionales ".
 
-En outre, est inéligible pendant un an le président de l'Assemblée de Corse, le président du conseil exécutif de Corse ou le
-membre de ce conseil visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas déposé
-l'une des déclarations prévues par ce même article.
+**Nota:**
+
+Conformément à l'article 33 de la loi n° 2013-907 du 11 octobre 2013, l'article L367 du présent code entre en vigueur à la
+date de publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie
+publique. Le décret portant nomination du président de la Haute Autorité pour la transparence de la vie publique a été publié
+le 20 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: La loi n°95-126 du 8 février 1995 est applicable dans les territoire d'outre-mer et dans la collectivité territoriale de Mayotte
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-	  - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
-
-	**Cite**:
-
-	  - Loi n°88-227 du 11 mars 1988 - art. 2 (VT)
-	  - Code électoral - art. L339 (V)
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°95-126 du 8 février 1995 - art. 6 ()
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L339
 
 	**Cité par**:
 
@@ -21167,27 +21408,30 @@ du territoire de la collectivité territoriale ;
 2° Les fonctionnaires placés auprès du représentant de l'Etat dans la collectivité territoriale et affectés au secrétariat
 général pour les affaires régionales en qualité de secrétaire général ou de chargé de mission ; 
 
-3° Pour une durée d'un an, le président de l'assemblée de Guyane, le conseiller à l'assemblée de Guyane, le président de
-l'assemblée de Martinique, le conseiller à l'assemblée de Martinique, le président du conseil exécutif de Martinique ou le
-conseiller exécutif de Martinique qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11
-mars 1988 relative à la transparence financière de la vie politique. 
+3° (Abrogé) ; 
 
 Les articles L. 199 à L. 203 et le cinquième alinéa de l'article L. 340 sont applicables à l'élection des conseillers à
 l'assemblée de Guyane ou de Martinique.
 
+**Nota:**
+
+Conformément à l'article 33 de la loi n° 2013-907 du 11 octobre 2013, l'article L558-11 du présent code entre en vigueur à la
+date de publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie
+publique. Le décret portant nomination du président de la Haute Autorité pour la transparence de la vie publique a été publié
+le 20 décembre 2013.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 30 (V)
 
 	**Cite**:
 
-	  - Loi n°88-227 du 11 mars 1988 - art. 2
 	  - Code électoral - art. L195
 	  - Code électoral - art. L196
 	  - Code électoral - art. L199
 	  - Code électoral - art. L340
-
-	**Créé par**:
-
-	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
 
 	**Cité par**:
 
