@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2013-12-20
+Version Consolidée au 2013-12-21
 
 # Partie législative
 
@@ -26419,12 +26419,13 @@ listes d'émargement déposées dans les conditions fixées à l'article L 68.
 
 ###### Article R72
 
-Sur le territoire national, les procurations sont établies par acte dressé devant le juge du tribunal d'instance de leur
-résidence ou de leur lieu de travail ou le juge qui en exerce les fonctions ou le greffier en chef de ce tribunal, ou devant
-tout officier ou agent  de police judiciaire, autre que les maires et leurs adjoints, tout réserviste au titre de la réserve
-civile de la police nationale ou au titre de la réserve opérationnelle de la gendarmerie nationale, ayant la qualité d'agent
-de police judiciaire, que ce juge aura désigné. A la demande de ce magistrat, le premier président de la cour d'appel peut
-désigner, en outre, d'autres magistrats ou d'autres greffiers en chef, en activité ou à la retraite.
+Sur le territoire national, les procurations sont établies au moyen de l'un des formulaires administratifs prévus à cet
+effet, présenté par le mandant au juge du tribunal d'instance de sa résidence ou de son lieu de travail, ou au juge qui en
+exerce les fonctions ou au greffier en chef de ce tribunal, ou à tout officier ou agent de police judiciaire, autre que les
+maires et leurs adjoints, tout réserviste au titre de la réserve civile de la police nationale ou au titre de la réserve
+opérationnelle de la gendarmerie nationale, ayant la qualité d'agent de police judiciaire, que ce juge aura désigné. A la
+demande de ce magistrat, le premier président de la cour d'appel peut désigner, en outre, d'autres magistrats ou d'autres
+greffiers en chef, en activité ou à la retraite.
 
 Les officiers et agents de police judiciaire compétents pour établir les procurations, ou les délégués des officiers de
 police judiciaire, se déplacent à la demande des personnes qui, en raison de maladies ou d'infirmités graves, ne peuvent
@@ -26463,17 +26464,17 @@ du magistrat qui l'a désigné.
 
 	**Modifié par**:
 
-	  - Décret n°2012-220 du 16 février 2012 - art. 3
+	  - Décret n°2013-1187 du 18 décembre 2013 - art. 1
 
 
 ###### Article R72-1
 
-Hors de France, les procurations sont établies par acte dressé devant l'ambassadeur pourvu d'une circonscription consulaire
-ou le chef de poste consulaire ou devant un consul honoraire de nationalité française habilité à cet effet par arrêté du
-ministre des affaires étrangères. L'ambassadeur et le chef de poste consulaire peuvent déléguer leur signature en cette
-matière, sous leur responsabilité, à un ou plusieurs agents relevant de leur autorité ayant la qualité de fonctionnaire. Le
-nom du ou des agents ayant reçu délégation est publié par voie d'affichage, à l'intérieur des locaux de l'ambassade ou du
-poste consulaire, en un lieu accessible au public. 
+Hors de France, les procurations sont établies au moyen de l'un des formulaires administratifs mentionnés à l'article R. 72,
+présenté par le mandant à l'ambassadeur pourvu d'une circonscription consulaire ou au chef de poste consulaire ou à un consul
+honoraire de nationalité française habilité à cet effet par arrêté du ministre des affaires étrangères. L'ambassadeur et le
+chef de poste consulaire peuvent déléguer leur signature en cette matière, sous leur responsabilité, à un ou plusieurs agents
+relevant de leur autorité ayant la qualité de fonctionnaire. Le nom du ou des agents ayant reçu délégation est publié par
+voie d'affichage, à l'intérieur des locaux de l'ambassade ou du poste consulaire, en un lieu accessible au public. 
 
 Pour les militaires et les autres personnes auxquelles s'applique l'article L. 121-2 du code de justice militaire, stationnés
 hors de France, l'ambassadeur ou le chef de poste consulaire peut déléguer les compétences qui lui sont conférées à l'alinéa
@@ -26484,7 +26485,7 @@ d'officier de police judiciaire conformément à l'article L. 211-5 du même cod
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -26501,24 +26502,26 @@ d'officier de police judiciaire conformément à l'article L. 211-5 du même cod
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2013-1187 du 18 décembre 2013 - art. 2
 
 	**Cite**:
 
-	  - Code de justice militaire. - art. L121-2 (V)
-	  - Code de justice militaire. - art. L211-5 (V)
+	  - Code électoral - art. R*72
+	  - Code de justice militaire. - art. L121-2
+	  - Code de justice militaire. - art. L211-5
 
 
 ###### Article R72-2
 
 Pour les marins de l'Etat en campagne lointaine, et pour les marins du commerce et de la pêche embarqués au long cours ou à
-la grande pêche, les procurations sont établies par acte dressé devant le commandant du bâtiment ou le capitaine du navire.
+la grande pêche, les procurations sont établies au moyen de l'un des formulaires administratifs mentionnés à l'article R. 72,
+présenté par le mandant au commandant du bâtiment ou au capitaine du navire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -26528,7 +26531,11 @@ la grande pêche, les procurations sont établies par acte dressé devant le com
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2013-1187 du 18 décembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. R*72
 
 
 ###### Article R73
@@ -26616,24 +26623,24 @@ Lorsque plusieurs élections ont lieu le même jour, il n'est établi qu'une pro
 
 ###### Article R75
 
-Chaque procuration est établie sur un imprimé. Elle est signée par le mandant.
+Chaque procuration est établie sur un formulaire administratif, qui est tenu à disposition des autorités habilitées ou
+accessible en ligne. Elle est signée par le mandant. 
 
-L'autorité devant laquelle est dressée la procuration, après avoir porté mention de celle-ci sur un registre spécial ouvert
-par ses soins, indique sur celle-ci ses noms et qualité et la revêt de son visa et de son cachet.
+L'autorité à laquelle est présenté l'un des formulaires de procuration, après avoir porté mention de celle-ci sur un registre
+spécial ouvert par ses soins, indique sur le formulaire ses noms et qualité et le revêt de son visa et de son cachet. 
 
-Elle remet ensuite un récépissé au mandant et adresse, sans enveloppe et en recommandé, ou par porteur contre accusé de
-réception, la procuration au maire de la commune sur la liste électorale de laquelle le mandant est inscrit.
+Elle remet ensuite un récépissé au mandant et adresse en recommandé, ou par porteur contre accusé de réception, la
+procuration au maire de la commune sur la liste électorale de laquelle le mandant est inscrit. 
 
 Lorsque la procuration est établie hors de France, cet envoi est fait par l'autorité consulaire soit directement sous
-enveloppe, soit par la valise diplomatique, le ministre des affaires étrangères le réexpédiant sans enveloppe. Dans les deux
-cas, la procuration est adressée en recommandé au maire de la commune sur la liste électorale de laquelle le mandant est
-inscrit.
+enveloppe, soit par la valise diplomatique, le ministre des affaires étrangères le réexpédiant. Dans les deux cas, la
+procuration est adressée en recommandé au maire de la commune sur la liste électorale de laquelle le mandant est inscrit.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -26658,8 +26665,7 @@ inscrit.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 8 () JORF 13 octobre 2006
+	  - Décret n°2013-1187 du 18 décembre 2013 - art. 4
 
 
 ###### Article R76
@@ -26771,14 +26777,14 @@ valable. Il avise également le ou les mandataires de la nullité de la ou des p
 
 ###### Article R78
 
-La résiliation est effectuée devant les autorités devant lesquelles l'acte de procuration peut être dressé. Ces autorités en
-informent le maire dans les conditions prévues à l'article R. 75.
+La résiliation est effectuée devant les autorités devant lesquelles l'un des formulaires administratifs mentionnés à
+l'article R. 72 peut être présenté. Ces autorités en informent le maire dans les conditions prévues à l'article R. 75.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -26793,12 +26799,12 @@ informent le maire dans les conditions prévues à l'article R. 75.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 8 () JORF 13 octobre 2006
+	  - Décret n°2013-1187 du 18 décembre 2013 - art. 5
 
 	**Cite**:
 
-	  - Code électoral - art. R*75 (M)
+	  - Code électoral - art. R*72
+	  - Code électoral - art. R*75
 
 
 ###### Article R79
@@ -30539,14 +30545,15 @@ l'article R. 176-2-1.
 
 ###### Article R176-2-3
 
-Pour l'application de l'article R. 75, l'autorité devant laquelle la procuration est dressée la transmet, par voie postale,
-télécopie ou courrier électronique, à l'ambassadeur ou au chef de poste consulaire chargé d'organiser les opérations de vote.
+Pour l'application de l'article R. 75, l'autorité      à laquelle l'un des formulaires de procuration est présenté le
+transmet, par voie postale, télécopie ou courrier électronique, à l'ambassadeur ou au chef de poste consulaire chargé
+d'organiser les opérations de vote.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+	  - Décret n°2013-1187 du 18 décembre 2013 - art. 6
 
 	**Cite**:
 
@@ -32104,18 +32111,18 @@ municipalité " ;
 ###### Article R204
 
 Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
-blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2013-703 du 1er
-août 2013 : 
+blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2013-1187 du 18 décembre
+2013 : 
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 20 à R. 22, R.
-43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; 
+43 et R. 60, à l'élection du député dans les îles  Wallis-et-Futuna ; 
 
 2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ; 
 
 3° A l'élection des représentants à l'assemblée de Polynésie française ; 
 
 4° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60 et du chapitre V bis, à l'élection des membres de l'assemblée
-territoriale des îles Wallis et Futuna ; 
+territoriale des îles  Wallis-et-Futuna ; 
 
 5° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
@@ -32137,7 +32144,7 @@ préparatoires à ce scrutin.
 
 	**Cite**:
 
-	  - Décret n°2013-703 du 1er août 2013
+	  - Décret n°2013-1187 du 18 décembre 2013
 	  - Code électoral - art. R*20
 	  - Code électoral - art. R30
 	  - Code électoral - art. R43
@@ -32145,7 +32152,7 @@ préparatoires à ce scrutin.
 
 	**Modifié par**:
 
-	  - Décret n°2013-703 du 1er août 2013 - art. 3
+	  - Décret n°2013-1187 du 18 décembre 2013 - art. 7
 
 
 ###### Article R205
