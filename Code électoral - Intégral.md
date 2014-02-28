@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2013-12-21
+Version Consolidée au 2014-03-01
 
 # Partie législative
 
@@ -7051,14 +7051,28 @@ la magistrature, l'exercice des fonctions de magistrat est incompatible avec l'e
 ###### Article LO141
 
 Le mandat de député est incompatible avec l'exercice de plus d'un des mandats énumérés ci-après : conseiller régional,
-conseiller à l'Assemblée de Corse, conseiller général, conseiller de Paris, conseiller municipal d'une commune d'au moins 3
-500 habitants.
+conseiller à l'Assemblée de Corse, conseiller général, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à
+l'assemblée de Martinique, conseiller municipal d'une commune d'au moins 3 500 habitants.
+
+**Nota:**
+
+Conformément à l'article 10 de la loi organique n° 2011-883 du 27 juillet 2011, la présente loi organique entre en vigueur :
+
+1° En ce qui concerne les dispositions applicables à la Guyane, à compter de la première réunion de l'Assemblée de Guyane ;
+
+2° En ce qui concerne les dispositions applicables à la Martinique, à compter de la première réunion de l'Assemblée de
+Martinique.
+
+Une nouvelle version de cet article modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des
+conseillers municipaux, des conseillers communautaires et des conseillers départementaux s’appliquera aux élections
+organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils municipaux et communautaires,
+y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -7077,7 +7091,7 @@ conseiller à l'Assemblée de Corse, conseiller général, conseiller de Paris, 
 
 	**Modifié par**:
 
-	  - Loi n°2000-294 du 5 avril 2000 - art. 3 ()
+	  - Loi organique n°2011-883 du 27 juillet 2011 - art. 5
 
 
 ###### Article LO142
@@ -7288,21 +7302,36 @@ surveillance dans l'un des établissements, sociétés ou entreprises visés à 
 
 ###### Article LO148
 
-Nonobstant les dispositions des articles LO. 146 et LO. 147, les députés membres d'un conseil régional, d'un conseil général
-ou d'un conseil municipal peuvent être désignés par ces conseils pour représenter la région, le département ou la commune
-dans des organismes d'intérêt régional ou local, à la condition que ces organismes n'aient pas pour objet propre de faire ni
-de distribuer des bénéfices et que les intéressés n'y occupent pas de fonctions rémunérées.
+Nonobstant les dispositions des articles L. O. 146 et L. O. 147, les députés membres d'un conseil régional, d'un conseil
+général, de l'assemblée de Guyane, de l'assemblée de Martinique ou d'un conseil municipal peuvent être désignés par ces
+conseils pour représenter la région, le département, la collectivité ou la commune dans des organismes d'intérêt régional ou
+local, à la condition que ces organismes n'aient pas pour objet propre de faire ni de distribuer des bénéfices et que les
+intéressés n'y occupent pas de fonctions rémunérées. 
 
-En outre, les députés, même non membres d'un conseil régional, d'un conseil général ou d'un conseil municipal, peuvent
-exercer les fonctions de président du conseil d'administration, d'administrateur délégué ou de membre du conseil
-d'administration des sociétés d'économie mixte d'équipement régional ou local, ou des sociétés ayant un objet exclusivement
-social lorsque ces fonctions ne sont pas rémunérées.
+En outre, les députés, même non membres d'un conseil régional, d'un conseil général, de l'assemblée de Guyane, de l'assemblée
+de Martinique ou d'un conseil municipal, peuvent exercer les fonctions de président du conseil d'administration,
+d'administrateur délégué ou de membre du conseil d'administration des sociétés d'économie mixte d'équipement régional ou
+local, ou des sociétés ayant un objet exclusivement social lorsque ces fonctions ne sont pas rémunérées.
+
+**Nota:**
+
+Conformément à l'article 10 de la loi organique n° 2011-883 du 27 juillet 2011, la présente loi organique entre en vigueur :
+
+1° En ce qui concerne les dispositions applicables à la Guyane, à compter de la première réunion de l'Assemblée de Guyane ;
+
+2° En ce qui concerne les dispositions applicables à la Martinique, à compter de la première réunion de l'Assemblée de
+Martinique.
+
+Une nouvelle version de cet article modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des
+conseillers municipaux, des conseillers communautaires et des conseillers départementaux s'appliquera aux élections
+organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils départementaux, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -7311,7 +7340,11 @@ social lorsque ces fonctions ne sont pas rémunérées.
 
 	**Modifié par**:
 
-	  - Loi n°90-87 du 23 janvier 1990 - art. 1 () JORF 25 janvier 1990
+	  - Loi organique n°2011-883 du 27 juillet 2011 - art. 5
+
+	**Cite**:
+
+	  - Code électoral - art. LO146
 
 
 ###### Article LO149
