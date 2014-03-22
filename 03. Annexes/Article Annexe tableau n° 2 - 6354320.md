@@ -3,374 +3,363 @@
 <table>
   <tbody>
     <tr>
-      <td width="216">
+      <td align="center">
+        DÉSIGNATION des secteurs</td>
+      <td align="center">ARRONDISSEMENTS 
 
-DESIGNATION DES SECTEURS
+constituant 
+
+les secteurs </td>
+      <td align="center">NOMBRE de sièges</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+1er secteur 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-ARRONDISSEMENT 
-
-constituant les secteurs
+1er 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-NOMBRE DE SIEGES
+1 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-1er secteur
-
-</td>
-      <td width="216">
-
-1er
+2e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-2e secteur
+2e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-2e
-
-</td>
-      <td width="217">
-
-3
+2 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-3e secteur
-
-</td>
-      <td width="216">
-
-3e
+3e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-4e secteur
+3e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-4e
-
-</td>
-      <td width="217">
-
-3
+3 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-5e secteur
-
-</td>
-      <td width="216">
-
-5e
+4e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-4
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-6e secteur
+4e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-6e
-
-</td>
-      <td width="217">
-
-3
+2 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-7e secteur
-
-</td>
-      <td width="216">
-
-7e
+5e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-5
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-8e secteur
+5e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-8e
-
-</td>
-      <td width="217">
-
-3
+4 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-9e secteur
-
-</td>
-      <td width="216">
-
-9e
+6e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-4
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-10e secteur
+6e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-10e
-
-</td>
-      <td width="217">
-
-6
+3 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-11e secteur
-
-</td>
-      <td width="216">
-
-11e
+7e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-11
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-12e secteur
+7e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-12e
-
-</td>
-      <td width="217">
-
-10
+4 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-13e secteur
-
-</td>
-      <td width="216">
-
-13e
+8e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-13
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-14e secteur
+8e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-14e
-
-</td>
-      <td width="217">
-
-10
+3 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-15e secteur
-
-</td>
-      <td width="216">
-
-15e
+9e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-17
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-16e secteur
+9e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-16e
-
-</td>
-      <td width="217">
-
-13
+4 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-17e secteur
-
-</td>
-      <td width="216">
-
-17e
+10e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-13
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-18e secteur
+10e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-18e
-
-</td>
-      <td width="217">
-
-14
+7 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-19e secteur
-
-</td>
-      <td width="216">
-
-19e
+11e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
 
-12
-
-</td>
-    </tr>
-    <tr>
-      <td width="216">
-
-20e secteur
+11e 
 
 </td>
-      <td width="216">
+      <td align="center">
 
-20e
-
-</td>
-      <td width="217">
-
-13
+11 
 
 </td>
     </tr>
     <tr>
-      <td width="216">
+      <td align="center">
 
-Total
-
-</td>
-      <td width="216">
+12e secteur 
 
 </td>
-      <td width="217">
+      <td align="center">
+
+12e 
+
+</td>
+      <td align="center">
+
+10 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+13e secteur 
+
+</td>
+      <td align="center">
+
+13e 
+
+</td>
+      <td align="center">
+
+13 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+14e secteur 
+
+</td>
+      <td align="center">
+
+14e 
+
+</td>
+      <td align="center">
+
+10 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+15e secteur 
+
+</td>
+      <td align="center">
+
+15e 
+
+</td>
+      <td align="center">
+
+18 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+16e secteur 
+
+</td>
+      <td align="center">
+
+16e 
+
+</td>
+      <td align="center">
+
+13 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+17e secteur 
+
+</td>
+      <td align="center">
+
+17e 
+
+</td>
+      <td align="center">
+
+12 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+18e secteur 
+
+</td>
+      <td align="center">
+
+18e 
+
+</td>
+      <td align="center">
+
+15 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+19e secteur 
+
+</td>
+      <td align="center">
+
+19e 
+
+</td>
+      <td align="center">
+
+14 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+20e secteur 
+
+</td>
+      <td align="center">
+
+20e 
+
+</td>
+      <td align="center">
+
+14 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Total 
+
+</td>
+      <td>
+      </td><td align="center">
 
 163
 
@@ -381,19 +370,17 @@ Total
 
 **Nota:**
 
-Décision n° 2013-667 DC du 16 mai 2013, article 3 : Le tableau n° 2 annexé au  code électoral (Tableau des secteurs pour
-l'élection des membres du conseil de  Paris) est déclaré contraire à la Constitution.
+Cet article a été modifié par la loi n° 2013-713 du 5 août 2013 fixant le nombre et la répartition des sièges de conseiller
+de Paris. Conformément à son article 3, l'article dans sa version modifiée par la loi du 5 août 2013 s'applique à compter du
+prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux
+opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
-
-	**Créé par**:
-
-	  - Loi n°75-1333 1975-12-31 art. 3 JORF 3 janvier 1976
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
+	  - Loi n°2013-713 du 5 août 2013 - art. 1
