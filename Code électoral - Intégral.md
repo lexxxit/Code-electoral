@@ -1,11 +1,11 @@
 # Code électoral  
-Version Consolidée au 2014-03-23
+Version Consolidée au 2014-04-01
 
 # Partie législative
 
-## Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux
+## Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
 
-### Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux
+### Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
 
 #### Chapitre Ier : Conditions requises pour être électeur
 
@@ -4123,7 +4123,9 @@ A chaque table, l'un des scrutateurs extrait le bulletin de chaque enveloppe et 
 celui-ci le lit à haute voix ; les noms portés sur les bulletins sont relevés par deux scrutateurs au moins sur des listes
 préparées à cet effet. Si une enveloppe contient plusieurs bulletins, le vote est nul quand les bulletins portent des listes
 et des noms différents. Les bulletins multiples ne comptent que pour un seul quand ils désignent la même liste ou le même
-candidat.
+candidat. Les bulletins blancs sont décomptés séparément et annexés au procès-verbal. Ils n'entrent pas en compte pour la
+détermination des suffrages exprimés, mais il en est fait spécialement mention dans les résultats des scrutins. Une enveloppe
+ne contenant aucun bulletin est assimilée à un bulletin blanc. 
 
 Dans les bureaux de vote dotés d'une machine à voter, le président, à la fin des opérations de vote, rend visibles les
 compteurs totalisant les suffrages obtenus par chaque liste ou chaque candidat ainsi que les votes blancs, de manière à en
@@ -4132,16 +4134,9 @@ lecture à haute voix des résultats qui sont aussitôt enregistrés par le secr
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s’appliquera aux élections organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -4178,18 +4173,15 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 
 	**Modifié par**:
 
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 10 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 11 () JORF 4 janvier 1989
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 12 () JORF 4 janvier 1989
+	  - Loi n°2014-172 du 21 février 2014 - art. 1
 
 
 ###### Article L66
 
-Les bulletins blancs, ceux ne contenant pas une désignation suffisante ou dans lesquels les votants se sont fait connaître,
-les bulletins trouvés dans l'urne sans enveloppe ou dans des enveloppes non réglementaires, les bulletins écrits sur papier
-de couleur, les bulletins ou enveloppes portant des signes intérieurs ou extérieurs de reconnaissance, les bulletins ou
-enveloppes portant des mentions injurieuses pour les candidats ou pour des tiers n'entrent pas en compte dans le résultat du
-dépouillement.
+Les bulletins ne contenant pas une désignation suffisante ou dans lesquels les votants se sont fait connaître, les bulletins
+trouvés dans l'urne sans enveloppe ou dans des enveloppes non réglementaires, les bulletins écrits sur papier de couleur, les
+bulletins ou enveloppes portant des signes intérieurs ou extérieurs de reconnaissance, les bulletins ou enveloppes portant
+des mentions injurieuses pour les candidats ou pour des tiers n'entrent pas en compte dans le résultat du dépouillement.
 
 Mais ils sont annexés au procès-verbal ainsi que les enveloppes non réglementaires et contresignés par les membres du bureau.
 
@@ -4263,7 +4255,11 @@ a eu pour but et pour conséquence de porter atteinte à la sincérité du scrut
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2014-172 du 21 février 2014 - art. 2
 
 
 ###### Article L67
@@ -5940,26 +5936,6 @@ Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il
 
 	  - Loi n°2013-659 du 22 juillet 2013 - art. 15 (V)
 
-
-### Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
-
-#### Chapitre Ier : Conditions requises pour être électeur
-
-#### Chapitre II : Listes électorales
-
-#### Chapitre III : Conditions d'éligibilité et inéligibilités
-
-#### Chapitre IV : Incompatibilités
-
-#### Chapitre V : Propagande
-
-#### Chapitre V bis : Financement et plafonnement des dépenses électorales
-
-#### Chapitre VI : Vote
-
-#### Chapitre VII : Dispositions pénales
-
-#### Chapitre VIII : Contentieux
 
 ### Titre II : Dispositions spéciales à l'élection des députés
 
@@ -10822,7 +10798,7 @@ renouvellement général des conseils municipaux.
 	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 24 () JORF 9 décembre 2003
 
 
-#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants
+#### Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants
 
 ##### Section 1 : Mode de scrutin
 
@@ -10993,129 +10969,6 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 	  - Code électoral - art. L254 (V)
 
 
-##### Section 4  : Opérations de vote
-
-###### Article L256
-
-Le jour du scrutin, sont affichés dans chaque bureau de vote le nombre de conseillers municipaux à élire par la
-circonscription électorale, ainsi que les noms et prénoms des personnes candidates dans les conditions prévues à la section 1
-bis du présent chapitre.
-
-**Nota:**
-
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
-51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
-conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Modifié par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 26
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*151-2 (M)
-	  - Code électoral - art. L273 (V)
-	  - Code électoral - art. L334-13 (Ab)
-	  - Code électoral - art. L429 (V)
-	  - Code électoral - art. L471 (VT)
-	  - Code électoral - art. R126 (VD)
-
-
-###### Article L257
-
-Sont valables les bulletins déposés dans l'urne comportant plus ou moins de noms qu'il n'y a de conseillers à élire.
-
-Les derniers noms inscrits au-delà de ce nombre ainsi que les noms des personnes qui n'étaient pas candidates ne sont pas
-décomptés.
-
-**Nota:**
-
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
-51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
-conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Modifié par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 26
-
-	**Cité par**:
-
-	  - Code du travail - art. R513-13 (Ab)
-
-
-##### Section 5 : Remplacement des conseillers municipaux
-
-###### Article L258
-
-Lorsque le conseil municipal a perdu, par l'effet des vacances survenues, le tiers de ses membres, il est, dans le délai de
-trois mois à dater de la dernière vacance, procédé à des élections complémentaires.
-
-Toutefois, dans l'année qui précède le renouvellement général des conseils municipaux, les élections complémentaires ne sont
-obligatoires qu'au cas où le conseil municipal a perdu plus de la moitié de ses membres.
-
-Dans les communes divisées en sections électorales, il y a toujours lieu à élections partielles quand la section a perdu la
-moitié de ses conseillers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. R2121-3 (M)
-	  - Code électoral - art. L270 (V)
-	  - Code électoral - art. L429 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Le titre VI de la présente ordonnance est applicable en Nouvelle-Calédonie
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
-
-	**Modifié par**:
-
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 25 () JORF 9 décembre 2003
-
-
-###### Article L259
-
-Lorsqu'il y a lieu de remplacer des conseillers municipaux élus par des sections électorales conformément à l'article L. 254,
-ces remplacements sont faits par les sections auxquelles appartiennent ces conseillers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
-
-	**Cite**:
-
-	  - Code électoral - art. L254 (VT)
-
-
-#### Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants
-
-##### Section 1 : Mode de scrutin
-
 ##### Section 1 bis : Déclarations de candidature 
 
 
@@ -11241,9 +11094,124 @@ municipaux et communautaires prévues les 23 et 30 mars 2014, y compris aux opé
 
 ##### Section 4  : Opérations de vote
 
+###### Article L256
+
+Le jour du scrutin, sont affichés dans chaque bureau de vote le nombre de conseillers municipaux à élire par la
+circonscription électorale, ainsi que les noms et prénoms des personnes candidates dans les conditions prévues à la section 1
+bis du présent chapitre.
+
+**Nota:**
+
+Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
+conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
+51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
+conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 26
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*151-2 (M)
+	  - Code électoral - art. L273 (V)
+	  - Code électoral - art. L334-13 (Ab)
+	  - Code électoral - art. L429 (V)
+	  - Code électoral - art. L471 (VT)
+	  - Code électoral - art. R126 (VD)
+
+
+###### Article L257
+
+Sont valables les bulletins déposés dans l'urne comportant plus ou moins de noms qu'il n'y a de conseillers à élire.
+
+Les derniers noms inscrits au-delà de ce nombre ainsi que les noms des personnes qui n'étaient pas candidates ne sont pas
+décomptés.
+
+**Nota:**
+
+Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
+conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
+51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
+conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 26
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-13 (Ab)
+
+
 ##### Section 5 : Remplacement des conseillers municipaux
 
-#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus
+###### Article L258
+
+Lorsque le conseil municipal a perdu, par l'effet des vacances survenues, le tiers de ses membres, il est, dans le délai de
+trois mois à dater de la dernière vacance, procédé à des élections complémentaires.
+
+Toutefois, dans l'année qui précède le renouvellement général des conseils municipaux, les élections complémentaires ne sont
+obligatoires qu'au cas où le conseil municipal a perdu plus de la moitié de ses membres.
+
+Dans les communes divisées en sections électorales, il y a toujours lieu à élections partielles quand la section a perdu la
+moitié de ses conseillers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R2121-3 (M)
+	  - Code électoral - art. L270 (V)
+	  - Code électoral - art. L429 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Le titre VI de la présente ordonnance est applicable en Nouvelle-Calédonie
+	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
+
+	**Modifié par**:
+
+	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 25 () JORF 9 décembre 2003
+
+
+###### Article L259
+
+Lorsqu'il y a lieu de remplacer des conseillers municipaux élus par des sections électorales conformément à l'article L. 254,
+ces remplacements sont faits par les sections auxquelles appartiennent ces conseillers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+	**Modifié par**:
+
+	  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+
+	**Cite**:
+
+	  - Code électoral - art. L254 (VT)
+
+
+#### Chapitre III : Dispositions spéciales aux communes de 1 000 habitants et plus
 
 ##### Section 1 : Mode de scrutin
 
@@ -11573,21 +11541,21 @@ d'éligibilité dans cet Etat ou qu'une telle déchéance n'est pas connue desdi
 
 ###### Article L268
 
-Est nul tout bulletin qui ne répond pas aux conditions de l'article L. 260.
+Est nul tout bulletin qui ne répond pas aux conditions de l'article L. 260, à l'exception des bulletins blancs.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+	  - Loi n°2014-172 du 21 février 2014 - art. 3
 
 	**Cite**:
 
-	  - Code électoral - art. L260 (V)
+	  - Code électoral - art. L260
 
 	**Liens**:
 
@@ -11663,16 +11631,6 @@ nécessaire de compléter le conseil avant l'élection d'un nouveau maire.
 	  - Code général des collectivités territoriales - art. L2122-14 (V)
 	  - Code général des collectivités territoriales - art. L2122-8 (V)
 
-
-#### Chapitre III : Dispositions spéciales aux communes de 1 000 habitants et plus
-
-##### Section 1 : Mode de scrutin
-
-##### Section 2 : Déclarations de candidatures
-
-##### Section 3 : Opérations de vote
-
-##### Section 4 : Remplacement des conseillers municipaux
 
 #### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille
 
@@ -11937,16 +11895,6 @@ L. 240, L. 241, L. 244 et L. 256.
 	  - Code électoral - art. L244 (Ab)
 	  - Code électoral - art. L256 (VT)
 
-
-## Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
-
-### Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
-
-### Titre II : Dispositions spéciales à l'élection des députés
-
-### Titre III : Dispositions spéciales à l'élection des conseillers généraux
-
-### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
 
 ### Titre V : Dispositions spéciales à l'élection des conseillers communautaires
  
@@ -16103,10 +16051,9 @@ statistique et des études économiques "  ;
 
 ###### Article L388
 
-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral, à l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont
-applicables à l'élection : 
+Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la
+loi n° 2014-172 du 21 février 2014 visant à reconnaître le vote blanc aux élections, à l'exception des articles L. 15, L.
+15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
 
@@ -16122,13 +16069,6 @@ mer ;
 
 5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
-**Nota:**
-
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
-51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
-conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -16136,7 +16076,7 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 	  - Loi n°61-814 du 29 juillet 1961
 	  - Loi n°99-209 du 19 mars 1999
 	  - Loi organique n°2004-192 du 27 février 2004
-	  - Loi n°2011-412 du 14 avril 2011
+	  - Loi n°2014-172 du 21 février 2014 (VD)
 	  - Code électoral - art. L15
 	  - Code électoral - art. L46-1
 	  - Code électoral - art. L66
@@ -16149,7 +16089,7 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 42 (V)
+	  - Loi n°2014-172 du 21 février 2014 - art. 5
 
 
 ###### Article L389
@@ -16237,7 +16177,7 @@ commission de propagande.
 Pour les élections mentionnées à l'article L. 388, n'entrent pas en compte dans les résultats du dépouillement et sont
 annexés au procès-verbal : 
 
-1° Les bulletins blancs ; 
+1° (Abrogé) ; 
 
 2° Les bulletins manuscrits ; 
 
@@ -16260,11 +16200,7 @@ des conseillers municipaux en Polynésie française.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -16273,9 +16209,13 @@ des conseillers municipaux en Polynésie française.
 	  - Code des communes de la Nouvelle-Calédonie - art. L125-7 (V)
 	  - Code électoral - art. R238 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-172 du 21 février 2014 - art. 4
+
 	**Cite**:
 
-	  - Code électoral - art. L388 (VT)
+	  - Code électoral - art. L388
 
 
 ###### Article L392
@@ -17775,9 +17715,8 @@ statué sur la réclamation.
 ###### Article L428
 
 Pour l'élection des conseillers municipaux en Nouvelle-Calédonie, les dispositions du titre IV du livre Ier sont applicables,
-dans leur rédaction à la date d'entrée en vigueur de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral, sous
-réserve des dispositions prévues au présent chapitre. 
+dans leur rédaction en vigueur à la date de promulgation de la loi n° 2014-172 du 21 février 2014 visant à reconnaître le
+vote blanc aux élections, sous réserve des dispositions prévues au présent chapitre. 
 
 Pour son application en Nouvelle-Calédonie, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé : 
 
@@ -17796,10 +17735,6 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
 	**Cite**:
 
 	  - Loi n°2011-412 du 14 avril 2011
@@ -17807,7 +17742,7 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 42 (V)
+	  - Loi n°2014-172 du 21 février 2014 - art. 5
 
 
 ###### Article L429
@@ -18029,24 +17964,23 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 ###### Article L438
 
 Les dispositions du chapitre II du titre IV du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur
-de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des
-conseillers communautaires, et modifiant le calendrier électoral, sont applicables en Polynésie française dans les communes
-de moins de 1 000 habitants, dans les communes de moins de 3 500 habitants composées de communes associées, ainsi que dans
-les communes de 3 500 habitants et plus composées d'au moins une commune associée de moins de 1 000 habitants. 
+de la loi n° 2014-172 du 21 février 2014 visant à reconnaître le vote blanc aux élections, sont applicables en Polynésie
+française dans les communes de moins de 1 000 habitants, dans les communes de moins de 3 500 habitants composées de communes
+associées, ainsi que dans les communes de 3 500 habitants et plus composées d'au moins une commune associée de moins de 1 000
+habitants. 
 
-Pour l'application en Polynésie française de l'article L. 255-1, les mots : "comprises dans une commune de 20 000 habitants
-ou plus" sont supprimés.
+Pour l'application en Polynésie française de l'article L. 255-1, les mots : " comprises dans une commune de 20 000 habitants
+ou plus " sont supprimés. 
 
 Les dispositions du chapitre III du titre IV du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur
-de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des
-conseillers communautaires, et modifiant le calendrier électoral sont applicables en Polynésie française dans les communes de
-1 000 habitants et plus, ainsi que dans les communes de 3 500 habitants et plus composées de communes associées dont chaque
-commune associée compte 1 000 habitants et plus.
+de la loi n° 2014-172 du 21 février 2014 visant à reconnaître le vote blanc aux élections sont applicables en Polynésie
+française dans les communes de 1 000 habitants et plus, ainsi que dans les communes de 3 500 habitants et plus composées de
+communes associées dont chaque commune associée compte 1 000 habitants et plus. 
 
 Pour leur application en Polynésie française, les deuxième et troisième alinéas de l'article L. 261 sont remplacés par un
-alinéa ainsi rédigé :
+alinéa ainsi rédigé : 
 
-"L'article L. 255-1 est applicable."
+" L'article L. 255-1 est applicable. "
 
 **Nota:**
 
@@ -18064,16 +17998,14 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 	  - Code général des collectivités territoriales - art. L2573-5 (V)
 	  - Code électoral - art. R269 (Ab)
 
-	**Cite**:
-
-	  - Loi n°2007-224 du 21 février 2007
-	  - Loi n°2011-412 du 14 avril 2011
-	  - Code électoral - art. L261
-
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 42 (V)
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 25
+	  - Loi n°2014-172 du 21 février 2014 - art. 5
+
+	**Cite**:
+
+	  - Code électoral - art. L255-1 (V)
+	  - Code électoral - art. L261 (V)
 
 
 ### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
@@ -23172,7 +23104,7 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 ## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements
 
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux
+### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
 
 #### Chapitre II : Listes électorales
 
@@ -27663,22 +27595,6 @@ obligatoire d'un avocat au Conseil d'Etat.
 	  - Décret n°2014-290 du 4 mars 2014 - art. 23 (V)
 
 
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
-
-#### Chapitre II : Listes électorales
-
-#### Chapitre II bis : Dispositions générales en matière électorale
-
-#### Chapitre V : Propagande
-
-#### Chapitre V bis : Financement et plafonnement des dépenses électorales
-
-#### Chapitre VI : Vote
-
-#### Chapitre VII : Dispositions pénales
-
-#### Chapitre VIII : Contentieux
-
 ### Titre II : Dispositions spéciales à l'élection des députés
 
 #### Chapitre V : Déclarations de candidatures
@@ -28733,10 +28649,6 @@ La procédure devant le Conseil d'Etat est régie par les dispositions du code d
 	  - Code général des collectivités territoriales - art. R2113-11 (V)
 
 
-#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants
-
-##### Section 2 : Propagande
-
 #### Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants
 
 ##### Section 1 : Déclarations de candidature
@@ -28779,38 +28691,6 @@ et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 
 
 ##### Section 2 : Opérations de vote
-
-###### Article R125
-
-Pour bénéficier du concours de la commission de propagande, les listes doivent remettre au président de la commission, avant
-la date limite fixée par arrêté préfectoral en application de l'article R. 38, une déclaration comportant le titre de la
-liste, ainsi que les nom, prénoms, date et lieu de naissance, domicile, profession et signature de chaque candidat et, pour
-tout candidat ressortissant d'un Etat membre de l'Union européenne autre que la France, l'indication de sa nationalité. Cette
-liste doit comporter autant de candidats que de sièges à pourvoir.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 7 () JORF 28 novembre 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 35
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. R121-3 (M)
-	  - Décret n°80-918 du 13 novembre 1980 - art. 13 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. R38
-
 
 ###### Article R126
 
@@ -28873,7 +28753,7 @@ et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 	  - Code général des collectivités territoriales - art. R2121-2
 
 
-#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus
+#### Chapitre III : Dispositions spéciales aux communes de 1000 habitants et plus
 
 ##### Section 1 : Mode de scrutin
 
@@ -29090,12 +28970,6 @@ les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 	  - Code électoral - art. L265
 	  - Code électoral - art. L273-9 (V)
 
-
-#### Chapitre III : Dispositions spéciales aux communes de 1000 habitants et plus
-
-##### Section 1 : Mode de scrutin
-
-##### Section 2 : Déclarations de candidature
 
 ##### Section 3 : Opérations de vote
 
