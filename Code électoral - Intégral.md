@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2014-05-28
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -27980,8 +27980,8 @@ mois ;
 II.-Si l'intéressé n'est pas domicilié dans le département ou que les pièces mentionnées au I n'établissent pas son domicile
 dans le département : 
 
-a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établissent que l'intéressé est
-inscrit au rôle des contributions directes d'une commune du département au 1er janvier de l'année de l'élection ; 
+a) Soit un avis d'imposition ou un extrait de rôle, qui établissent que l'intéressé est inscrit au rôle des contributions
+directes d'une commune du département au 1er janvier de l'année de l'élection ; 
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
 propriétaire ou locataire d'un immeuble dans le département ou d'un acte enregistré au cours de la même année établissant que
@@ -27990,10 +27990,10 @@ l'intéressé est devenu locataire d'un immeuble dans le département ;
 c) Soit une attestation notariée établissant que l'intéressé est devenu propriétaire par voie successorale d'une propriété
 foncière dans le département depuis le 1er janvier de l'année de l'élection ; 
 
-d) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
-précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont
-l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
-dans le département au 1er janvier de l'année de l'élection. 
+d) Soit une attestation du directeur départemental ou, le cas échéant, régional des finances publiques établissant que
+l'intéressé, au vu notamment des rôles de l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous
+réserve d'une modification de sa situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait
+être inscrit au rôle des contributions directes dans le département au 1er janvier de l'année de l'élection. 
 
 III.-Dans les cantons de 9 000 habitants et plus, la déclaration de candidature est également accompagnée des pièces prévues,
 selon le cas, au 1° ou au 2° du II de l'article R. 99. 
@@ -28012,10 +28012,7 @@ le juge de l'élection.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en mars 2015 à l’occasion du
-prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin.
+
 
 **Liens relatifs à cet article**
 
@@ -28029,7 +28026,7 @@ prochain renouvellement général des conseils départementaux, y compris aux op
 
 	**Modifié par**:
 
-	  - Décret n°2012-220 du 16 février 2012 - art. 2
+	  - Décret n°2014-551 du 27 mai 2014 - art. 11
 
 	**Cite**:
 
@@ -28851,18 +28848,18 @@ un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois.
 
 Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir : 
 
-a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor chargé du recouvrement qui établissent
-que l'intéressé est inscrit au rôle des contributions directes de la commune où il se présente au 1er janvier de l'année de
-l'élection ; 
+a) Soit un avis d'imposition ou un extrait de rôle qui établissent que l'intéressé est inscrit au rôle des contributions
+directes de la commune où il se présente au 1er janvier de l'année de l'élection ; 
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu dans l'année précédant celle de l'élection
 propriétaire ou locataire d'un immeuble dans cette commune, ou d'un acte sous seing privé enregistré au cours de la même
 année établissant qu'il est devenu locataire d'un immeuble dans cette commune ; 
 
-c) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
-précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont
-l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
-dans la commune où il se présente à la date du 1er janvier de l'année de l'élection. 
+c) Soit une attestation du directeur départemental ou, le cas échéant, régional des finances publiques établissant que
+l'intéressé, au vu notamment des rôles de l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous
+réserve d'une modification de sa situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait
+être inscrit au rôle des contributions directes dans la commune où il se présente à la date du 1er janvier de l'année de
+l'élection. 
 
 Les députés et les sénateurs élus dans le département sont dispensés de la production des pièces énumérées au présent
 article. 
@@ -28883,7 +28880,7 @@ pas obstacle à ce que l'éligibilité du candidat puisse être contestée devan
 
 	**Modifié par**:
 
-	  - Décret n°2009-430 du 20 avril 2009 - art. 7
+	  - Décret n°2014-551 du 27 mai 2014 - art. 11
 
 	**Cite**:
 
@@ -35303,17 +35300,17 @@ d'identité en cours de validité et un bulletin n° 3 du casier judiciaire dél
 2° Si l'intéressé n'est pas domicilié dans la collectivité ou que les pièces mentionnées au 1° n'établissent pas son domicile
 dans la collectivité : 
 
-a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établit que l'intéressé est
-inscrit au rôle des contributions directes de la collectivité au 1er janvier de l'année de l'élection ; 
+a) Soit un avis d'imposition ou un extrait de rôle qui établit que l'intéressé est inscrit au rôle des contributions directes
+de la collectivité au 1er janvier de l'année de l'élection ; 
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
 propriétaire d'un immeuble dans la collectivité ou d'un acte enregistré au cours de la même année établissant que l'intéressé
 est devenu locataire d'un immeuble d'habitation dans la collectivité ; 
 
-c) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
-précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de la situation dont
-l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
-dans la collectivité au 1er janvier de l'année de l'élection. 
+c) Soit une attestation du directeur régional des finances publiques de la Guadeloupe établissant que l'intéressé, au vu
+notamment des rôles de l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une
+modification de la situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au
+rôle des contributions directes dans la collectivité au 1er janvier de l'année de l'élection. 
 
 La délivrance du récépissé par le représentant de l'Etat ne fait pas obstacle à ce que l'éligibilité du candidat puisse être
 contestée devant le juge de l'élection. 
@@ -35324,14 +35321,14 @@ candidatures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
+	  - Décret n°2014-551 du 27 mai 2014 - art. 11
 
 	**Cite**:
 
-	  - Code électoral - art. L18 (V)
-	  - Code électoral - art. L19 (V)
+	  - Code électoral - art. L18
+	  - Code électoral - art. L19
 
 	**Cité par**:
 
@@ -35647,17 +35644,17 @@ d'identité en cours de validité et un bulletin n° 3 du casier judiciaire dél
 2° Si l'intéressé n'est pas domicilié dans la collectivité ou que les pièces mentionnées au 1° n'établissent pas son domicile
 dans la collectivité : 
 
-a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établit que l'intéressé est
-inscrit au rôle des contributions directes de la collectivité au 1er janvier de l'année de l'élection ; 
+a) Soit un avis d'imposition ou un extrait de rôle qui établit que l'intéressé est inscrit au rôle des contributions directes
+de la collectivité au 1er janvier de l'année de l'élection ; 
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
 propriétaire d'un immeuble dans la collectivité ou d'un acte enregistré au cours de la même année établissant que l'intéressé
 est devenu locataire d'un immeuble d'habitation dans la collectivité ; 
 
-c) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
-précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de la situation dont
-l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
-dans la collectivité au 1er janvier de l'année de l'élection. 
+c) Soit une attestation du directeur régional des finances publiques de la Guadeloupe établissant que l'intéressé, au vu
+notamment des rôles de l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une
+modification de la situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au
+rôle des contributions directes dans la collectivité au 1er janvier de l'année de l'élection. 
 
 La délivrance du récépissé par le représentant de l'Etat ne fait pas obstacle à ce que l'éligibilité du candidat puisse être
 contestée devant le juge de l'élection. 
@@ -35668,14 +35665,14 @@ candidatures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
+	  - Décret n°2014-551 du 27 mai 2014 - art. 11
 
 	**Cite**:
 
 	  - Code électoral - art. L18
-	  - Code électoral - art. L19 (V)
+	  - Code électoral - art. L19
 
 	**Cité par**:
 
@@ -35989,17 +35986,17 @@ d'identité en cours de validité et un bulletin n° 3 du casier judiciaire dél
 2° Si l'intéressé n'est pas domicilié dans la collectivité ou que les pièces mentionnées au 1° n'établissent pas son domicile
 dans la collectivité : 
 
-a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établit que l'intéressé est
-inscrit au rôle des contributions directes de la collectivité au 1er janvier de l'année de l'élection ; 
+a) Soit un avis d'imposition ou un extrait de rôle qui établit que l'intéressé est inscrit au rôle des contributions directes
+de la collectivité au 1er janvier de l'année de l'élection ; 
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
 propriétaire d'un immeuble dans la collectivité ou d'un acte enregistré au cours de la même année établissant que l'intéressé
 est devenu locataire d'un immeuble d'habitation dans la collectivité ; 
 
-c) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
-précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de la situation dont
-l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
-dans la collectivité au 1er janvier de l'année de l'élection. 
+c) Soit une attestation du directeur chargé de la direction des finances publiques de Saint-Pierre-et-Miquelon établissant
+que l'intéressé, au vu notamment des rôles de l'année précédant celle de l'élection et des éléments que celui-ci produit, et
+sous réserve d'une modification de la situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il
+devait être inscrit au rôle des contributions directes dans la collectivité au 1er janvier de l'année de l'élection. 
 
 La délivrance du récépissé par le représentant de l'Etat ne fait pas obstacle à ce que l'éligibilité du candidat puisse être
 contestée devant le juge de l'élection. 
@@ -36010,14 +36007,14 @@ des candidatures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-170 du 22 février 2008 - art. 3
+	  - Décret n°2014-551 du 27 mai 2014 - art. 11
 
 	**Cite**:
 
 	  - Code électoral - art. L18
-	  - Code électoral - art. L19 (V)
+	  - Code électoral - art. L19
 
 	**Cité par**:
 
