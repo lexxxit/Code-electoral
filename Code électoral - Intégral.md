@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-09-28
 
 # Partie législative
 
@@ -29239,20 +29239,30 @@ Dans les mêmes communes l'élection des délégués et celle des suppléants on
 Les conseillers ne peuvent voter que pour une seule liste sans adjonction ni radiation de noms et sans modification de
 l'ordre de présentation des candidats.
 
-Lorsque le nombre de candidats délégués ou suppléants sur une même liste est supérieur à deux cents, la liste complète des
-candidats de la liste est affichée dans la salle de vote et les bulletins ne comportent que le nom de la liste et du candidat
-tête de liste.
+Lorsque le nombre de candidats délégués ou suppléants à élire est supérieur à deux cents, les bulletins ne comportent que le
+nom de la liste et du candidat tête de liste et la liste complète des candidats de chaque liste est affichée dans la salle de
+vote. 
 
 La méconnaissance des dispositions ci-dessus entraîne la nullité des bulletins de la liste en cause.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1087 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 46
 
 
 ###### Article R140
@@ -35009,31 +35019,30 @@ la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà ét�
 ###### Article R283
 
 Pour l'application de l'article R. 171 aux électeurs mentionnés à l'article R. 278, l'indemnité forfaitaire ne peut être
-versée et les frais de transport ne peuvent être remboursés que pour le déplacement effectué dans les limites territoriales
-de la circonscription de vote.
+versée que si le déplacement est effectué dans les limites territoriales de la circonscription de vote.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 67
 
 	**Cite**:
 
-	  - Code électoral - art. R*171 (M)
-	  - Code électoral - art. R278 (V)
+	  - Code électoral - art. R*171
+	  - Code électoral - art. R278
 
 
 ## Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon
