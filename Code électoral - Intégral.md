@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2014-09-28
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -22497,6 +22497,290 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 	**Créé par**:
 
 	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+## Livre VI ter : Dispositions applicables aux opérations référendaires
+
+### Titre Ier : Recueil des soutiens à une proposition de loi présentée en application de l'article 11 de la Constitution
+
+#### Chapitre Ier : Financement des actions tendant à favoriser ou défavoriser le recueil des soutiens
+
+###### Article L558-37
+
+Les dons consentis par une personne physique dûment identifiée pour le financement d'actions tendant à favoriser ou
+défavoriser le recueil des soutiens à une proposition de loi présentée en application de l'article 11 de la Constitution ne
+peuvent excéder 4 600 €. 
+
+Tout don de plus de 150 € consenti à un parti ou groupement politique en vue du financement d'actions tendant à favoriser ou
+défavoriser le recueil des soutiens doit être versé par chèque, virement, prélèvement automatique ou carte bancaire. Le parti
+ou groupement politique délivre un reçu pour chaque don. 
+
+Le montant global des dons en espèces faits au parti ou groupement politique en vue du financement d'actions tendant à
+favoriser ou défavoriser le recueil des soutiens ne peut excéder 20 % du total des fonds récoltés. 
+
+L'ensemble des opérations financières conduites par un parti ou groupement en vue de la campagne de collecte de soutiens fait
+l'objet d'une comptabilité annexe et détaillée dans les comptes de ce parti ou groupement politique. 
+
+A l'exception des partis ou groupements politiques, les personnes morales ne peuvent participer au financement d'actions
+tendant à favoriser ou défavoriser le recueil des soutiens à une proposition de loi présentée en application de l'article 11
+de la Constitution ni en consentant des dons sous quelque forme que ce soit, ni en fournissant des biens, services ou autres
+avantages, directs ou indirects, à des prix inférieurs à ceux qui sont habituellement pratiqués. 
+
+Aucun Etat étranger ou personne morale de droit étranger ne peut participer, directement ou indirectement, au financement de
+telles actions. 
+
+La violation du présent article est passible des peines prévues au II de l'article L. 113-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 11 (V)
+	  - Code électoral - art. L113-1
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 1
+
+
+#### Chapitre II : Dispositions pénales
+
+###### Article L558-38
+
+Le fait, pour toute personne participant aux opérations de recueil des soutiens à une proposition de loi présentée au titre
+de l'article 11 de la Constitution, d'usurper l'identité d'un électeur inscrit sur la liste électorale ou de tenter de
+commettre cette usurpation est puni de deux ans d'emprisonnement et 30 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 11 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 2
+
+
+###### Article L558-39
+
+Le fait, dans le cadre des mêmes opérations, de soustraire ou d'altérer, de manière frauduleuse, les données collectées ou de
+tenter de commettre cette soustraction, cet ajout ou cette altération est puni de cinq ans d'emprisonnement et 75 000 €
+d'amende. 
+
+Les peines sont portées à sept ans d'emprisonnement et 100 000 € d'amende lorsque les faits mentionnés au premier alinéa sont
+commis avec violence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 2
+
+
+###### Article L558-40
+
+Le fait, dans le cadre des mêmes opérations, de déterminer ou tenter de déterminer un électeur à apporter son soutien ou à
+s'en abstenir à l'aide de menaces, violences, contraintes, abus d'autorité ou abus de pouvoir est puni de deux ans
+d'emprisonnement et 15 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 2
+
+
+###### Article L558-41
+
+Le fait, dans le cadre des mêmes opérations, de proposer, directement ou indirectement, des offres, des promesses, des dons,
+des présents ou des avantages quelconques afin de déterminer l'électeur à apporter son soutien ou à s'en abstenir est puni de
+deux ans d'emprisonnement et 15 000 € d'amende. 
+
+Le fait d'agréer ou de solliciter ces mêmes offres, promesses, dons, présents ou avantages quelconques est puni des mêmes
+peines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 2
+
+
+###### Article L558-42
+
+Le fait, dans le cadre des mêmes opérations, de reproduire des données collectées à d'autres fins que celles de vérification
+et de contrôle ou de tenter de commettre cette reproduction est puni de cinq ans d'emprisonnement et de 75 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 2
+
+
+###### Article L558-43
+
+Les personnes coupables de l'une des infractions prévues au présent chapitre peuvent être également condamnées à : 
+
+1° L'interdiction des droits civiques suivant les modalités prévues aux 1° et 2° de l'article 131-26 du code pénal ; 
+
+2° L'affichage ou la diffusion de la décision mentionnés à l'article 131-35 et au 9° de l'article 131-39 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 131-39
+
+
+### Titre II : Organisation du référendum
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article L558-44
+
+Le corps électoral, appelé à se prononcer sur le projet ou la proposition de loi soumis au référendum, décide à la majorité
+des suffrages exprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 5
+
+
+###### Article L558-45
+
+Il est mis à la disposition des électeurs deux bulletins de vote imprimés sur papier blanc dont l'un porte la réponse " oui "
+et l'autre la réponse " non ". 
+
+Lorsque plusieurs référendums sont organisés le même jour, il est mis à disposition des électeurs un bulletin de vote imprimé
+sur papier blanc permettant de répondre à chaque question posée par la réponse " oui " ou " non ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 5
+
+
+###### Article L558-46
+
+Sont applicables aux opérations référendaires régies par le présent titre : 
+
+1° Les chapitres Ier, II, V, VI et VII du titre Ier du livre Ier, à l'exception des articles L. 52-3, L. 55, L. 56, L. 57, L.
+58, des deux derniers alinéas de l'article L. 65, de l'article L. 66, des deux derniers alinéas de l'article L. 68, des
+articles L. 85-1, L. 88-1, L. 95, des 1° à 5° du I de l'article L. 113-1 et du II du même article ; 
+
+2° Les articles L. 385, L. 386, L. 387, L. 389, L. 390-1 et L. 393 ; 
+
+3° Les articles L. 451, L. 477, L. 504 et L. 531. 
+
+Pour l'application de ces dispositions, il y a lieu de lire : " parti " ou " groupement habilité à participer à la campagne "
+au lieu de : " candidat " ou " liste de candidats ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 5
+
+	**Cite**:
+
+	  - Code électoral - art. L113-1
+	  - Code électoral - art. L385
+	  - Code électoral - art. L386
+	  - Code électoral - art. L387
+	  - Code électoral - art. L389
+	  - Code électoral - art. L390-1
+	  - Code électoral - art. L393
+	  - Code électoral - art. L451
+	  - Code électoral - art. L477
+	  - Code électoral - art. L504
+	  - Code électoral - art. L52-3
+	  - Code électoral - art. L531
+	  - Code électoral - art. L55
+	  - Code électoral - art. L56
+	  - Code électoral - art. L57
+	  - Code électoral - art. L58
+	  - Code électoral - art. L65
+	  - Code électoral - art. L66
+	  - Code électoral - art. L68
+	  - Code électoral - art. L85-1
+	  - Code électoral - art. L88-1
+	  - Code électoral - art. L95
+
+
+#### Chapitre II : Recensement des votes
+
+###### Article L558-47
+
+Dans chaque département, chaque collectivité d'outre-mer et en Nouvelle-Calédonie, il est institué une commission de
+recensement siégeant au chef-lieu et comprenant trois magistrats, dont son président, désignés par le premier président de la
+cour d'appel ou, à Saint-Pierre-et-Miquelon, par le président du tribunal supérieur d'appel. 
+
+Aux îles Wallis et Futuna, à Saint-Barthélemy et à Saint-Martin, le président de la juridiction d'appel peut, si le nombre
+des magistrats du siège est insuffisant, désigner, sur proposition du représentant de l'Etat, des fonctionnaires en qualité
+de membres de la commission prévue au premier alinéa. 
+
+Il est institué une commission de recensement siégeant à Paris et comprenant trois magistrats, dont son président désigné par
+le premier président de la cour d'appel de Paris, compétente pour les votes émis par les Français établis hors de France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 5
+
+	**Cité par**:
+
+	  - Code électoral - art. L558-48 (VD)
+
+
+###### Article L558-48
+
+La commission de recensement est chargée : 
+
+1° De recenser les résultats constatés au niveau de chaque commune et, aux îles Wallis et Futuna, à Saint-Barthélemy et à
+Saint-Martin, au niveau de la collectivité d'outre-mer ; 
+
+2° De trancher les questions que peut poser, en dehors de toute réclamation, le décompte des bulletins et de procéder aux
+rectifications nécessaires, sans préjudice du pouvoir d'appréciation du Conseil constitutionnel. 
+
+La commission prévue au dernier alinéa de l'article L. 558-47 exerce les missions mentionnées aux 1° et 2° du présent article
+pour les votes émis par les Français établis hors de France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 5
+
+	**Cite**:
+
+	  - Code électoral - art. L558-47 (VD)
+
+
+###### Article L558-49
+
+Au plus tard le lendemain du scrutin, à minuit, la commission de recensement adresse au Conseil constitutionnel les résultats
+du recensement et le procès-verbal auquel sont joints, le cas échéant, les procès-verbaux portant mention des réclamations
+des électeurs. 
+
+Le recensement général des votes est effectué par le Conseil constitutionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1116 du 6 décembre 2013 - art. 5
 
 
 ## Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution
