@@ -53,13 +53,13 @@ Bas-Rhin
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Haut-Rhin
 
@@ -93,10 +93,10 @@ Dordogne
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -111,25 +111,25 @@ Gironde
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
       <td width="154" valign="top">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
 
 Landes
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 12
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -140,7 +140,7 @@ Landes
 Lot-et-Garonne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 12
 
@@ -150,7 +150,7 @@ Lot-et-Garonne
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -158,14 +158,14 @@ Lot-et-Garonne
 Pyrénées-Atlantiques
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 19
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Auvergne
 
@@ -175,7 +175,7 @@ Auvergne
 47
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Allier
 
@@ -187,10 +187,10 @@ Allier
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -211,7 +211,7 @@ Cantal
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Haute-Loire
 
@@ -223,7 +223,7 @@ Haute-Loire
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -234,14 +234,14 @@ Haute-Loire
 Puy-de-Dôme
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 22
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Bourgogne
 
@@ -256,7 +256,7 @@ Bourgogne
 Côte d'Or
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 19
 
@@ -274,7 +274,7 @@ Côte d'Or
 Nièvre
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 11
 
@@ -284,7 +284,7 @@ Nièvre
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -292,20 +292,20 @@ Nièvre
 Saône-et-Loire
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 21
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
+
+</td>
+      <td width="154" valign="top">
 
 Yonne
 
@@ -317,32 +317,32 @@ Yonne
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Bretagne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 83
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Côte-d'Armor
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 18
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -350,20 +350,20 @@ Côte-d'Armor
 Finistère
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 27
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-</td>
       <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
+
+</td>
+      <td valign="top" width="154">
 
 Ille-et-Vilaine
 
@@ -375,27 +375,27 @@ Ille-et-Vilaine
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Morbihan
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 20
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
-Centre
+Centre-Val de Loire
 
 </td>
       <td valign="top" width="154">
@@ -408,14 +408,14 @@ Centre
 Cher
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 13
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -426,7 +426,7 @@ Cher
 Eure-et-Loir
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 15
 
@@ -439,12 +439,12 @@ Eure-et-Loir
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Indre
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 10
 
@@ -454,7 +454,7 @@ Indre
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -462,7 +462,7 @@ Indre
 Indre-et-Loire
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 19
 
@@ -480,7 +480,7 @@ Indre-et-Loire
 Loir-et-Cher
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 12
 
@@ -490,7 +490,7 @@ Loir-et-Cher
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -498,19 +498,19 @@ Loir-et-Cher
 Loiret
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 20
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Champagne-Ardenne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 49
 
@@ -530,7 +530,7 @@ Ardennes
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -569,7 +569,7 @@ Marne
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Haute-Marne
 
@@ -581,7 +581,7 @@ Haute-Marne
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Franche-Comté
 
@@ -591,7 +591,7 @@ Franche-Comté
 43
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Territoire de Belfort
 
@@ -603,10 +603,10 @@ Territoire de Belfort
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -614,20 +614,20 @@ Territoire de Belfort
 Doubs
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 20
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-</td>
       <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
+
+</td>
+      <td width="154" valign="top">
 
 Jura
 
@@ -639,10 +639,10 @@ Jura
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -650,7 +650,7 @@ Jura
 Haute-Saône
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 11
 
@@ -667,19 +667,19 @@ Guadeloupe
 41
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Guadeloupe
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 43
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Ile-de-France
 
@@ -694,17 +694,17 @@ Ile-de-France
 Essonne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 23
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -722,7 +722,7 @@ Hauts-de-Seine
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -730,35 +730,35 @@ Hauts-de-Seine
 Ville de Paris
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 44
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
       <td width="154" valign="top">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
 
 Seine-et-Marne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 23
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -776,7 +776,7 @@ Seine-Saint-Denis
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -784,14 +784,14 @@ Seine-Saint-Denis
 Val-de-Marne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 26
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -802,14 +802,14 @@ Val-de-Marne
 Val-d'Oise
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 23
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -827,7 +827,7 @@ Yvelines
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Languedoc-Roussillon
 
@@ -837,7 +837,7 @@ Languedoc-Roussillon
 67
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Aude
 
@@ -852,15 +852,15 @@ Aude
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Gard
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 20
 
@@ -870,10 +870,10 @@ Gard
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hérault
 
@@ -888,15 +888,15 @@ Hérault
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Lozère
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 5
 
@@ -914,14 +914,14 @@ Lozère
 Pyrénées-Orientales
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 14
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Limousin
 
@@ -931,7 +931,7 @@ Limousin
 43
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Corrèze
 
@@ -946,7 +946,7 @@ Corrèze
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -961,7 +961,7 @@ Creuse
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -972,19 +972,19 @@ Creuse
 Haute-Vienne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 23
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Lorraine
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 73
 
@@ -1007,7 +1007,7 @@ Meurthe et Moselle
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Meuse
 
@@ -1022,7 +1022,7 @@ Meuse
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -1030,7 +1030,7 @@ Meuse
 Moselle
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 33
 
@@ -1040,7 +1040,7 @@ Moselle
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -1055,7 +1055,7 @@ Vosges
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Midi-Pyrénées
 
@@ -1070,14 +1070,14 @@ Midi-Pyrénées
 Ariège
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 8
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -1095,18 +1095,18 @@ Aveyron
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
+
+</td>
+      <td width="154" valign="top">
 
 Haute-Garonne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 34
 
@@ -1116,22 +1116,22 @@ Haute-Garonne
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Gers
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 9
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -1149,10 +1149,10 @@ Lot
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -1160,17 +1160,17 @@ Lot
 Hautes-Pyrénées
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 11
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -1178,7 +1178,7 @@ Hautes-Pyrénées
 Tarn
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 15
 
@@ -1191,19 +1191,19 @@ Tarn
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Tarn-et-Garonne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 10
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Basse-Normandie
 
@@ -1213,7 +1213,7 @@ Basse-Normandie
 47
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Calvados
 
@@ -1225,13 +1225,13 @@ Calvados
 </td>
     </tr>
     <tr>
+      <td valign="top" width="154">
+
+</td>
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Manche
 
@@ -1246,7 +1246,7 @@ Manche
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -1261,7 +1261,7 @@ Orne
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Haute-Normandie
 
@@ -1271,7 +1271,7 @@ Haute-Normandie
 55
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Eure
 
@@ -1286,7 +1286,7 @@ Eure
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -1306,12 +1306,12 @@ Seine-Maritime
 Nord - Pas-de-Calais
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 113
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Nord
 
@@ -1329,7 +1329,7 @@ Nord
       <td width="154" valign="top">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Pas-de-Calais
 
@@ -1341,7 +1341,7 @@ Pas-de-Calais
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Pays de la Loire
 
@@ -1351,7 +1351,7 @@ Pays de la Loire
 93
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Loire-Atlantique
 
@@ -1363,7 +1363,7 @@ Loire-Atlantique
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -1374,7 +1374,7 @@ Loire-Atlantique
 Maine-et-Loire
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 23
 
@@ -1384,7 +1384,7 @@ Maine-et-Loire
       <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -1392,14 +1392,14 @@ Maine-et-Loire
 Mayenne
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 11
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -1417,7 +1417,7 @@ Sarthe
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -1428,7 +1428,7 @@ Sarthe
 Vendée
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 18
 
@@ -1440,7 +1440,7 @@ Vendée
 Picardie
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 57
 
@@ -1450,32 +1450,32 @@ Picardie
 Aisne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 19
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
 
+</td>
+      <td width="154" valign="top">
+
 Oise
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 25
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -1486,14 +1486,14 @@ Oise
 Somme
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 19
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Poitou-Charentes
 
@@ -1533,7 +1533,7 @@ Charente-Maritime
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -1544,25 +1544,25 @@ Charente-Maritime
 Deux-Sèvres
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 14
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Vienne
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 15
 
@@ -1579,30 +1579,30 @@ Provence-Alpes-Côte d'Azur
 123
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Alpes-de-Haute-Provence
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 7
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-</td>
       <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
 
+</td>
+      <td valign="top" width="154">
+
 Hautes-Alpes
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 6
 
@@ -1615,12 +1615,12 @@ Hautes-Alpes
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Alpes-Maritimes
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 30
 
@@ -1633,7 +1633,7 @@ Alpes-Maritimes
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Bouches-du-Rhône
 
@@ -1645,13 +1645,13 @@ Bouches-du-Rhône
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Var
 
@@ -1663,7 +1663,7 @@ Var
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -1674,14 +1674,14 @@ Var
 Vaucluse
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 16
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 La Réunion
 
@@ -1703,7 +1703,7 @@ La Réunion
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Rhône-Alpes
 
@@ -1718,17 +1718,17 @@ Rhône-Alpes
 Ain
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 16
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -1736,14 +1736,14 @@ Ain
 Ardèche
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 11
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -1754,25 +1754,25 @@ Ardèche
 Drôme
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 14
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
       <td width="154" valign="top">
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td valign="top" width="154">
 
 Isère
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 31
 
@@ -1782,7 +1782,7 @@ Isère
       <td valign="top" width="154">
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 </td>
       <td width="154" valign="top">
@@ -1790,17 +1790,17 @@ Isère
 Loire
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 24
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -1818,7 +1818,7 @@ Rhône
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td width="154" valign="top">
@@ -1826,7 +1826,7 @@ Rhône
 Savoie
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 13
 
@@ -1836,7 +1836,7 @@ Savoie
       <td valign="top" width="154">
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 </td>
       <td valign="top" width="154">
@@ -1844,7 +1844,7 @@ Savoie
 Haute-Savoie
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 19
 
@@ -1861,4 +1861,4 @@ Haute-Savoie
 
 	**Modifié par**:
 
-	  - Loi n°2011-884 du 27 juillet 2011 - art. 7
+	  - Loi n°2015-29 du 16 janvier 2015 - art. 2
