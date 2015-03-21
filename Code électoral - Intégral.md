@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2015-01-18
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -2073,8 +2073,8 @@ cette activité au sein de sa circonscription.
 ###### Article L46-1
 
 Nul ne peut cumuler plus de deux des mandats électoraux énumérés ci-après : conseiller régional, conseiller à l'Assemblée de
-Corse, conseiller général, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à l'assemblée de Martinique,
-conseiller municipal. 
+Corse, conseiller départemental, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à l'assemblée de
+Martinique, conseiller municipal. 
 
 Quiconque, à l'exception des personnes visées aux articles L. 270, L. 272-6 et L. 360 du présent code, se trouve dans ce cas
 doit faire cesser l'incompatibilité en démissionnant d'un des mandats qu'il détenait antérieurement. Il dispose à cet effet
@@ -2120,7 +2120,7 @@ au premier alinéa, l'élu concerné ne perçoit aucune indemnité attachée au 
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 43
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L46-2
@@ -2379,7 +2379,8 @@ candidat, une liste de candidats ou à leur profit.
 Pendant la durée de la période électorale, dans chaque commune, des emplacements spéciaux sont réservés par l'autorité
 municipale pour l'apposition des affiches électorales.
 
-Dans chacun de ces emplacements, une surface égale est attribuée à chaque candidat ou à chaque liste de candidats.
+Dans chacun de ces emplacements, une surface égale est attribuée à chaque candidat, chaque binôme de candidats  ou à chaque
+liste de candidats.
 
 Pendant les six  mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est
 acquise, tout affichage relatif à l'élection, même par affiches timbrées, est interdit en dehors de cet emplacement ou sur
@@ -2426,8 +2427,7 @@ existe.
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 6
-	  - Loi n°2011-412 du 14 avril 2011 - art. 7
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 
 ###### Article L52
@@ -2533,7 +2533,7 @@ circonscription territoriale intéressée.
 
 ###### Article L52-3
 
-Chaque candidat ou liste de candidats peut faire imprimer un emblème sur ses bulletins de vote.
+Chaque candidat, chaque binôme de candidats  ou liste de candidats peut faire imprimer un emblème sur ses bulletins de vote.
 
 **Nota:**
 
@@ -2543,11 +2543,7 @@ Chaque candidat ou liste de candidats peut faire imprimer un emblème sur ses bu
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Créé par**:
-
-	  - Loi n°88-1262 du 30 décembre 1988 - art. 1 () JORF 4 janvier 1989
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -2557,8 +2553,34 @@ Chaque candidat ou liste de candidats peut faire imprimer un emblème sur ses bu
 	  - Code électoral - art. L558-46 (VD)
 	  - Code électoral - art. L562 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
+
 
 #### Chapitre V bis : Financement et plafonnement des dépenses électorales
+
+###### Article L52-3-1
+
+Pour l'application du présent chapitre aux scrutins binominaux, les membres du binôme exercent les droits reconnus aux
+candidats et sont tenus aux obligations qui s'imposent à eux, de manière indissociable.
+
+Les membres du binôme déclarent un mandataire unique et déposent un compte de campagne unique.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
+
+	**Cité par**:
+
+	  - Code électoral - art. L210-1 (VD)
+
 
 ###### Article L52-4
 
@@ -2571,14 +2593,14 @@ compte de campagne du candidat, les fonds destinés au financement de la campagn
 
 Il règle les dépenses engagées en vue de l'élection et antérieures à la date du tour de scrutin où elle a été acquise, à
 l'exception des dépenses prises en charge par un parti ou groupement politique. Les dépenses antérieures à sa désignation
-payées directement par le candidat ou à son profit font l'objet d'un remboursement par le mandataire et figurent dans son
-compte bancaire ou postal. 
+payées directement par le candidat ou à son profit, ou par l'un des membres d'un binôme de candidats ou au profit de ce
+membre, font l'objet d'un remboursement par le mandataire et figurent dans son compte bancaire ou postal. 
 
 En cas d'élection anticipée ou partielle, ces dispositions ne sont applicables qu'à compter de l'événement qui rend cette
 élection nécessaire. 
 
-Les dispositions du présent article ne sont pas applicables à l'élection des conseillers généraux dans les cantons de moins
-de 9 000 habitants et à l'élection des conseillers municipaux dans les communes de moins de 9 000 habitants.
+Les dispositions du présent article ne sont pas applicables à l'élection des conseillers municipaux dans les communes de
+moins de 9 000 habitants.
 
 **Nota:**
 
@@ -2621,7 +2643,7 @@ de 9 000 habitants et à l'élection des conseillers municipaux dans les commune
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 11
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
 
 
 ###### Article L52-5
@@ -2630,8 +2652,9 @@ L'association de financement électorale doit être déclarée selon les modalit
 juillet 1901 relative au contrat d'association. La déclaration doit être accompagnée de l'accord écrit du candidat. Le
 candidat ne peut être membre de l'association de financement qui le soutient ; dans le cas d'un scrutin de liste, aucun
 membre de la liste ne peut être membre de l'association de financement qui soutient le candidat tête de la liste sur laquelle
-il figure. L'expert-comptable chargé de la présentation du compte de campagne ne peut exercer les fonctions de président ou
-de trésorier de cette association. 
+il figure. En cas de scrutin binominal, aucun des membres du binôme et aucun des remplaçants ne peut être membre de
+l'association de financement. L'expert-comptable chargé de la présentation du compte de campagne ne peut exercer les
+fonctions de président ou de trésorier de cette association. 
 
 L'association de financement électorale est tenue d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses
 opérations financières. Les comptes de l'association sont annexés au compte de campagne du candidat qu'elle a soutenu ou au
@@ -2641,11 +2664,12 @@ L'association ne peut recueillir de fonds que pendant la période prévue au deu
 
 Elle est dissoute de plein droit trois mois après le dépôt du compte de campagne du candidat qu'elle soutient. Avant
 l'expiration de ce délai, elle est tenue de se prononcer sur la dévolution de son actif net ne provenant pas de l'apport du
-candidat. Le solde doit être attribué, soit à une association de financement d'un parti politique, soit à un ou plusieurs
-établissements reconnus d'utilité publique. A défaut de décision de dévolution dans les conditions et délais prévus ci-
-dessus, à la demande du préfet du département dans lequel est situé le siège de l'association de financement électorale, le
-procureur de la République saisit le président du tribunal de grande instance, qui détermine le ou les établissements
-reconnus d'utilité publique attributaires de l'actif net. Il en va de même dans le cas où la dévolution n'est pas acceptée. 
+candidat ou d'un des membres d'un binôme de candidats. Le solde doit être attribué, soit à une association de financement
+d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de dévolution
+dans les conditions et délais prévus ci-dessus, à la demande du préfet du département dans lequel est situé le siège de
+l'association de financement électorale, le procureur de la République saisit le président du tribunal de grande instance,
+qui détermine le ou les établissements reconnus d'utilité publique attributaires de l'actif net. Il en va de même dans le cas
+où la dévolution n'est pas acceptée. 
 
 Si le candidat soutenu par l'association de financement électorale n'a pas déposé sa candidature, l'association est dissoute
 de plein droit à l'expiration du délai de dépôt des candidatures. La dévolution de l'actif net, sur laquelle l'association
@@ -2659,7 +2683,7 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 
 	**Cite**:
 
-	  - Loi du 1 juillet 1901 - art. 5 (V)
+	  - Loi du 1er juillet 1901 - art. 5 (V)
 
 	**Cité par**:
 
@@ -2684,19 +2708,20 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 3 () JORF 9 décembre 2003
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
 
 
 ###### Article L52-6
 
-Le candidat déclare par écrit à la préfecture de son domicile le nom du mandataire financier qu'il choisit. La déclaration
-doit être accompagnée de l'accord exprès du mandataire désigné. L'expert-comptable chargé de la présentation du compte de
-campagne ne peut exercer cette fonction. Dans le cas d'un scrutin de liste, aucun membre de la liste ne peut être le
-mandataire financier du candidat tête de la liste sur laquelle il figure. 
+Le candidat déclare par écrit à la préfecture de la circonscription électorale dans laquelle il se présente le nom du
+mandataire financier qu'il choisit. La déclaration doit être accompagnée de l'accord exprès du mandataire désigné. L'expert-
+comptable chargé de la présentation du compte de campagne ne peut exercer cette fonction. Dans le cas d'un scrutin de liste,
+aucun membre de la liste ne peut être le mandataire financier du candidat tête de la liste sur laquelle il figure. En cas de
+scrutin binominal, aucun des membres du binôme et aucun des remplaçants ne peut être désigné mandataire financier du binôme. 
 
 Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses opérations
 financières. L'intitulé du compte précise que le titulaire agit en qualité de mandataire financier du candidat, nommément
@@ -2716,8 +2741,7 @@ minimal de deux mois doit être obligatoirement consenti au mandataire. En cas d
 exercer son droit au compte dans les conditions prévues au présent article. Dans ce cas, l'existence de comptes successifs ne
 constitue pas une violation de l'obligation de disposer d'un compte bancaire ou postal unique prévue au deuxième alinéa. Les
 modalités de mise en œuvre de ce droit sont précisées par décret. Le contrôle du respect de ce droit est assuré par
-l'Autorité de contrôle prudentiel et de résolution et relève de la procédure prévue à l'article L. 612-31 du code monétaire
-et financier. 
+l'Autorité de contrôle prudentiel et relève de la procédure prévue à l'article L. 612-31 du code monétaire et financier. 
 
 Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a désigné ou au compte de campagne du candidat
 tête de liste lorsque le candidat qui l'a désigné figure sur cette liste. 
@@ -2731,10 +2755,10 @@ des candidatures.
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif ne
 provenant pas de l'apport du candidat apparaît, il est dévolu, sur décision du candidat, soit à une association de
 financement d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de
-dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du département dans lequel est domicilié le
-candidat, le procureur de la République saisit le président du tribunal de grande instance qui détermine le ou les
-établissements reconnus d'utilité publique attributaires de l'actif net. Il en va de même lorsque la dévolution n'est pas
-acceptée.
+dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du département de la circonscription
+électorale dans laquelle se présente le candidat ou le binôme, le procureur de la République saisit le président du tribunal
+de grande instance qui détermine le ou les établissements reconnus d'utilité publique attributaires de l'actif net. Il en va
+de même lorsque la dévolution n'est pas acceptée.
 
 **Nota:**
 
@@ -2753,9 +2777,13 @@ acceptée.
 	  - Code électoral - art. R39-1-A (VD)
 	  - Code électoral - art. R39-9 (V)
 
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
 
 	**Cite**:
 
@@ -2774,9 +2802,6 @@ désignation ou l'attribution de l'accord. Le compte bancaire ou postal unique e
 désigne un nouveau mandataire financier ou donne son accord à une nouvelle association de financement électorale. Chaque
 association ou chaque mandataire financier, sauf le cas de décès de ce dernier, établit le compte de sa gestion.
 
-Les dispositions de l'alinéa précédent ne sont pas applicables lorsque le candidat a donné son accord, dans le cadre d'un
-scrutin plurinominal, à une association à laquelle un ou plusieurs candidats avaient déjà donné leur accord.
-
 **Nota:**
 
 
@@ -2790,11 +2815,11 @@ scrutin plurinominal, à une association à laquelle un ou plusieurs candidats a
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
 
 
 ###### Article L52-8
@@ -2869,12 +2894,12 @@ de leurs membres par les  assemblées parlementaires pour couvrir les frais lié
 ###### Article L52-9
 
 Les actes et documents émanant d'une association de financement électorale ou d'un mandataire financier et destinés aux
-tiers, notamment ceux utilisés pour des appels à des dons, doivent indiquer le candidat ou la liste de candidats
-destinataires des sommes collectées ainsi que la dénomination de l'association et la date à laquelle elle a été déclarée ou
-le nom du mandataire financier et la date à laquelle il a été désigné.
+tiers, notamment ceux utilisés pour des appels à des dons, doivent indiquer le candidat, le binôme de candidats ou la liste
+de candidats destinataires des sommes collectées ainsi que la dénomination de l'association et la date à laquelle elle a été
+déclarée ou le nom du mandataire financier et la date à laquelle il a été désigné.
 
-Ils doivent indiquer que le candidat ne peut recueillir de dons que par l'intermédiaire de ladite association ou dudit
-mandataire et reproduire les dispositions de l'article précédent.
+Ils doivent indiquer que le candidat, le binôme de candidats ou la liste de candidats ne peuvent recueillir de dons que par
+l'intermédiaire de ladite association ou dudit mandataire et reproduire les dispositions de l'article précédent.
 
 **Nota:**
 
@@ -2884,11 +2909,11 @@ mandataire et reproduire les dispositions de l'article précédent.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
 
 	**Cité par**:
 
@@ -2921,7 +2946,7 @@ mentionnent pas le nom du ou des candidats bénéficiaires ou la dénomination d
 
 Pour les élections auxquelles l'article L. 52-4 est applicable, il est institué un plafond des dépenses électorales (1),
 autres que les dépenses de propagande directement prises en charge par l'Etat, exposées par chaque candidat ou chaque liste
-de candidats, ou pour leur compte, au cours de la période mentionnée au même article.
+de candidats, ou pour leur compte, au cours de la période mentionnée au même article. 
 
 Le montant du plafond est déterminé en fonction du nombre d'habitants de la circonscription d'élection, conformément au
 tableau ci-après : 
@@ -2931,29 +2956,27 @@ tableau ci-après :
     <tr>
       <td width="123" rowspan="3">
 
-FRACTION DE LA
-
-population de la circonscription : 
+Fraction de la population de la circonscription : 
 
 </td>
       <td width="491" colspan="4">
 
-PLAFOND PAR HABITANT DES DEPENSES ELECTORALES (EN EUROS) : 
+Plafond par habitant des dépenses électorales (en euros) : 
 
 </td>
     </tr>
     <tr>
-      <td width="246" colspan="2">
+      <td colspan="2" width="246">
 
 Election des conseillers municipaux : 
 
 </td>
-      <td rowspan="2" width="123">
+      <td width="123" rowspan="2">
 
-Election des conseillers généraux 
+Election des conseillers départementaux 
 
 </td>
-      <td rowspan="2" width="123">
+      <td width="123" rowspan="2">
 
 Election des conseillers régionaux 
 
@@ -3164,20 +3187,16 @@ Excédant 250 000 habitants :
 </table>
 
 Le plafond des dépenses pour l'élection des députés est de 38 000 euros par candidat. Il est majoré de 0,15 euro par habitant
-de la circonscription.
+de la circonscription. 
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de
-Corse.
+Corse. 
 
 Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la
 consommation des ménages, hors tabac. Il n'est pas procédé à une telle actualisation à compter de 2012 et jusqu'à l'année au
 titre de laquelle le déficit public des administrations publiques est nul. Ce déficit est constaté dans les conditions
 prévues au deuxième alinéa de l'article 3 du règlement (CE) n° 479/2009 du Conseil, du 25 mai 2009, relatif à l'application
 du protocole sur la procédure concernant les déficits excessifs annexé au traité instituant la Communauté européenne.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -3224,7 +3243,7 @@ du protocole sur la procédure concernant les déficits excessifs annexé au tra
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 112
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
@@ -3316,6 +3335,8 @@ départements d'outre-mer, ne sont pas inclus dans le plafond des dépenses.
 Par dérogation aux dispositions du deuxième alinéa, en Guadeloupe, en Guyane, en Martinique et à La Réunion, le compte de
 campagne peut également être déposé à la préfecture ou la sous-préfecture.
 
+Pour l'application du présent article, en cas de scrutin binominal, le candidat s'entend du binôme de candidats.
+
 **Nota:**
 
 
@@ -3359,7 +3380,7 @@ campagne peut également être déposé à la préfecture ou la sous-préfecture
 
 	**Modifié par**:
 
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
 
 	**Cite**:
 
@@ -3372,6 +3393,9 @@ campagne peut également être déposé à la préfecture ou la sous-préfecture
 
 Les dépenses exposées par des candidats ayant agi séparément avant de figurer sur une même liste sont totalisées et
 décomptées comme faites au profit de cette liste lorsqu'elle a été constituée avant le premier tour. 
+
+Les dépenses exposées par des candidats ayant agi séparément avant d'être réunis au sein d'un même binôme sont totalisées et
+décomptées comme faites au profit de ce binôme. 
 
 Lorsqu'il est établi une nouvelle liste en vue du second tour de scrutin, les dépenses visées à l'article L. 52-12 sont
 totalisées et décomptées à compter du premier tour de scrutin au profit de la liste à laquelle appartenait le candidat tête
@@ -3386,11 +3410,11 @@ candidats figurant au second tour sur la nouvelle liste.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
 
 	**Cité par**:
 
@@ -3398,7 +3422,7 @@ candidats figurant au second tour sur la nouvelle liste.
 
 	**Cite**:
 
-	  - Code électoral - art. L52-12 (VT)
+	  - Code électoral - art. L52-12
 
 
 ###### Article L52-14
@@ -3488,7 +3512,8 @@ qu'après l'approbation du compte de campagne par la commission.
 
 Dans tous les cas où un dépassement du plafond des dépenses électorales a été constaté par une décision définitive, la
 commission fixe alors une somme égale au montant du dépassement que le candidat est tenu de verser au Trésor public. Cette
-somme est recouvrée comme les créances de l'Etat étrangères à l'impôt et au domaine.
+somme est recouvrée comme les créances de l'Etat étrangères à l'impôt et au domaine. En cas de scrutin binominal, les deux
+candidats présentés au sein d'un même binôme sont tenus solidairement au règlement de la créance.
 
 **Nota:**
 
@@ -3509,16 +3534,11 @@ somme est recouvrée comme les créances de l'Etat étrangères à l'impôt et a
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-	  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 8 () JORF 9 décembre 2003
+	  - Loi n°2013-403 du 17 mai 2013 - art. 17
 
 	**Cite**:
 
@@ -3611,6 +3631,26 @@ retraçant le bilan de son action et comportant toutes les observations qu'elle 
 
 
 #### Chapitre VI : Vote
+
+###### Article L52-19
+
+Pour l'application du présent chapitre aux scrutins binominaux, les droits reconnus au candidat s'appliquent aux membres du
+binôme.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L123-29 (V)
+
 
 ##### Section 1 : Opérations préparatoires au scrutin
 
@@ -3734,7 +3774,7 @@ tour de scrutin.
 ###### Article L57-1
 
 Des machines à voter peuvent être utilisées dans les bureaux de vote des communes de plus de 3 500 habitants figurant sur une
-liste arrêtée dans chaque département par le représentant de l'Etat.
+liste arrêtée dans chaque département par le représentant de l'Etat. 
 
 Les machines à voter doivent être d'un modèle agréé par arrêté du ministre de l'Intérieur et satisfaire aux conditions
 suivantes :
@@ -3751,8 +3791,8 @@ suivantes :
 
 - totaliser le nombre des votants sur un compteur qui peut être lu pendant les opérations de vote ;
 
-- totaliser les suffrages obtenus par chaque liste ou chaque candidat ainsi que les votes blancs, sur des compteurs qui ne
-peuvent être lus qu'après la clôture du scrutin ;
+- totaliser les suffrages obtenus par chaque liste, chaque binôme de candidats ou chaque candidat ainsi que les votes blancs,
+sur des compteurs qui ne peuvent être lus qu'après la clôture du scrutin ;
 
 - ne pouvoir être utilisées qu'à l'aide de deux clefs différentes, de telle manière que, pendant la durée du scrutin, l'une
 reste entre les mains du président du bureau de vote et l'autre entre les mains de l'assesseur tiré au sort parmi l'ensemble
@@ -3766,7 +3806,7 @@ des assesseurs.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -3784,7 +3824,7 @@ des assesseurs.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 72 () JORF 12 février 2005
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 
 ###### Article L58
@@ -4112,31 +4152,35 @@ suivante : l'urne est ouverte et le nombre des enveloppes est vérifié. Si ce n
 scrutateurs sachant lire et écrire, lesquels se divisent par tables de quatre au moins. Si plusieurs candidats ou plusieurs
 listes sont en présence, il leur est permis de désigner respectivement les scrutateurs, lesquels doivent être répartis
 également autant que possible par chaque table de dépouillement. Le nombre de tables ne peut être supérieur au nombre
-d'isoloirs.
+d'isoloirs. 
 
 Les enveloppes contenant les bulletins sont regroupées par paquet de cent. Ces paquets sont introduits dans des enveloppes
 spécialement réservées à cet effet. Dès l'introduction d'un paquet de cent bulletins, l'enveloppe est cachetée et y sont
 apposées les signatures du président du bureau de vote et d'au moins deux assesseurs représentant, sauf liste ou candidat
-unique, des listes ou des candidats différents.
+unique, des listes ou des candidats différents. 
 
 A chaque table, l'un des scrutateurs extrait le bulletin de chaque enveloppe et le passe déplié à un autre scrutateur ;
 celui-ci le lit à haute voix ; les noms portés sur les bulletins sont relevés par deux scrutateurs au moins sur des listes
 préparées à cet effet. Si une enveloppe contient plusieurs bulletins, le vote est nul quand les bulletins portent des listes
-et des noms différents. Les bulletins multiples ne comptent que pour un seul quand ils désignent la même liste ou le même
-candidat. Les bulletins blancs sont décomptés séparément et annexés au procès-verbal. Ils n'entrent pas en compte pour la
-détermination des suffrages exprimés, mais il en est fait spécialement mention dans les résultats des scrutins. Une enveloppe
-ne contenant aucun bulletin est assimilée à un bulletin blanc. 
+et des noms différents. Les bulletins multiples ne comptent que pour un seul quand ils désignent la même liste, le même
+binôme de candidats ou le même candidat. Les bulletins blancs sont décomptés séparément et annexés au procès-verbal. Ils
+n'entrent pas en compte pour la détermination des suffrages exprimés, mais il en est fait spécialement mention dans les
+résultats des scrutins. Une enveloppe ne contenant aucun bulletin est assimilée à un bulletin blanc. 
 
 Dans les bureaux de vote dotés d'une machine à voter, le président, à la fin des opérations de vote, rend visibles les
-compteurs totalisant les suffrages obtenus par chaque liste ou chaque candidat ainsi que les votes blancs, de manière à en
-permettre la lecture par les membres du bureau, les délégués des candidats et les électeurs présents. Le président donne
-lecture à haute voix des résultats qui sont aussitôt enregistrés par le secrétaire.
+compteurs totalisant les suffrages obtenus par chaque liste, chaque binôme de candidats ou chaque candidat ainsi que les
+votes blancs, de manière à en permettre la lecture par les membres du bureau, les délégués des candidats et les électeurs
+présents. Le président donne lecture à haute voix des résultats qui sont aussitôt enregistrés par le secrétaire.
 
 **Nota:**
 
 
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -4173,7 +4217,7 @@ lecture à haute voix des résultats qui sont aussitôt enregistrés par le secr
 
 	**Modifié par**:
 
-	  - Loi n°2014-172 du 21 février 2014 - art. 1
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 
 ###### Article L66
@@ -4310,13 +4354,13 @@ Les modalités d'application du présent article sont déterminées par un décr
 
 Tant au premier tour qu'éventuellement au second tour de scrutin, les listes d'émargement de chaque bureau de vote, ainsi que
 les documents qui y sont réglementairement annexés, sont joints aux procès-verbaux des opérations de vote transmis
-immédiatement après le dépouillement du scrutin à la préfecture ou, pour les élections des conseillers généraux et des
-conseillers municipaux, à la sous-préfecture.
+immédiatement après le dépouillement du scrutin à la préfecture ou, pour les élections des conseillers départementaux et des
+conseillers municipaux, à la sous-préfecture. 
 
 S'il doit être procédé à un second tour de scrutin, le préfet ou le sous-préfet selon le cas, renvoie les listes d'émargement
-au maire, au plus tard le mercredi précédant le second tour.
+au maire, au plus tard le mercredi précédant le second tour. 
 
-Sans préjudice des dispositions de l'article LO. 179 du présent code, les listes d'émargement déposées à la préfecture ou à
+Sans préjudice des dispositions de l'article L0. 179 du présent code, les listes d'émargement déposées à la préfecture ou à
 la sous-préfecture sont communiquées à tout électeur requérant pendant un délai de dix jours à compter de l'élection et,
 éventuellement, durant le dépôt des listes entre les deux tours de scrutin, soit à la préfecture ou à la sous-préfecture,
 soit à la mairie.
@@ -4356,11 +4400,15 @@ soit à la mairie.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°69-419 1969-05-10 art. 14 JORF 11 mai 1969
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. LO179 (V)
 
 
 ###### Article L69
@@ -5542,7 +5590,7 @@ double.
 ###### Article L113-1
 
 I.-Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, tout
-candidat en cas de scrutin uninominal, ou tout candidat tête de liste en cas de scrutin de liste, qui : 
+candidat en cas de scrutin uninominal ou binominal, ou tout candidat tête de liste en cas de scrutin de liste, qui : 
 
 1° Aura, en vue de financer une campagne électorale, recueilli des fonds en violation des prescriptions de l'article L.
 52-4 ; 
@@ -5562,14 +5610,14 @@ dispositions des articles L. 51 et L. 52-1 ;
 téléphonique ou télématique gratuit. 
 
 II.-Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, quiconque
-aura, en vue d'une campagne électorale, accordé un don en violation des dispositions de l'article L. 52-8. 
+aura, en vue d'une campagne électorale, accordé un don en violation des dispositions de l'article L. 52-8.
 
 Lorsque le donateur sera une personne morale, les dispositions de l'alinéa ci-dessus seront applicables à ses dirigeants de
 droit ou de fait. 
 
 III.-Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement,
-quiconque aura, pour le compte d'un candidat ou d'un candidat tête de liste, sans agir sur sa demande, ou sans avoir
-recueilli son accord exprès, effectué une dépense de la nature de celles prévues à l'article L. 52-12.
+quiconque aura, pour le compte d'un candidat, d'un binôme de candidats ou d'un candidat tête de liste, sans agir sur sa
+demande, ou sans avoir recueilli son accord exprès, effectué une dépense de la nature de celles prévues à l'article L. 52-12.
 
 **Nota:**
 
@@ -5579,15 +5627,7 @@ recueilli son accord exprès, effectué une dépense de la nature de celles pré
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -5599,6 +5639,10 @@ recueilli son accord exprès, effectué une dépense de la nature de celles pré
 	  - Code électoral - art. L558-37 (VD)
 	  - Code électoral - art. L558-46 (VD)
 	  - Code électoral - art. L562 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 	**Cite**:
 
@@ -5854,21 +5898,23 @@ bon droit, le juge de l'élection fixe le montant du remboursement dû au candid
 
 ###### Article L118-3
 
-Saisi par la commission instituée par l'article L. 52-14, le juge de l'élection peut déclarer inéligible le candidat dont le
-compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du plafond des dépenses électorales. 
+Saisi par la commission instituée par l'article L. 52-14, le juge de l'élection peut prononcer l'inéligibilité du candidat
+dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du plafond des dépenses
+électorales. En cas de scrutin binominal, l'inéligibilité porte sur les deux candidats du même binôme. 
 
-Saisi dans les mêmes conditions, le juge de l'élection peut déclarer inéligible le candidat qui n'a pas déposé son compte de
-campagne dans les conditions et le délai prescrits à l'article L. 52-12. 
+Saisi dans les mêmes conditions, le juge de l'élection peut prononcer l'inéligibilité du candidat ou des membres du binôme de
+candidats qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits à l'article L. 52-12.
 
-Il prononce également l'inéligibilité du candidat dont le compte de campagne a été rejeté à bon droit en cas de volonté de
-fraude ou de manquement d'une particulière gravité aux règles relatives au financement des campagnes électorales. 
+Il prononce également l'inéligibilité du candidat ou des membres du binôme de candidats dont le compte de campagne a été
+rejeté à bon droit en cas de volonté de fraude ou de manquement d'une particulière gravité aux règles relatives au
+financement des campagnes électorales. 
 
-L'inéligibilité déclarée sur le fondement des premier à troisième alinéas est prononcée pour une durée maximale de trois ans
-et s'applique à toutes les élections. Toutefois, elle n'a pas d'effet sur les mandats acquis antérieurement à la date de la
+L'inéligibilité prévue aux trois premiers alinéas du présent article est prononcée pour une durée maximale de trois ans et
+s'applique à toutes les élections. Toutefois, elle n'a pas d'effet sur les mandats acquis antérieurement à la date de la
 décision. 
 
-Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il annule son élection ou, si l'élection n'a pas été
-contestée, le déclare démissionnaire d'office.
+Si le juge de l'élection a prononcé l'inéligibilité d'un candidat ou des membres d'un binôme proclamé élu, il annule son
+élection ou, si l'élection n'a pas été contestée, déclare le candidat ou les membres du binôme démissionnaires d'office.
 
 **Nota:**
 
@@ -5903,12 +5949,12 @@ contestée, le déclare démissionnaire d'office.
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 16
+	  - Loi n°2013-403 du 17 mai 2013 - art. 18
 
 	**Cite**:
 
-	  - Code électoral - art. L52-12
-	  - Code électoral - art. L52-14
+	  - Code électoral - art. L52-12 (VT)
+	  - Code électoral - art. L52-14 (V)
 
 
 ###### Article L118-4
@@ -5920,7 +5966,8 @@ sincérité du scrutin.
 L'inéligibilité déclarée sur le fondement du premier alinéa s'applique à toutes les élections. Toutefois, elle n'a pas
 d'effet sur les mandats acquis antérieurement à la date de la décision.
 
-Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il annule son élection.
+Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il annule son élection. En cas de scrutin binominal,
+il annule l'élection du binôme auquel ce candidat appartient.
 
 **Nota:**
 
@@ -5928,9 +5975,9 @@ Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 17
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 	**Cité par**:
 
@@ -6254,11 +6301,11 @@ général de l'Assemblée nationale suivant sa promulgation.
 
 ###### Article LO132
 
-I. - Les préfets sont inéligibles en France dans toute circonscription comprise en tout ou partie dans le ressort dans lequel
+I.-Les préfets sont inéligibles en France dans toute circonscription comprise en tout ou partie dans le ressort dans lequel
 ils exercent ou ont exercé leurs fonctions depuis moins de trois ans à la date du scrutin. 
 
-II. - Sont inéligibles en France dans toute circonscription comprise en tout ou partie dans le ressort dans lequel ils
-exercent ou ont exercé leurs fonctions depuis moins d'un an à la date du scrutin les titulaires des fonctions suivantes : 
+II.-Sont inéligibles en France dans toute circonscription comprise en tout ou partie dans le ressort dans lequel ils exercent
+ou ont exercé leurs fonctions depuis moins d'un an à la date du scrutin les titulaires des fonctions suivantes : 
 
 1° Les sous-préfets, les secrétaires généraux de préfecture, les directeurs de cabinet de préfet et les directeurs des
 services de cabinet de préfet ; 
@@ -6310,7 +6357,7 @@ administrative ainsi que leurs adjoints pour l'exercice de ce commandement ;
 19° Les directeurs départementaux des services d'incendie et de secours et leurs adjoints ; 
 
 20° Les directeurs généraux, directeurs généraux adjoints, directeurs, directeurs adjoints et chefs de service du conseil
-régional, de la collectivité territoriale de Corse, du conseil général, des communes de plus de 20 000 habitants, des
+régional, de la collectivité territoriale de Corse, du conseil départemental, des communes de plus de 20 000 habitants, des
 communautés de communes de plus de 20 000 habitants, des communautés d'agglomération, des communautés urbaines et des
 métropoles ; 
 
@@ -6319,19 +6366,9 @@ est composé majoritairement de représentants des collectivités territoriales 
 au 20° ; 
 
 22° Les membres du cabinet du président du conseil régional, du président de l'Assemblée de Corse, du président du conseil
-exécutif de Corse, du président du conseil général, des maires des communes de plus de 20 000 habitants, des présidents des
-communautés de communes de plus de 20 000 habitants, des présidents des communautés d'agglomération, des présidents des
+exécutif de Corse, du président du conseil départemental, des maires des communes de plus de 20 000 habitants, des présidents
+des communautés de communes de plus de 20 000 habitants, des présidents des communautés d'agglomération, des présidents des
 communautés urbaines et des présidents des métropoles.
-
-**Nota:**
-
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
-
-Une nouvelle version de cet article modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des
-conseillers municipaux, des conseillers communautaires et des conseillers départementaux s’appliquera aux élections
-organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils départementaux, y compris aux opérations
-préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -6350,7 +6387,7 @@ préparatoires à ce scrutin.
 
 	**Modifié par**:
 
-	  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
+	  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
 
 
 ###### Article LO134
@@ -7296,36 +7333,28 @@ surveillance dans l'un des établissements, sociétés ou entreprises visés à 
 
 ###### Article LO148
 
-Nonobstant les dispositions des articles L. O. 146 et L. O. 147, les députés membres d'un conseil régional, d'un conseil
-général, de l'assemblée de Guyane, de l'assemblée de Martinique ou d'un conseil municipal peuvent être désignés par ces
+Nonobstant les dispositions des articles LO 146 et LO 147, les députés membres d'un conseil régional, d'un conseil
+départemental, de l'assemblée de Guyane, de l'assemblée de Martinique ou d'un conseil municipal peuvent être désignés par ces
 conseils pour représenter la région, le département, la collectivité ou la commune dans des organismes d'intérêt régional ou
 local, à la condition que ces organismes n'aient pas pour objet propre de faire ni de distribuer des bénéfices et que les
 intéressés n'y occupent pas de fonctions rémunérées. 
 
-En outre, les députés, même non membres d'un conseil régional, d'un conseil général, de l'assemblée de Guyane, de l'assemblée
-de Martinique ou d'un conseil municipal, peuvent exercer les fonctions de président du conseil d'administration,
+En outre, les députés, même non membres d'un conseil régional, d'un conseil départemental, de l'assemblée de Guyane, de
+l'assemblée de Martinique ou d'un conseil municipal, peuvent exercer les fonctions de président du conseil d'administration,
 d'administrateur délégué ou de membre du conseil d'administration des sociétés d'économie mixte d'équipement régional ou
 local, ou des sociétés ayant un objet exclusivement social lorsque ces fonctions ne sont pas rémunérées.
 
 **Nota:**
 
-Conformément à l'article 10 de la loi organique n° 2011-883 du 27 juillet 2011, la présente loi organique entre en vigueur :
+Cet article a été modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des conseillers municipaux,
+des conseillers communautaires et des conseillers départementaux. Conformément à son article 8, l’article dans sa version
+modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des conseils départementaux prévu
+en mars 2015, y compris aux opérations préparatoires à ce scrutin. 
 
-1° En ce qui concerne les dispositions applicables à la Guyane, à compter de la première réunion de l'Assemblée de Guyane ;
-
-2° En ce qui concerne les dispositions applicables à la Martinique, à compter de la première réunion de l'Assemblée de
-Martinique.
-
-Une nouvelle version de cet article modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des
-conseillers municipaux, des conseillers communautaires et des conseillers départementaux s'appliquera aux élections
-organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils départementaux, y compris aux opérations
-préparatoires à ce scrutin.
+Conformément à la loi organique n° 2014-125, article 12, ces dispositions seront abrogées à compter du premier renouvellement
+de chaque assemblée à laquelle appartient tout parlementaire suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -7334,7 +7363,11 @@ préparatoires à ce scrutin.
 
 	**Modifié par**:
 
-	  - Loi organique n°2011-883 du 27 juillet 2011 - art. 5
+	  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Loi organique n°2014-125 du 14 février 2014 - art. 5
 
 	**Cite**:
 
@@ -8623,98 +8656,19 @@ II, VII et VIII du présent titre, ainsi que des articles L. 154 à L. 159 et L.
 
 ### Titre III : Dispositions spéciales à l'élection des conseillers généraux
 
-#### Chapitre Ier : Composition des conseils généraux et durée du mandat des conseillers
-
-###### Article L191
-
-Chaque canton du département élit un membre du conseil général.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L3121-2 (VD)
-	  - Code électoral - art. L328 (M)
-	  - Code électoral - art. L328-4 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1871-08-10. du 10 août 1871 - art. 4 (Ab)
-
-
-###### Article L192
-
-Les conseillers généraux sont élus pour six ans  ; ils sont renouvelés par moitié tous les trois ans et sont indéfiniment
-rééligibles.
-
-Les élections ont lieu au mois de mars.
-
-Dans tous les départements, les collèges électoraux sont convoqués le même jour.
-
-En cas de renouvellement intégral, à la réunion qui suit ce renouvellement, le conseil général divise les cantons du
-département en deux séries, en répartissant, autant que possible dans une proportion égale, les cantons de chaque
-arrondissement dans chacune des séries, et il procède ensuite à un tirage au sort pour régler l'ordre du renouvellement des
-séries.
-
-Lorsqu'un nouveau canton est créé par la fusion de deux cantons qui n'appartiennent pas à la même série de renouvellement, il
-est procédé à une élection à la date du renouvellement le plus proche afin de pourvoir le siège de ce nouveau canton. Dans ce
-cas, et malgré la suppression du canton où il a été élu, le conseiller général de celui des deux anciens cantons qui
-appartient à la série renouvelée à la date la plus lointaine peut exercer son mandat jusqu'à son terme.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°90-1103 1990-12-11 art. 9, art. 12
-	  - SPEC_APPLI: Loi n°2000-629 du 7 juillet 2000 - art. 3 ()
-
-	**Cité par**:
-
-	  - Loi n°94-44 du 18 janvier 1994 - art. 8 (V)
-	  - Loi n°2005-1563 du 15 décembre 2005 - art. 2 (V)
-	  - Loi n°2005-1563 du 15 décembre 2005 - art. 3 (V)
-	  - Loi n°2010-145 du 16 février 2010 - art. 1 (Ab)
-	  - Loi n°2011-884 du 27 juillet 2011 - art. 21 (V)
-	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 39
-	  - Code général des collectivités territoriales - art. L3121-2 (VD)
-	  - Code électoral - art. L221 (VD)
-	  - Code électoral - art. L328-4 (M)
-	  - Code électoral - art. L334-8 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2000-629 du 7 juillet 2000 - art. 2 () JORF 8 juillet 2000
-
-
 #### Chapitre II : Mode de scrutin
 
 ###### Article L193
 
-Nul n'est élu membre du conseil général au premier tour de scrutin s'il n'a réuni :
+Nul binôme de candidats n'est élu au conseil départemental au premier tour de scrutin s'il n'a réuni :
 
 1° La majorité absolue des suffrages exprimés ;
 
 2° Un nombre de suffrages égal au quart de celui des électeurs inscrits.
 
 Au second tour de scrutin, l'élection a lieu à la majorité relative, quel que soit le nombre des votants. Si plusieurs
-candidats obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
+binômes de candidats obtiennent le même nombre de suffrages, l'élection est acquise au binôme qui comporte le candidat le
+plus âgé.
 
 **Nota:**
 
@@ -8724,7 +8678,12 @@ candidats obtiennent le même nombre de suffrages, l'élection est acquise au pl
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 6
 
 	**Cité par**:
 
@@ -8740,15 +8699,13 @@ candidats obtiennent le même nombre de suffrages, l'élection est acquise au pl
 
 ###### Article L194
 
-Nul ne peut être élu conseiller général s'il n'est âgé de dix-huit ans révolus.
+Nul ne peut être élu conseiller départemental s'il n'est âgé de dix-huit ans révolus.
 
-Sont éligibles au conseil général tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y être
-inscrits avant le jour de l'élection, qui sont domiciliés dans le département, et ceux qui, sans y être domiciliés, y sont
-inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait l'élection, ou justifient
-qu'ils devaient y être inscrits à ce jour, ou ont hérité depuis la même époque d'une propriété foncière dans le département.
-
-Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasser le quart du nombre total dont le conseil doit
-être composé.
+Sont éligibles au conseil départemental tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y
+être inscrits avant le jour de l'élection, qui sont domiciliés dans le département, et ceux qui, sans y être domiciliés, y
+sont inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait l'élection, ou
+justifient qu'ils devaient y être inscrits à ce jour, ou ont hérité depuis la même époque d'une propriété foncière dans le
+département.
 
 **Nota:**
 
@@ -8758,7 +8715,7 @@ Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasse
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -8770,13 +8727,14 @@ Toutefois, le nombre des conseillers généraux non domiciliés ne peut dépasse
 
 	**Modifié par**:
 
-	  - Loi n°2000-295 du 5 avril 2000 - art. 4 ()
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 12
 
 
 ###### Article L194-1
 
 Pendant la durée de ses fonctions, le Contrôleur général des lieux de privation de liberté ne peut être candidat à un mandat
-de conseiller général s'il n'exerçait le même mandat antérieurement à sa nomination.
+de conseiller départemental s'il n'exerçait le même mandat antérieurement à sa nomination.
 
 **Nota:**
 
@@ -8796,12 +8754,12 @@ de conseiller général s'il n'exerçait le même mandat antérieurement à sa n
 
 	**Modifié par**:
 
-	  - Loi n°2011-334 du 29 mars 2011 - art. 21
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L195
 
-Ne peuvent être élus membres du conseil général :
+Ne peuvent être élus membres du conseil départemental :
 
 1° Les préfets dans le département où ils exercent ou ont exercé leurs fonctions depuis moins de trois ans ; les sous-
 préfets, secrétaires généraux, directeurs de cabinet de préfet ou sous-préfets chargés de mission auprès d'un préfet, ainsi
@@ -8809,63 +8767,63 @@ que les secrétaires en chef de sous-préfecture, dans le département où ils e
 moins d'une année ;
 
 2° Les magistrats du siège et du parquet des cours d'appel, dans le ressort de la juridiction où ils exercent ou ont exercé
-depuis moins de six mois ;
+depuis moins d'un an ;
 
 3° Les membres des tribunaux administratifs ainsi que les magistrats et les secrétaires généraux des chambres régionales des
-comptes, dans le ressort de la juridiction où ils exercent ou ont exercé depuis moins de six mois ;
+comptes, dans le ressort de la juridiction où ils exercent ou ont exercé depuis moins d'un an ;
 
 4° Les magistrats des tribunaux de grande instance et d'instance, dans le ressort de la juridiction où ils exercent ou ont
-exercé depuis moins de six mois ;
+exercé depuis moins d'un an ;
 
 5° Les officiers des armées de terre, de mer et de l'air dans l'étendue de toute circonscription comprise dans le ressort où,
-dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois ;
+dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins d'un an ;
 
 6° Les fonctionnaires des corps actifs de police dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
-de six mois ;
+d'un an ;
 
-7° Dans les départements où ils exercent ou ont exercé leurs fonctions depuis moins de six mois : les ingénieurs en chef,
+7° Dans les départements où ils exercent ou ont exercé leurs fonctions depuis moins d'un an : les ingénieurs en chef,
 ingénieurs en chef adjoints et ingénieurs des ponts et chaussées ;
 
 8° Les ingénieurs du service ordinaire des mines, dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
-de six mois ;
+d'un an ;
 
-9° Les recteurs d'académie, dans tous les départements compris dans l'académie où ils exercent ou ont exercé depuis moins de
-six mois ;
+9° Les recteurs d'académie, dans tous les départements compris dans l'académie où ils exercent ou ont exercé depuis moins
+d'un an ;
 
 10° Les inspecteurs d'académie et les inspecteurs de l'enseignement primaire dans le département où ils exercent ou ont
-exercé leurs fonctions depuis moins de six mois ;
+exercé leurs fonctions depuis moins d'un an ;
 
 11° Les agents et comptables de tout ordre agissant en qualité de fonctionnaire, employés à l'assiette, à la perception et au
 recouvrement des contributions directes ou indirectes, et au paiement des dépenses publiques de toute nature, dans le
-département où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+département où ils exercent ou ont exercé leurs fonctions depuis moins d'un an ;
 
 12° Les directeurs départementaux et inspecteurs principaux des postes et télécommunications, dans le département où ils
-exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+exercent ou ont exercé leurs fonctions depuis moins d'un an ;
 
 13° Les ingénieurs en chef chargés de la direction d'un établissement du service des manufactures de tabac, les inspecteurs
 des manufactures de tabac et les directeurs du service de la culture et des magasins de tabac, dans le département où ils
-exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+exercent ou ont exercé leurs fonctions depuis moins d'un an ;
 
 14° Les ingénieurs en chef, ingénieurs principaux, ingénieurs des travaux et autres agents du génie rural, des eaux et des
-forêts dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+forêts dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins d'un an ;
 
-15° Les inspecteurs des instruments de mesure dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de
-six mois ;
+15° Les inspecteurs des instruments de mesure dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
+d'un an ;
 
 16° Les directeurs départementaux et inspecteurs de l'action sanitaire et sociale dans le département où ils exercent ou ont
-exercé leurs fonctions depuis moins de six mois ;
+exercé leurs fonctions depuis moins d'un an ;
 
 17° Les directeurs et chefs de service régionaux des administrations civiles de l'Etat dans les départements où ils exercent
-ou ont exercé leurs fonctions depuis moins de six mois ;
+ou ont exercé leurs fonctions depuis moins d'un an ;
 
-18° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
-directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil général et de conseil régional
-dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+18° Les membres du cabinet du président du conseil départemental et du président du conseil régional, les directeurs
+généraux, les directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil départemental et de
+conseil régional dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins d'un an ;
 
 19° Les membres du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse,
 les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité
 territoriale de Corse et de ses établissements publics dans les départements de la Corse-du-Sud et de la Haute-Corse, s'ils y
-exercent leurs fonctions ou les ont exercées depuis moins de six mois.
+exercent leurs fonctions ou les ont exercées depuis moins d'un an.
 
 Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
 jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
@@ -8878,11 +8836,7 @@ jour de l'élection, auront été admis à faire valoir leurs droits à la retra
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-	**Cite**:
-
-	  - Loi n°88-227 1988 03-11 art. 2
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -8901,7 +8855,8 @@ jour de l'élection, auront été admis à faire valoir leurs droits à la retra
 
 	**Modifié par**:
 
-	  - Loi n°2013-907 du 11 octobre 2013 - art. 30 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 7
 
 	**Anciens textes**:
 
@@ -8960,7 +8915,7 @@ LO 136-1 ou LO 136-3.
 
 ###### Article L199
 
-Sont inéligibles les personnes désignées aux articles L. 6 et L. 7 et celles privées de leur droit d'éligibilité par décision
+Sont inéligibles les personnes désignées à l'article L. 6 et celles privées de leur droit d'éligibilité par décision
 judiciaire en application des lois qui autorisent cette privation.
 
 **Nota:**
@@ -8984,16 +8939,15 @@ judiciaire en application des lois qui autorisent cette privation.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 2005-02-11 art. 71 3° JORF 12 février 2005
-	  - Loi n°2005-102 du 11 février 2005 - art. 71
+	  - Loi n°2013-403 du 17 mai 2013 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. L6 (V)
+	  - Code électoral - art. L6
 
 
 ###### Article L200
@@ -9059,11 +9013,12 @@ l'ordonnance du 6 janvier 1945.
 
 ###### Article L204
 
-Les conseillers généraux qui, dans les conditions prévues aux articles 34 et 91 de la loi du 10 août 1871, ont été condamnés
-et exclus du conseil général sont inéligibles au conseil général pendant les trois années qui suivent la condamnation. 
+Les conseillers départementaux qui, dans les conditions prévues aux articles 34 et 91 de la loi du 10 août 1871, ont été
+condamnés et exclus du conseil départemental sont inéligibles au conseil départemental pendant les trois années qui suivent
+la condamnation. 
 
-Les conseillers généraux déclarés démissionnaires d'office par application de l'article L. 3121-4 du code général des
-collectivités territoriales sont inéligibles pendant une année au conseil général.
+Les conseillers départementaux déclarés démissionnaires d'office par application de l'article L. 3121-4 du code général des
+collectivités territoriales sont inéligibles pendant une année au conseil départemental.
 
 **Nota:**
 
@@ -9071,14 +9026,9 @@ collectivités territoriales sont inéligibles pendant une année au conseil gé
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
 	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 art. 11, art. 12 16° JORF 24 février 1996
-	  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
@@ -9087,14 +9037,16 @@ collectivités territoriales sont inéligibles pendant une année au conseil gé
 
 ###### Article L205
 
-Tout conseiller général qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
-d'inéligibilité prévus par les articles L. 195, 
-L. 199 et L. 200 ou se trouve frappé de l'une des incapacités qui font perdre la qualité d'électeur, est déclaré
-démissionnaire par le représentant de l'Etat dans le département, sauf réclamation au tribunal administratif dans les dix
-jours de la notification, et sauf recours au Conseil d'Etat, conformément aux articles L. 222 et L. 223. Lorsqu'un conseiller
-général est déclaré démissionnaire d'office à la suite d'une condamnation pénale définitive prononcée à son encontre et
-entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'acte de notification du
-préfet n'est pas suspensif.
+Tout conseiller départemental qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
+d'inéligibilité prévus par les articles L. 195, L. 196, L. 199 et L. 200 ou se trouve frappé de l'une des incapacités qui
+font perdre la qualité d'électeur, est déclaré démissionnaire par le représentant de l'Etat dans le département, sauf
+réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au Conseil d'Etat, conformément
+aux articles L. 222 et L. 223. Lorsqu'un conseiller départemental est déclaré démissionnaire d'office à la suite d'une
+condamnation pénale définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques et
+électoraux, le recours éventuel contre l'acte de notification du préfet n'est pas suspensif. 
+
+Le premier alinéa est applicable au cas où l'inéligibilité est antérieure à l'élection mais portée à la connaissance du
+représentant de l'Etat dans le département postérieurement à l'enregistrement de la candidature.
 
 **Nota:**
 
@@ -9104,11 +9056,12 @@ préfet n'est pas suspensif.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 18 () JORF 9 décembre 2003
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 10
 
 	**Cite**:
 
@@ -9123,21 +9076,21 @@ préfet n'est pas suspensif.
 
 ###### Article LO194-2
 
-Pendant la durée de ses fonctions, le Défenseur des droits ne peut être candidat à un mandat de conseiller général.
+Pendant la durée de ses fonctions, le Défenseur des droits ne peut être candidat à un mandat de conseiller départemental.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
+	  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
 
 
 #### Chapitre IV : Incompatibilités
 
 ###### Article L206
 
-Le mandat de conseiller général est incompatible, dans toute la France, avec les fonctions énumérées à l'article L. 46 et aux
-1° et 6° de l'article L. 195.
+Le mandat de conseiller départemental est incompatible, dans toute la France, avec les fonctions énumérées à l'article L. 46
+et aux 1° et 6° de l'article L. 195.
 
 **Nota:**
 
@@ -9147,15 +9100,15 @@ Le mandat de conseiller général est incompatible, dans toute la France, avec l
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°85-692 du 10 juillet 1985 - art. 2 () JORF 11 JUILLET 1985
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code électoral - art. L195 (VT)
+	  - Code électoral - art. L195 (VD)
 	  - Code électoral - art. L46 (V)
 
 	**Cité par**:
@@ -9170,7 +9123,7 @@ Le mandat de conseiller général est incompatible, dans toute la France, avec l
 
 ###### Article L207
 
-Le mandat de conseiller général est incompatible, dans le département, avec les fonctions d'architecte départemental,
+Le mandat de conseiller départemental est incompatible, dans le département, avec les fonctions d'architecte départemental,
 d'ingénieur des travaux publics de l'Etat, chef de section principal ou chef de section des travaux publics de l'Etat chargé
 d'une circonscription territoriale de voirie, d'employé des bureaux de la préfecture ou d'une sous-préfecture et,
 généralement, de tous les agents salariés ou subventionnés sur les fonds départementaux. 
@@ -9194,7 +9147,7 @@ La même exception s'applique aux vétérinaires chargés dans les mêmes condit
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -9210,13 +9163,9 @@ La même exception s'applique aux vétérinaires chargés dans les mêmes condit
 
 	  - Loi n°86-33 du 9 janvier 1986 - art. 2 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-748 1991-07-31 art. 21
-
 	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 21 (V) JORF 2 août 1991
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Anciens textes**:
 
@@ -9225,7 +9174,11 @@ La même exception s'applique aux vétérinaires chargés dans les mêmes condit
 
 ###### Article L208
 
-Nul ne peut être membre de plusieurs conseils généraux.
+Nul ne peut être titulaire de plus d'un mandat de conseiller départemental. 
+
+Toute personne qui, en contradiction avec le sixième alinéa de l'article L. 210-1, s'est portée candidate et a été élue dans
+plusieurs cantons lors du même renouvellement général des conseils départementaux perd de plein droit ses mandats de
+conseiller départemental.
 
 **Nota:**
 
@@ -9235,7 +9188,15 @@ Nul ne peut être membre de plusieurs conseils généraux.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 11
+
+	**Cite**:
+
+	  - Code électoral - art. L210-1
 
 	**Cité par**:
 
@@ -9246,53 +9207,12 @@ Nul ne peut être membre de plusieurs conseils généraux.
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 11 (Ab)
 
 
-###### Article L209
-
-Le conseiller général élu dans plusieurs cantons est tenu de déclarer son option au président du conseil général dans les
-trois jours qui suivent la plus prochaine réunion du conseil général et, en cas de contestation, soit à partir de la date à
-laquelle la décision du tribunal administratif est devenue définitive, soit à partir de la notification de la décision du
-Conseil d'Etat.
-
-A défaut d'option dans ce délai, le conseil général détermine, en séance publique, et par la voie du sort, à quel canton le
-conseiller appartiendra.
-
-Lorsque le nombre des conseillers non domiciliés dans le département dépasse le quart du conseil, le conseil général procède
-de la même façon pour désigner celui ou ceux dont l'élection doit être annulée. Si une question préjudicielle s'élève sur le
-domicile, le conseil général sursoit et le tirage au sort est fait par le bureau du conseil général réuni à cet effet.
-
-En cas de division d'un canton en plusieurs circonscriptions électorales, le conseiller général représentant le canton divisé
-a le droit d'opter pour l'une des nouvelles circonscriptions créées à l'intérieur de l'ancien canton dans les dix jours qui
-suivront la promulgation du décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Loi n°82-213 1982-03-02 art. 58 IX JORF 3 mars 1982
-
-	**Abrogé par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 12
-
-	**Cité par**:
-
-	  - Code électoral - art. L221 (VT)
-
-	**Anciens textes**:
-
-	  - Loi n°1871-08-10. du 10 août 1871 - art. 17 (Ab)
-
-
 ###### Article L210
 
-Tout conseiller général qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
-d'incompatibilité prévus par les articles L. 206 et L. 207 est déclaré démissionnaire par le représentant de l'Etat dans le
-département, sauf réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au Conseil
-d'Etat, conformément aux articles L. 222 et L. 223.
+Tout conseiller départemental qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
+d'incompatibilité prévus par les articles L. 206, L. 207 et L. 208 est déclaré démissionnaire par le représentant de l'Etat
+dans le département, sauf réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au
+Conseil d'Etat, conformément aux articles L. 222 et L. 223.
 
 **Nota:**
 
@@ -9302,16 +9222,17 @@ d'Etat, conformément aux articles L. 222 et L. 223.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 19 () JORF 9 décembre 2003
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 13
 
 	**Cite**:
 
-	  - Code électoral - art. L206 (VT)
-	  - Code électoral - art. L222 (VT)
+	  - Code électoral - art. L206 (VD)
+	  - Code électoral - art. L222 (VD)
 
 	**Cité par**:
 
@@ -9326,41 +9247,46 @@ d'Etat, conformément aux articles L. 222 et L. 223.
 
 ###### Article L210-1
 
-Tout candidat à l'élection au conseil général doit obligatoirement, avant chaque tour de scrutin, souscrire une déclaration
-de candidature dans les conditions prévues par un décret en Conseil d'Etat. Cette déclaration, revêtue de la signature du
-candidat, énonce les nom, prénoms, sexe, date et lieu de naissance, domicile et profession. Elle mentionne également la
-personne appelée à remplacer le candidat comme conseiller général dans le cas prévu à l'article L. 221. Les articles L. 155
-et L. 163 sont applicables à la désignation du remplaçant. Le candidat et son remplaçant sont de sexe différent. 
+Les candidats présentés en binôme en vue de l'élection au conseil départemental souscrivent, avant chaque tour de scrutin,
+une déclaration conjointe de candidature dans les conditions prévues par décret en Conseil d'Etat. Cette déclaration, revêtue
+de la signature des deux candidats, énonce les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de
+chacun d'entre eux. Elle mentionne également pour chaque candidat la personne appelée à le remplacer comme conseiller
+départemental dans le cas prévu au II l'article L. 221. Les articles L. 155 et L. 163 sont applicables à la désignation du
+remplaçant. 
 
-A cette déclaration sont jointes les pièces propres à prouver que le candidat et son remplaçant répondent aux conditions
-d'éligibilité prévues par l'article L. 194. 
+Le candidat et son remplaçant sont de même sexe. 
 
-Pour le premier tour de scrutin dans les cantons de 9 000 habitants et plus, sont également jointes les pièces de nature à
-prouver que le candidat a procédé à la déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a
-pas procédé à cette déclaration, les pièces prévues au premier alinéa de ces mêmes articles. 
+A la déclaration prévue au premier alinéa du présent article sont jointes les pièces propres à prouver que les candidats
+présentés en binôme et leurs remplaçants répondent aux conditions d'éligibilité prévues à l'article L. 194. 
 
-Si la déclaration de candidature n'est pas conforme aux dispositions du premier alinéa, qu'elle n'est pas accompagnée des
-pièces mentionnées au deuxième alinéa ou si ces pièces n'établissent pas que le candidat et son remplaçant répondent aux
-conditions d'éligibilité prévues par l'article L. 194, elle n'est pas enregistrée. 
+Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le binôme a procédé à la
+déclaration d'un mandataire en application des articles L. 52-3-1, 
+L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les pièces prévues au premier alinéa des mêmes articles L.
+52-5 et L. 52-6. 
+
+Si la déclaration de candidature n'est pas conforme aux deux premiers alinéas du présent article ou n'est pas accompagnée des
+pièces mentionnées aux troisième et quatrième alinéas ou si un candidat ou un remplaçant figurant sur cette déclaration est
+inéligible, elle n'est pas enregistrée. 
 
 Nul ne peut être candidat dans plus d'un canton. 
 
-Si le candidat fait, contrairement aux prescriptions de l'alinéa précédent, acte de candidature dans plusieurs cantons, sa
-candidature n'est pas enregistrée. 
+Si, contrairement au sixième alinéa, un candidat fait acte de candidature dans plusieurs cantons, la candidature du binôme de
+candidats au sein duquel il se présente n'est pas enregistrée. 
 
-Le candidat qui s'est vu opposer un refus d'enregistrement dispose de vingt-quatre heures pour saisir le tribunal
-administratif qui statue sous trois jours. 
+Le refus d'enregistrement d'un binôme de candidats est motivé. Chaque candidat du binôme qui s'est vu opposer un refus
+d'enregistrement dispose d'un délai de vingt-quatre heures pour saisir le tribunal administratif. Le tribunal administratif
+statue sous trois jours. 
 
-Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature doit être enregistrée. 
+Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature du binôme de candidats est enregistrée. 
 
-Nul ne peut être candidat au deuxième tour s'il ne s'est présenté au premier tour et s'il n'a obtenu un nombre de suffrages
-égal au moins à 12,5 % du nombre des électeurs inscrits. 
+Nul binôme ne peut être candidat au second tour s'il ne s'est présenté au premier tour et s'il n'a obtenu un nombre de
+suffrages égal au moins à 12,5 % du nombre des électeurs inscrits. 
 
-Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu après celui-ci le plus grand nombre de
-suffrages au premier tour peut se maintenir au second. 
+Dans le cas où un seul binôme de candidats remplit ces conditions, le binôme ayant obtenu après celui-ci le plus grand nombre
+de suffrages au premier tour peut se maintenir au second. 
 
-Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
-premier tour peuvent se maintenir au second.
+Dans le cas où aucun binôme de candidats ne remplit ces conditions, les deux binômes ayant obtenu le plus grand nombre de
+suffrages au premier tour peuvent se maintenir au second.
 
 **Nota:**
 
@@ -9374,14 +9300,16 @@ premier tour peuvent se maintenir au second.
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 12
+	  - Loi n°2013-403 du 17 mai 2013 - art. 14
+	  - Loi n°2015-29 du 16 janvier 2015 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. L155
-	  - Code électoral - art. L163
-	  - Code électoral - art. L194
-	  - Code électoral - art. L52-5
+	  - Code électoral - art. L155 (V)
+	  - Code électoral - art. L163 (V)
+	  - Code électoral - art. L194 (VT)
+	  - Code électoral - art. L52-3-1 (VD)
+	  - Code électoral - art. L52-5 (VD)
 
 	**Cité par**:
 
@@ -9427,10 +9355,10 @@ propagande électorale, en dehors des conditions fixées par les dispositions en
 
 ###### Article L212
 
-Dans les circonscriptions électorales, des commissions, dans lesquelles sont obligatoirement représentés les candidats
-remplissant les conditions exigées pour bénéficier des moyens de propagande et dont la composition et le fonctionnement sont
-fixés par le décret en Conseil d'Etat prévu à l'article L. 217, sont chargées d'assurer l'envoi et la distribution des
-documents de propagande électorale.
+Dans les circonscriptions électorales, des commissions, dans lesquelles sont obligatoirement représentés les binômes de
+candidats remplissant les conditions exigées pour bénéficier des moyens de propagande et dont la composition et le
+fonctionnement sont fixés par le décret en Conseil d'Etat prévu à l'article L. 217, sont chargées d'assurer l'envoi et la
+distribution des documents de propagande électorale.
 
 **Nota:**
 
@@ -9440,7 +9368,11 @@ documents de propagande électorale.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 	**Cité par**:
 
@@ -9486,8 +9418,8 @@ commissions de propagande.
 
 L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées à l'article L. 212,
 celles qui résultent de leur fonctionnement, ainsi que le coût du papier, l'impression des bulletins de vote, circulaires et
-affiches et les frais d'affichage, pour les candidats ayant satisfait aux obligations de l'article L. 213 et ayant obtenu au
-moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
+affiches et les frais d'affichage, pour les binômes de candidats ayant satisfait aux obligations de l'article L. 213 et ayant
+obtenu au moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
 
 **Nota:**
 
@@ -9497,15 +9429,19 @@ moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 	**Cite**:
 
 	  - Code électoral - art. L212 (VT)
+	  - Code électoral - art. L213 (Ab)
 
 	**Cité par**:
 
-	  - Code électoral - art. L213 (Ab)
 	  - Code électoral - art. L333 (Ab)
 	  - Code électoral - art. L463 (V)
 
@@ -9588,59 +9524,12 @@ Il doit y avoir un intervalle de quinze jours francs entre la date de la convoca
 	  - Loi n°94-44 du 18 janvier 1994 - art. 4 ()
 
 
-#### Chapitre VIII : Remplacement des conseillers généraux
-
-###### Article L221
-
-Le conseiller général dont le siège devient vacant pour cause de décès, de démission intervenue en application des articles
-L. 46-1, L. 46-2, LO 151 ou
-LO 151-1 du présent code ou pour tout autre motif, de présomption d'absence au sens de l'article 112 du code civil ou
-d'acceptation de la fonction de membre du Conseil constitutionnel ou de Défenseur des droits, est remplacé jusqu'au
-renouvellement de la série dont il est issu par la personne élue en même temps que lui à cet effet. 
-
-En cas de vacance pour toute autre cause ou lorsque le premier alinéa ne peut plus être appliqué, il est procédé à une
-élection partielle dans le délai de trois mois. 
-
-Toutefois, si le renouvellement d'une série sortante doit avoir lieu dans les trois mois de la vacance, l'élection partielle
-se fait à la même époque. 
-
-Le président du conseil général est chargé de veiller à l'exécution du présent article. Il adresse ses réquisitions au
-représentant de l'Etat dans le département et, s'il y a lieu, au ministre de l'Intérieur.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2011-334 du 29 mars 2011 - art. 21
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 5 (V)
-	  - Code électoral - art. L210-1 (VD)
-	  - Code électoral - art. L328 (M)
-	  - Code électoral - art. L328-4 (M)
-	  - Code électoral - art. R110 (VD)
-	  - Code électoral - art. R112-1 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L46-1
-	  - Code électoral - art. L46-2
-	  - Code électoral - art. LO151
-	  - Code électoral - art. LO151-1
-	  - Code civil - art. 112
-
-
 #### Chapitre IX : Contentieux
 
 ###### Article L222
 
 Les élections peuvent être arguées de nullité par tout électeur du canton, par les candidats, par les membres du conseil
-général et par le préfet, devant le tribunal administratif.
+départemental  et par le préfet, devant le tribunal administratif. 
 
 Le recours du préfet ne peut être fondé que sur l'inobservation des conditions et formalités prescrites par les lois.
 
@@ -9652,7 +9541,11 @@ Le recours du préfet ne peut être fondé que sur l'inobservation des condition
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cité par**:
 
@@ -9664,12 +9557,8 @@ Le recours du préfet ne peut être fondé que sur l'inobservation des condition
 
 ###### Article L223
 
-Le conseiller général proclamé élu reste en fonctions jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
-Toutefois, l'appel au Conseil d'Etat contre la décision du tribunal administratif n'a pas d'effet suspensif lorsque
-l'élection du même conseiller a déjà été annulée sur un précédent pourvoi dirigé contre des opérations électorales
-antérieures, pour la même cause d'inéligibilité, par une décision du tribunal administratif devenue définitive ou confirmée
-en appel par le Conseil d'Etat. Dans les cas de cette espèce, le tribunal administratif est tenu de spécifier que l'appel
-éventuel n'aura pas d'effet suspensif.
+Le conseiller départemental ou les conseillers départementaux élus restent en fonctions jusqu'à ce qu'il ait été
+définitivement statué sur la réclamation.
 
 **Nota:**
 
@@ -9677,9 +9566,10 @@ en appel par le Conseil d'Etat. Dans les cas de cette espèce, le tribunal admin
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Loi n°2013-403 du 17 mai 2013 - art. 16
+	  - Loi n°2015-29 du 16 janvier 2015 - art. 9
 
 	**Cité par**:
 
@@ -9689,8 +9579,8 @@ en appel par le Conseil d'Etat. Dans les cas de cette espèce, le tribunal admin
 ###### Article L223-1
 
 Le tribunal administratif peut, en cas d'annulation d'une élection pour manoeuvres dans l'établissement de la liste
-électorale ou irrégularité dans le déroulement du scrutin, décider, nonobstant appel, la suspension du mandat de celui dont
-l'élection est annulée.
+électorale ou irrégularité dans le déroulement du scrutin, décider, nonobstant appel, la suspension des mandats des élus du
+canton dont l'élection est annulée.
 
 En ce cas, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours. A défaut de décision
 définitive dans ce délai, il est mis fin à la suspension.
@@ -9706,11 +9596,11 @@ l'enregistrement du recours.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-1329 1975-12-31 art. 8 JORF 3 janvier 1976
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 
 #### Chapitre X : Conditions d'application
@@ -9725,6 +9615,171 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+
+### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
+
+#### Chapitre Ier : Composition des conseils départementaux et durée du mandat des conseillers
+
+###### Article L191
+
+Les électeurs de chaque canton du département élisent au conseil départemental deux membres de sexe différent, qui se
+présentent en binôme de candidats dont les noms sont ordonnés dans l'ordre alphabétique sur tout bulletin de vote imprimé à
+l'occasion de l'élection.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 3
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L3121-2 (VD)
+	  - Code électoral - art. L328 (M)
+	  - Code électoral - art. L328-4 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 4 (Ab)
+
+
+###### Article L191-1
+
+Le nombre de cantons dans lesquels sont élus les conseillers départementaux est égal, pour chaque département, à la moitié du
+nombre de cantons existant au 1er janvier 2013, arrondi à l'unité impaire supérieure si ce nombre n'est pas entier impair.
+
+Le nombre de cantons dans chaque département comptant plus de 500 000 habitants ne peut être inférieur à dix-sept. Il ne peut
+être inférieur à treize dans chaque département comptant entre 150 000 et 500 000 habitants.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 4
+
+
+###### Article L192
+
+Les conseillers départementaux sont élus pour six ans ; ils sont rééligibles.
+
+Les conseils départementaux se renouvellent intégralement.
+
+Les élections ont lieu au mois de mars.
+
+Dans tous les départements, les collèges électoraux sont convoqués le même jour.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Cité par**:
+
+	  - Loi n°94-44 du 18 janvier 1994 - art. 8 (V)
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 2 (V)
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 3 (V)
+	  - Loi n°2010-145 du 16 février 2010 - art. 1 (Ab)
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 21 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 39
+	  - Code général des collectivités territoriales - art. L3121-2 (VD)
+	  - Code électoral - art. L221 (VD)
+	  - Code électoral - art. L328-4 (M)
+	  - Code électoral - art. L334-8 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 5
+
+
+#### Chapitre II : Mode de scrutin
+
+#### Chapitre III : Conditions d'éligibilité et inéligibilités
+
+#### Chapitre IV : Incompatibilités
+
+#### Chapitre IV bis : Déclarations de candidature
+
+#### Chapitre V : Propagande
+
+#### Chapitre VI : Opérations préparatoires au scrutin
+
+#### Chapitre VIII : Remplacement des conseillers  départementaux
+
+###### Article L221
+
+I. - En cas de démission d'office déclarée en application de l'article L. 118-3 ou en cas d'annulation de l'élection d'un
+candidat ou d'un binôme de candidats, il est procédé à une élection partielle, dans les conditions prévues au VI du présent
+article, dans le délai de trois mois à compter de cette déclaration ou de cette annulation. 
+
+II. - Le conseiller départemental dont le siège devient vacant pour toute autre cause que celles mentionnées au I est
+remplacé par la personne élue en même temps que lui à cet effet. 
+
+III. - Si le remplacement d'un conseiller n'est plus possible dans les conditions prévues au II du présent article, il est
+procédé à une élection partielle au scrutin uninominal majoritaire dans le délai de trois mois suivant la vacance. L'article
+L. 191 et le deuxième alinéa de l'article L. 210-1 ne sont pas applicables à cette élection. 
+
+IV. - En cas de vacance simultanée des deux sièges du même canton, et si le remplacement n'est plus possible dans les
+conditions prévues au II, les deux sièges sont renouvelés par une élection partielle dans le délai de trois mois, dans les
+conditions prévues au VI. 
+
+V. - Si deux sièges deviennent vacants successivement dans le même canton, que le remplacement n'est plus possible dans les
+conditions prévues au II et que la période de dépôt des candidatures pour le premier tour du scrutin visant au remplacement
+du premier siège vacant n'est pas encore close, les deux sièges sont renouvelés par une élection partielle dans le délai de
+trois mois suivant la dernière vacance, dans les conditions prévues au VI. 
+
+VI. - Sont applicables aux élections partielles mentionnées aux I, IV et V du présent article les dispositions prévues pour
+un renouvellement général, à l'exception de l'article L. 192. 
+
+VII. - Il n'est procédé à aucune élection partielle dans les six mois précédant le renouvellement général des conseils
+départementaux.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 15
+	  - Loi n°2015-29 du 16 janvier 2015 - art. 8
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 5 (V)
+	  - Code électoral - art. L210-1 (VD)
+	  - Code électoral - art. L328 (M)
+	  - Code électoral - art. L328-4 (M)
+	  - Code électoral - art. R110 (VD)
+	  - Code électoral - art. R112-1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3 (VT)
+	  - Code électoral - art. L192 (VT)
+
+
+#### Chapitre IX : Contentieux
+
+#### Chapitre X : Conditions d'application
 
 ### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
 
@@ -10151,7 +10206,7 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 
 ###### Article L233
 
-Les dispositions des articles L. 199 et L. 201 à L. 203 sont applicables.
+L'article L. 199 est applicable.
 
 **Nota:**
 
@@ -10161,20 +10216,15 @@ Les dispositions des articles L. 199 et L. 201 à L. 203 sont applicables.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°83-1046 1983-12-08 art. 4 JORF 9 DECEMBRE 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-556 1992-06-25 art. 1
+	  - Loi n°2013-403 du 17 mai 2013 - art. 9
 
 	**Cite**:
 
 	  - Code électoral - art. L199 (VT)
-	  - Code électoral - art. L201 (Ab)
 
 
 ###### Article L234
@@ -12424,14 +12474,14 @@ y réside.
 
 Ce collège électoral est composé : 
 
-1° Des députés et des sénateurs ;
+1° Des députés et des sénateurs ; 
 
 2° Des conseillers régionaux de la section départementale correspondant au département et des conseillers de l'Assemblée de
-Corse désignés dans les conditions prévues par le titre III bis du présent livre ;
+Corse désignés dans les conditions prévues par le titre III bis du présent livre ; 
 
-2° bis Des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique ;
+2° bis Des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique ; 
 
-3° Des conseillers généraux ;
+3° Des conseillers départementaux ; 
 
 4° Des délégués des conseils municipaux ou des suppléants de ces délégués.
 
@@ -12458,6 +12508,7 @@ Corse désignés dans les conditions prévues par le titre III bis du présent l
 
 	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 	  - Loi n°2013-702 du 2 août 2013 - art. 1
 	  - Loi n°2013-702 du 2 août 2013 - art. 2
 
@@ -12465,10 +12516,10 @@ Corse désignés dans les conditions prévues par le titre III bis du présent l
 ###### Article L281
 
 Les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de Corse, les conseillers à l'assemblée
-de Guyane, les conseillers à l'assemblée de Martinique et les conseillers généraux qui ont été proclamés par les commissions
-de recensement sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote même si leur élection est
-contestée. En cas d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de vote par procuration. Le
-mandataire doit être membre du collège électoral sénatorial et ne peut disposer de plus d'une procuration.
+de Guyane, les conseillers à l'assemblée de Martinique et les conseillers départementaux qui ont été proclamés par les
+commissions de recensement sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote même si leur
+élection est contestée. En cas d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de vote par
+procuration. Le mandataire doit être membre du collège électoral sénatorial et ne peut disposer de plus d'une procuration.
 
 **Nota:**
 
@@ -12482,13 +12533,14 @@ mandataire doit être membre du collège électoral sénatorial et ne peut dispo
 
 	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 	  - Loi n°2013-702 du 2 août 2013 - art. 3
 
 
 ###### Article L282
 
-Dans le cas où un conseiller général est député, sénateur, conseiller régional ou conseiller à l'Assemblée de Corse, un
-remplaçant lui est désigné, sur sa présentation, par le président du conseil général.
+Dans le cas où un conseiller départemental est député, sénateur, conseiller régional ou conseiller à l'Assemblée de Corse, un
+remplaçant lui est désigné, sur sa présentation, par le président du conseil départemental.
 
 Dans le cas où un conseiller régional, un conseiller à l'Assemblée de Corse, un conseiller à l'assemblée de Guyane ou un
 conseiller à l'assemblée de Martinique est député ou sénateur, un remplaçant lui est désigné, sur sa présentation, par le
@@ -12501,10 +12553,6 @@ Martinique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
 	**Cité par**:
 
 	  - Loi n°83-549 du 30 juin 1983 - art. 1 (Ab)
@@ -12514,6 +12562,7 @@ Martinique.
 
 	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 	  - Loi n°2013-702 du 2 août 2013 - art. 5
 
 
@@ -12636,10 +12685,10 @@ sur les listes électorales de la commune.
 
 ###### Article L287
 
-Les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux ne
-peuvent être désignés délégués, élus ou de droit, par les conseils municipaux dans lesquels ils siègent. 
+Les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers
+départementaux ne peuvent être désignés délégués, élus ou de droit, par les conseils municipaux dans lesquels ils siègent. 
 
-Au cas où un député, un sénateur, un conseiller régional, un conseiller à l'Assemblée de Corse ou un conseiller général
+Au cas où un député, un sénateur, un conseiller régional, un conseiller à l'Assemblée de Corse ou un conseiller départemental
 serait délégué de droit comme conseiller municipal ou comme membre du conseil consultatif d'une commune associée, un
 remplaçant lui est désigné par le maire sur sa présentation.
 
@@ -12655,6 +12704,7 @@ remplaçant lui est désigné par le maire sur sa présentation.
 
 	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 	  - Loi n°2013-702 du 2 août 2013 - art. 6
 
 	**Cité par**:
@@ -12765,21 +12815,31 @@ délégués sont désignés par le conseil municipal de la commune issue de la f
 la section électorale correspondante ou, à défaut, parmi les électeurs de cette section dans les conditions fixées au présent
 titre. Néanmoins lorsqu'il existe un conseil consultatif, les délégués de la commune associée sont désignés en son sein.
 Lorsque le nombre de délégués de la commune associée est supérieur à l'effectif du conseil consultatif, les membres de ce
-conseil sont délégués de droit, les autres délégués étant élus parmi les électeurs de la commune associée.
+conseil sont délégués de droit, les autres délégués étant élus parmi les électeurs de la commune associée. 
+
+Les communes déléguées qui ont été substituées aux communes associées, en application de la loi n° 2013-403 du 17 mai 2013
+relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral, conservent un nombre de délégués égal à celui auquel elles auraient eu droit en l'absence
+de fusion. Ces délégués sont désignés par le conseil municipal de la commune issue de la fusion parmi les conseillers
+municipaux domiciliés dans le ressort de l'ancienne commune associée ou, à défaut, parmi les électeurs inscrits sur les
+listes électorales de la commune dans les conditions fixées au présent titre.
+
+**Nota:**
+
+Conformément à l'article 9 II de la loi n° 2012-702 du 2 août 2013, le I entre en vigueur à la date d'entrée en vigueur de
+l'article 33 de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers
+municipaux et des conseillers communautaires, et modifiant le calendrier électoral.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°64-1086 du 27 octobre 1964
+	  - Loi n°2013-403 du 17 mai 2013 (V)
+	  - Code général des collectivités territoriales - art. L2113-11 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2013-702 du 2 août 2013 - art. 8
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2113-11 (V)
+	  - Loi n°2013-702 du 2 août 2013 - art. 9 (V)
 
 
 ###### Article L291
@@ -18521,21 +18581,21 @@ Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à 
 
 ###### Article L462
 
-I. (Abrogé) ; 
+I. (Abrogé) 
 
 II. - A Mayotte, les antennes de la société nationale chargée du service public de la communication audiovisuelle outre-mer
 sont mises à la disposition des partis et groupements politiques représentant des candidats dont la candidature a été
 régulièrement enregistrée.
 
 III. - Une durée d'émission de trois heures à la télévision et de trois heures à la radio est mise à la disposition des
-candidats présentés par les partis et groupements politiques représentés au conseil général.
+candidats présentés par les partis et groupements politiques représentés au conseil départemental.
 
 Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque parti ou groupement en fonction de la
-représentation des partis et groupements politiques au conseil général. Cette représentation est constatée au vu de la
+représentation des partis et groupements politiques au conseil départemental. Cette représentation est constatée au vu de la
 déclaration individuelle de rattachement faite par chaque élu sortant au plus tard deux mois avant la date d'expiration du
 mandat du conseil général ou, en cas de dissolution, dans les huit jours de la publication du décret qui la décide.
 
-En cas de vacance de l'ensemble des sièges du conseil général consécutive à la démission globale de ses membres, la
+En cas de vacance de l'ensemble des sièges du conseil départemental consécutive à la démission globale de ses membres, la
 déclaration individuelle de rattachement est faite dans les huit jours qui suivent la date de la réception de la dernière
 démission par le représentant de l'Etat.
 
@@ -18559,13 +18619,9 @@ autorisés dans la collectivité. Il désigne un représentant à Mayotte pendan
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
 	**Modifié par**:
 
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L463
@@ -19174,8 +19230,8 @@ directeur de préfecture ;
 3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
 alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
 Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
-le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional, de conseiller de Paris,
-de membre de l'Assemblée de Corse ou de conseiller municipal ; 
+le titre XIII de la Constitution, ainsi qu'avec celle de conseiller départemental, de conseiller régional, de conseiller de
+Paris, de membre de l'Assemblée de Corse ou de conseiller municipal ; 
 
 4° Avec les fonctions de militaire en activité ; 
 
@@ -19209,11 +19265,11 @@ constate l'incompatibilité et le remplacement est assuré par le candidat suiva
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
 
 	**Cité par**:
 
@@ -20024,7 +20080,7 @@ salariés de la collectivité qu'au titre d'une activité saisonnière ou occasi
 
 ###### Article LO520
 
-I.-Le mandat de conseiller territorial est incompatible : 
+I. - Le mandat de conseiller territorial est incompatible : 
 
 1° Avec les fonctions de représentant de l'Etat, secrétaire général, secrétaire général adjoint, directeur de cabinet et
 directeur de préfecture ; 
@@ -20034,8 +20090,8 @@ directeur de préfecture ;
 3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
 alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
 Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
-le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional, de conseiller de Paris,
-de membre de l'Assemblée de Corse ou de conseiller municipal ; 
+le titre XIII de la Constitution, ainsi qu'avec celle de conseiller départemental, de conseiller régional, de conseiller de
+Paris, de membre de l'Assemblée de Corse ou de conseiller municipal ; 
 
 4° Avec les fonctions de militaire en activité ; 
 
@@ -20044,13 +20100,13 @@ de secrétaire général de la chambre territoriale des comptes ;
 
 6° Avec les fonctions de directeur ou de président d'établissement public, lorsqu'elles sont rémunérées ; 
 
-7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO. 516 et celles d'agent salarié ou subventionné sur les
+7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO 516 et celles d'agent salarié ou subventionné sur les
 fonds de la collectivité ou des établissements publics et agences créées par elle, ou d'agent salarié des établissements
 publics de coopération dont la collectivité fait partie ; 
 
 8° Avec la qualité d'entrepreneur des services de la collectivité. 
 
-II.-Un conseiller territorial ne peut cumuler son mandat avec plus d'un des mandats suivants : député ou sénateur,
+II. - Un conseiller territorial ne peut cumuler son mandat avec plus d'un des mandats suivants : député ou sénateur,
 représentant au Parlement européen. 
 
 Si le candidat appelé à remplacer un conseiller territorial se trouve dans l'un des cas d'incompatibilité mentionnés au
@@ -20065,14 +20121,15 @@ constate l'incompatibilité et le remplacement est assuré par le candidat suiva
 	  - Constitution du 4 octobre 1958 - art. 72 (V)
 	  - Constitution du 4 octobre 1958 - art. 73 (V)
 	  - Constitution du 4 octobre 1958 - art. 74 (V)
+	  - Code électoral - art. LO516 (V)
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
 
 	**Cité par**:
 
@@ -20930,8 +20987,8 @@ directeur de préfecture ;
 3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
 alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
 Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
-le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional, de conseiller de Paris
-ou de membre de l'Assemblée de Corse ; 
+le titre XIII de la Constitution, ainsi qu'avec celle de conseiller départemental, de conseiller régional, de conseiller de
+Paris ou de membre de l'Assemblée de Corse ; 
 
 4° Avec les fonctions de militaire en activité ; 
 
@@ -20940,7 +20997,7 @@ de secrétaire général de la chambre territoriale des comptes ;
 
 6° Avec les fonctions de directeur ou de président d'établissement public, lorsqu'elles sont rémunérées ; 
 
-7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO. 544 et celles d'agent salarié ou subventionné sur les
+7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO 544 et celles d'agent salarié ou subventionné sur les
 fonds de la collectivité ou des établissements publics et agences créées par elle, ou d'agent salarié des établissements
 publics de coopération dont la collectivité fait partie ; 
 
@@ -20961,14 +21018,15 @@ constate l'incompatibilité et le remplacement est assuré par le candidat suiva
 	  - Constitution du 4 octobre 1958 - art. 72 (V)
 	  - Constitution du 4 octobre 1958 - art. 73 (V)
 	  - Constitution du 4 octobre 1958 - art. 74 (V)
+	  - Code électoral - art. LO544 (V)
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+	  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
 
 	**Cité par**:
 
@@ -22847,7 +22905,7 @@ L. 65 (quatrième alinéa), L. 85-1, L. 88-1, L. 95 et L. 113-1 (1° à 5° du I
 3° Livre VI : L. 451, L. 477, L. 504 et L. 531. 
 
 Pour l'application de ces dispositions, il y a lieu de lire : " parti ou groupement habilité à participer à la campagne " au
-lieu de : " candidat " ou " liste de candidats ".
+lieu de : " candidat ", " binôme de candidats " ou " liste de candidats ".
 
 **Nota:**
 
@@ -22857,23 +22915,23 @@ lieu de : " candidat " ou " liste de candidats ".
 
 	**Modifié par**:
 
-	  - Loi n°2007-1720 du 7 décembre 2007 - art. 2
+	  - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 	**Cite**:
 
-	  - Code électoral - art. L113-1 (V)
-	  - Code électoral - art. L386 (V)
-	  - Code électoral - art. L390-1 (V)
-	  - Code électoral - art. L451 (V)
-	  - Code électoral - art. L477 (V)
-	  - Code électoral - art. L504 (V)
-	  - Code électoral - art. L52-3 (V)
-	  - Code électoral - art. L531 (V)
-	  - Code électoral - art. L56 (V)
-	  - Code électoral - art. L65 (V)
-	  - Code électoral - art. L85-1 (V)
-	  - Code électoral - art. L88-1 (V)
-	  - Code électoral - art. L95 (V)
+	  - Code électoral - art. L113-1
+	  - Code électoral - art. L386
+	  - Code électoral - art. L390-1
+	  - Code électoral - art. L451
+	  - Code électoral - art. L477
+	  - Code électoral - art. L504
+	  - Code électoral - art. L52-3
+	  - Code électoral - art. L531
+	  - Code électoral - art. L56
+	  - Code électoral - art. L65
+	  - Code électoral - art. L85-1
+	  - Code électoral - art. L88-1
+	  - Code électoral - art. L95
 
 
 ###### Article L563
@@ -24863,14 +24921,11 @@ et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin
 
 ###### Article R29
 
-Chaque candidat ou liste de candidats ne peut faire adresser à chaque électeur, par la commission de propagande, qu'une seule
-circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un format de 210 mm x 297 mm.
+Chaque candidat, binôme de candidats ou liste de candidats ne peut faire adresser à chaque électeur, par la commission de
+propagande, qu'une seule circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un format de 210 mm x
+297 mm.
 
 Cette circulaire est soustraite à la formalité du dépôt légal.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -24904,11 +24959,11 @@ Cette circulaire est soustraite à la formalité du dépôt légal.
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 14
 
 
 ###### Article R30
@@ -25188,9 +25243,10 @@ Tout engagement de dépenses décidé par la commission de propagande en vue d'a
 
 ###### Article R38
 
-Chaque candidat ou liste de candidats désirant obtenir le concours de la commission de propagande, doit remettre au président
-de la commission, avant une date limite fixée pour chaque tour de scrutin par arrêté préfectoral, les exemplaires imprimés de
-la circulaire ainsi qu'une quantité de bulletins au moins égale au double du nombre des électeurs inscrits. 
+Chaque candidat, binôme de candidats ou liste de candidats désirant obtenir le concours de la commission de propagande, doit
+remettre au président de la commission, avant une date limite fixée pour chaque tour de scrutin par arrêté préfectoral, les
+exemplaires imprimés de la circulaire ainsi qu'une quantité de bulletins au moins égale au double du nombre des électeurs
+inscrits. 
 
 La commission n'est pas tenue d'assurer l'envoi des imprimés remis postérieurement à cette date. 
 
@@ -25200,10 +25256,6 @@ vote qui ne sont pas conformes à l'article R. 30 et aux prescriptions édictée
 Lorsque la circonscription excède les limites du département, le contrôle de conformité prévu au troisième alinéa est
 effectué par la commission de propagande du département chef-lieu de circonscription qui transmet sans délai ses décisions
 aux commissions de propagande des autres départements.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -25217,13 +25269,13 @@ aux commissions de propagande des autres départements.
 
 	**Modifié par**:
 
-	  - Décret n°2009-430 du 20 avril 2009 - art. 5
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 14
 
 	**Cite**:
 
 	  - Code électoral - art. R27 (V)
-	  - Code électoral - art. R29 (V)
-	  - Code électoral - art. R30
+	  - Code électoral - art. R29 (VT)
+	  - Code électoral - art. R30 (V)
 
 
 ###### Article R39
@@ -25361,33 +25413,31 @@ au regard des dispositions des articles L. 52-4 à L. 52-13 et L. 52-16.
 ###### Article R39-1-A
 
 La déclaration du mandataire financier prévue à l'article L. 52-6 est faite par le candidat auprès du représentant de l'Etat
-dans le département ou la collectivité où se situe son domicile ou, lorsque cette déclaration intervient au titre de
-l'article L. 330-7, à la préfecture de Paris. 
+dans le département ou la collectivité où se situe la circonscription électorale dans laquelle il se présente ou, lorsque
+cette déclaration intervient au titre de l'article L. 330-7, à la préfecture de Paris. En cas de scrutin binominal, la
+déclaration du mandataire financier comporte la signature des deux membres du binôme de candidats. Elle peut être déposée par
+l'un des membres du binôme ou par une personne mandatée par les deux membres du binôme. 
 
 La déclaration comprend : 
 
-1° Le document par lequel le candidat procède à la désignation de la personne qu'il charge des fonctions de mandataire
-financier ; 
+1° Le document par lequel le candidat ou les membres du binôme de candidats procèdent à la désignation de la personne chargée
+des fonctions de mandataire financier ; 
 
 2° L'accord de cette dernière pour exercer ces fonctions. 
 
-La déclaration donne lieu à un récépissé adressé au candidat et à la personne mandatée. 
+La déclaration donne lieu à un récépissé adressé au candidat ou à chaque membre du binôme et à la personne mandatée. 
 
-Les éléments d'identification du candidat et de la personne mandatée sont communiqués immédiatement par le représentant de
-l'Etat dans le département ou la collectivité à la Commission nationale des comptes de campagne et des financements
-politiques. 
+Les éléments d'identification du candidat ou de chaque membre du binôme et de la personne mandatée sont communiqués
+immédiatement par le représentant de l'Etat dans le département ou la collectivité à la Commission nationale des comptes de
+campagne et des financements politiques. 
 
 Pour l'application des dispositions du présent article à un scrutin de liste, le candidat s'entend du candidat tête de liste.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-220 du 16 février 2012 - art. 2
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 12
 
 	**Cite**:
 
@@ -25508,24 +25558,20 @@ principal, les titres de perception nécessaires au recouvrement des sommes ment
 
 ###### Article R39-6
 
-Dans le cas où l'établissement de crédit refuse l'ouverture d'un compte de dépôt au mandataire financier d'un candidat à une
-élection, il remet à ce dernier une attestation de refus, selon les modalités prévues par l'article R. 312-3 du code
-monétaire et financier, et informe le mandataire financier qu'il dispose d'un droit au compte qu'il peut exercer auprès de la
-Banque de France et des modalités d'exercice de ce droit.
-
-**Nota:**
-
-
+Dans le cas où l'établissement de crédit refuse l'ouverture d'un compte de dépôt au mandataire financier, il remet à ce
+dernier une attestation de refus, selon les modalités prévues par l'article R. 312-3 du code monétaire et financier, et
+informe le mandataire financier qu'il dispose d'un droit au compte qu'il peut exercer auprès de la Banque de France et des
+modalités d'exercice de ce droit.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1854 du 9 décembre 2011 - art. 1
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 13
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R312-3
+	  - Code monétaire et financier - art. R312-3 (V)
 
 
 ###### Article R39-7
@@ -26008,8 +26054,8 @@ et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 
 ###### Article R45
 
-Chaque candidat ou chaque liste en présence, habilité à désigner un assesseur, peut lui désigner un suppléant, pris parmi les
-électeurs du département.
+Chaque candidat, binôme de candidats ou chaque liste en présence, habilité à désigner un assesseur, peut lui désigner un
+suppléant, pris parmi les électeurs du département.
 
 Chaque conseiller municipal assesseur peut également désigner son suppléant, soit parmi les autres conseillers municipaux,
 soit parmi les électeurs de la commune.
@@ -26017,19 +26063,11 @@ soit parmi les électeurs de la commune.
 Les suppléants exercent les prérogatives des assesseurs quand ils les remplacent. Ils ne peuvent toutefois les remplacer pour
 le dépouillement ni pour la signature du procès-verbal des opérations électorales.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -26042,6 +26080,10 @@ le dépouillement ni pour la signature du procès-verbal des opérations électo
 	  - Code général des collectivités territoriales - art. R1112-6 (V)
 	  - Code général des collectivités territoriales - art. R2142-8 (Ab)
 	  - Code électoral - art. R176-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 14
 
 
 ###### Article R46
@@ -26086,10 +26128,9 @@ et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 
 ###### Article R47
 
-Chaque liste de candidats ou, en cas de scrutin uninominal, chaque candidat a le droit d'exiger la présence en permanence
-dans chaque bureau de vote d'un délégué habilité à contrôler toutes les opérations électorales, dans les conditions fixées
-par l'alinéa 1 de l'article L. 67 ; un même délégué peut toutefois être habilité à exercer ce contrôle dans plusieurs bureaux
-de vote. 
+Chaque candidat, binôme de candidats ou liste de candidats a le droit d'exiger la présence en permanence dans chaque bureau
+de vote d'un délégué habilité à contrôler toutes les opérations électorales, dans les conditions fixées par l'alinéa 1 de
+l'article L. 67 ; un même délégué peut toutefois être habilité à exercer ce contrôle dans plusieurs bureaux de vote. 
 
 Les délégués titulaires et suppléants doivent justifier, par la présentation de leur carte électorale, qu'ils sont électeurs
 dans le département où se déroule le scrutin. 
@@ -26097,20 +26138,11 @@ dans le département où se déroule le scrutin.
 Les dispositions de l'article R. 46 concernant les assesseurs sont applicables aux délégués titulaires et suppléants visés au
 présent article.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Modifié par**:
-
-	  - Décret n°67-1 1967-01-01 art. 6 JORF 3 janvier 1967
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -26128,14 +26160,19 @@ présent article.
 	  - Code électoral - art. R176-1-6 (V)
 	  - Code électoral - art. R65 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code électoral - art. L67 (V)
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 21
 
 	**Cite**:
 
+	  - Code électoral
 	  - Code électoral - art. L67 (V)
-	  - Code électoral - art. R46 (V)
+	  - Code électoral - art. R46
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code électoral - art. L67 (V)
 
 
 ###### Article R48
@@ -26372,9 +26409,9 @@ Le maire accuse immédiatement réception des différents envois d'enveloppes.
 
 ###### Article R55
 
-Les bulletins de vote déposés par les candidats ou les listes, en application de l'article L. 58, ainsi que ceux adressés au
-maire par la commission de propagande sont placés dans chaque bureau, à la disposition des électeurs, sous la responsabilité
-du président du bureau de vote. 
+Les bulletins de vote déposés par les candidats, binômes de candidats ou les listes, en application de l'article L. 58, ainsi
+que ceux adressés au maire par la commission de propagande sont placés dans chaque bureau, à la disposition des électeurs,
+sous la responsabilité du président du bureau de vote. 
 
 Les bulletins de vote peuvent être remis directement au maire par les candidats ou leurs mandataires dûment désignés, au plus
 tard à midi la veille du scrutin. 
@@ -26386,18 +26423,15 @@ Le maire ou le président du bureau de vote ne sont pas tenus d'accepter les bul
 candidats ou leurs mandataires, dont le format ne répond manifestement pas aux prescriptions des deuxième, troisième et
 quatrième alinéas de l'article R. 30. 
 
-Le candidat ou son mandataire peut, à tout moment, demander le retrait de ses bulletins de vote. Pour les scrutins de liste,
-cette demande peut être formulée par la majorité des candidats de la liste ou un mandataire désigné par eux.
-
-**Nota:**
-
-
+Les candidats ou leur mandataire peuvent, à tout moment, demander le retrait de leurs bulletins de vote. Pour les scrutins de
+liste, cette demande peut être formulée par la majorité des candidats de la liste ou un mandataire désigné par eux. Pour le
+scrutin binominal, cette demande doit être formulée par les deux membres du binôme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -26411,7 +26445,7 @@ cette demande peut être formulée par la majorité des candidats de la liste ou
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 22
 
 	**Cite**:
 
@@ -26575,25 +26609,21 @@ la Cour de cassation annulant un jugement qui aurait prononcé leur radiation.
 
 ###### Article R60
 
-Les électeurs des communes de 3 500 habitants et plus doivent présenter au président du bureau, au moment du vote, en même
-temps que la carte électorale ou l'attestation d'inscription en tenant lieu, un titre d'identité; la liste des titres
+Les électeurs des communes de 1 000 habitants et plus doivent présenter au président du bureau, au moment du vote, en même
+temps que la carte électorale ou l'attestation d'inscription en tenant lieu, un titre d'identité ; la liste des titres
 valables est établie par arrêté du ministre de l'intérieur.
 
 Les assesseurs sont associés, sur leur demande, à ce contrôle d'identité.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
-l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
-préparatoires à ce scrutin
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23
+et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 	**Cité par**:
 
@@ -26628,7 +26658,7 @@ préparatoires à ce scrutin
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
+	  - Décret n°2014-352 du 19 mars 2014 - art. 1
 
 
 ###### Article R61
@@ -26639,21 +26669,17 @@ alinéa de l'article L. 64.
 Après la signature de la liste d'émargement, la carte électorale ou l'attestation d'inscription en tenant lieu est
 estampillée par un autre assesseur au moyen d'un timbre portant la date du scrutin. 
 
-Les opérations visées au présent article sont réparties entre les assesseurs désignés par les candidats ou listes en présence
-conformément aux dispositions de l'article R. 44. En cas de désaccord sur cette répartition, il est procédé par voie de
-tirage au sort à la désignation du ou des assesseurs chargés respectivement desdites opérations. Il est également procédé à
-un tirage au sort si aucun des assesseurs n'a été désigné par les candidats ou listes en présence, ou si le nombre des
-assesseurs ainsi désignés est insuffisant.
-
-**Nota:**
-
-
+Les opérations visées au présent article sont réparties entre les assesseurs désignés par les candidats, des binômes de
+candidats ou listes en présence conformément aux dispositions de l'article R. 44. En cas de désaccord sur cette répartition,
+il est procédé par voie de tirage au sort à la désignation du ou des assesseurs chargés respectivement desdites opérations.
+Il est également procédé à un tirage au sort si aucun des assesseurs n'a été désigné par les candidats, des binômes de
+candidats ou listes en présence, ou si le nombre des assesseurs ainsi désignés est insuffisant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -26672,17 +26698,13 @@ assesseurs ainsi désignés est insuffisant.
 	  - Code électoral - art. R176-1 (V)
 	  - Code électoral - art. R176-1-12 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°89-80 du 8 février 1989 - art. 12 (V)
-
 	**Modifié par**:
 
-	  - Décret n°89-80 du 8 février 1989 - art. 2 () JORF 10 février 1989
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 23
 
 	**Cite**:
 
-	  - Code électoral - art. L62-1 (V)
+	  - Code électoral - art. L62-1 (VT)
 	  - Code électoral - art. L64 (V)
 	  - Code électoral - art. R44 (V)
 
@@ -26989,14 +27011,11 @@ salle de vote, en présence des électeurs.
 
 Il est établi en deux exemplaires, signés de tous les membres du bureau.
 
-Les délégués des candidats ou listes en présence sont obligatoirement invités à contresigner ces deux exemplaires.
+Les délégués des candidats, des binômes de candidats ou des listes en présence sont obligatoirement invités à contresigner
+ces deux exemplaires.
 
-Dès l'établissement du procès-verbal, le résultat est proclamé en public par le président du bureau et affiché en toutes
-lettres par ses soins dans la salle de vote.
-
-**Nota:**
-
-
+Dès l'établissement du procès-verbal, le résultat est proclamé en public par le président du bureau de vote et affiché en
+toutes lettres par ses soins dans la salle de vote.
 
 **Liens relatifs à cet article**
 
@@ -27025,11 +27044,11 @@ lettres par ses soins dans la salle de vote.
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 25
 
 
 ###### Article R68
@@ -27085,21 +27104,17 @@ d'opérer le recensement général des votes en présence des présidents des au
 Les résultats arrêtés par chaque bureau et les pièces annexes ne peuvent en aucun cas être modifiés. 
 
 Un procès-verbal récapitulatif est établi en double exemplaire en présence des électeurs. Il est signé par les membres du
-bureau centralisateur, les délégués des candidats ou des listes dûment habilités auprès de celui-ci et les présidents des
-autres bureaux. 
+bureau centralisateur, les délégués des candidats, des binômes de candidats ou des listes dûment habilités auprès de celui-ci
+et les présidents des autres bureaux. 
 
 Le résultat est alors proclamé publiquement par le président du bureau centralisateur et affiché aussitôt par les soins du
 maire.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -27115,7 +27130,7 @@ maire.
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 23
 
 	**Cite**:
 
@@ -27158,23 +27173,18 @@ recours contre l'élection.
 
 ###### Article R71
 
-Dès la fin des opérations électorales, les délégués des candidats ou des listes en présence ont priorité pour consulter les
-listes d'émargement déposées dans les conditions fixées à l'article L 68.
-
-**Nota:**
-
-
+Dès la fin des opérations électorales, les délégués des candidats, des binômes de candidats ou des listes en présence ont
+priorité pour consulter les listes d'émargement déposées dans les conditions fixées à l'article L 68.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°69-746 1969-07-24 art. 11 JORF 26 juillet 1969
-	  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 23
 
 	**Cité par**:
 
@@ -28127,14 +28137,14 @@ recensement instituée par l'article L. 175 soit par porteur, soit sous pli post
 
 Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
 verbaux. Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il est opéré, pour chaque circonscription
-électorale, par une commission instituée par arrêté du préfet.
+électorale, par une commission instituée par arrêté du préfet. 
 
 Cette commission comprend un magistrat désigné par le premier président de la cour d'appel, président, deux juges désignés
-par la même autorité, un conseiller général et un fonctionnaire de préfecture désignés par le préfet.
+par la même autorité, un conseiller départemental et un fonctionnaire de préfecture désignés par le préfet. 
 
-Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions. 
 
-Un représentant de chacun des candidats peut assister aux opérations de la commission.
+Un représentant de chacun des candidats peut assister aux opérations de la commission. 
 
 Une même commission peut effectuer le recensement des votes de plusieurs circonscriptions.
 
@@ -28142,7 +28152,7 @@ Une même commission peut effectuer le recensement des votes de plusieurs circon
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -28160,7 +28170,7 @@ Une même commission peut effectuer le recensement des votes de plusieurs circon
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ###### Article R108
@@ -28215,37 +28225,33 @@ proclame les résultats en public.
 
 ###### Article R109-1
 
-La déclaration de candidature prescrite à l'article L. 210-1 est déposée à la préfecture par le candidat, son remplaçant ou
-un mandataire désigné par le candidat, dans le délai fixé par arrêté préfectoral, pour le premier tour de scrutin. En cas de
-second tour, elle est déposée dans les mêmes conditions au plus tard à seize heures le mardi suivant le premier tour. 
+La déclaration de candidature prescrite à l'article L. 210-1 est déposée à la préfecture par un membre du binôme de
+candidats, son remplaçant ou un mandataire désigné par les deux membres du binôme de candidats, dans le délai fixé par arrêté
+préfectoral, pour le premier tour de scrutin. En cas de second tour, elle est déposée dans les mêmes conditions au plus tard
+à seize heures le mardi suivant le premier tour. 
 
-La déclaration de candidature est rédigée sur papier libre. 
+La déclaration de candidature est rédigée sur un imprimé. 
 
 La candidature ne peut être retirée que jusqu'à la limite fixée pour le dépôt des candidatures. Le retrait est enregistré
-comme la déclaration de candidature. 
+comme la déclaration de candidature. Pour être valable, le retrait doit être signé par les deux membres du binôme. 
 
-Un candidat ne peut présenter pour le second tour de scrutin un remplaçant autre que celui qu'il avait désigné dans sa
-déclaration de candidature lors du premier tour, que pour l'application de l'article L. 163. Dans ce cas, la désignation du
-remplaçant doit être notifiée au préfet au plus tard à dix-huit heures le jeudi précédant le scrutin.
-
-**Nota:**
-
-
+Chaque membre du binôme de candidats ne peut présenter pour le second tour de scrutin un remplaçant autre que celui qu'il
+avait désigné dans sa déclaration de candidature lors du premier tour, que pour l'application de l'article L. 163. Dans ce
+cas, la désignation du remplaçant doit être notifiée au préfet au plus tard à dix-huit heures le jeudi précédant le scrutin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 3
 
 	**Cite**:
 
-	  - Code électoral - art. L163 (V)
-	  - Code électoral - art. L210-1 (VT)
+	  - Code électoral - art. L210-1 (VD)
 
 	**Cité par**:
 
@@ -28254,50 +28260,45 @@ remplaçant doit être notifiée au préfet au plus tard à dix-huit heures le j
 
 ###### Article R109-2
 
-A la déclaration de candidature, il est joint pour le candidat et le remplaçant : 
+A la déclaration de candidature, il est joint pour chaque membre du binôme de candidats et son remplaçant : 
 
-I.-Une attestation d'inscription sur une liste électorale comportant les mentions prévues aux articles L. 18 et L. 19
+I. - Une attestation d'inscription sur une liste électorale comportant les mentions prévues aux articles L. 18 et L. 19
 délivrée par le maire de la commune d'inscription dans les trente jours précédant le dépôt de la candidature, ou une copie de
 la décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut, un certificat de nationalité, le passeport ou la
-carte nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois
-mois ; 
+carte nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois. 
 
-II.-Si l'intéressé n'est pas domicilié dans le département ou que les pièces mentionnées au I n'établissent pas son domicile
-dans le département : 
+II. - Si l'intéressé n'est pas domicilié dans le département ou que les pièces mentionnées au I n'établissent pas son
+domicile dans le département : 
 
 a) Soit un avis d'imposition ou un extrait de rôle, qui établissent que l'intéressé est inscrit au rôle des contributions
 directes d'une commune du département au 1er janvier de l'année de l'élection ; 
 
 b) Soit une copie d'un acte notarié établissant que l'intéressé est devenu, dans l'année précédant celle de l'élection,
-propriétaire ou locataire d'un immeuble dans le département ou d'un acte enregistré au cours de la même année établissant que
-l'intéressé est devenu locataire d'un immeuble dans le département ; 
+propriétaire d'un immeuble dans le département ou d'un acte enregistré au cours de la même année établissant que l'intéressé
+est devenu locataire d'un immeuble dans le département ; 
 
 c) Soit une attestation notariée établissant que l'intéressé est devenu propriétaire par voie successorale d'une propriété
 foncière dans le département depuis le 1er janvier de l'année de l'élection ; 
 
-d) Soit une attestation du directeur départemental ou, le cas échéant, régional des finances publiques établissant que
+d) Soit une attestation du directeur départemental ou, le cas échéant régional des finances publiques établissant que
 l'intéressé, au vu notamment des rôles de l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous
 réserve d'une modification de sa situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait
 être inscrit au rôle des contributions directes dans le département au 1er janvier de l'année de l'élection. 
 
-III.-Dans les cantons de 9 000 habitants et plus, la déclaration de candidature est également accompagnée des pièces prévues,
-selon le cas, au 1° ou au 2° du II de l'article R. 99. 
+III. - La déclaration de candidature est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de
+l'article R. 99.
 
-En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces prévues au
-présent article, fournies à l'occasion du premier tour. 
+En cas de second tour, les membres du binôme de candidat sont dispensés de produire à nouveau l'acceptation de leurs
+remplaçants et les pièces prévues au présent article, fournies à l'occasion du premier tour. 
 
 Un récépissé attestant de l'enregistrement de la candidature est délivré dans les quatre jours du dépôt de la déclaration, si
 celle-ci est conforme aux prescriptions en vigueur. 
 
-La liste des candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants est
-arrêtée et publiée par le préfet, au plus tard le quatrième jour suivant la date limite de dépôt des candidatures. 
+La liste des binômes de candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants
+est arrêtée et publiée par le préfet, au plus tard le quatrième jour suivant la date limite de dépôt des candidatures. 
 
-La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant
-le juge de l'élection.
-
-**Nota:**
-
-
+La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité d'un membre du binôme ou de son
+remplaçant puisse être contestée devant le juge de l'élection.
 
 **Liens relatifs à cet article**
 
@@ -28311,42 +28312,40 @@ le juge de l'élection.
 
 	**Modifié par**:
 
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 4
 	  - Décret n°2014-551 du 27 mai 2014 - art. 11
 
 	**Cite**:
 
-	  - Code électoral - art. L18
-	  - Code électoral - art. R*99
+	  - Code électoral - art. L18 (V)
+	  - Code électoral - art. R99 (V)
 
 
 #### Chapitre V : Propagande
 
 ###### Article R110
 
-Tout bulletin de vote imprimé à l'occasion de l'élection des conseillers généraux doit comporter, à la suite du nom du
-candidat, le nom de la personne appelée à remplacer le candidat élu dans les cas de vacance prévus par l'article L. 221,
-précédé ou suivi de l'une des mentions suivantes : " remplaçant " ou " suppléant ". 
+Tout bulletin de vote imprimé à l'occasion de l'élection des conseillers départementaux doit comporter le nom de chaque
+membre du binôme de candidats, suivi pour chacun d'entre eux du nom de la personne appelée à le remplacer dans les cas de
+vacance prévus par l'article L. 221, précédé ou suivi de la mention suivante : " remplaçant ". 
 
-Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que celui du candidat.
-
-**Nota:**
-
-
+Les noms des remplaçants doivent être imprimés en caractères de moindres dimensions que ceux des membres du binôme de
+candidats.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cité par**:
 
 	  - Décret n°97-503 du 21 mai 1997 - art. 3 (V)
 	  - Code électoral - art. R*175 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 5
 
 	**Liens**:
 
@@ -28384,22 +28383,18 @@ y compris aux opérations préparatoires à ce scrutin.
 
 ###### Article R111
 
-Les bulletins manuscrits sont valables s'ils comportent le nom du candidat pour lequel l'électeur désire voter, suivi du nom
-du remplaçant désigné par ce candidat sur sa déclaration de candidature.
-
-**Nota:**
-
-
+Les bulletins manuscrits sont valables s'ils comportent le nom de chaque membre du binôme de candidats pour lequel l'électeur
+désire voter, suivi pour chacun d'entre eux du nom de son remplaçant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 7
 
 	**Liens**:
 
@@ -28409,24 +28404,19 @@ du remplaçant désigné par ce candidat sur sa déclaration de candidature.
 ###### Article R112
 
 Immédiatement après le dépouillement du scrutin, un exemplaire des procès-verbaux des opérations électorales de chaque
-commune, accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis par porteur au chef-lieu de
-canton. Le recensement général des votes est fait par le bureau du chef-lieu, et le résultat est proclamé par son président,
-qui adresse tous les procès-verbaux et les pièces au sous-préfet ou, dans l'arrondissement chef-lieu du département, au
-préfet.
-
-**Nota:**
-
-
+commune, accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis par porteur au bureau
+centralisateur du canton qui procède au recensement général des votes. Le résultat est proclamé par son président, qui
+adresse tous les procès-verbaux et les pièces au sous-préfet ou, dans l'arrondissement chef-lieu du département, au préfet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 8
 
 	**Liens**:
 
@@ -28437,9 +28427,10 @@ préfet.
 
 ###### Article R113
 
-Lorsque la protestation formée contre l'élection d'un membre au conseil général par un électeur du canton, par un candidat ou
-par un membre du conseil général a été consignée dans le procès-verbal des opérations électorales, conformément à l'article
-L. 222, ce procès-verbal doit être transmis dès sa réception par le préfet au greffe du tribunal administratif. 
+Lorsque la protestation formée contre l'élection au conseil départemental par un électeur du canton, par un membre d'un
+binôme de candidats, par son remplaçant ou par un membre du conseil départemental a été consignée dans le procès-verbal des
+opérations électorales, conformément à l'article L. 222, ce procès-verbal doit être transmis dès sa réception par le préfet
+au greffe du tribunal administratif. 
 
 Les protestations peuvent également être déposées directement au greffe du tribunal administratif au plus tard à dix-huit
 heures le cinquième jour qui suit l'élection. 
@@ -28447,30 +28438,26 @@ heures le cinquième jour qui suit l'élection.
 Le recours qui peut être formé par le préfet, conformément à l'article L. 222 pour inobservation des conditions et formalités
 légales, doit être déposé au greffe du tribunal administratif dans les quinze jours qui suivent l'élection. 
 
-La notification est faite par les soins du président du tribunal administratif dans les trois jours de l'enregistrement de la
-protestation, au conseiller proclamé élu qui est avisé en même temps qu'il a cinq jours pour tout délai à l'effet de déposer
-sa défense au greffe du tribunal administratif et de faire connaître s'il entend ou non user du droit de présenter des
+La notification est faite par les soins du président du tribunal administratif, dans les trois jours de l'enregistrement de
+la protestation, aux deux conseillers proclamés élus. Ils sont également avisés qu'ils disposent de cinq jours pour déposer
+leur défense au greffe du tribunal administratif et faire connaître s'ils entendent ou non user du droit de présenter des
 observations orales. 
 
 Il est donné récépissé, soit des protestations déposées au greffe, soit des défenses.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 6 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 9
 
 	**Cite**:
 
-	  - Code électoral - art. L222 (VT)
+	  - Code électoral - art. L222
 
 	**Cité par**:
 
@@ -28481,11 +28468,11 @@ Il est donné récépissé, soit des protestations déposées au greffe, soit de
 
 ###### Article R114
 
-Le tribunal administratif prononce sa décision dans le délai de deux mois à compter de l'enregistrement de la réclamation au
-greffe (bureau central ou greffe annexe) ; la décision est notifiée dans les huit jours à partir de sa date au préfet et aux
-parties intéressées, dans les conditions fixées à l'article R. 751-3 du code de justice administrative. 
+En cas de renouvellement général, le tribunal administratif prononce sa décision dans le délai de trois mois à compter de
+l'enregistrement de la réclamation au greffe ; la décision est notifiée dans les huit jours à partir de sa date au préfet et
+aux parties intéressées, dans les conditions fixées à l'article R. 751-3 du code de justice administrative. 
 
-En cas de renouvellement d'une série sortante, ce délai est porté à trois mois. 
+En cas d'élection partielle, ce délai est réduit à deux mois. 
 
 S'il intervient une décision ordonnant une preuve, le tribunal administratif doit statuer dans le délai d'un mois à compter
 du jour ou le jugement sur la question préjudicielle est devenu définitif. 
@@ -28498,19 +28485,15 @@ dans lesquels le tribunal administratif doit se prononcer, courent à partir de 
 administratif des décisions de la commission nationale des comptes de campagne et des financements politiques ou, à défaut de
 décision explicite, à partir de l'expiration du délai de deux mois prévu audit article.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 10
 
 	**Cite**:
 
@@ -28591,26 +28574,22 @@ pour se pourvoir devant le Conseil d'Etat.
 
 ###### Article R117-1
 
-Les décisions du tribunal administratif prises en application de l'article L. 118-3 sont notifiées dans les huit jours au
-candidat intéressé et au préfet.
-
-**Nota:**
-
-
+Les décisions du tribunal administratif prises en application des articles L. 118-3 et L. 118-4 sont notifiées dans les huit
+jours à chaque membre du binôme de candidats et au préfet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-606 1990-07-09 art. 4 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 11
 
 	**Cite**:
 
-	  - Code électoral - art. L118-3 (M)
+	  - Code électoral - art. L118-3 (VT)
 
 
 ### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
@@ -29308,6 +29287,24 @@ des opérations électorales.
 	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
 
 
+## Livre Ier  : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires des départements
+
+### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
+
+### Titre II : Dispositions spéciales à l'élection des députés
+
+### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
+
+#### Chapitre IV bis : Déclarations de candidatures
+
+#### Chapitre V : Propagande
+
+#### Chapitre VII : Opérations de vote
+
+#### Chapitre IX : Contentieux
+
+### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
+
 ## Livre II  : Election des sénateurs des départements
 
 ### Titre II : Composition du collège électoral
@@ -29315,18 +29312,14 @@ des opérations électorales.
 ###### Article R130-1
 
 Les personnes appelées à remplacer les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de
-Corse et les conseillers généraux dans les conditions prévues par l'article L. 282 doivent être désignées préalablement à
-l'élection des délégués des conseils municipaux et de leurs suppléants. 
+Corse et les conseillers départementaux dans les conditions prévues par l'article L. 282 doivent être désignées préalablement
+à l'élection des délégués des conseils municipaux et de leurs suppléants. 
 
-Le président du conseil général, le président du conseil régional ou le président de l'Assemblée de Corse en accuse réception
-aux députés, aux sénateurs, aux conseillers régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers généraux
-remplacés et les notifie au préfet dans les vingt-quatre heures. 
+Le président du conseil départemental, le président du conseil régional ou le président de l'Assemblée de Corse en accuse
+réception aux députés, aux sénateurs, aux conseillers régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers
+départementaux remplacés et les notifie au préfet dans les vingt-quatre heures. 
 
 Les désignations faites en vertu du présent article sont de droit.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -29336,11 +29329,11 @@ Les désignations faites en vertu du présent article sont de droit.
 
 	**Modifié par**:
 
-	  - Décret n°2014-632 du 18 juin 2014 - art. 2
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
-	  - Code électoral - art. L282
+	  - Code électoral - art. L282 (VT)
 
 	**Cité par**:
 
@@ -29447,20 +29440,16 @@ Les deux membres présents les plus âgés et les deux membres présents les plu
 ###### Article R134
 
 Les personnes appelées à remplacer les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de
-Corse ou les conseillers généraux dans les conditions prévues par l'article L. 287 doivent être désignées préalablement à
-l'élection des délégués ou de leurs suppléants. 
+Corse ou les conseillers départementaux dans les conditions prévues par l'article L. 287 doivent être désignées préalablement
+à l'élection des délégués ou de leurs suppléants. 
 
 Le maire désigne les remplaçants présentés par les députés, les sénateurs, les conseillers régionaux, les conseillers à
-l'Assemblée de Corse ou les conseillers généraux en tant que délégués de droit du conseil municipal. Ces remplaçants doivent
-être inscrits sur la liste électorale de la commune intéressée. 
+l'Assemblée de Corse ou les conseillers départementaux en tant que délégués de droit du conseil municipal. Ces remplaçants
+doivent être inscrits sur la liste électorale de la commune intéressée. 
 
 Les désignations faites en vertu du présent article sont de droit. Le maire en accuse réception aux députés, aux sénateurs,
-aux conseillers régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers généraux remplacés et les notifie au
-préfet dans les vingt-quatre heures.
-
-**Nota:**
-
-
+aux conseillers régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers départementaux remplacés et les notifie
+au préfet dans les vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
@@ -29470,11 +29459,11 @@ préfet dans les vingt-quatre heures.
 
 	**Modifié par**:
 
-	  - Décret n°2014-632 du 18 juin 2014 - art. 2
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
-	  - Code électoral - art. L287
+	  - Code électoral - art. L287 (VT)
 
 
 ###### Article R137
@@ -30296,24 +30285,20 @@ prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décr
 ###### Article R163
 
 Le collège électoral est présidé par le président du tribunal de grande instance, assisté de deux juges audit tribunal
-désignés par le premier président de la cour d'appel et des deux conseillers généraux les plus âgés présents à l'ouverture du
-scrutin et non candidats.
+désignés par le premier président de la cour d'appel et des deux conseillers départementaux les plus âgés présents à
+l'ouverture du scrutin et non candidats. 
 
 En cas d'empêchement, le premier président de la cour d'appel désignera des suppléants.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -30358,7 +30343,7 @@ il est dit à l'article R. 163. Il est aussitôt procédé au dénombrement des 
 
 ###### Article R164-1
 
-Les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux qui
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers départementaux qui
 souhaitent exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant
 de l'Etat dans le département à qui elle doit parvenir, à peine d'irrecevabilité, quarante-huit heures au moins avant le
 début du scrutin. 
@@ -30378,10 +30363,6 @@ présente un mandat de procuration régulièrement établi et signé par le mand
 La procuration est irrévocable. Cependant, dans le cas où le mandant se présente personnellement pour participer au scrutin,
 la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà été utilisée.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -30390,11 +30371,11 @@ la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà ét�
 
 	**Modifié par**:
 
-	  - Décret n°2014-632 du 18 juin 2014 - art. 2
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
-	  - Code électoral - art. L71
+	  - Code électoral - art. L71 (V)
 
 	**Cité par**:
 
@@ -32476,7 +32457,7 @@ La commission départementale de recensement des votes prévue à l'article L. 3
 préfet du département. 
 
 Elle comprend trois magistrats, dont le président de la commission, désignés par le premier président de la cour d'appel, un
-conseiller général et un fonctionnaire désigné par le préfet. 
+conseiller départemental et un fonctionnaire désigné par le préfet. 
 
 Un suppléant de chaque membre peut être désigné dans les mêmes conditions. 
 
@@ -32486,11 +32467,11 @@ Un représentant de chacune des listes peut assister aux opérations de la commi
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
