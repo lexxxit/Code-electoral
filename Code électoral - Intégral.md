@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-08-03
 
 # Partie législative
 
@@ -3441,7 +3441,17 @@ cassation, après avis du bureau ;
 - trois membres ou membres honoraires de la Cour des comptes, désignés sur proposition du premier président de la Cour des
 comptes, après avis des présidents de chambres.
 
-Elle élit son président.
+En cas de vacance survenant plus de six mois avant l'expiration du mandat, il est pourvu à la nomination, dans les conditions
+prévues au présent article, d'un nouveau membre, de même sexe que la personne qu'il remplace. Par dérogation aux dispositions
+du deuxième alinéa, son mandat expire à la date à laquelle se serait terminé le mandat de la personne qu'il remplace.
+
+Lors du premier renouvellement intégral des membres de la commission postérieur au 30 avril 2020, les membres émanant de deux
+des institutions désignées aux troisième à cinquième alinéas sont deux femmes et un homme. La répartition entre les deux
+sexes est inverse pour les membres de la troisième institution. Lors de chaque renouvellement intégral ultérieur, la
+répartition entre sexes des membres émanant de chaque institution est l'inverse de celle que présentait cette institution
+lors du renouvellement précédent.
+
+La commission élit son président.
 
 Les crédits et les emplois nécessaires au fonctionnement de la Commission nationale des comptes de campagne et des
 financements politiques sont inscrits au budget général de l'Etat.
@@ -3459,6 +3469,10 @@ pour l'exercice de sa mission.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi du 10 août 1922
+
 	**Cité par**:
 
 	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 42 (V)
@@ -3475,7 +3489,7 @@ pour l'exercice de sa mission.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Liens**:
 
@@ -3484,11 +3498,7 @@ pour l'exercice de sa mission.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 7 () JORF 9 décembre 2003
-
-	**Cite**:
-
-	  - Loi n°1922-08-10
+	  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 13
 
 
 ###### Article L52-15
@@ -8654,7 +8664,98 @@ II, VII et VIII du présent titre, ainsi que des articles L. 154 à L. 159 et L.
 	  - Code électoral - art. L161 (V)
 
 
-### Titre III : Dispositions spéciales à l'élection des conseillers généraux
+### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
+
+#### Chapitre Ier : Composition des conseils départementaux et durée du mandat des conseillers
+
+###### Article L191
+
+Les électeurs de chaque canton du département élisent au conseil départemental deux membres de sexe différent, qui se
+présentent en binôme de candidats dont les noms sont ordonnés dans l'ordre alphabétique sur tout bulletin de vote imprimé à
+l'occasion de l'élection.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 3
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L3121-2 (VD)
+	  - Code électoral - art. L328 (M)
+	  - Code électoral - art. L328-4 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 4 (Ab)
+
+
+###### Article L191-1
+
+Le nombre de cantons dans lesquels sont élus les conseillers départementaux est égal, pour chaque département, à la moitié du
+nombre de cantons existant au 1er janvier 2013, arrondi à l'unité impaire supérieure si ce nombre n'est pas entier impair.
+
+Le nombre de cantons dans chaque département comptant plus de 500 000 habitants ne peut être inférieur à dix-sept. Il ne peut
+être inférieur à treize dans chaque département comptant entre 150 000 et 500 000 habitants.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 4
+
+
+###### Article L192
+
+Les conseillers départementaux sont élus pour six ans ; ils sont rééligibles.
+
+Les conseils départementaux se renouvellent intégralement.
+
+Les élections ont lieu au mois de mars.
+
+Dans tous les départements, les collèges électoraux sont convoqués le même jour.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
+
+	**Cité par**:
+
+	  - Loi n°94-44 du 18 janvier 1994 - art. 8 (V)
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 2 (V)
+	  - Loi n°2005-1563 du 15 décembre 2005 - art. 3 (V)
+	  - Loi n°2010-145 du 16 février 2010 - art. 1 (Ab)
+	  - Loi n°2011-884 du 27 juillet 2011 - art. 21 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 39
+	  - Code général des collectivités territoriales - art. L3121-2 (VD)
+	  - Code électoral - art. L221 (VD)
+	  - Code électoral - art. L328-4 (M)
+	  - Code électoral - art. L334-8 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 5
+
 
 #### Chapitre II : Mode de scrutin
 
@@ -9524,6 +9625,62 @@ Il doit y avoir un intervalle de quinze jours francs entre la date de la convoca
 	  - Loi n°94-44 du 18 janvier 1994 - art. 4 ()
 
 
+#### Chapitre VIII : Remplacement des conseillers  départementaux
+
+###### Article L221
+
+I. - En cas de démission d'office déclarée en application de l'article L. 118-3 ou en cas d'annulation de l'élection d'un
+candidat ou d'un binôme de candidats, il est procédé à une élection partielle, dans les conditions prévues au VI du présent
+article, dans le délai de trois mois à compter de cette déclaration ou de cette annulation. 
+
+II. - Le conseiller départemental dont le siège devient vacant pour toute autre cause que celles mentionnées au I est
+remplacé par la personne élue en même temps que lui à cet effet. 
+
+III. - Si le remplacement d'un conseiller n'est plus possible dans les conditions prévues au II du présent article, il est
+procédé à une élection partielle au scrutin uninominal majoritaire dans le délai de trois mois suivant la vacance. L'article
+L. 191 et le deuxième alinéa de l'article L. 210-1 ne sont pas applicables à cette élection. 
+
+IV. - En cas de vacance simultanée des deux sièges du même canton, et si le remplacement n'est plus possible dans les
+conditions prévues au II, les deux sièges sont renouvelés par une élection partielle dans le délai de trois mois, dans les
+conditions prévues au VI. 
+
+V. - Si deux sièges deviennent vacants successivement dans le même canton, que le remplacement n'est plus possible dans les
+conditions prévues au II et que la période de dépôt des candidatures pour le premier tour du scrutin visant au remplacement
+du premier siège vacant n'est pas encore close, les deux sièges sont renouvelés par une élection partielle dans le délai de
+trois mois suivant la dernière vacance, dans les conditions prévues au VI. 
+
+VI. - Sont applicables aux élections partielles mentionnées aux I, IV et V du présent article les dispositions prévues pour
+un renouvellement général, à l'exception de l'article L. 192. 
+
+VII. - Il n'est procédé à aucune élection partielle dans les six mois précédant le renouvellement général des conseils
+départementaux.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 15
+	  - Loi n°2015-29 du 16 janvier 2015 - art. 8
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 5 (V)
+	  - Code électoral - art. L210-1 (VD)
+	  - Code électoral - art. L328 (M)
+	  - Code électoral - art. L328-4 (M)
+	  - Code électoral - art. R110 (VD)
+	  - Code électoral - art. R112-1 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L118-3 (VT)
+	  - Code électoral - art. L192 (VT)
+
+
 #### Chapitre IX : Contentieux
 
 ###### Article L222
@@ -9615,171 +9772,6 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 
 	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-
-### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
-
-#### Chapitre Ier : Composition des conseils départementaux et durée du mandat des conseillers
-
-###### Article L191
-
-Les électeurs de chaque canton du département élisent au conseil départemental deux membres de sexe différent, qui se
-présentent en binôme de candidats dont les noms sont ordonnés dans l'ordre alphabétique sur tout bulletin de vote imprimé à
-l'occasion de l'élection.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Modifié par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 3
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L3121-2 (VD)
-	  - Code électoral - art. L328 (M)
-	  - Code électoral - art. L328-4 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1871-08-10. du 10 août 1871 - art. 4 (Ab)
-
-
-###### Article L191-1
-
-Le nombre de cantons dans lesquels sont élus les conseillers départementaux est égal, pour chaque département, à la moitié du
-nombre de cantons existant au 1er janvier 2013, arrondi à l'unité impaire supérieure si ce nombre n'est pas entier impair.
-
-Le nombre de cantons dans chaque département comptant plus de 500 000 habitants ne peut être inférieur à dix-sept. Il ne peut
-être inférieur à treize dans chaque département comptant entre 150 000 et 500 000 habitants.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 4
-
-
-###### Article L192
-
-Les conseillers départementaux sont élus pour six ans ; ils sont rééligibles.
-
-Les conseils départementaux se renouvellent intégralement.
-
-Les élections ont lieu au mois de mars.
-
-Dans tous les départements, les collèges électoraux sont convoqués le même jour.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
-	**Cité par**:
-
-	  - Loi n°94-44 du 18 janvier 1994 - art. 8 (V)
-	  - Loi n°2005-1563 du 15 décembre 2005 - art. 2 (V)
-	  - Loi n°2005-1563 du 15 décembre 2005 - art. 3 (V)
-	  - Loi n°2010-145 du 16 février 2010 - art. 1 (Ab)
-	  - Loi n°2011-884 du 27 juillet 2011 - art. 21 (V)
-	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 39
-	  - Code général des collectivités territoriales - art. L3121-2 (VD)
-	  - Code électoral - art. L221 (VD)
-	  - Code électoral - art. L328-4 (M)
-	  - Code électoral - art. L334-8 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 5
-
-
-#### Chapitre II : Mode de scrutin
-
-#### Chapitre III : Conditions d'éligibilité et inéligibilités
-
-#### Chapitre IV : Incompatibilités
-
-#### Chapitre IV bis : Déclarations de candidature
-
-#### Chapitre V : Propagande
-
-#### Chapitre VI : Opérations préparatoires au scrutin
-
-#### Chapitre VIII : Remplacement des conseillers  départementaux
-
-###### Article L221
-
-I. - En cas de démission d'office déclarée en application de l'article L. 118-3 ou en cas d'annulation de l'élection d'un
-candidat ou d'un binôme de candidats, il est procédé à une élection partielle, dans les conditions prévues au VI du présent
-article, dans le délai de trois mois à compter de cette déclaration ou de cette annulation. 
-
-II. - Le conseiller départemental dont le siège devient vacant pour toute autre cause que celles mentionnées au I est
-remplacé par la personne élue en même temps que lui à cet effet. 
-
-III. - Si le remplacement d'un conseiller n'est plus possible dans les conditions prévues au II du présent article, il est
-procédé à une élection partielle au scrutin uninominal majoritaire dans le délai de trois mois suivant la vacance. L'article
-L. 191 et le deuxième alinéa de l'article L. 210-1 ne sont pas applicables à cette élection. 
-
-IV. - En cas de vacance simultanée des deux sièges du même canton, et si le remplacement n'est plus possible dans les
-conditions prévues au II, les deux sièges sont renouvelés par une élection partielle dans le délai de trois mois, dans les
-conditions prévues au VI. 
-
-V. - Si deux sièges deviennent vacants successivement dans le même canton, que le remplacement n'est plus possible dans les
-conditions prévues au II et que la période de dépôt des candidatures pour le premier tour du scrutin visant au remplacement
-du premier siège vacant n'est pas encore close, les deux sièges sont renouvelés par une élection partielle dans le délai de
-trois mois suivant la dernière vacance, dans les conditions prévues au VI. 
-
-VI. - Sont applicables aux élections partielles mentionnées aux I, IV et V du présent article les dispositions prévues pour
-un renouvellement général, à l'exception de l'article L. 192. 
-
-VII. - Il n'est procédé à aucune élection partielle dans les six mois précédant le renouvellement général des conseils
-départementaux.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 15
-	  - Loi n°2015-29 du 16 janvier 2015 - art. 8
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 5 (V)
-	  - Code électoral - art. L210-1 (VD)
-	  - Code électoral - art. L328 (M)
-	  - Code électoral - art. L328-4 (M)
-	  - Code électoral - art. R110 (VD)
-	  - Code électoral - art. R112-1 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L118-3 (VT)
-	  - Code électoral - art. L192 (VT)
-
-
-#### Chapitre IX : Contentieux
-
-#### Chapitre X : Conditions d'application
 
 ### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
 
@@ -23445,7 +23437,7 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 # Partie réglementaire
 
-## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements
+## Livre Ier  : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires des départements
 
 ### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
 
@@ -28219,7 +28211,7 @@ proclame les résultats en public.
 	  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 
-### Titre III : Dispositions spéciales à l'élection des conseillers généraux
+### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
 
 #### Chapitre IV bis : Déclarations de candidatures
 
@@ -29286,24 +29278,6 @@ des opérations électorales.
 
 	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
 
-
-## Livre Ier  : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires des départements
-
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
-
-### Titre II : Dispositions spéciales à l'élection des députés
-
-### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
-
-#### Chapitre IV bis : Déclarations de candidatures
-
-#### Chapitre V : Propagande
-
-#### Chapitre VII : Opérations de vote
-
-#### Chapitre IX : Contentieux
-
-### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
 
 ## Livre II  : Election des sénateurs des départements
 
