@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2015-08-03
+Version Consolidée au 2015-09-24
 
 # Partie législative
 
@@ -24750,6 +24750,17 @@ articles 640, 641 et 642 du code de procédure civile.
 	  - Code de procédure civile - art. 640
 
 
+###### Article R25-3
+
+Pour l'application des livres Ier et IV, la métropole de Lyon est assimilée à un département.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 7
+
+
 #### Chapitre V : Propagande
 
 ###### Article R26
@@ -28227,9 +28238,14 @@ La déclaration de candidature est rédigée sur un imprimé.
 La candidature ne peut être retirée que jusqu'à la limite fixée pour le dépôt des candidatures. Le retrait est enregistré
 comme la déclaration de candidature. Pour être valable, le retrait doit être signé par les deux membres du binôme. 
 
-Chaque membre du binôme de candidats ne peut présenter pour le second tour de scrutin un remplaçant autre que celui qu'il
-avait désigné dans sa déclaration de candidature lors du premier tour, que pour l'application de l'article L. 163. Dans ce
-cas, la désignation du remplaçant doit être notifiée au préfet au plus tard à dix-huit heures le jeudi précédant le scrutin.
+Sauf pour l'application de l'article L. 163, chaque membre du binôme de candidats ne peut présenter pour le second tour de
+scrutin un remplaçant autre que celui qu'il avait désigné dans sa déclaration de candidature lors du premier tour. 
+
+Pour l'application de l'article L. 163, lorsque le décès intervient postérieurement à l'expiration du délai prévu pour le
+dépôt des candidatures pour le premier tour, la désignation du nouveau remplaçant est notifiée au préfet au plus tard à dix-
+huit heures le jeudi précédant le premier tour. Toutefois s'il n'y a pas eu de désignation avant le premier tour de scrutin
+ou si le décès intervient postérieurement au jeudi précédant le premier tour, la désignation du remplaçant peut être notifiée
+au préfet au plus tard à dix-huit heures le jeudi précédant le second tour.
 
 **Liens relatifs à cet article**
 
@@ -28239,11 +28255,12 @@ cas, la désignation du remplaçant doit être notifiée au préfet au plus tard
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 3
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code électoral - art. L210-1 (VD)
+	  - Code électoral - art. L163
+	  - Code électoral - art. L210-1
 
 	**Cité par**:
 
@@ -28396,9 +28413,11 @@ désire voter, suivi pour chacun d'entre eux du nom de son remplaçant.
 ###### Article R112
 
 Immédiatement après le dépouillement du scrutin, un exemplaire des procès-verbaux des opérations électorales de chaque
-commune, accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis par porteur au bureau
-centralisateur du canton qui procède au recensement général des votes. Le résultat est proclamé par son président, qui
-adresse tous les procès-verbaux et les pièces au sous-préfet ou, dans l'arrondissement chef-lieu du département, au préfet.
+commune, accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au bureau centralisateur du
+canton qui procède au recensement général des votes. Lorsque la commune dans laquelle est situé le bureau centralisateur est
+comprise dans plusieurs cantons, il est procédé au recensement des votes dans le bureau centralisateur désigné à cet effet en
+application du cinquième alinéa de l'article R. 40. Le résultat est proclamé par son président, qui adresse tous les procès-
+verbaux et les pièces au sous-préfet ou, dans l'arrondissement chef-lieu du département, au préfet.
 
 **Liens relatifs à cet article**
 
@@ -28408,11 +28427,32 @@ adresse tous les procès-verbaux et les pièces au sous-préfet ou, dans l'arron
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 8
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 2
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L221 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. R40 (V)
+
+
+###### Article R112-1
+
+En cas d'élection partielle organisée en application du III de l'article L. 221, les dispositions prévues au présent titre
+mentionnant le binôme de candidats, les deux membres du binôme ou chaque membre d'un binôme de candidats doivent être
+entendues comme désignant une candidature individuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code électoral - art. L221
 
 
 #### Chapitre IX : Contentieux
@@ -29278,6 +29318,32 @@ des opérations électorales.
 
 	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
 
+
+## Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires des départements
+
+### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
+
+### Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires
+
+#### Chapitre II : Listes électorales
+
+#### Chapitre II bis : Dispositions générales en matière électorale
+
+#### Chapitre V : Propagande
+
+#### Chapitre V bis : Financement et plafonnement des dépenses électorales
+
+#### Chapitre VI : Vote
+
+#### Chapitre VII : Dispositions pénales
+
+#### Chapitre VIII : Contentieux
+
+### Titre II : Dispositions spéciales à l'élection des députés
+
+### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
+
+### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
 
 ## Livre II  : Election des sénateurs des départements
 
@@ -32318,9 +32384,10 @@ Les déclarations de candidature en vue du premier tour de scrutin sont reçues 
 jour de ce premier tour. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le
 premier tour. 
 
-Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section départementale. 
+Elles sont rédigées sur un imprimé et font apparaître l'ordre des candidats au sein de chaque section départementale. 
 
-Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2. 
+Chaque déclaration doit être accompagnée de la copie des pièces nécessaires mentionnées à l'article R. 109-2, les références
+au département s'entendant d'un des départements de la région. 
 
 Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99.
 
@@ -32332,7 +32399,7 @@ Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou a
 
 	**Modifié par**:
 
-	  - Décret n°2012-220 du 16 février 2012 - art. 2
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 3
 
 	**Cite**:
 
@@ -32404,25 +32471,21 @@ tel qu'il résulte de la publication prévue par l'article R. 184.
 
 Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
 accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
-recensement instituée par l'article L. 359, soit par porteur, soit sous pli postal recommandé.
+recensement instituée par l'article L. 359.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code électoral - art. L359 (V)
+	  - Code électoral - art. L359
 
 
 ###### Article R189
@@ -32500,26 +32563,22 @@ Le procès-verbal qu'elle établit est remis au préfet de région.
 
 ###### Article R190
 
-Les décisions du Conseil d'Etat prises en application de l'article L. 118-3 sont notifiées dans les huit jours au candidat
-intéressé et au ministre de l'intérieur.
+Les décisions du Conseil d'Etat prises en application des articles L. 118-3 et L. 118-4 sont notifiées dans les huit jours au
+candidat intéressé et au ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code électoral - art. L118-3 (VT)
+	  - Code électoral - art. L118-3
 
 	**Cité par**:
 
@@ -32537,9 +32596,10 @@ Les déclarations de candidature en vue du premier tour de scrutin sont reçues 
 jour de ce scrutin. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le premier
 tour. 
 
-Elles sont rédigées sur papier libre. 
+Elles sont rédigées sur un imprimé. 
 
-Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2. 
+Chaque déclaration doit être accompagnée de la copie des pièces nécessaires mentionnées à l'article R. 109-2, les références
+au département s'entendant d'un des départements de la collectivité. 
 
 Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99.
 
@@ -32551,7 +32611,7 @@ Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou a
 
 	**Modifié par**:
 
-	  - Décret n°2012-220 du 16 février 2012 - art. 2
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 4
 
 	**Cite**:
 
@@ -32561,59 +32621,15 @@ Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou a
 
 ###### Article R192
 
-L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre du dépôt des listes, par le préfet de
-Corse et publié au plus tard le troisième samedi qui précède le jour du premier tour.
+L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre résultant du tirage au sort prévu à
+l'article R. 28, par le préfet de Corse et publié au plus tard le troisième samedi qui précède le jour du premier tour. 
 
 L'état des listes de candidats au second tour est arrêté, s'il y a lieu, dans les mêmes conditions et publié le mercredi qui
 suit le premier tour. Il fait l'objet, le cas échéant, de publications complémentaires lorsqu'il a été fait application du
-dernier alinéa de l'article L. 374.
+dernier alinéa de l'article L. 374. 
 
 Pour chacun des deux tours de scrutin, l'état indique pour chaque liste son titre ainsi que les nom et prénoms des candidats,
 énumérés dans l'ordre de leur présentation sur la liste, tel qu'il résulte de la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Créé par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
-
-	**Cite**:
-
-	  - Code électoral - art. L374 (V)
-
-	**Cité par**:
-
-	  - Code électoral - art. R196 (V)
-	  - Code électoral - art. R197 (Ab)
-
-
-#### Chapitre VI : Propagande
-
-###### Article R194
-
-Par dérogation aux dispositions de l'article R. 32, la commission de propagande comprend :
-
-- un magistrat désigné par le premier président de la cour d'appel, président ;
-
-- un fonctionnaire désigné par le préfet de Corse ;
-
-- un fonctionnaire désigné par le chef de service de La Poste compétent pour la Corse.
-
-Un suppléant du président peut être désigné dans les mêmes conditions.
-
-Le secrétariat est assuré par un fonctionnaire désigné par le préfet de Corse.
-
-Les mandataires des listes de candidats peuvent participer, avec voix consultative, aux travaux de la commission.
-
-Le président fixe, en accord avec le préfet de Corse, le lieu où la commission doit siéger.
 
 **Liens relatifs à cet article**
 
@@ -32623,39 +32639,39 @@ Le président fixe, en accord avec le préfet de Corse, le lieu où la commissio
 
 	**Modifié par**:
 
-	  - Décret n°2013-703 du 1er août 2013 - art. 3
-
-	**Abrogé par**:
-
 	  - Décret n°2015-1169 du 22 septembre 2015 - art. 4
 
 	**Cite**:
 
-	  - Code électoral - art. R32
+	  - Code électoral - art. L374
+	  - Code électoral - art. R28
 
+	**Cité par**:
+
+	  - Code électoral - art. R196 (V)
+	  - Code électoral - art. R197 (Ab)
+
+
+#### Chapitre VI : Propagande
 
 ###### Article R195
 
-Pour l'application des dispositions des articles R. 34 à R. 38, les attributions dévolues au préfet sont exercées par le
+Pour l'application des dispositions des articles R. 32 à R. 38, les attributions dévolues au préfet sont exercées par le
 préfet de Corse.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Créé par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 4
 
 	**Cite**:
 
-	  - Code électoral R34 à R38
+	  - Code électoral - art. R32
 
 
 ###### Article R196
@@ -32692,25 +32708,21 @@ leur présentation sur la liste tel qu'il résulte des publications prévues à 
 
 Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
 accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
-recensement instituée par l'article L. 379 soit par porteur, soit sous pli postal recommandé.
+recensement instituée par l'article L. 379.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-	**Créé par**:
-
-	  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 4
 
 	**Cite**:
 
-	  - Code électoral - art. L379 (V)
+	  - Code électoral - art. L379
 
 
 ###### Article R199
@@ -36479,9 +36491,9 @@ Les déclarations de candidature en vue du premier tour de scrutin sont reçues 
 jour de ce premier tour. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le
 premier tour. 
 
-Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section électorale. 
+Elles sont rédigées sur un imprimé et font apparaître l'ordre des candidats au sein de chaque section électorale. 
 
-Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2. 
+Chaque déclaration doit être accompagnée de la copie des pièces nécessaires mentionnées à l'article R. 109-2. 
 
 Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99.
 
@@ -36489,7 +36501,7 @@ Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou a
 
 	**Modifié par**:
 
-	  - Décret n°2012-220 du 16 février 2012 - art. 2
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 5
 
 	**Cite**:
 
@@ -36608,13 +36620,13 @@ que la durée d'ouverture des bureaux de vote puisse être inférieure à dix he
 
 Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
 accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
-recensement instituée par l'article L. 558-30, soit par porteur, soit sous pli postal recommandé.
+recensement instituée par l'article L. 558-30          .
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 5
 
 	**Cite**:
 
