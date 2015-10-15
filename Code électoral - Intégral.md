@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2015-09-24
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -2599,8 +2599,9 @@ membre, font l'objet d'un remboursement par le mandataire et figurent dans son c
 En cas d'élection anticipée ou partielle, ces dispositions ne sont applicables qu'à compter de l'événement qui rend cette
 élection nécessaire. 
 
-Les dispositions du présent article ne sont pas applicables à l'élection des conseillers municipaux dans les communes de
-moins de 9 000 habitants.
+Les dispositions du présent article ne sont applicables ni à l'élection des conseillers municipaux dans les communes de moins
+de 9 000 habitants, ni à l'élection des membres de l'assemblée territoriale de Wallis-et-Futuna et du conseil territorial de
+Saint-Pierre-et-Miquelon, dans les circonscriptions électorales de moins de 9 000 habitants.
 
 **Nota:**
 
@@ -2626,7 +2627,7 @@ moins de 9 000 habitants.
 	  - Code général des impôts, CGI. - art. 200 (V)
 	  - Code électoral - art. L113-1 (VD)
 	  - Code électoral - art. L330-6-1 (V)
-	  - Code électoral - art. L52-11 (VD)
+	  - Code électoral - art. L52-11 (V)
 	  - Code électoral - art. L52-11-1 (V)
 	  - Code électoral - art. L52-12 (VD)
 	  - Code électoral - art. L52-15 (VD)
@@ -2643,7 +2644,7 @@ moins de 9 000 habitants.
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 17
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 38
 
 
 ###### Article L52-5
@@ -2966,12 +2967,12 @@ Plafond par habitant des dépenses électorales (en euros) :
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="246">
+      <td width="246" colspan="2">
 
 Election des conseillers municipaux : 
 
 </td>
-      <td width="123" rowspan="2">
+      <td rowspan="2" width="123">
 
 Election des conseillers départementaux 
 
@@ -3190,7 +3191,7 @@ Le plafond des dépenses pour l'élection des députés est de 38 000 euros par 
 de la circonscription. 
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de
-Corse. 
+Corse et des conseillers aux assemblées de Guyane et de Martinique. 
 
 Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la
 consommation des ménages, hors tabac. Il n'est pas procédé à une telle actualisation à compter de 2012 et jusqu'à l'année au
@@ -3243,11 +3244,11 @@ du protocole sur la procédure concernant les déficits excessifs annexé au tra
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 38
 
 	**Cite**:
 
-	  - Code électoral - art. L52-4
+	  - Code électoral - art. L52-4 (M)
 
 
 ###### Article L52-11-1
@@ -22357,11 +22358,13 @@ Sont remboursés aux listes ayant obtenu au moins 5 % des suffrages exprimés : 
 de vote, affiches, circulaires et les frais d'affichage. Un décret en Conseil d'Etat détermine la nature et le nombre des
 bulletins, affiches et circulaires dont le coût est remboursé ; il détermine également le montant des frais d'affichage.
 
+Les dépenses liées à la campagne audiovisuelle officielle sont à la charge de l'Etat.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 38
 
 	**Cite**:
 
@@ -23437,9 +23440,9 @@ article 4 (alinéa 1er), article 9 (alinéa 1er, deuxième phrase), articles 10 
 
 # Partie réglementaire
 
-## Livre Ier  : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires des départements
+## Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires des départements
 
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
+### Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires
 
 #### Chapitre II : Listes électorales
 
@@ -29318,32 +29321,6 @@ des opérations électorales.
 
 	  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
 
-
-## Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires des départements
-
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
-
-### Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires
-
-#### Chapitre II : Listes électorales
-
-#### Chapitre II bis : Dispositions générales en matière électorale
-
-#### Chapitre V : Propagande
-
-#### Chapitre V bis : Financement et plafonnement des dépenses électorales
-
-#### Chapitre VI : Vote
-
-#### Chapitre VII : Dispositions pénales
-
-#### Chapitre VIII : Contentieux
-
-### Titre II : Dispositions spéciales à l'élection des députés
-
-### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
-
-### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
 
 ## Livre II  : Election des sénateurs des départements
 
