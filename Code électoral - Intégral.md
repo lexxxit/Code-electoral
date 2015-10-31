@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-11-01
 
 # Partie législative
 
@@ -27420,9 +27420,12 @@ spécial ouvert par ses soins, indique sur le formulaire ses noms et qualité et
 Elle remet ensuite un récépissé au mandant et adresse en recommandé, ou par porteur contre accusé de réception, la
 procuration au maire de la commune sur la liste électorale de laquelle le mandant est inscrit. 
 
-Lorsque la procuration est établie hors de France, cet envoi est fait par l'autorité consulaire soit directement sous
-enveloppe, soit par la valise diplomatique, le ministre des affaires étrangères le réexpédiant. Dans les deux cas, la
-procuration est adressée en recommandé au maire de la commune sur la liste électorale de laquelle le mandant est inscrit.
+Lorsque la procuration est établie hors de France, l'autorité consulaire adresse l'imprimé, par courrier électronique avec
+demande d'avis de réception ou par télécopie, au maire de la commune sur la liste électorale de laquelle le mandant est
+inscrit. Si la mairie ne dispose pas d'adresse électronique ou de dispositif de télécopie, l'imprimé est transmis par
+l'autorité consulaire soit par courrier électronique au ministère des affaires étrangères et du développement international
+qui le transmet à la mairie par lettre recommandée avec demande d'avis de réception, soit par voie postale en lettre
+recommandée internationale à la mairie.
 
 **Liens relatifs à cet article**
 
@@ -27453,7 +27456,7 @@ procuration est adressée en recommandé au maire de la commune sur la liste él
 
 	**Modifié par**:
 
-	  - Décret n°2013-1187 du 18 décembre 2013 - art. 4
+	  - Décret n°2015-1206 du 30 septembre 2015 - art. 1
 
 
 ###### Article R76
@@ -32949,8 +32952,8 @@ municipalité " ;
 ###### Article R204
 
 Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
-blanc  "   figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2014-352 du 19 mars
-2014 :
+blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2015-1206 du 30 septembre
+2015 :
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 20 à R. 22, R.
 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; 
@@ -32980,17 +32983,15 @@ et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 	  - Décret n°2016-1819 du 22 décembre 2016 - art. 4
 	  - Code électoral - art. R210 (V)
 
-	**Cite**:
-
-	  - Décret n°2013-1187 du 18 décembre 2013
-	  - Code électoral - art. R*20
-	  - Code électoral - art. R30
-	  - Code électoral - art. R43
-	  - Code électoral - art. R60
-
 	**Modifié par**:
 
-	  - Décret n°2014-352 du 19 mars 2014 - art. 2
+	  - Décret n°2015-1206 du 30 septembre 2015 - art. 4
+
+	**Cite**:
+
+	  - Code électoral - art. R*20
+	  - Code électoral - art. R43
+	  - Code électoral - art. R60
 
 
 ###### Article R205
