@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2015-11-19
+Version Consolidée au 2015-12-01
 
 # Partie législative
 
@@ -14362,19 +14362,23 @@ compétente.
 Les conseillers régionaux et les membres de l'Assemblée de Corse sont élus dans les conditions fixées par les dispositions du
 titre Ier du livre Ier du présent code et par celles du présent livre.
 
+Pour l'application du présent livre, la métropole de Lyon est assimilée à un département.
+
+**Nota:**
+
+Conformément à l'article 7 de la loi n° 2015-29 du 16 janvier 2015 les présentes dispositions s'appliquent à compter du
+prochain renouvellement général des conseils régionaux suivant la promulgation de la présente loi. Ces élections ont lieu
+dans le cadre des régions définies à l'article 1er.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Loi n°2015-29 du 16 janvier 2015 - art. 4
 
 
 ### Titre Ier : Election des conseillers régionaux
@@ -14501,8 +14505,29 @@ susceptibles d'être proclamés élus.
 
 Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque section départementale. 
 
+Si, après la répartition des sièges prévue au premier alinéa, un département dont la population est inférieure à 100 000
+habitants ne compte pas au moins deux conseillers régionaux, un ou plusieurs sièges attribués à la liste arrivée en tête au
+niveau régional sont réattribués à la ou aux sections départementales de cette liste afin que chaque département dispose de
+deux sièges au moins.
+
+Si, après la répartition des sièges prévue au premier alinéa, un département dont la population est égale ou supérieure à 100
+000 habitants ne compte pas au moins quatre conseillers régionaux, un ou plusieurs sièges attribués à la liste arrivée en
+tête au niveau régional sont réattribués à la ou aux sections départementales de cette liste afin que chaque département
+dispose de quatre sièges au moins.
+
+Le ou les sièges ainsi réattribués correspondent au dernier siège ou aux derniers sièges attribués à la liste arrivée en tête
+au niveau régional et répartis entre les sections départementales en application du premier alinéa, sous réserve du cas où
+les départements prélevés seraient attributaires d'un seul ou de deux sièges si le département compte une population de moins
+de 100 000 habitants, ou de moins de cinq sièges si le département compte au moins 100 000 habitants.
+
 Lorsque la région est composée d'un seul département, les sièges sont attribués dans le ressort de la circonscription
-régionale selon les mêmes règles.
+régionale selon les règles prévues aux deux premiers alinéas.
+
+**Nota:**
+
+Conformément à l'article 7 de la loi n° 2015-29 du 16 janvier 2015 les présentes dispositions s'appliquent à compter du
+prochain renouvellement général des conseils régionaux suivant la promulgation de la présente loi. Ces élections ont lieu
+dans le cadre des régions définies à l'article 1er.
 
 **Liens relatifs à cet article**
 
@@ -14512,15 +14537,15 @@ régionale selon les mêmes règles.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-327 du 11 avril 2003 - art. 3 () JORF 12 avril 2003
+	  - Loi n°2015-29 du 16 janvier 2015 - art. 6
 
 	**Cite**:
 
-	  - Code électoral - art. L338 (V)
+	  - Code électoral - art. L338
 
 
 #### Chapitre III : Conditions d'éligibilité et inéligibilités
@@ -47663,1855 +47688,1339 @@ Total
 <table>
   <tbody>
     <tr>
-      <td width="154">
+      <th>RÉGION
 
-RÉGION
+</th>
+      <th>
 
-</td>
-      <td width="154">
+EFFECTIF 
 
-EFFECTIF
+du conseil régional
 
-global du conseil régional
+</th>
+      <th>DÉPARTEMENT
 
-</td>
-      <td width="154">
+</th>
+      <th>
 
-DÉPARTEMENT
-
-</td>
-      <td width="154">
-
-NOMBRE
-
-de candidats
+NOMBRE DE CANDIDATS 
 
 par section départementale
 
-</td>
+</th>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" rowspan="10">
 
-Alsace
+Alsace, Champagne-Ardenne et Lorraine
 
 </td>
-      <td valign="top" width="154">
+      <td align="left" valign="middle" rowspan="10">
 
-47
+169
 
 </td>
-      <td valign="top" width="154">
-
-Bas-Rhin
-
-</td>
-      <td width="154" valign="top">
-
-29
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Haut-Rhin
-
-</td>
-      <td valign="top" width="154">
-
-22
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Aquitaine
-
-</td>
-      <td valign="top" width="154">
-
-85
-
-</td>
-      <td valign="top" width="154">
-
-Dordogne
-
-</td>
-      <td valign="top" width="154">
-
-14
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Gironde
-
-</td>
-      <td width="154" valign="top">
-
-38
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Landes
-
-</td>
-      <td width="154" valign="top">
-
-12
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Lot-et-Garonne
-
-</td>
-      <td width="154" valign="top">
-
-12
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Pyrénées-Atlantiques
-
-</td>
-      <td valign="top" width="154">
-
-19
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Auvergne
-
-</td>
-      <td valign="top" width="154">
-
-47
-
-</td>
-      <td width="154" valign="top">
-
-Allier
-
-</td>
-      <td width="154" valign="top">
-
-15
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Cantal
-
-</td>
-      <td width="154" valign="top">
-
-8
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Haute-Loire
-
-</td>
-      <td width="154" valign="top">
-
-10
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Puy-de-Dôme
-
-</td>
-      <td width="154" valign="top">
-
-22
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Bourgogne
-
-</td>
-      <td width="154" valign="top">
-
-57
-
-</td>
-      <td valign="top" width="154">
-
-Côte d'Or
-
-</td>
-      <td width="154" valign="top">
-
-19
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Nièvre
-
-</td>
-      <td width="154" valign="top">
-
-11
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Saône-et-Loire
-
-</td>
-      <td width="154" valign="top">
-
-21
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Yonne
-
-</td>
-      <td valign="top" width="154">
-
-14
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Bretagne
-
-</td>
-      <td width="154" valign="top">
-
-83
-
-</td>
-      <td valign="top" width="154">
-
-Côte-d'Armor
-
-</td>
-      <td valign="top" width="154">
-
-18
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Finistère
-
-</td>
-      <td width="154" valign="top">
-
-27
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Ille-et-Vilaine
-
-</td>
-      <td valign="top" width="154">
-
-26
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Morbihan
-
-</td>
-      <td valign="top" width="154">
-
-20
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Centre-Val de Loire
-
-</td>
-      <td valign="top" width="154">
-
-77
-
-</td>
-      <td valign="top" width="154">
-
-Cher
-
-</td>
-      <td width="154" valign="top">
-
-13
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Eure-et-Loir
-
-</td>
-      <td width="154" valign="top">
-
-15
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Indre
-
-</td>
-      <td width="154" valign="top">
-
-10
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Indre-et-Loire
-
-</td>
-      <td width="154" valign="top">
-
-19
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Loir-et-Cher
-
-</td>
-      <td width="154" valign="top">
-
-12
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Loiret
-
-</td>
-      <td width="154" valign="top">
-
-20
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Champagne-Ardenne
-
-</td>
-      <td valign="top" width="154">
-
-49
-
-</td>
-      <td valign="top" width="154">
+      <td valign="middle">
 
 Ardennes
 
 </td>
-      <td valign="top" width="154">
-
-13
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Aube
-
-</td>
-      <td width="154" valign="top">
-
-13
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Marne
-
-</td>
-      <td valign="top" width="154">
-
-21
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Haute-Marne
-
-</td>
-      <td valign="top" width="154">
-
-10
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Franche-Comté
-
-</td>
-      <td width="154" valign="top">
-
-43
-
-</td>
-      <td width="154" valign="top">
-
-Territoire de Belfort
-
-</td>
-      <td width="154" valign="top">
-
-8
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Doubs
-
-</td>
-      <td width="154" valign="top">
-
-20
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Jura
-
-</td>
-      <td width="154" valign="top">
-
-12
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Haute-Saône
-
-</td>
-      <td valign="top" width="154">
+      <td valign="middle" align="center">
 
 11
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td valign="middle">
 
-Guadeloupe
-
-</td>
-      <td valign="top" width="154">
-
-41
+Aube
 
 </td>
-      <td width="154" valign="top">
+      <td valign="middle" align="center">
 
-Guadeloupe
-
-</td>
-      <td valign="top" width="154">
-
-43
+11
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td valign="middle">
 
-Ile-de-France
-
-</td>
-      <td valign="top" width="154">
-
-209
+Marne
 
 </td>
-      <td valign="top" width="154">
+      <td align="center" valign="middle">
 
-Essonne
-
-</td>
-      <td width="154" valign="top">
-
-23
+19
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td valign="middle">
+
+Haute-Marne
 
 </td>
-      <td width="154" valign="top">
+      <td align="center" valign="middle">
 
-</td>
-      <td valign="top" width="154">
-
-Hauts-de-Seine
-
-</td>
-      <td valign="top" width="154">
-
-29
+8
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td valign="middle">
+
+Meurthe-et-Moselle
 
 </td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Ville de Paris
-
-</td>
-      <td valign="top" width="154">
-
-44
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Seine-et-Marne
-
-</td>
-      <td valign="top" width="154">
-
-23
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Seine-Saint-Denis
-
-</td>
-      <td valign="top" width="154">
-
-29
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Val-de-Marne
-
-</td>
-      <td width="154" valign="top">
-
-26
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Val-d'Oise
-
-</td>
-      <td valign="top" width="154">
-
-23
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Yvelines
-
-</td>
-      <td width="154" valign="top">
-
-28
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Languedoc-Roussillon
-
-</td>
-      <td width="154" valign="top">
-
-67
-
-</td>
-      <td width="154" valign="top">
-
-Aude
-
-</td>
-      <td width="154" valign="top">
-
-12
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Gard
-
-</td>
-      <td valign="top" width="154">
-
-20
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Hérault
-
-</td>
-      <td width="154" valign="top">
-
-26
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Lozère
-
-</td>
-      <td width="154" valign="top">
-
-5
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Pyrénées-Orientales
-
-</td>
-      <td valign="top" width="154">
-
-14
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Limousin
-
-</td>
-      <td width="154" valign="top">
-
-43
-
-</td>
-      <td width="154" valign="top">
-
-Corrèze
-
-</td>
-      <td valign="top" width="154">
-
-16
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Creuse
-
-</td>
-      <td valign="top" width="154">
-
-10
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Haute-Vienne
-
-</td>
-      <td width="154" valign="top">
-
-23
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Lorraine
-
-</td>
-      <td width="154" valign="top">
-
-73
-
-</td>
-      <td valign="top" width="154">
-
-Meurthe et Moselle
-
-</td>
-      <td valign="top" width="154">
+      <td valign="middle" align="center">
 
 24
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
+      <td valign="middle">
 
 Meuse
 
 </td>
-      <td width="154" valign="top">
-
-9
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Moselle
-
-</td>
-      <td width="154" valign="top">
-
-33
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Vosges
-
-</td>
-      <td valign="top" width="154">
-
-15
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Midi-Pyrénées
-
-</td>
-      <td valign="top" width="154">
-
-91
-
-</td>
-      <td valign="top" width="154">
-
-Ariège
-
-</td>
-      <td width="154" valign="top">
+      <td valign="middle" align="center">
 
 8
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="middle">
+
+Moselle
 
 </td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Aveyron
-
-</td>
-      <td valign="top" width="154">
-
-12
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Haute-Garonne
-
-</td>
-      <td width="154" valign="top">
+      <td valign="middle" align="center">
 
 34
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="middle">
+
+Bas-Rhin
 
 </td>
-      <td valign="top" width="154">
+      <td valign="middle" align="center">
 
-</td>
-      <td valign="top" width="154">
-
-Gers
-
-</td>
-      <td width="154" valign="top">
-
-9
+35
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="middle">
 
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Lot
-
-</td>
-      <td width="154" valign="top">
-
-8
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Hautes-Pyrénées
-
-</td>
-      <td valign="top" width="154">
-
-11
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Tarn
-
-</td>
-      <td width="154" valign="top">
-
-15
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Tarn-et-Garonne
-
-</td>
-      <td valign="top" width="154">
-
-10
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Basse-Normandie
-
-</td>
-      <td valign="top" width="154">
-
-47
-
-</td>
-      <td valign="top" width="154">
-
-Calvados
-
-</td>
-      <td valign="top" width="154">
-
-23
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Manche
-
-</td>
-      <td valign="top" width="154">
-
-18
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Orne
-
-</td>
-      <td valign="top" width="154">
-
-12
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Haute-Normandie
-
-</td>
-      <td width="154" valign="top">
-
-55
-
-</td>
-      <td width="154" valign="top">
-
-Eure
-
-</td>
-      <td valign="top" width="154">
-
-19
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Seine-Maritime
-
-</td>
-      <td valign="top" width="154">
-
-40
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Nord - Pas-de-Calais
-
-</td>
-      <td valign="top" width="154">
-
-113
-
-</td>
-      <td width="154" valign="top">
-
-Nord
-
-</td>
-      <td valign="top" width="154">
-
-74
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Pas-de-Calais
-
-</td>
-      <td valign="top" width="154">
-
-43
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Pays de la Loire
-
-</td>
-      <td valign="top" width="154">
-
-93
-
-</td>
-      <td width="154" valign="top">
-
-Loire-Atlantique
-
-</td>
-      <td width="154" valign="top">
-
-33
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Maine-et-Loire
-
-</td>
-      <td width="154" valign="top">
-
-23
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Mayenne
-
-</td>
-      <td valign="top" width="154">
-
-11
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Sarthe
-
-</td>
-      <td width="154" valign="top">
-
-18
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Vendée
-
-</td>
-      <td valign="top" width="154">
-
-18
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-Picardie
-
-</td>
-      <td width="154" valign="top">
-
-57
-
-</td>
-      <td valign="top" width="154">
-
-Aisne
-
-</td>
-      <td width="154" valign="top">
-
-19
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Oise
+Haut-Rhin
 
 </td>
-      <td valign="top" width="154">
+      <td valign="middle" align="center">
 
 25
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td valign="middle">
+
+Vosges
 
 </td>
-      <td valign="top" width="154">
+      <td align="center" valign="middle">
 
-</td>
-      <td width="154" valign="top">
-
-Somme
-
-</td>
-      <td width="154" valign="top">
-
-19
+14
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td valign="top" rowspan="12">
 
-Poitou-Charentes
-
-</td>
-      <td width="154" valign="top">
-
-55
+Aquitaine, Limousin et Poitou-Charentes
 
 </td>
-      <td valign="top" width="154">
+      <td align="left" valign="middle" rowspan="12">
+
+183
+
+</td>
+      <td valign="middle">
 
 Charente
 
 </td>
-      <td width="154" valign="top">
-
-14
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Charente-Maritime
-
-</td>
-      <td valign="top" width="154">
-
-20
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Deux-Sèvres
-
-</td>
-      <td width="154" valign="top">
-
-14
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Vienne
-
-</td>
-      <td width="154" valign="top">
-
-15
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Provence-Alpes-Côte d'Azur
-
-</td>
-      <td width="154" valign="top">
-
-123
-
-</td>
-      <td width="154" valign="top">
-
-Alpes-de-Haute-Provence
-
-</td>
-      <td valign="top" width="154">
-
-7
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-Hautes-Alpes
-
-</td>
-      <td valign="top" width="154">
-
-6
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Alpes-Maritimes
-
-</td>
-      <td valign="top" width="154">
-
-30
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Bouches-du-Rhône
-
-</td>
-      <td width="154" valign="top">
-
-51
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Var
-
-</td>
-      <td width="154" valign="top">
-
-25
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Vaucluse
-
-</td>
-      <td width="154" valign="top">
-
-16
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-La Réunion
-
-</td>
-      <td width="154" valign="top">
-
-45
-
-</td>
-      <td valign="top" width="154">
-
-La Réunion
-
-</td>
-      <td valign="top" width="154">
-
-47
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Rhône-Alpes
-
-</td>
-      <td valign="top" width="154">
-
-157
-
-</td>
-      <td valign="top" width="154">
-
-Ain
-
-</td>
-      <td width="154" valign="top">
-
-16
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Ardèche
-
-</td>
-      <td valign="top" width="154">
-
-11
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Drôme
-
-</td>
-      <td width="154" valign="top">
-
-14
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" valign="top">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-Isère
-
-</td>
-      <td valign="top" width="154">
-
-31
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-</td>
-      <td width="154" valign="top">
-
-Loire
-
-</td>
-      <td valign="top" width="154">
-
-24
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Rhône
-
-</td>
-      <td valign="top" width="154">
-
-45
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-</td>
-      <td valign="top" width="154">
-
-</td>
-      <td width="154" valign="top">
-
-Savoie
-
-</td>
-      <td width="154" valign="top">
+      <td align="center" valign="middle">
 
 13
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td valign="middle">
+
+Charente-Maritime
 
 </td>
-      <td valign="top" width="154">
+      <td align="center" valign="middle">
+
+22
 
 </td>
-      <td valign="top" width="154">
+    </tr>
+    <tr>
+      <td valign="middle">
 
-Haute-Savoie
+Corrèze
 
 </td>
-      <td valign="top" width="154">
+      <td align="center" valign="middle">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Creuse
+
+</td>
+      <td align="center" valign="middle">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Dordogne
+
+</td>
+      <td align="center" valign="middle">
+
+15
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Gironde
+
+</td>
+      <td align="center" valign="middle">
+
+48
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Landes
+
+</td>
+      <td valign="middle" align="center">
+
+14
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Lot-et-Garonne
+
+</td>
+      <td valign="middle" align="center">
+
+12
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Pyrénées-Atlantiques
+
+</td>
+      <td align="center" valign="middle">
+
+23
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Deux-Sèvres
+
+</td>
+      <td valign="middle" align="center">
+
+14
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Vienne
+
+</td>
+      <td valign="middle" align="center">
+
+16
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Haute-Vienne
+
+</td>
+      <td align="center" valign="middle">
+
+14
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="13" valign="top">
+
+Auvergne et Rhône-Alpes
+
+</td>
+      <td align="left" rowspan="13" valign="middle">
+
+204
+
+</td>
+      <td valign="middle">
+
+Ain
+
+</td>
+      <td align="center" valign="middle">
+
+18
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Allier
+
+</td>
+      <td valign="middle" align="center">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Ardèche
+
+</td>
+      <td align="center" valign="middle">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Cantal
+
+</td>
+      <td align="center" valign="middle">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Drôme
+
+</td>
+      <td align="center" valign="middle">
+
+15
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Isère
+
+</td>
+      <td align="center" valign="middle">
+
+34
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Loire
+
+</td>
+      <td valign="middle" align="center">
+
+22
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Haute-Loire
+
+</td>
+      <td align="center" valign="middle">
+
+8
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Métropole de Lyon
+
+</td>
+      <td align="center" valign="middle">
+
+37
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Puy-de-Dôme
+
+</td>
+      <td valign="middle" align="center">
 
 19
 
 </td>
     </tr>
+    <tr>
+      <td valign="middle">
+
+Rhône
+
+</td>
+      <td align="center" valign="middle">
+
+14
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Savoie
+
+</td>
+      <td valign="middle" align="center">
+
+13
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Haute-Savoie
+
+</td>
+      <td align="center" valign="middle">
+
+22
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="8">
+
+Bourgogne et Franche-Comté
+
+</td>
+      <td align="left" rowspan="8" valign="middle">
+
+100
+
+</td>
+      <td valign="middle">
+
+Côte-d'Or
+
+</td>
+      <td align="center" valign="middle">
+
+21
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Doubs
+
+</td>
+      <td align="center" valign="middle">
+
+21
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Jura
+
+</td>
+      <td valign="middle" align="center">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Nièvre
+
+</td>
+      <td valign="middle" align="center">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Haute-Saône
+
+</td>
+      <td valign="middle" align="center">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Saône-et-Loire
+
+</td>
+      <td valign="middle" align="center">
+
+22
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Yonne
+
+</td>
+      <td align="center" valign="middle">
+
+14
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Territoire de Belfort
+
+</td>
+      <td valign="middle" align="center">
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="4" valign="top">
+
+Bretagne
+
+</td>
+      <td rowspan="4" valign="middle" align="left">
+
+83
+
+</td>
+      <td valign="middle">
+
+Côtes-d'Armor
+
+</td>
+      <td align="center" valign="middle">
+
+17
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Finistère
+
+</td>
+      <td valign="middle" align="center">
+
+25
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Ille-et-Vilaine
+
+</td>
+      <td valign="middle" align="center">
+
+28
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Morbihan
+
+</td>
+      <td valign="middle" align="center">
+
+21
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="6">
+
+Centre
+
+</td>
+      <td rowspan="6" align="left" valign="middle">
+
+77
+
+</td>
+      <td valign="middle">
+
+Cher
+
+</td>
+      <td valign="middle" align="center">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Eure-et-Loir
+
+</td>
+      <td valign="middle" align="center">
+
+15
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Indre
+
+</td>
+      <td valign="middle" align="center">
+
+9
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Indre-et-Loire
+
+</td>
+      <td valign="middle" align="center">
+
+20
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Loir-et-Cher
+
+</td>
+      <td valign="middle" align="center">
+
+12
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Loiret
+
+</td>
+      <td valign="middle" align="center">
+
+22
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Guadeloupe
+
+</td>
+      <td valign="middle" align="left">
+
+41
+
+</td>
+      <td valign="middle">
+
+Guadeloupe
+
+</td>
+      <td valign="middle" align="center">
+
+43
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="8" valign="top">
+
+Ile-de-France
+
+</td>
+      <td valign="middle" align="left" rowspan="8">
+
+209
+
+</td>
+      <td valign="middle">
+
+Paris
+
+</td>
+      <td valign="middle" align="center">
+
+42
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Seine-et-Marne
+
+</td>
+      <td valign="middle" align="center">
+
+25
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Yvelines
+
+</td>
+      <td valign="middle" align="center">
+
+27
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Essonne
+
+</td>
+      <td valign="middle" align="center">
+
+24
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Hauts-de-Seine
+
+</td>
+      <td valign="middle" align="center">
+
+30
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Seine-Saint-Denis
+
+</td>
+      <td valign="middle" align="center">
+
+29
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Val-de-Marne
+
+</td>
+      <td align="center" valign="middle">
+
+25
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Val-d'Oise
+
+</td>
+      <td align="center" valign="middle">
+
+23
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="13">
+
+Languedoc-Roussillon et Midi-Pyrénées
+
+</td>
+      <td align="left" valign="middle" rowspan="13">
+
+158
+
+</td>
+      <td valign="middle">
+
+Ariège
+
+</td>
+      <td valign="middle" align="center">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Aude
+
+</td>
+      <td valign="middle" align="center">
+
+12
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Aveyron
+
+</td>
+      <td valign="middle" align="center">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Gard
+
+</td>
+      <td valign="middle" align="center">
+
+22
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Haute-Garonne
+
+</td>
+      <td align="center" valign="middle">
+
+38
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Gers
+
+</td>
+      <td align="center" valign="middle">
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Hérault
+
+</td>
+      <td valign="middle" align="center">
+
+32
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Lot
+
+</td>
+      <td align="center" valign="middle">
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Lozère
+
+</td>
+      <td align="center" valign="middle">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Hautes-Pyrénées
+
+</td>
+      <td valign="middle" align="center">
+
+9
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Pyrénées-Orientales
+
+</td>
+      <td valign="middle" align="center">
+
+15
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Tarn
+
+</td>
+      <td align="center" valign="middle">
+
+13
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Tarn-et-Garonne
+
+</td>
+      <td valign="middle" align="center">
+
+9
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="5" valign="top">
+
+Nord - Pas-de-Calais et Picardie
+
+</td>
+      <td align="left" valign="middle" rowspan="5">
+
+170
+
+</td>
+      <td valign="middle">
+
+Aisne
+
+</td>
+      <td valign="middle" align="center">
+
+17
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Nord
+
+</td>
+      <td align="center" valign="middle">
+
+76
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Oise
+
+</td>
+      <td valign="middle" align="center">
+
+25
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Pas-de-Calais
+
+</td>
+      <td align="center" valign="middle">
+
+44
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Somme
+
+</td>
+      <td valign="middle" align="center">
+
+18
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="5">
+
+Basse-Normandie et Haute-Normandie
+
+</td>
+      <td rowspan="5" valign="middle" align="left">
+
+102
+
+</td>
+      <td valign="middle">
+
+Calvados
+
+</td>
+      <td align="center" valign="middle">
+
+23
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Eure
+
+</td>
+      <td align="center" valign="middle">
+
+20
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Manche
+
+</td>
+      <td valign="middle" align="center">
+
+17
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Orne
+
+</td>
+      <td valign="middle" align="center">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Seine-Maritime
+
+</td>
+      <td align="center" valign="middle">
+
+41
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="5">
+
+Pays de la Loire
+
+</td>
+      <td valign="middle" rowspan="5" align="left">
+
+93
+
+</td>
+      <td valign="middle">
+
+Loire-Atlantique
+
+</td>
+      <td valign="middle" align="center">
+
+35
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Maine-et-Loire
+
+</td>
+      <td align="center" valign="middle">
+
+22
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Mayenne
+
+</td>
+      <td valign="middle" align="center">
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Sarthe
+
+</td>
+      <td align="center" valign="middle">
+
+17
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Vendée
+
+</td>
+      <td valign="middle" align="center">
+
+19
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="6" valign="top">
+
+Provence-Alpes-Côte d'Azur
+
+</td>
+      <td align="left" rowspan="6" valign="middle">
+
+123
+
+</td>
+      <td valign="middle">
+
+Alpes-de-Haute-Provence
+
+</td>
+      <td align="center" valign="middle">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Hautes-Alpes
+
+</td>
+      <td align="center" valign="middle">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Alpes-Maritimes
+
+</td>
+      <td valign="middle" align="center">
+
+29
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Bouches-du-Rhône
+
+</td>
+      <td align="center" valign="middle">
+
+51
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Var
+
+</td>
+      <td align="center" valign="middle">
+
+27
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Vaucluse
+
+</td>
+      <td align="center" valign="middle">
+
+16
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+La Réunion
+
+</td>
+      <td valign="middle" align="left">
+
+45
+
+</td>
+      <td valign="middle">
+
+La Réunion
+
+</td>
+      <td align="center" valign="middle">
+
+47
+
+</td>
+    </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Conformément à l'article 7 de la loi n° 2015-29 du 16 janvier 2015 les présentes dispositions s'appliquent à compter du
+prochain renouvellement général des conseils régionaux suivant la promulgation de la présente loi. Ces élections ont lieu
+dans le cadre des régions définies à l'article 1er.
 
 **Liens relatifs à cet article**
 
@@ -49521,6 +49030,6 @@ Haute-Savoie
 
 	**Modifié par**:
 
-	  - Loi n°2015-29 du 16 janvier 2015 - art. 2
+	  - Loi n°2015-29 du 16 janvier 2015 - art. 5
 
 
