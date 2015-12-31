@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2015-12-01
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -33208,12 +33208,12 @@ intéressé et au ministre chargé de l'outre-mer.
 
 ###### Article R213
 
-I.-L'institut territorial de la statistique et des études économiques de la Nouvelle-Calédonie (ITSEE) met en oeuvre un
-traitement automatisé d'informations nominatives en vue de la tenue du fichier général des électeurs et électrices inscrits
-en Nouvelle-Calédonie mentionné au VII de l'article 189 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-
-Calédonie : 
+I.-L'institut de la statistique et des études économiques de la Nouvelle-Calédonie (ISEE) met en œuvre un traitement
+automatisé de données à caractère personnel en vue de la tenue du fichier général des électeurs et électrices inscrits en
+Nouvelle-Calédonie mentionné au VII de l'article 189 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-
+Calédonie, ainsi que des listes électorales spéciales à la consultation prévue par le titre IX de cette même loi. 
 
-Ce fichier est constitué à partir : 
+II.-Ce fichier est constitué à partir : 
 
 1° Des listes électorales de la Nouvelle-Calédonie ; 
 
@@ -33226,93 +33226,107 @@ annexe ;
 4° Des listes électorales complémentaires établies en Nouvelle-Calédonie pour l'application du chapitre Ier bis de la loi n°
 77-808 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen ; 
 
-5° Des listes électorales complémentaires établies en Nouvelle-Calédonie pour l'application des articles LO. 227-1 à LO.
-227-4. 
+5° Des listes électorales complémentaires établies en Nouvelle-Calédonie pour l'application des articles LO 227-1 à LO
+227-4 ; 
 
-Il est mis à jour à partir : 
+6° Des listes électorales spéciales à la consultation prévue par le titre IX de la loi organique n° 99-209 du 19 mars 1999 et
+des données ayant, pour l'application de ses articles 218 et 218-2, permis leur établissement, notamment le fichier de
+l'état-civil coutumier. 
+
+III.-Il est mis à jour à partir : 
 
 1° Des décisions des commissions administratives chargées de la révision des listes électorales relatives aux inscriptions et
 radiations effectuées sur ces listes ; 
 
 2° Des décisions des commissions administratives spéciales chargées de l'établissement des listes électorales spéciales et de
-leur tableau annexe ; 
+leur tableau annexe pour l'élection du congrès et des assemblées de province, ainsi que de l'établissement des listes
+électorales spéciales pour la consultation prévue par le titre IX de la loi organique n° 99-209 du 19 mars 1999 ; 
 
 3° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ; 
 
-4° Des avis de perte ou de recouvrement de la capacité électorale établis par les services du casier judiciaire ; 
+4° Des avis de perte de la capacité électorale établis par les services du casier judiciaire ; 
 
 5° Des avis de décès établis par les mairies ; 
 
 6° Des avis reçus de l'Institut national de la statistique et des études économiques et des représentants de l'Etat chargés
-du contrôle des listes électorales à Mayotte, en Polynésie française et dans les îles Wallis-et-Futuna relatifs aux personnes
-inscrites sur une liste électorale en Nouvelle-Calédonie et qui : 
+du contrôle des listes électorales, en Polynésie française et dans les îles Wallis et Futuna relatifs aux personnes inscrites
+sur une liste électorale en Nouvelle-Calédonie et qui : 
 
-a) Soit, étant également inscrites sur une liste électorale hors de la Nouvelle-Calédonie, doivent être radiées en Nouvelle-
+a) Soit, également inscrites sur une liste électorale hors de la Nouvelle-Calédonie, doivent être radiées en Nouvelle-
 Calédonie ; 
 
 b) Soit sont décédées hors de la Nouvelle-Calédonie ; 
 
-c) Soit ont fait l'objet hors de la Nouvelle-Calédonie d'une décision les privant de leurs droits civils et politiques. 
+c) Soit ont fait l'objet, hors de la Nouvelle-Calédonie, d'une décision les privant de leurs droits civils et politiques. 
 
-II.-Les catégories d'informations traitées sont : 
+IV.-Les catégories d'informations traitées sont les suivantes : 
 
-1° Identité de l'électeur : nom, prénoms, sexe, nom d'épouse ou de veuve, date et lieu de naissance ; 
+1° Eléments de l'état-civil de l'électeur : nom, prénoms, sexe, date et lieu de naissance ; 
 
-2° Lieux et dates d'inscription sur la ou les listes électorales ; 
+2° Lieux et dates d'inscription, par les commissions administratives, sur la liste électorale selon sa nature (liste
+générale, liste spéciale à l'élection du congrès et des assemblées de province, liste spéciale à la consultation, liste
+complémentaire mentionnée aux 4° et 5° du II du présent article) ; 
 
-3° Nature de la liste électorale (générale, spéciale ou complémentaire) ; 
+3° Motif de la dernière inscription (démarche volontaire ou inscription d'office en tant que jeune majeur ou au titre du II
+de l'article 218-2 de la loi organique du 19 mars 1999 ; 
 
 4° Date de dépôt de la demande d'inscription sur la ou les listes électorales spéciales ; 
 
 5° Date de l'inscription de l'électeur sur le tableau annexe à la liste électorale spéciale ; 
 
-6° Admission ou non-admission de l'électeur à participer à la consultation du 8 novembre 1998 et motifs de la non-
-admission ; 
+6° Admission ou non-admission de l'électeur à participer à la consultation du 8 novembre 1998 ; 
 
-7° Perte des droits civils et politiques, date d'effet et durée ; 
+7° Perte des droits civils et politiques ; 
 
-8° Acquisition ou perte de la nationalité française ; 
+8° Perte de la nationalité française ; 
 
 9° Nationalité, pour les ressortissants de l'Union européenne autres que les citoyens français ; 
 
 10° Décès. 
 
-III.-Les destinataires des informations traitées sont : 
+V.-Peuvent consulter les informations traitées : 
 
 1° Le haut-commissaire de la République pour lui permettre d'informer le gouvernement de la Nouvelle-Calédonie de l'évolution
 du corps électoral ; 
 
 2° Les maires de la Nouvelle-Calédonie pour ce qui concerne leur commune ; 
 
-3° L'Institut national de la statistique et des études économiques et, à Mayotte, en Polynésie française et dans les îles
-Wallis et Futuna, le représentant de l'Etat chargé du contrôle des listes électorales, pour les informations de la nature de
-celles qui sont mentionnées au 6° du I ; 
+3° L'Institut national de la statistique et des études économiques et, en Polynésie française et dans les îles Wallis et
+Futuna, le représentant de l'Etat chargé du contrôle des listes électorales, pour les informations de la nature de celles qui
+sont mentionnées au 6° du III ; 
 
 4° Les présidents des commissions administratives spéciales pour la tenue des listes électorales spéciales et de leur tableau
-annexe. 
+annexe relatifs à l'élection du congrès et des assemblées de province, ainsi que pour l'établissement des listes électorales
+spéciales relatives à la consultation prévue par le titre IX de la loi organique n° 99-209 du 19 mars 1999 ; 
 
-IV.-Le droit d'accès prévu par les articles 34 et 35 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique et aux
-libertés s'exerce auprès de l'institut territorial de la statistique et des études économiques. 
+5° Le président de la commission consultative d'experts prévue à l'article 218-1 de la loi organique n° 99-209 du 19 mars
+1999, pour la réponse aux demandes que lui adressent les présidents ou membres des commissions administratives spéciales en
+application du même article. 
 
-V.-Le fichier ne peut servir à des fins de recherche de personnes.
+VI.-Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 modifiée
+relative à l'informatique et aux libertés s'exerce auprès de l'institut de la statistique et des études économiques de la
+Nouvelle-Calédonie. 
+
+VII.-Le fichier ne peut servir à des fins de recherche de personnes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
 
 	**Cité par**:
 
 	  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+	  - Décret n°2015-1923 du 29 décembre 2015 - art. 1
 
 
 #### Chapitre III : Dispositions propres aux îles Wallis et Futuna
@@ -33617,32 +33631,32 @@ La commission administrative spéciale tient un registre de toutes ses décision
 l'appui.
 
 Lorsque la commission refuse d'inscrire un électeur sur la liste électorale spéciale, sa décision est notifiée à l'intéressé
-dans les deux jours et au plus tard le 11 mars, par écrit et à domicile, par les soins de l'administration municipale. Il est
+dans les deux jours et au plus tard le 15 mars, par écrit et à domicile, par les soins de l'administration municipale. Il est
 fait mention de cette notification et de sa date sur le registre prévu au premier alinéa.
 
 L'avis de notification précise les motifs de la décision. Il informe l'électeur que, dès réception de cet avis et au plus
-tard le 18 mars, il peut présenter des observations à la commission. Au vu de ces observations, la commission prend, le 21
+tard le 25 mars, il peut présenter des observations à la commission. Au vu de ces observations, la commission prend, le 28
 mars au plus tard, une nouvelle décision notifiée dans les deux jours à l'intéressé, dans les mêmes formes que celles prévues
 à l'alinéa précédent.
 
 L'avis de notification informe également l'intéressé, que dans les dix jours de la publication de la liste électorale
-spéciale prévue à l'article R. 224 qui interviendra le 22 mars, il pourra contester la décision de refus devant le tribunal
+spéciale prévue à l'article R. 224 qui interviendra le 29 mars, il pourra contester la décision de refus devant le tribunal
 de première instance de Nouméa ou ses sections détachées de Koné et de Lifou dans les conditions prévues à l'article R. 225.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
+	  - Décret n°2015-1922 du 29 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code électoral - art. R224 (M)
-	  - Code électoral - art. R225 (V)
+	  - Code électoral - art. R224 (V)
+	  - Code électoral - art. R225
 
 	**Cité par**:
 
@@ -33652,24 +33666,24 @@ de première instance de Nouméa ou ses sections détachées de Koné et de Lifo
 ###### Article R223
 
 La commission administrative spéciale met également à jour le tableau annexe mentionné à l'article 189 de la loi organique n°
-99-209 du 19 mars 1999 :
+99-209 du 19 mars 1999 : 
 
 1° En inscrivant à ce tableau annexe les électeurs inscrits sur la liste électorale générale qui ne remplissent pas encore la
 condition de domicile prévue au b ou au c du I de l'article 188 de la même loi organique ainsi que ceux qui, inscrits sur la
-liste électorale, n'ont pas sollicité leur inscription sur la liste électorale spéciale ;
+liste électorale, n'ont pas sollicité leur inscription sur la liste électorale spéciale ; 
 
 2° En retirant de ce tableau annexe les électeurs qui remplissent la condition de domicile prévue au b du I dudit article 188
 pour être inscrits sur la liste électorale spéciale ainsi que les électeurs décédés et tous ceux qui ne remplissent plus les
-conditions prévues pour figurer sur le tableau.
+conditions prévues pour figurer sur le tableau. 
 
-La commission administrative spéciale informe l'électeur inscrit au tableau annexe de cette inscription au plus tard le 16
+La commission administrative spéciale informe l'électeur inscrit au tableau annexe de cette inscription au plus tard le 22
 avril.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Cite**:
 
@@ -33678,13 +33692,13 @@ avril.
 
 	**Modifié par**:
 
-	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
+	  - Décret n°2015-1922 du 29 décembre 2015 - art. 2
 
 
 ###### Article R224
 
 La liste électorale spéciale et le tableau annexe sont signés de tous les membres de la commission administrative spéciale et
-déposés au secrétariat de la mairie le 22 mars. Le jour même du dépôt, ils sont tenus à la disposition du public et affichés
+déposés au secrétariat de la mairie le 29 mars. Le jour même du dépôt, ils sont tenus à la disposition du public et affichés
 par le maire aux lieux accoutumés, où ils doivent demeurer pendant dix jours.
 
 Le même jour, une copie de la liste électorale spéciale, du tableau annexe et du procès-verbal constatant l'accomplissement
@@ -33697,15 +33711,15 @@ commission.
 
 	**Codifié par**:
 
-	  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1087 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
+	  - Décret n°2015-1922 du 29 décembre 2015 - art. 3
 
 	**Cité par**:
 
-	  - Code électoral - art. R222 (M)
+	  - Code électoral - art. R222 (V)
 	  - Code électoral - art. R227 (V)
 
 
