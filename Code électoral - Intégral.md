@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -6598,7 +6598,7 @@ décembre 2013.
 
 ###### Article LO135-2
 
-I.-Les déclarations d'intérêts et d'activités déposées par le député en application de l'article LO 135-1 ainsi que, le cas
+I. - Les déclarations d'intérêts et d'activités déposées par le député en application de l'article LO 135-1 ainsi que, le cas
 échéant, les observations qu'il a formulées sont rendues publiques, dans les limites définies au III du présent article, par
 la Haute Autorité pour la transparence de la vie publique. Les électeurs peuvent adresser à la Haute Autorité toute
 observation écrite relative à ces déclarations d'intérêts et d'activités. 
@@ -6632,10 +6632,10 @@ Sauf si le déclarant a lui-même rendu publique sa déclaration de situation pa
 de quelque manière que ce soit, tout ou partie des déclarations de situation patrimoniale, des observations ou des
 appréciations prévues aux deuxième à avant-dernier alinéas du présent I est puni de 45 000 € d'amende. 
 
-II.-La procédure prévue aux neuf derniers alinéas du I du présent article est applicable à la déclaration de situation
+II. - La procédure prévue aux neuf derniers alinéas du I du présent article est applicable à la déclaration de situation
 patrimoniale déposée en fin de mandat en application du troisième alinéa du I de l'article LO 135-1. 
 
-III.-Ne peuvent être rendus publics les éléments suivants : les adresses personnelles de la personne soumise à déclaration,
+III. - Ne peuvent être rendus publics les éléments suivants : les adresses personnelles de la personne soumise à déclaration,
 les noms du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin et des autres membres de sa famille. 
 
 Pour la déclaration de situation patrimoniale, ne peuvent être rendus publics, s'agissant des biens immobiliers : les
@@ -6675,12 +6675,11 @@ Les éléments mentionnés au présent III ne peuvent être communiqués qu'à l
 droit ou sur requête des autorités judiciaires lorsque leur communication est nécessaire à la solution du litige ou utile
 pour la découverte de la vérité. 
 
-IV.-Les informations contenues dans les déclarations d'intérêts et d'activités rendues publiques conformément et dans les
-limites fixées au présent article sont réutilisables dans les conditions prévues aux articles 10 à 13 de la loi n° 78-753 du
-17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses
-dispositions d'ordre administratif, social et fiscal. 
+IV. - Les informations contenues dans les déclarations d'intérêts et d'activités rendues publiques conformément et dans les
+limites fixées au présent article sont réutilisables dans les conditions prévues aux articles L. 321-1, L. 321-2, L. 322-1 et
+L. 322-2 du code des relations entre le public et l'administration. 
 
-V.-Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise les
+V. - Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise les
 modalités d'application du présent article.
 
 **Nota:**
@@ -6692,14 +6691,12 @@ décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°64-1086 du 27 octobre 1964
-
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 - art. 10
+	  - Constitution du 4 octobre 1958 - art. 74 (V)
 	  - Code électoral - art. LO135-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. L321-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. L322-1 (V)
 
 	**Cité par**:
 
@@ -6718,7 +6715,7 @@ décembre 2013.
 
 	**Modifié par**:
 
-	  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 4 (V)
 
 
 ###### Article LO135-3
