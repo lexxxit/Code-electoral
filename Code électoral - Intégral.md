@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-27
 
 # Partie législative
 
@@ -2503,10 +2503,10 @@ caractère  interprétatif.
 
 ###### Article L52-2
 
-En cas d'élections générales, aucun résultat d'élection, partiel ou définitif, ne peut être communiqué au public par la voie
-de la presse ou par tout moyen de communication au public par voie électronique, en métropole, avant la fermeture du dernier
-bureau de vote sur le territoire métropolitain. Il en est de même dans les départements d'outre-mer avant la fermeture du
-dernier bureau de vote dans chacun des départements concernés.
+En cas d'élections générales, aucun résultat d'élection, partiel ou définitif, ne peut être communiqué au public par
+quelque moyen que ce soit, en métropole, avant la fermeture du dernier bureau de vote sur le territoire métropolitain. Il en
+est de même dans les départements d'outre-mer avant la fermeture du dernier bureau de vote dans chacun des départements
+concernés. 
 
 En cas d'élections partielles, les mêmes dispositions s'appliquent jusqu'à la fermeture du dernier bureau de vote de la
 circonscription territoriale intéressée.
@@ -2515,7 +2515,7 @@ circonscription territoriale intéressée.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -2528,7 +2528,7 @@ circonscription territoriale intéressée.
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
+	  - Loi n°2016-508 du 25 avril 2016 - art. 1
 
 
 ###### Article L52-3
@@ -2588,7 +2588,7 @@ Tout candidat à une élection déclare un mandataire conformément aux articles
 laquelle sa candidature est enregistrée. Ce mandataire peut être une association de financement électoral, ou une personne
 physique dénommée " le mandataire financier ". Un même mandataire ne peut être commun à plusieurs candidats. 
 
-Le mandataire recueille, pendant l'année précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du
+Le mandataire recueille, pendant  les six mois précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du
 compte de campagne du candidat, les fonds destinés au financement de la campagne. 
 
 Il règle les dépenses engagées en vue de l'élection et antérieures à la date du tour de scrutin où elle a été acquise, à
@@ -2627,7 +2627,7 @@ Saint-Pierre-et-Miquelon, dans les circonscriptions électorales de moins de 9 0
 	  - Code général des impôts, CGI. - art. 200 (V)
 	  - Code électoral - art. L113-1 (VD)
 	  - Code électoral - art. L330-6-1 (V)
-	  - Code électoral - art. L52-11 (V)
+	  - Code électoral - art. L52-11 (VD)
 	  - Code électoral - art. L52-11-1 (V)
 	  - Code électoral - art. L52-12 (VD)
 	  - Code électoral - art. L52-15 (VD)
@@ -2644,7 +2644,7 @@ Saint-Pierre-et-Miquelon, dans les circonscriptions électorales de moins de 9 0
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 38
+	  - Loi n°2016-508 du 25 avril 2016 - art. 2
 
 
 ###### Article L52-5
@@ -3429,7 +3429,7 @@ candidats figurant au second tour sur la nouvelle liste.
 ###### Article L52-14
 
 Il est institué une autorité administrative indépendante dénommée Commission nationale des comptes de campagne et des
-financements politiques.
+financements politiques. 
 
 Cette commission comprend neuf membres nommés, pour cinq ans, par décret :
 
@@ -3440,30 +3440,33 @@ avis du bureau ;
 cassation, après avis du bureau ;
 
 - trois membres ou membres honoraires de la Cour des comptes, désignés sur proposition du premier président de la Cour des
-comptes, après avis des présidents de chambres.
+comptes, après avis des présidents de chambres. 
 
 En cas de vacance survenant plus de six mois avant l'expiration du mandat, il est pourvu à la nomination, dans les conditions
 prévues au présent article, d'un nouveau membre, de même sexe que la personne qu'il remplace. Par dérogation aux dispositions
-du deuxième alinéa, son mandat expire à la date à laquelle se serait terminé le mandat de la personne qu'il remplace.
+du deuxième alinéa, son mandat expire à la date à laquelle se serait terminé le mandat de la personne qu'il remplace. 
 
 Lors du premier renouvellement intégral des membres de la commission postérieur au 30 avril 2020, les membres émanant de deux
 des institutions désignées aux troisième à cinquième alinéas sont deux femmes et un homme. La répartition entre les deux
 sexes est inverse pour les membres de la troisième institution. Lors de chaque renouvellement intégral ultérieur, la
 répartition entre sexes des membres émanant de chaque institution est l'inverse de celle que présentait cette institution
-lors du renouvellement précédent.
+lors du renouvellement précédent. 
 
-La commission élit son président.
+La commission élit son président. 
 
 Les crédits et les emplois nécessaires au fonctionnement de la Commission nationale des comptes de campagne et des
-financements politiques sont inscrits au budget général de l'Etat.
+financements politiques sont inscrits au budget général de l'Etat. 
 
 Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas
-applicables aux dépenses de la commission.
+applicables aux dépenses de la commission. 
 
-La commission peut recruter des agents contractuels pour les besoins de son fonctionnement.
+La commission peut recruter des agents contractuels pour les besoins de son fonctionnement et recourir à des experts à même
+d'évaluer les coûts des services et des prestations retracés dans les comptes de campagne et de l'assister dans l'exercice de
+sa mission de contrôle mentionnée à l'article 11-7 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière
+de la vie politique. 
 
 Les personnels des services de la commission, qu'ils soient fonctionnaires ou contractuels, sont tenus au secret
-professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions.
+professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions. 
 
 La commission peut demander à des officiers de police judiciaire de procéder à toute investigation qu'elle juge nécessaire
 pour l'exercice de sa mission.
@@ -3499,7 +3502,7 @@ pour l'exercice de sa mission.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 13
+	  - Loi n°2016-508 du 25 avril 2016 - art. 3
 
 
 ###### Article L52-15
@@ -4887,27 +4890,26 @@ dissimulé une incapacité prévue par la loi sera punie d'un emprisonnement d'u
 
 ###### Article L89
 
-Toute infraction aux dispositions de l'article L. 49 et L. 52-2 sera punie d'une amende de 3 750 euros sans préjudice de la
+Toute infraction aux dispositions de l'article L. 49      sera punie d'une amende de 3 750 euros sans préjudice de la
 confiscation des bulletins et autres documents distribués ou diffusés par tout moyen.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2016-508 du 25 avril 2016 - art. 4
+
+	**Cite**:
+
+	  - Code électoral - art. L49
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code électoral - art. L49 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L49 (V)
-	  - Code électoral - art. L52-2 (V)
 
 
 ###### Article L90
@@ -4949,13 +4951,13 @@ dispositions du dernier alinéa de l'article L. 51.
 
 ###### Article L90-1
 
-Toute infraction aux dispositions de l'article L. 52-1 sera punie d'une amende de 75 000 euros.
+Toute infraction aux dispositions        des articles L. 52-1 et L. 52-2 sera punie d'une amende de 75 000 euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -4965,11 +4967,11 @@ Toute infraction aux dispositions de l'article L. 52-1 sera punie d'une amende d
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2016-508 du 25 avril 2016 - art. 4
 
 	**Cite**:
 
-	  - Code électoral - art. L52-1 (V)
+	  - Code électoral - art. L52-1
 
 
 ###### Article L91
@@ -5814,6 +5816,17 @@ le dossier au procureur de la République compétent.
 	**Créé par**:
 
 	  - Loi n°75-1329 1975-12-31 art. 12 JORF 3 janvier 1976
+
+
+###### Article L117-2
+
+Le présent chapitre est applicable au vote par machine à voter et au vote par correspondance électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-508 du 25 avril 2016 - art. 5
 
 
 #### Chapitre VIII : Contentieux
@@ -16128,8 +16141,8 @@ statistique et des études économiques "  ;
 ###### Article L388
 
 Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la
-loi n° 2014-172 du 21 février 2014 visant à reconnaître le vote blanc aux élections, à l'exception des articles L. 15, L.
-15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
+loi n° 2016-508 du 25 avril 2016 de modernisation de diverses règles applicables aux élections, à l'exception des articles L.
+15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
 
@@ -16152,7 +16165,7 @@ mer ;
 	  - Loi n°61-814 du 29 juillet 1961
 	  - Loi n°99-209 du 19 mars 1999
 	  - Loi organique n°2004-192 du 27 février 2004
-	  - Loi n°2014-172 du 21 février 2014 (VD)
+	  - Loi n°2016-508 du 25 avril 2016
 	  - Code électoral - art. L15
 	  - Code électoral - art. L46-1
 	  - Code électoral - art. L66
@@ -16165,7 +16178,7 @@ mer ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-172 du 21 février 2014 - art. 5
+	  - Loi n°2016-508 du 25 avril 2016 - art. 7 (V)
 
 
 ###### Article L389
