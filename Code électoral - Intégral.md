@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2016-04-27
+Version Consolidée au 2016-07-11
 
 # Partie législative
 
@@ -31590,7 +31590,8 @@ modalités de récupération par l'électeur de son authentifiant ;
 
 Les opérations de vote par voie électronique sont placées sous le contrôle d'un bureau du vote électronique composé : 
 
-1° D'un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat, président ; 
+1° D'un membre du Conseil d'Etat ou de son suppléant, également membre du Conseil d'Etat, désignés pour cinq ans par le vice-
+président du Conseil d'Etat, président ; 
 
 2° Du directeur des Français à l'étranger et de l'administration consulaire au ministère des affaires étrangères ou de son
 représentant ; 
@@ -31599,8 +31600,11 @@ représentant ;
 
 4° Du directeur de l'Agence nationale de la sécurité des systèmes d'information ou de son représentant ; 
 
-5° De trois membres élus de l'Assemblée des Français de l'étranger, désignés au scrutin proportionnel par cette dernière.
-Pour chacun d'eux, un suppléant est désigné dans les mêmes conditions. 
+5° Du président de l'Assemblée des Français de l'étranger et de ses deux vice-présidents ou des représentants désignés par
+chacun d'entre eux au sein de l'Assemblée des Français de l'étranger chaque année lors de la première réunion de cette
+assemblée ;
+
+6° Du directeur des systèmes d'information du ministère des affaires étrangères ou de son représentant.
 
 La liste des membres titulaires et suppléants du bureau du vote électronique est publiée par arrêté conjoint du ministre de
 l'intérieur et du ministre des affaires étrangères. 
@@ -31609,8 +31613,8 @@ Le bureau du vote électronique ne délibère valablement que si quatre au moins
 égal des voix, celle du président est prépondérante. En cas d'absence ou d'empêchement, le président est remplacé par le plus
 âgé des membres présents. 
 
-Le secrétariat du bureau du vote électronique est assuré par le secrétariat de la commission électorale prévue à l'article 7
-de la loi organique du 31 janvier 1976 susmentionnée.
+Le secrétariat du bureau du vote électronique est assuré par la direction des Français à l'étranger et de l'administration
+consulaire.
 
 **Liens relatifs à cet article**
 
@@ -31618,14 +31622,14 @@ de la loi organique du 31 janvier 1976 susmentionnée.
 
 	  - Loi n°76-97 du 31 janvier 1976 - art. 7
 
-	**Créé par**:
-
-	  - Décret n°2011-843 du 15 juillet 2011 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2014-290 du 4 mars 2014 - art. 15 (V)
 	  - Décret n°2014-290 du 4 mars 2014 - art. 16 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-940 du 8 juillet 2016 - art. 1
 
 
 ###### Article R176-3-2
@@ -32865,39 +32869,43 @@ des études économiques" ;
 
 Pour l'application des dispositions du présent code en Polynésie française, il y a lieu de lire :
 
-1° "Polynésie française", au lieu de : "département" et : "de la Polynésie", au lieu de : "départemental" ;
+1° " Polynésie française " , au lieu de :  " département "  et :  " de la Polynésie " , au lieu de :  " départemental "  ;
 
-2° "Haut-commissaire", au lieu de : "préfet", de : "autorité préfectorale" et de : "Institut national de la statistique et
-des études économiques" ;
+2°  " Haut-commissaire "  au lieu de  " préfet "  et de  " autorité préfectorale "  ;
 
-3° "Services du haut-commissaire", au lieu de : "préfecture" ;
+3°  " Services du haut-commissaire " , au lieu de :  " préfecture "  ;
 
-4° "Secrétaire général du haut-commissariat", au lieu de : "Secrétaire général de préfecture" ;
+4°  " Secrétaire général du haut-commissariat " , au lieu de :  " Secrétaire général de préfecture "  ;
 
-5° "Services du chef de subdivision administrative", au lieu de : "sous-préfecture" ;
+5°  " Services du chef de subdivision administrative " , au lieu de :  " sous-préfecture "  ;
 
-6° "Subdivision administrative", au lieu de : "arrondissement", et : "chef de subdivision administrative", au lieu de :
-"sous-préfet" ;
+6°  " Subdivision administrative " , au lieu de :  " arrondissement " , et :  " chef de subdivision administrative " , au
+lieu de :  " sous-préfet "  ;
 
-7° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
+7°  " Tribunal de première instance " , au lieu de :  " tribunal d'instance "  et de :  " tribunal de grande instance "  ;
 
-8° "Election des représentants à l'assemblée de la Polynésie française", au lieu de : "élection des conseillers généraux" ;
+8°  " Election des représentants à l'assemblée de la Polynésie française " , au lieu de :  " élection des conseillers
+généraux "  ;
 
-9° "Représentant à l'assemblée de la Polynésie française", au lieu de : "conseiller général" et de : "conseiller régional" ;
+9°  " Représentant à l'assemblée de la Polynésie française " , au lieu de :  " conseiller général "  et de :  " conseiller
+régional "  ;
 
-10° "Circonscriptions électorales", au lieu de : "cantons" ;
+10°  " Circonscriptions électorales " , au lieu de :  " cantons "  ;
 
-11° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
+11°  " Tribunal de première instance " , au lieu de :  " tribunal d'instance "  et de :  " tribunal de grande instance "  ;
 
-12° "Chambre territoriale des comptes", au lieu de : "chambre régionale des comptes" ;
+12°  " Chambre territoriale des comptes " , au lieu de :  " chambre régionale des comptes "  ;
 
-13° "Chef du service des affaires économiques", au lieu de : "directeur départemental des enquêtes européennes" ;
+13°  " Chef du service des affaires économiques " , au lieu de :  " directeur départemental des enquêtes européennes "  ;
 
 14° (Supprimé) ;
 
-15° "Archives de la Polynésie française", au lieu de : "archives départementales" ;
+15°  " Archives de la Polynésie française " , au lieu de :  " archives départementales "  ;
 
-16° "Institut d'émission d'outre-mer" au lieu de : "Banque de France".
+16°  " Institut d'émission d'outre-mer "  au lieu de :  " Banque de France "  ;
+
+17°  " Institut de la statistique de la Polynésie française "  au lieu de  " Institut national de la statistique et des
+études économiques " .
 
 **Nota:**
 
@@ -32919,7 +32927,7 @@ et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 58
+	  - Décret n°2016-943 du 8 juillet 2016 - art. 2
 
 
 ###### Article R203
@@ -33218,12 +33226,12 @@ intéressé et au ministre chargé de l'outre-mer.
 
 ###### Article R213
 
-I.-L'institut de la statistique et des études économiques de la Nouvelle-Calédonie (ISEE) met en œuvre un traitement
+I. - L'institut de la statistique et des études économiques de la Nouvelle-Calédonie (ISEE) met en œuvre un traitement
 automatisé de données à caractère personnel en vue de la tenue du fichier général des électeurs et électrices inscrits en
 Nouvelle-Calédonie mentionné au VII de l'article 189 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-
 Calédonie, ainsi que des listes électorales spéciales à la consultation prévue par le titre IX de cette même loi. 
 
-II.-Ce fichier est constitué à partir : 
+II. - Ce fichier est constitué à partir : 
 
 1° Des listes électorales de la Nouvelle-Calédonie ; 
 
@@ -33234,7 +33242,7 @@ la Constitution et des données ayant permis leur établissement ;
 annexe ; 
 
 4° Des listes électorales complémentaires établies en Nouvelle-Calédonie pour l'application du chapitre Ier bis de la loi n°
-77-808 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen ; 
+77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen ; 
 
 5° Des listes électorales complémentaires établies en Nouvelle-Calédonie pour l'application des articles LO 227-1 à LO
 227-4 ; 
@@ -33243,7 +33251,7 @@ annexe ;
 des données ayant, pour l'application de ses articles 218 et 218-2, permis leur établissement, notamment le fichier de
 l'état-civil coutumier. 
 
-III.-Il est mis à jour à partir : 
+III. - Il est mis à jour à partir : 
 
 1° Des décisions des commissions administratives chargées de la révision des listes électorales relatives aux inscriptions et
 radiations effectuées sur ces listes ; 
@@ -33252,15 +33260,17 @@ radiations effectuées sur ces listes ;
 leur tableau annexe pour l'élection du congrès et des assemblées de province, ainsi que de l'établissement des listes
 électorales spéciales pour la consultation prévue par le titre IX de la loi organique n° 99-209 du 19 mars 1999 ; 
 
-3° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ; 
+3° L'Institut national de la statistique et des études économiques, l'Institut de la statistique de la Polynésie française
+et, dans les îles Wallis et Futuna, le représentant de l'Etat chargé du contrôle des listes électorales, pour les
+informations de la nature de celles qui sont mentionnées au 6° du III ; 
 
 4° Des avis de perte de la capacité électorale établis par les services du casier judiciaire ; 
 
 5° Des avis de décès établis par les mairies ; 
 
-6° Des avis reçus de l'Institut national de la statistique et des études économiques et des représentants de l'Etat chargés
-du contrôle des listes électorales, en Polynésie française et dans les îles Wallis et Futuna relatifs aux personnes inscrites
-sur une liste électorale en Nouvelle-Calédonie et qui : 
+6° Des avis reçus de l'Institut national de la statistique et des études économiques, de l'Institut de la statistique de la
+Polynésie française et du représentant de l'Etat chargé du contrôle des listes électorales dans les îles Wallis et Futuna,
+relatifs aux personnes inscrites sur une liste électorale en Nouvelle-Calédonie et qui : 
 
 a) Soit, également inscrites sur une liste électorale hors de la Nouvelle-Calédonie, doivent être radiées en Nouvelle-
 Calédonie ; 
@@ -33269,7 +33279,7 @@ b) Soit sont décédées hors de la Nouvelle-Calédonie ;
 
 c) Soit ont fait l'objet, hors de la Nouvelle-Calédonie, d'une décision les privant de leurs droits civils et politiques. 
 
-IV.-Les catégories d'informations traitées sont les suivantes : 
+IV. - Les catégories d'informations traitées sont les suivantes : 
 
 1° Eléments de l'état-civil de l'électeur : nom, prénoms, sexe, date et lieu de naissance ; 
 
@@ -33294,7 +33304,7 @@ de l'article 218-2 de la loi organique du 19 mars 1999 ;
 
 10° Décès. 
 
-V.-Peuvent consulter les informations traitées : 
+V. - Peuvent consulter les informations traitées : 
 
 1° Le haut-commissaire de la République pour lui permettre d'informer le gouvernement de la Nouvelle-Calédonie de l'évolution
 du corps électoral ; 
@@ -33313,22 +33323,29 @@ spéciales relatives à la consultation prévue par le titre IX de la loi organi
 1999, pour la réponse aux demandes que lui adressent les présidents ou membres des commissions administratives spéciales en
 application du même article. 
 
-VI.-Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 modifiée
+VI. - Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 modifiée
 relative à l'informatique et aux libertés s'exerce auprès de l'institut de la statistique et des études économiques de la
 Nouvelle-Calédonie. 
 
-VII.-Le fichier ne peut servir à des fins de recherche de personnes.
+VII. - Le fichier ne peut servir à des fins de recherche de personnes.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 76 (V)
+	  - Loi n°77-729 du 7 juillet 1977 (V)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+	  - Loi n°99-209 du 19 mars 1999 - art. 189 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 218 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 218-1 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 218-2 (V)
+	  - Code électoral - art. LO227-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°64-1087 du 27 octobre 1964
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 39
-	  - Loi n°78-17 du 6 janvier 1978 - art. 40
 
 	**Cité par**:
 
@@ -33336,7 +33353,7 @@ VII.-Le fichier ne peut servir à des fins de recherche de personnes.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1923 du 29 décembre 2015 - art. 1
+	  - Décret n°2016-943 du 8 juillet 2016 - art. 3
 
 
 #### Chapitre III : Dispositions propres aux îles Wallis et Futuna
@@ -33361,6 +33378,105 @@ village, ou, à défaut, par le plus âgé des assesseurs.
 	**Créé par**:
 
 	  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+
+
+#### Chapitre IV : Dispositions propres à la Polynésie française
+
+###### Article R213-2
+
+I. - L'Institut de la statistique de la Polynésie française (ISPF) met en œuvre un traitement automatisé de données à
+caractère personnel en vue de la tenue du fichier général des électeurs et électrices inscrits en Polynésie française,
+mentionné à l'article 189 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie
+française. 
+
+II. - Le fichier mentionné au I est constitué à partir : 
+
+1° Des listes électorales de la Polynésie française ; 
+
+2° Des listes électorales complémentaires établies en Polynésie française pour l'application du chapitre Ier bis de la loi n°
+77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen ; 
+
+3° Des listes électorales complémentaires établies en Polynésie française pour l'application des articles LO 227-1 à LO 227-4
+du présent code. 
+
+III. - Le fichier mentionné au I est mis à jour à partir : 
+
+1° Des décisions des commissions administratives chargées de la révision des listes électorales, relatives aux inscriptions
+et radiations effectuées sur cette liste ; 
+
+2° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ; 
+
+3° Des avis de perte de la capacité électorale établis par les services du casier judiciaire ; 
+
+4° Des avis de décès établis par les mairies de Polynésie française ; 
+
+5° Des informations mentionnées au premier alinéa de l'article L. 17-1 ; 
+
+6° Des avis reçus de l'Institut national de la statistique et des études économiques, de l'Institut de la statistique et des
+études économiques de la Nouvelle-Calédonie (ISEE) et du représentant de l'Etat chargé du contrôle des listes électorales
+dans les îles Wallis et Futuna, relatifs aux personnes inscrites sur les listes électorales en Polynésie française et qui : 
+
+a) Soit, étant également inscrites sur une liste électorale hors de la Polynésie française, doivent être radiées en Polynésie
+française ; 
+
+b) Soit, étant également inscrites sur une liste électorale consulaire, ont décidé de voter à l'étranger dans le cadre des
+élections présidentielles, législatives et européennes ; 
+
+c) Soit sont décédées hors de la Polynésie française ; 
+
+d) Soit ont fait l'objet hors de la Polynésie française d'une décision les privant de leurs droits civils et politiques. 
+
+IV. - Les catégories d'informations traitées sont les suivantes : 
+
+1° Eléments de l'état civil de l'électeur : nom, prénoms, sexe, date et lieu de naissance ; 
+
+2° Lieux et dates d'inscription, par les commissions administratives, sur les listes électorales ; 
+
+3° Date de dépôt de la demande d'inscription sur les listes électorales ; 
+
+4° Date d'inscription sur les listes électorales ; 
+
+5° Nature de la liste électorale, générale ou complémentaire ; 
+
+6° Perte des droits civils et politiques (date d'effet et durée) ; 
+
+7° Perte de la nationalité française (date d'effet) ; 
+
+8° Nationalité, pour les ressortissants de l'Union européenne autres que les citoyens français ; 
+
+9° Décès ; 
+
+10° Vote à l'étranger lorsque l'électeur est inscrit sur une liste électorale consulaire. 
+
+V. - Peuvent consulter les informations traitées : 
+
+1° Le haut-commissaire de la République ; 
+
+2° Les maires de la Polynésie française pour ce qui concerne leur commune ; 
+
+3° L'Institut national de la statistique et des études économiques, l'Institut de la statistique et des études économiques de
+la Nouvelle-Calédonie (ISEE) et, dans les îles Wallis et Futuna, le représentant de l'Etat chargé du contrôle des listes
+électorales, pour les informations de la nature de celles qui sont mentionnées au 6° du III. 
+
+VI. - Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 modifiée
+relative à l'informatique et aux libertés s'exercent auprès de l'Institut de la statistique de la Polynésie française. 
+
+VII. - Le fichier ne peut servir à des fins de recherche de personnes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°77-729 du 7 juillet 1977
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 189
+	  - Code électoral - art. L17-1 (VT)
+	  - Code électoral - art. LO227-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-943 du 8 juillet 2016 - art. 1
 
 
 ### Titre II : Election des députés
