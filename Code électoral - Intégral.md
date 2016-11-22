@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2016-11-10
+Version Consolidée au 2016-11-23
 
 # Partie législative
 
@@ -15532,6 +15532,23 @@ le 20 décembre 2013.
 	**Cité par**:
 
 	  - Code électoral - art. L372 (V)
+
+
+###### Article L367-1
+
+Ne peuvent être élus conseillers à l'Assemblée de Corse : les membres du  cabinet du président de l'assemblée et les membres
+du cabinet du  président du conseil exécutif de Corse, les directeurs généraux, les  directeurs, directeurs adjoints, chefs
+de service et chefs de bureau de  la collectivité de Corse et de ses établissements publics dans les  départements de la
+Corse-du-Sud et de la Haute-Corse s'ils y exercent  leurs fonctions ou les ont exercées depuis moins d'un an. 
+
+Le délai mentionné au précédent alinéa n'est pas opposable aux  candidats qui, au jour de l'élection, auront été admis à
+faire valoir  leurs droits à la retraite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 4
 
 
 #### Chapitre IV : Incompatibilités
