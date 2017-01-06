@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-07
 
 # Partie législative
 
@@ -9245,8 +9245,8 @@ d'une circonscription territoriale de voirie, d'employé des bureaux de la préf
 généralement, de tous les agents salariés ou subventionnés sur les fonds départementaux. 
 
 La même incompatibilité existe à l'égard des représentants légaux des établissements départementaux ou interdépartementaux
-mentionnés aux 1°, 2° et 3° de l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à
-la fonction publique hospitalière, dans le ou les départements de rattachement de l'établissement où ils sont affectés, et à
+mentionnés aux 1° et 3° de l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la
+fonction publique hospitalière, dans le ou les départements de rattachement de l'établissement où ils sont affectés, et à
 l'égard des entrepreneurs de services départementaux. 
 
 Ne sont pas considérés comme salariés et compris dans les cas spécifiés à l'alinéa précédent les médecins chargés, dans leur
@@ -9277,11 +9277,11 @@ La même exception s'applique aux vétérinaires chargés dans les mêmes condit
 
 	**Cite**:
 
-	  - Loi n°86-33 du 9 janvier 1986 - art. 2 (V)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 2
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Ordonnance n°2017-10 du 5 janvier 2017 - art. 1
 
 	**Anciens textes**:
 
@@ -10391,8 +10391,8 @@ Les fonctions de conseiller municipal sont incompatibles avec celles :
 
 2° De fonctionnaire des corps de conception et de direction et de commandement et d'encadrement de la police nationale ; 
 
-3° De représentant légal des établissements communaux ou intercommunaux mentionnés aux 1°, 2° et 3° de l'article 2 de la loi
-n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière dans la ou les
+3° De représentant légal des établissements communaux ou intercommunaux mentionnés aux 1° et 3° de l'article 2 de la loi n°
+86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière dans la ou les
 communes de rattachement de l'établissement où il est affecté. 
 
 Les personnes désignées à l'article L. 46 et au présent article qui seraient élues membres d'un conseil municipal auront, à
@@ -10404,20 +10404,16 @@ réputées avoir opté pour la conservation dudit emploi.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cite**:
 
-	  - Loi n°86-33 du 9 janvier 1986 - art. 2 (V)
-	  - Code électoral - art. L46 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-748 1991-07-31 art. 21
+	  - Loi n°86-33 du 9 janvier 1986 - art. 2
+	  - Code électoral - art. L46
 
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 24 () JORF 23 juillet 1996
+	  - Ordonnance n°2017-10 du 5 janvier 2017 - art. 1
 
 	**Cité par**:
 
