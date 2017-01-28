@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -800,9 +800,9 @@ Région Sud-Est : Sète, Marseille, Arles, Lyon, Chalon-sur-Saône, Saint-Jean-d
 
 ###### Article L15-1
 
-Les citoyens qui ne peuvent fournir la preuve d'un domicile ou d'une résidence et auxquels la loi n'a pas fixé une commune de
-rattachement sont, sur leur demande, inscrits sur la liste électorale de la commune où est situé l'organisme d'accueil agréé
-dans les conditions prévues aux articles L. 264-6 et L. 264-7 du code de l'action sociale et des familles :
+Les personnes sans domicile stable sont, à leur demande, inscrites sur la liste électorale de la commune où est situé
+l'organisme auprès duquel elles ont élu domicile en application de l'article L. 264-1 du code de l'action sociale et des
+familles :
 
 - dont l'adresse figure depuis au moins six mois sur leur carte nationale d'identité ;
 
@@ -813,7 +813,7 @@ moins six mois.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -826,13 +826,12 @@ moins six mois.
 
 	**Modifié par**:
 
-	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 193
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L264-2 (V)
-	  - Code de l'action sociale et des familles - art. L264-6 (V)
-	  - Code de l'action sociale et des familles - art. L264-7 (V)
+	  - Code de l'action sociale et des familles - art. L264-1
+	  - Code de l'action sociale et des familles - art. L264-2
 
 
 ##### Section 2 : Etablissement et révision des listes électorales
