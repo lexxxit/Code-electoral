@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-03-08
 
 # Partie législative
 
@@ -2662,14 +2662,14 @@ compte de campagne du candidat tête de liste lorsque le candidat qu'elle a sout
 
 L'association ne peut recueillir de fonds que pendant la période prévue au deuxième alinéa de l'article L. 52-4. 
 
-Elle est dissoute de plein droit trois mois après le dépôt du compte de campagne du candidat qu'elle soutient. Avant
+Elle est dissoute de plein droit six mois après le dépôt du compte de campagne du candidat qu'elle soutient. Avant
 l'expiration de ce délai, elle est tenue de se prononcer sur la dévolution de son actif net ne provenant pas de l'apport du
-candidat ou d'un des membres d'un binôme de candidats. Le solde doit être attribué, soit à une association de financement
-d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de dévolution
-dans les conditions et délais prévus ci-dessus, à la demande du préfet du département dans lequel est situé le siège de
-l'association de financement électorale, le procureur de la République saisit le président du tribunal de grande instance,
-qui détermine le ou les établissements reconnus d'utilité publique attributaires de l'actif net. Il en va de même dans le cas
-où la dévolution n'est pas acceptée. 
+candidat ou d'un des membres d'un binôme de candidats. Le solde doit être attribué, soit à une association de financement ou
+à un mandataire financier d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité publique. A défaut
+de décision de dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du département dans lequel
+est situé le siège de l'association de financement électorale, le procureur de la République saisit le président du tribunal
+de grande instance, qui détermine le ou les établissements reconnus d'utilité publique attributaires de l'actif net. Il en va
+de même dans le cas où la dévolution n'est pas acceptée. 
 
 Si le candidat soutenu par l'association de financement électorale n'a pas déposé sa candidature, l'association est dissoute
 de plein droit à l'expiration du délai de dépôt des candidatures. La dévolution de l'actif net, sur laquelle l'association
@@ -2683,7 +2683,7 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 
 	**Cite**:
 
-	  - Loi du 1er juillet 1901 - art. 5 (V)
+	  - Loi du 1er juillet 1901 - art. 5
 
 	**Cité par**:
 
@@ -2712,7 +2712,8 @@ doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans le
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 17
+	  - Loi n°2017-286 du 6 mars 2017 - art. 1
+	  - Loi n°2017-286 du 6 mars 2017 - art. 2
 
 
 ###### Article L52-6
@@ -2748,17 +2749,17 @@ tête de liste lorsque le candidat qui l'a désigné figure sur cette liste.
 
 Le mandataire financier ne peut recueillir de fonds que pendant la période prévue au deuxième alinéa de l'article L. 52-4. 
 
-Les fonctions du mandataire financier cessent de plein droit trois mois après le dépôt du compte de campagne du candidat qui
+Les fonctions du mandataire financier cessent de plein droit six mois après le dépôt du compte de campagne du candidat qui
 l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les délais légaux, à l'expiration du délai de dépôt
 des candidatures. 
 
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif ne
 provenant pas de l'apport du candidat apparaît, il est dévolu, sur décision du candidat, soit à une association de
-financement d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de
-dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du département de la circonscription
-électorale dans laquelle se présente le candidat ou le binôme, le procureur de la République saisit le président du tribunal
-de grande instance qui détermine le ou les établissements reconnus d'utilité publique attributaires de l'actif net. Il en va
-de même lorsque la dévolution n'est pas acceptée.
+financement ou à un mandataire financier d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité
+publique. A défaut de décision de dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du
+département de la circonscription électorale dans laquelle se présente le candidat ou le binôme, le procureur de la
+République saisit le président du tribunal de grande instance qui détermine le ou les établissements reconnus d'utilité
+publique attributaires de l'actif net. Il en va de même lorsque la dévolution n'est pas acceptée.
 
 **Nota:**
 
@@ -2783,7 +2784,8 @@ de même lorsque la dévolution n'est pas acceptée.
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 17
+	  - Loi n°2017-286 du 6 mars 2017 - art. 1
+	  - Loi n°2017-286 du 6 mars 2017 - art. 2
 
 	**Cite**:
 
@@ -2896,10 +2898,10 @@ de leurs membres par les  assemblées parlementaires pour couvrir les frais lié
 Les actes et documents émanant d'une association de financement électorale ou d'un mandataire financier et destinés aux
 tiers, notamment ceux utilisés pour des appels à des dons, doivent indiquer le candidat, le binôme de candidats ou la liste
 de candidats destinataires des sommes collectées ainsi que la dénomination de l'association et la date à laquelle elle a été
-déclarée ou le nom du mandataire financier et la date à laquelle il a été désigné.
+déclarée ou le nom du mandataire financier et la date à laquelle il a été désigné. 
 
 Ils doivent indiquer que le candidat, le binôme de candidats ou la liste de candidats ne peuvent recueillir de dons que par
-l'intermédiaire de ladite association ou dudit mandataire et reproduire les dispositions de l'article précédent.
+l'intermédiaire de ladite association ou dudit mandataire et reproduire les dispositions des articles L. 52-8 et L. 113-1.
 
 **Nota:**
 
@@ -2913,7 +2915,12 @@ l'intermédiaire de ladite association ou dudit mandataire et reproduire les dis
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 17
+	  - Loi n°2017-286 du 6 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code électoral - art. L113-1 (V)
+	  - Code électoral - art. L52-8 (V)
 
 	**Cité par**:
 
@@ -16161,9 +16168,9 @@ statistique et des études économiques "  ;
 
 ###### Article L388
 
-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la
-loi n° 2016-508 du 25 avril 2016 de modernisation de diverses règles applicables aux élections, à l'exception des articles L.
-15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
+Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2017-286 du 6 mars
+2017 tendant à renforcer les obligations comptables des partis politiques et des candidats, à l'exception des articles L. 15,
+L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
 
@@ -16199,7 +16206,7 @@ mer ;
 
 	**Modifié par**:
 
-	  - Loi n°2016-508 du 25 avril 2016 - art. 7 (V)
+	  - Loi n°2017-286 du 6 mars 2017 - art. 10 (V)
 
 
 ###### Article L389
