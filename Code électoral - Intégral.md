@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-03-12
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -3333,7 +3333,10 @@ au seul premier tour ne peut retracer de dépenses postérieures à la date de c
 immobilisations éventuellement constituées au cours de la période mentionnée à l'article L. 52-4 doit être déduite des
 charges retracées dans le compte de campagne. 
 
-La commission assure la publication des comptes de campagne dans une forme simplifiée. 
+La commission assure la publication des comptes de campagne dans une forme simplifiée. Elle indique notamment les montants
+consolidés des emprunts souscrits par le candidat ou le candidat tête de liste pour financer cette campagne, répartis par
+catégories de prêteurs, types de prêts et pays d'établissement ou de résidence des prêteurs, ainsi que l'identité des
+prêteurs personnes morales.
 
 Pour l'application de l'article L. 52-11, les frais de transport aérien, maritime et fluvial dûment justifiés, exposés par
 les candidats aux élections législatives, aux élections sénatoriales et aux élections régionales à l'intérieur de chacun des
@@ -3346,7 +3349,8 @@ Pour l'application du présent article, en cas de scrutin binominal, le candidat
 
 **Nota:**
 
-
+Conformément aux dispositions du I de l'article 10 de la loi n° 2017-286 du 6 mars 2017, ces dispositions s'appliquent aux
+élections se déroulant après le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -3387,7 +3391,7 @@ Pour l'application du présent article, en cas de scrutin binominal, le candidat
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 17
+	  - Loi n°2017-286 du 6 mars 2017 - art. 4
 
 	**Cite**:
 
@@ -8905,12 +8909,9 @@ ou ont exercé leurs fonctions depuis moins d'un an ;
 généraux, les directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil départemental et de
 conseil régional dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins d'un an ;
 
-19° Les membres du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse,
-les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité
-territoriale de Corse et de ses établissements publics dans les départements de la Corse-du-Sud et de la Haute-Corse, s'ils y
-exercent leurs fonctions ou les ont exercées depuis moins d'un an.
+19° (abrogé)
 
-Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
+Les délais mentionnés aux troisième (2°) à dix-neuvième (18°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
 jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
 
 **Nota:**
@@ -8940,8 +8941,7 @@ jour de l'élection, auront été admis à faire valoir leurs droits à la retra
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-	  - Loi n°2013-403 du 17 mai 2013 - art. 7
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -10134,12 +10134,12 @@ territorial ;
 
 7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
-8° Les personnes exerçant, au sein du conseil régional, du conseil départemental, de la collectivité territoriale de Corse,
-de Guyane ou de Martinique, d'un établissement public de coopération intercommunale à fiscalité propre ou de leurs
-établissements publics, les fonctions de directeur général des services, directeur général adjoint des services, directeur
-des services, directeur adjoint des services ou chef de service, ainsi que les fonctions de directeur de cabinet, directeur
-adjoint de cabinet ou chef de cabinet en ayant reçu délégation de signature du président, du président de l'assemblée ou du
-président du conseil exécutif ; 
+8° Les personnes exerçant, au sein du conseil régional, du conseil départemental, de la collectivité de Corse, de la
+collectivité de Guyane ou de Martinique, d'un établissement public de coopération intercommunale à fiscalité propre ou de
+leurs établissements publics, les fonctions de directeur général des services, directeur général adjoint des services,
+directeur des services, directeur adjoint des services ou chef de service, ainsi que les fonctions de directeur de cabinet,
+directeur adjoint de cabinet ou chef de cabinet en ayant reçu délégation de signature du président, du président de
+l'assemblée ou du président du conseil exécutif ; 
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et
 ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
@@ -10153,14 +10153,11 @@ saisonnière ou occasionnelle.
 Les délais mentionnés aux alinéas ci-dessus ne sont pas opposables aux candidats qui, au jour de l'élection, auront été admis
 à faire valoir leurs droits à la retraite.
 
-**Nota:**
-
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
-51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
-conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -10177,7 +10174,7 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 22 (V)
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 
 ###### Article L233
@@ -12511,8 +12508,8 @@ procuration. Le mandataire doit être membre du collège électoral sénatorial 
 
 ###### Article L282
 
-Dans le cas où un conseiller départemental est député, sénateur, conseiller régional ou conseiller à l'Assemblée de Corse, un
-remplaçant lui est désigné, sur sa présentation, par le président du conseil départemental.
+Dans le cas où un conseiller départemental est député, sénateur ou conseiller régional, un remplaçant lui est désigné, sur sa
+présentation, par le président du conseil départemental.
 
 Dans le cas où un conseiller régional, un conseiller à l'Assemblée de Corse, un conseiller à l'assemblée de Guyane ou un
 conseiller à l'assemblée de Martinique est député ou sénateur, un remplaçant lui est désigné, sur sa présentation, par le
@@ -12534,8 +12531,7 @@ Martinique.
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-	  - Loi n°2013-702 du 2 août 2013 - art. 5
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 2
 
 
 ### Titre III : Désignation des délégués des conseils municipaux
@@ -12945,7 +12941,7 @@ Dans le mois qui suit son élection, l'Assemblée de Corse procède à la répar
 de l'élection des sénateurs dans les départements de Corse-du-Sud et de Haute-Corse.
 
 Le nombre de membres de l'Assemblée de Corse à désigner pour faire partie des collèges électoraux sénatoriaux de la Corse-du-
-Sud et de la Haute-Corse est respectivement de vingt-quatre et de vingt-sept.
+Sud et de la Haute-Corse est respectivement de vingt-neuf et de trente-quatre.
 
 **Liens relatifs à cet article**
 
@@ -12957,17 +12953,17 @@ Sud et de la Haute-Corse est respectivement de vingt-quatre et de vingt-sept.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 3
 
 
 ###### Article L293-2
 
-L'Assemblée de Corse désigne d'abord ses membres appelés à représenter la collectivité territoriale au sein du collège
-électoral du département de Corse-du-Sud.
+L'Assemblée de Corse désigne d'abord ses membres appelés à représenter la collectivité de Corse au sein du collège électoral
+du département de Corse-du-Sud.
 
 Chaque conseiller ou groupe de conseillers peut présenter avec l'accord des intéressés une liste de candidats en nombre au
 plus égal à celui des sièges à pourvoir.
@@ -12990,32 +12986,32 @@ collège électoral sénatorial du même département que le conseiller qu'il re
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 
 ###### Article L293-3
 
 Le représentant de l'Etat dans la collectivité territoriale de Corse notifie au représentant de l'Etat dans chaque
-département de la collectivité territoriale les noms des conseillers désignés pour son département en vue de l'établissement
-du tableau des électeurs sénatoriaux mentionné à l'article L. 292.
+département de la collectivité de Corse les noms des conseillers désignés pour son département en vue de l'établissement du
+tableau des électeurs sénatoriaux mentionné à l'article L. 292.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Modifié par**:
 
-	  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. L292 (V)
+	  - Code électoral - art. L292
 
 	**Cité par**:
 
@@ -15372,7 +15368,7 @@ cette région dans un délai de trois mois.
 
 ###### Article L364
 
-L'Assemblée de Corse est composée de cinquante et un membres élus pour la même durée que les conseillers régionaux. Ils sont
+L'Assemblée de Corse est composée de soixante-trois membres élus pour la même durée que les conseillers régionaux. Ils sont
 rééligibles.
 
 Elle se renouvelle intégralement.
@@ -15393,15 +15389,7 @@ La loi n° 2010-145 du 16 février 2010 a été abrogée par le 1° de l'article
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Modifié par**:
-
-	  - Loi n°99-36 du 19 janvier 1999 - art. 15 ()
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -15409,6 +15397,10 @@ La loi n° 2010-145 du 16 février 2010 a été abrogée par le 1° de l'article
 	  - Décret n°2015-939 du 30 juillet 2015 (V)
 	  - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
 	  - Code général des collectivités territoriales - art. L4422-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 30
 
 
 #### Chapitre II : Mode de scrutin
@@ -15443,13 +15435,13 @@ présentation sous réserve des dispositions du deuxième alinéa de l'article L
 
 ###### Article L366
 
-Au premier tour de scrutin, il est attribué neuf sièges à la liste qui a obtenu la majorité absolue des suffrages. Les autres
+Au premier tour de scrutin, il est attribué onze sièges à la liste qui a obtenu la majorité absolue des suffrages. Les autres
 sièges sont répartis entre toutes les listes en présence, à la représentation proportionnelle à la plus forte moyenne, sous
 réserve de l'application des dispositions du troisième alinéa.
 
 Si aucune liste n'a recueilli au premier tour la majorité absolue des suffrages exprimés, il est procédé à un second tour. Il
-est attribué neuf sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
-arrivées en tête, ces neuf sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
+est attribué onze sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
+arrivées en tête, ces onze sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
 attribution opérée, les autres sièges sont répartis conformément aux dispositions de la deuxième phrase de l'alinéa
 précédent.
 
@@ -15465,7 +15457,7 @@ proclamés élus.
 
 	**Modifié par**:
 
-	  - Loi n°2009-832 du 7 juillet 2009 - art. 1
+	  - Loi n°2015-991 du 7 août 2015 - art. 30
 
 
 #### Chapitre III : Conditions d'éligibilité et inéligibilités
@@ -15527,28 +15519,24 @@ faire valoir  leurs droits à la retraite.
 
 Les dispositions des articles L. 342 à L. 344 sont applicables aux conseillers à l'Assemblée de Corse. 
 
-Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la collectivité
-territoriale " à la place de " de la région " et de " régionaux ", " de l'Assemblée de Corse " à la place de " du conseil
-régional ", " conseiller à l'Assemblée de Corse " à la place de " conseiller régional " et la " collectivité territoriale " à
-la place de " les régions ".
+Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la collectivité de
+Corse " à la place de " de la région " et de " régionaux ", " de l'Assemblée de Corse " à la place de " du conseil régional
+", " conseiller à l'Assemblée de Corse " à la place de " conseiller régional " et la " collectivité de Corse " à la place de
+" les régions ".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Créé par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. L342 (V)
+	  - Code électoral - art. L342
 
 
 ###### Article L369
@@ -15584,7 +15572,7 @@ listes, l'écart entre le nombre des candidats de chaque sexe ne peut être sup�
 alternativement d'un candidat de chaque sexe. 
 
 La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
-porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité territoriale. 
+porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité de Corse. 
 
 Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le candidat a procédé à la
 déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les
@@ -15598,7 +15586,7 @@ pièces prévues au premier alinéa de ces mêmes articles.
 
 	**Modifié par**:
 
-	  - Loi n°2011-412 du 14 avril 2011 - art. 12
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 	**Cité par**:
 
@@ -15659,27 +15647,26 @@ présentent pas au second tour. En cas de modification de la composition d'une l
 candidats peuvent également être modifiés.
 
 Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
-choix de la liste sur laquelle ils seront candidats est notifié au représentant de l'Etat dans la collectivité territoriale
-de Corse par le candidat placé en tête de la liste constituée pour le premier tour.
+choix de la liste sur laquelle ils seront candidats est notifié au représentant de l'Etat dans la collectivité de Corse par
+le candidat placé en tête de la liste constituée pour le premier tour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-832 du 7 juillet 2009 - art. 1
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code électoral - art. L365 (V)
-	  - Code électoral - art. L374 (V)
+	  - Code électoral - art. L374 (VD)
 
 
 ###### Article L374
 
-Les déclarations de candidature en vue du second tour doivent être déposées à la préfecture de la collectivité territoriale
-de Corse au plus tard le mardi suivant le premier tour à dix-huit heures. Un récépissé définitif est délivré immédiatement
-aux listes répondant aux conditions fixées à l'article L. 373. Il vaut enregistrement. Tout refus d'enregistrement est
-motivé. 
+Les déclarations de candidature en vue du second tour doivent être déposées à la préfecture de la collectivité de Corse au
+plus tard le mardi suivant le premier tour à dix-huit heures. Un récépissé définitif est délivré immédiatement aux listes
+répondant aux conditions fixées à l'article L. 373. Il vaut enregistrement. Tout refus d'enregistrement est motivé. 
 
 En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose d'un délai de vingt-quatre heures
 pour saisir le tribunal administratif qui statue en premier et dernier ressort, dans les trois jours du dépôt de la requête.
@@ -15689,20 +15676,15 @@ Faute par le tribunal d'avoir statué dans ce délai, le récépissé est déliv
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Créé par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. L373 (V)
+	  - Code électoral - art. L373 (VD)
 
 	**Cité par**:
 
@@ -15826,9 +15808,9 @@ Le collège électoral est convoqué par décret publié au moins cinq semaines 
 
 ###### Article L379
 
-Le recensement général des votes est effectué au chef-lieu de la collectivité territoriale le lundi qui suit le scrutin,
-avant midi, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés
-par un décret en Conseil d'Etat. 
+Le recensement général des votes est effectué au chef-lieu de la collectivité de Corse le lundi qui suit le scrutin, avant
+midi, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés par un
+décret en Conseil d'Etat. 
 
 Les dispositions de l'article L. 358 sont applicables à l'élection des conseillers à l'Assemblée de Corse.
 
@@ -15836,20 +15818,15 @@ Les dispositions de l'article L. 358 sont applicables à l'élection des conseil
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Créé par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 	**Cite**:
 
-	  - Code électoral - art. L358 (V)
+	  - Code électoral - art. L358
 
 	**Cité par**:
 
@@ -15872,7 +15849,8 @@ le délai imparti, le remplacement est assuré par le candidat suivant dans l'or
 Le représentant de l'Etat en Corse notifie le nom de ce remplaçant au président de l'Assemblée de Corse. 
 
 Le mandat de la personne ayant remplacé un conseiller de l'Assemblée de Corse dont le siège était devenu vacant expire lors
-du renouvellement de l'Assemblée de Corse qui suit son entrée en fonction. 
+du renouvellement de l'Assemblée de Corse qui suit son entrée en fonction, sauf dans le cas prévu au dernier alinéa de
+l'article L. 4422-18 du code général des collectivités territoriales. 
 
 Lorsque les dispositions des premier et deuxième alinéas ne peuvent être appliquées, le siège demeure vacant jusqu'au
 prochain renouvellement de l'Assemblée de Corse. Toutefois, si le tiers des sièges de l'Assemblée de Corse vient à être
@@ -15884,7 +15862,7 @@ Corse doit intervenir dans les trois mois suivant ladite vacance.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
 	**Cité par**:
 
@@ -15895,11 +15873,11 @@ Corse doit intervenir dans les trois mois suivant ladite vacance.
 
 	**Modifié par**:
 
-	  - Loi n°2003-327 du 11 avril 2003 - art. 9 () JORF 12 avril 2003
+	  - Loi n°2015-991 du 7 août 2015 - art. 30
 
 	**Cite**:
 
-	  - Code électoral - art. L46-1 (VT)
+	  - Code électoral - art. L46-1
 
 
 #### Chapitre X : Contentieux
@@ -15909,8 +15887,8 @@ Corse doit intervenir dans les trois mois suivant ladite vacance.
 Les élections à l'Assemblée de Corse peuvent être contestées dans les dix jours suivant la proclamation des résultats par
 tout candidat ou tout électeur d'une commune de Corse devant le Conseil d'Etat statuant au contentieux. 
 
-Le même droit est ouvert au représentant de l'Etat dans la collectivité territoriale de Corse s'il estime que les conditions
-et les formes légalement prescrites n'ont pas été respectées. 
+Le même droit est ouvert au représentant de l'Etat dans la collectivité de Corse s'il estime que les conditions et les formes
+légalement prescrites n'ont pas été respectées. 
 
 L'éligibilité d'un candidat devenu conseiller à l'Assemblée de Corse par application des dispositions du premier alinéa de
 l'article L. 360 et de l'article L. 380 peut être contestée dans le délai de dix jours à compter de la date à laquelle ce
@@ -15922,16 +15900,11 @@ Les dispositions du dernier alinéa de l'article L. 361 sont applicables.
 
 	**Codifié par**:
 
-	  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+	  - Décret n°64-1086 du 27 octobre 1964
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-	**Créé par**:
-
-	  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-	  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+	  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 	**Cité par**:
 
@@ -15939,9 +15912,9 @@ Les dispositions du dernier alinéa de l'article L. 361 sont applicables.
 
 	**Cite**:
 
-	  - Code électoral - art. L360 (V)
-	  - Code électoral - art. L361 (V)
-	  - Code électoral - art. L380 (V)
+	  - Code électoral - art. L360
+	  - Code électoral - art. L361
+	  - Code électoral - art. L380
 
 
 ###### Article L382
