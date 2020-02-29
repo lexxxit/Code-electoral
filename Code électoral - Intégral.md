@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-03-01
 
 # Partie législative
 
@@ -1507,15 +1507,15 @@ renouvellement général des conseils municipaux s'il intervient avant cette dat
 ###### Article L46-1
 
 Nul ne peut cumuler plus de deux des mandats électoraux énumérés ci-après : conseiller régional, conseiller à l'Assemblée de
-Corse, conseiller départemental, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à l'assemblée de
-Martinique, conseiller municipal. 
+Corse, conseiller départemental, conseiller de Paris, conseiller métropolitain de Lyon, conseiller à l'assemblée de Guyane,
+conseiller à l'assemblée de Martinique, conseiller municipal. 
 
 Quiconque, à l'exception des personnes visées aux articles L. 270, L. 272-6 et L. 360 du présent code, se trouve dans ce cas
 doit faire cesser l'incompatibilité en démissionnant d'un des mandats qu'il détenait antérieurement. Il dispose à cet effet
 d'un délai de trente jours à compter de la date de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de
 contestation, de la date à laquelle le jugement confirmant cette élection est devenu définitif. A défaut d'option ou en cas
 de démission du dernier mandat acquis dans le délai imparti, le mandat ou la fonction acquis ou renouvelé à la date la plus
-ancienne prend fin de plein droit. 
+ancienne prend fin de plein droit.
 
 Par dérogation aux dispositions de l'alinéa précédent, quiconque se trouve placé en situation d'incompatibilité du fait de
 son élection comme membre d'un conseil municipal d'une commune à laquelle s'appliquent les dispositions du chapitre II du
@@ -1527,6 +1527,11 @@ la date la plus ancienne.
 
 Tant qu'il n'est pas mis fin, dans les conditions prévues aux deuxième et troisième alinéas, à l'incompatibilité mentionnée
 au premier alinéa, l'élu concerné ne perçoit aucune indemnité attachée au dernier mandat acquis ou renouvelé.
+
+**Nota:**
+
+Aux termes du V de l'article unique de la loi n° 2015-816 du 6 juillet 2015, ces dispositions entrent en vigueur à l'occasion
+du prochain renouvellement général des conseillers municipaux.
 
 **Liens relatifs à cet article**
 
@@ -1554,7 +1559,7 @@ au premier alinéa, l'élu concerné ne perçoit aucune indemnité attachée au 
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2015-816 du 6 juillet 2015 - art. unique (V)
 
 
 ###### Article L46-2
@@ -11714,6 +11719,714 @@ préparatoires à ce scrutin.
 	  - Code général des collectivités territoriales - art. L2122-7 (V)
 
 
+## Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires
+
+### Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
+
+### Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires
+
+#### Chapitre Ier : Conditions requises pour être électeur
+
+#### Chapitre II : Listes électorales
+
+#### Chapitre III : Conditions d'éligibilité et inéligibilités
+
+#### Chapitre IV : Incompatibilités
+
+#### Chapitre V : Propagande
+
+#### Chapitre V bis : Financement et plafonnement des dépenses électorales
+
+#### Chapitre VI : Vote
+
+#### Chapitre VII : Dispositions pénales
+
+#### Chapitre VIII : Contentieux
+
+### Titre II : Dispositions spéciales à l'élection des députés
+
+### Titre III : Dispositions spéciales à l'élection des conseillers départementaux
+
+### Titre III bis : Dispositions spéciales à l'élection des conseillers métropolitains de Lyon  
+
+#### Chapitre Ier : Composition du conseil de la métropole de Lyon et durée du mandat des conseillers
+
+###### Article L224-1
+
+Les conseillers métropolitains de Lyon sont élus pour six ans.
+
+Le conseil de la métropole de Lyon se renouvelle intégralement.
+
+Les élections ont lieu en même temps que le renouvellement général des conseils municipaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-2
+
+Le nombre de conseillers métropolitains de Lyon est de cent cinquante. 
+
+La composition du conseil de la métropole est fixée conformément au tableau n° 8 annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-816 du 6 juillet 2015 - art. unique (V)
+
+
+####  Chapitre II : Mode de scrutin
+
+
+###### Article L224-3
+
+Les conseillers métropolitains de Lyon sont élus dans chacune des circonscriptions métropolitaines au scrutin de liste à deux
+tours sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, sous réserve de l'application
+des deuxième et troisième alinéas de l'article L. 224-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-7
+
+	**Cité par**:
+
+	  - Code électoral - art. R117-1-1 (VD)
+
+
+###### Article L224-4
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre
+de sièges égal à la moitié du nombre des sièges à pourvoir, arrondi, le cas échéant, à l'entier supérieur. Cette attribution
+opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la
+plus forte moyenne, sous réserve de l'application du premier alinéa de l'article L. 224-6.
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-816 du 6 juillet 2015 - art. unique (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L224-6
+
+
+###### Article L224-5
+
+Au second tour de scrutin, il est attribué à la liste qui a recueilli le plus de voix un nombre de sièges égal à la moitié du
+nombre des sièges à pourvoir, arrondi, le cas échéant, à l'entier supérieur. En cas d'égalité de suffrages entre les listes
+arrivées en tête, ces sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
+attribution opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la
+règle de la plus forte moyenne, sous réserve de l'application du premier alinéa de l'article L. 224-6.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-816 du 6 juillet 2015 - art. unique (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L224-6
+
+
+###### Article L224-6
+
+A chaque tour de scrutin, les listes qui n'ont pas obtenu au moins 5 % des suffrages exprimés ne sont pas admises à la
+répartition des sièges. 
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+Les sièges sont attribués dans l'ordre de présentation des candidats sur chaque liste.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-816 du 6 juillet 2015 - art. unique (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. L224-4 (VD)
+	  - Code électoral - art. L224-5 (VD)
+
+
+###### Article L224-7
+
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10
+% des suffrages exprimés. Dans le cas où une seule liste remplit cette condition, la liste ayant obtenu après celle-ci le
+plus grand nombre de suffrages au premier tour peut se maintenir au second. Dans le cas où aucune liste ne remplit cette
+condition, les deux listes ayant obtenu le plus grand nombre de suffrages au premier tour peuvent se maintenir au second.
+
+La composition de ces listes peut être modifiée pour comprendre les candidats ayant figuré au premier tour sur d'autres
+listes, sous réserve de l'accord des candidats têtes des listes concernées, que celles-ci aient obtenu au premier tour au
+moins 5 % des suffrages exprimés et ne se présentent pas au second tour. Dans ce cas, le titre de la liste et l'ordre de
+présentation des candidats peuvent également être modifiés.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
+choix de la liste sur laquelle ils sont candidats au second tour est notifié au représentant de l'Etat par le candidat tête
+de la liste sur laquelle ils figuraient au premier tour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code électoral - art. L224-19 (VD)
+	  - Code électoral - art. L224-3 (VD)
+
+
+#### Chapitre III : Conditions d'éligibilité et inéligibilités
+
+
+
+###### Article L224-8
+
+Les articles L. 194 à L. 204 sont applicables aux conseillers métropolitains. Pour leur application, la métropole est
+assimilée au département, les services métropolitains aux services départementaux, la circonscription métropolitaine au
+canton, le conseil métropolitain au conseil départemental et le conseiller métropolitain au conseiller départemental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L194
+
+	**Cité par**:
+
+	  - Code électoral - art. L224-9 (VD)
+
+
+###### Article L224-9
+
+Tout conseiller métropolitain qui, pour une cause survenue postérieurement à son élection, se trouve dans un cas
+d'inéligibilité prévu à l'article L. 224-8 ou se trouve frappé d'une des incapacités qui font perdre la qualité d'électeur
+est déclaré démissionnaire d'office par le représentant de l'Etat, sauf réclamation au tribunal administratif dans les dix
+jours de la notification, et sauf recours au Conseil d'Etat, conformément aux articles L. 222 et L. 223. Lorsqu'un conseiller
+métropolitain est déclaré démissionnaire d'office à la suite d'une condamnation pénale définitive prononcée à son encontre et
+entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'arrêté du représentant de
+l'Etat n'est pas suspensif. 
+
+Le premier alinéa est applicable au cas où l'inéligibilité est antérieure à l'élection mais portée à la connaissance du
+représentant de l'Etat dans le département postérieurement à l'enregistrement de la candidature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L222
+	  - Code électoral - art. L223
+	  - Code électoral - art. L224-8
+
+
+#### Chapitre IV : Incompatibilités
+
+
+###### Article L224-10
+
+Les articles L. 206 et L. 207 sont applicables aux conseillers métropolitains. Pour leur application, la métropole de Lyon
+est assimilée au département, les services métropolitains aux services départementaux, la circonscription métropolitaine au
+canton, le conseil métropolitain au conseil départemental et le conseiller métropolitain au conseiller départemental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L206
+
+	**Cité par**:
+
+	  - Code électoral - art. L224-12 (VD)
+
+
+###### Article L224-11
+
+Le mandat de conseiller métropolitain est incompatible avec les fonctions d'agent salarié de la métropole de Lyon.
+
+La même incompatibilité existe à l'égard des entrepreneurs des services de la métropole de Lyon ainsi qu'à l'égard des agents
+salariés des établissements publics et agences créés par la métropole de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-12
+
+Tout conseiller métropolitain de Lyon qui, au moment de son élection, est placé dans l'une des situations prévues aux
+articles L. 224-10 et L. 224-11 dispose d'un délai de trente jours à partir de la date à laquelle son élection est devenue
+définitive pour démissionner de son mandat ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Il fait
+connaître son option par écrit au représentant de l'Etat, qui en informe le président du conseil de la métropole. A défaut
+d'option dans le délai imparti, il est réputé démissionnaire de son mandat. Cette démission est constatée par arrêté du
+représentant de l'Etat. 
+
+Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
+A défaut d'option dans le délai de trente jours à compter de la date à laquelle est survenue la cause d'incompatibilité, le
+conseiller métropolitain est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat. 
+
+Les arrêtés du représentant de l'Etat mentionnés aux deux alinéas précédents peuvent être contestés devant le tribunal
+administratif dans les dix jours suivant leur notification. L'élu reste en fonctions jusqu'à ce qu'il ait été définitivement
+statué sur cette contestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-10
+
+
+#### Chapitre V : Déclarations de candidature
+
+
+##### Section 1 : Dépôt des candidatures
+
+
+
+
+
+
+###### Article L224-13
+
+Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin. Le nombre de
+candidats figurant sur chaque liste est égal au nombre de sièges à pourvoir augmenté de deux.
+
+Chaque liste est composée alternativement d'un candidat de chaque sexe.
+
+Nul ne peut être candidat sur plus d'une liste, ni dans plus d'une circonscription métropolitaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code électoral - art. L224-19 (VD)
+	  - Code électoral - art. L224-20 (VD)
+
+
+###### Article L224-14
+
+Les déclarations de candidature sont déposées au plus tard à dix-huit heures, le quatrième mardi précédant le jour du
+scrutin.
+
+Les déclarations de candidature pour le second tour de scrutin sont déposées au plus tard à dix-huit heures le mardi qui suit
+le premier tour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-15
+
+La déclaration de candidature résulte du dépôt auprès des services compétents de l'Etat d'une liste répondant aux conditions
+fixées aux chapitres II et III du présent titre, ainsi qu'à celles du présent chapitre. 
+
+La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
+porteur d'un mandat écrit établi par ce candidat. A cet effet, chaque candidat établit un mandat signé de lui, confiant au
+candidat tête de liste le soin de faire ou de faire faire, par une personne déléguée par lui, toutes déclarations et
+démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Pour chaque tour de scrutin, cette
+déclaration comporte la signature de chaque candidat. A la déclaration sont jointes les pièces propres à prouver que les
+candidats répondent aux conditions d'éligibilité prévues à l'article L. 194. 
+
+La déclaration de candidature détermine l'ordre de présentation des candidats et indique expressément : 
+
+1° Le titre de la liste présentée ; 
+
+2° Les nom et prénoms du candidat tête de liste ; 
+
+3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+
+Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le candidat a procédé à la
+déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les
+pièces prévues au premier alinéa de ces mêmes articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L194
+	  - Code électoral - art. L52-5
+
+
+###### Article L224-16
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt d'une liste.
+
+Les listes complètes peuvent être retirées avant l'expiration du délai de dépôt des candidatures. La déclaration de retrait
+est signée par la majorité des candidats de la liste. Il est donné récépissé des déclarations de retrait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-17
+
+En cas de décès de l'un des candidats postérieurement au délai de dépôt des déclarations, dans les trois jours suivant le
+décès et au plus tard le deuxième vendredi précédant le jour du scrutin à dix-huit heures, le candidat tête de liste peut le
+remplacer par un nouveau candidat du même sexe, l'ordre de la liste pouvant être modifié.
+
+Ces nouvelles candidatures font l'objet d'une déclaration complémentaire dans les mêmes conditions que la déclaration
+initiale de la liste.
+
+Demeurent valables sans modification les listes portant le nom d'un candidat décédé postérieurement à l'enregistrement
+définitif de la liste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code électoral - art. R117-1-4 (VD)
+
+
+##### Section 2 : Enregistrement des candidatures
+
+###### Article L224-18
+
+Aucune déclaration de candidature ne peut être enregistrée si elle n'est pas conforme aux prescriptions du présent titre.
+
+Est interdit l'enregistrement de la candidature d'une liste comprenant au moins une personne inéligible.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-19
+
+Un récépissé provisoire de déclaration est délivré par le représentant de l'Etat. Il atteste du jour et du lieu du dépôt de
+candidature. 
+
+Si les candidatures satisfont aux conditions légales prévues au présent chapitre, un récépissé définitif attestant de son
+enregistrement est délivré par le représentant de l'Etat au plus tard le quatrième jour suivant celui mentionné au premier
+alinéa. 
+
+En cas de second tour de scrutin, si la déclaration de candidature est conforme aux conditions fixées aux articles L. 224-7
+et L. 224-13, le représentant de l'Etat en délivre récépissé sans délai. Il vaut enregistrement. 
+
+Le refus d'enregistrement est motivé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-13
+	  - Code électoral - art. L224-7
+
+
+###### Article L224-20
+
+Lorsque le refus d'enregistrement est motivé par l'inéligibilité d'un candidat, ou par la méconnaissance par un des candidats
+de la liste des dispositions du dernier alinéa de l'article L. 224-13, la liste dispose de trois jours pour se compléter au
+même rang. 
+
+La nouvelle candidature fait l'objet d'une déclaration complémentaire et d'un enregistrement dans les mêmes conditions que la
+déclaration initiale. 
+
+Ce délai passé, à défaut de déclaration complémentaire présentée par le candidat tête de liste, la candidature de la liste
+n'est pas enregistrée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-13
+
+
+##### Section 3 : Contestation du refus d'enregistrement des candidatures
+
+###### Article L224-21
+
+Le candidat tête de liste ou son représentant peut contester devant le tribunal administratif compétent le refus
+d'enregistrement qui lui a été opposé dans les vingt-quatre heures de la notification de ce refus.
+
+Si le tribunal administratif n'a pas statué dans le délai de trois jours qui suivent celui de sa saisine, la candidature est
+enregistrée par l'autorité compétente.
+
+Pour les déclarations de candidature avant le second tour, le candidat désigné tête de liste, ou son représentant, dispose
+d'un délai de vingt-quatre heures pour contester le refus d'enregistrement devant le tribunal administratif, qui statue dans
+les vingt-quatre heures de la requête. Faute par le tribunal d'avoir statué dans ce délai, la candidature de la liste est
+enregistrée.
+
+La décision du tribunal administratif ne peut être contestée qu'à l'occasion d'un recours contre l'élection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code électoral - art. R117-1-3 (VD)
+
+
+#### Chapitre VI : Propagande
+
+###### Article L224-22
+
+La campagne électorale est ouverte à partir du deuxième lundi qui précède le jour du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-23
+
+Une commission de propagande, dont la composition et le fonctionnement sont fixés par décret en Conseil d'Etat, est chargée
+d'assurer l'envoi et la distribution des documents de propagande électorale.
+
+L'Etat prend à sa charge les dépenses provenant des opérations effectuées par cette commission ainsi que celles qui résultent
+de son fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-24
+
+Sont remboursés aux listes ayant obtenu au moins 5 % des suffrages exprimés : le coût du papier, l'impression des bulletins
+de vote, affiches, circulaires et les frais d'affichage. Un décret en Conseil d'Etat détermine la nature et le nombre des
+bulletins, affiches et circulaires dont le coût est remboursé ; il détermine également le montant des frais d'affichage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-25
+
+Pour l'application des dispositions de l'article L. 52-11, le plafond des dépenses électorales pour l'élection des
+conseillers métropolitains de Lyon est celui des conseillers départementaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L52-11
+
+
+#### Chapitre VII : Opérations préparatoires au scrutin
+
+###### Article L224-26
+
+Pour le renouvellement du conseil de la métropole de Lyon, les électeurs sont convoqués par le décret pris en application de
+l'article L. 227. 
+
+Pour toute autre élection au conseil de métropole en cours de mandat, les électeurs sont convoqués par arrêté du représentant
+de l'Etat publié au plus tard six semaines avant le premier tour de scrutin.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-816 du 6 juillet 2015 - art. unique (V)
+
+	**Cité par**:
+
+	  - Code électoral - art. L224-30 (VD)
+
+	**Cite**:
+
+	  - Code électoral - art. L227
+
+
+#### Chapitre VIII : Opérations de vote
+
+###### Article L224-27
+
+Le candidat qui a fait acte de candidature soit sur plusieurs listes, soit dans plus d'une circonscription métropolitaine ne
+peut être proclamé élu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+###### Article L224-28
+
+Le recensement des votes est effectué en présence des représentants des listes, par une commission dont la composition et le
+fonctionnement sont fixés par décret en Conseil d'Etat.
+
+Les résultats sont proclamés au plus tard à dix-huit heures, le lundi suivant le jour du scrutin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code électoral - art. R117-1-6 (VD)
+	  - Code électoral - art. R117-1-7 (VD)
+
+
+#### Chapitre IX : Remplacement des conseillers métropolitains
+
+###### Article L224-29
+
+Le candidat venant sur une liste immédiatement après le dernier élu dans la même circonscription métropolitaine est appelé à
+remplacer, dès la date de la vacance, le conseiller métropolitain élu sur cette liste dont le siège devient vacant pour
+quelque cause que ce soit.
+
+Dans les mêmes conditions, l'élu présumé absent au sens de l'article 112 du code civil est remplacé provisoirement, à la date
+du jugement constatant la présomption d'absence, par le candidat venant immédiatement après le dernier élu sur la liste dont
+le présumé absent est issu.
+
+Le représentant de l'Etat notifie le nom de ce remplaçant au président du conseil de la métropole de Lyon.
+
+Le mandat de la personne ayant remplacé un conseiller métropolitain dont le siège était devenu vacant expire lors du
+renouvellement du conseil de la métropole qui suit son entrée en fonctions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code électoral - art. L224-30 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 112
+
+
+###### Article L224-30
+
+Lorsque les dispositions de l'article L. 224-29 ne peuvent être appliquées, le siège demeure vacant jusqu'au prochain
+renouvellement du conseil de la métropole. Toutefois, si le tiers des sièges d'une des circonscriptions métropolitaines du
+conseil de la métropole vient à être vacant, il est procédé au renouvellement intégral des conseillers métropolitains de
+cette circonscription métropolitaine dans les trois mois qui suivent la date de la dernière vacance, sauf dans le cas où le
+renouvellement du conseil de la métropole de Lyon doit intervenir dans les six mois suivant ladite vacance. 
+
+Sous réserve du deuxième alinéa de l'article L. 224-26, ce renouvellement en cours de mandat a lieu dans les mêmes conditions
+que le renouvellement intervenant au terme du délai légal. Le mandat des conseillers métropolitains ainsi élus expire lors du
+renouvellement suivant du conseil de la métropole.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-816 du 6 juillet 2015 - art. unique (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L224-26
+	  - Code électoral - art. L224-29
+
+
+#### Chapitre X : Contentieux
+
+
+
+
+
+
+###### Article L224-31
+
+La contestation des élections au conseil de la métropole de Lyon a lieu dans les mêmes conditions de délai et de procédure
+que la contestation des élections départementales.
+
+La constatation par la juridiction administrative de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de
+l'élection que du ou des élus inéligibles. Le juge proclame en conséquence l'élection du ou des suivants de liste.
+
+Le conseiller métropolitain dont l'élection est contestée reste en fonctions jusqu'à ce qu'il ait été définitivement statué
+sur la réclamation.
+
+En cas d'annulation de l'ensemble des opérations électorales, il est procédé à de nouvelles élections dans un délai de trois
+mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1539 du 19 décembre 2014 - art. 1
+
+
+### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
+
+### Titre V : Dispositions spéciales à l'élection des conseillers communautaires
+ 
+  
+
+
 ## Livre II : Election des sénateurs des départements
 
 ### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs
@@ -17433,31 +18146,91 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 
 ###### Article L438
 
-Les dispositions du chapitre II du titre IV du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur
-de la loi n° 2014-172 du 21 février 2014 visant à reconnaître le vote blanc aux élections, sont applicables en Polynésie
-française dans les communes de moins de 1 000 habitants, dans les communes de moins de 3 500 habitants composées de communes
-associées, ainsi que dans les communes de 3 500 habitants et plus composées d'au moins une commune associée de moins de 1 000
-habitants. 
+Les chapitres II et III du titre IV du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur de la loi
+n° 2016-1658 du 5 décembre 2016 relative à l'élection des conseillers municipaux dans les communes associées de la Polynésie
+française et à la modernisation du code général des collectivités territoriales applicable aux communes de la Polynésie
+française, à leurs groupements et à leurs établissements publics, sont applicables en Polynésie française sous réserve des
+adaptations suivantes : 
 
-Pour l'application en Polynésie française de l'article L. 255-1, les mots : " comprises dans une commune de 20 000 habitants
-ou plus " sont supprimés. 
+1° Au premier alinéa de l'article L. 255-1, les mots : " comprises dans une commune de 20 000 habitants ou plus " sont
+supprimés ; 
 
-Les dispositions du chapitre III du titre IV du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur
-de la loi n° 2014-172 du 21 février 2014 visant à reconnaître le vote blanc aux élections sont applicables en Polynésie
-française dans les communes de 1 000 habitants et plus, ainsi que dans les communes de 3 500 habitants et plus composées de
-communes associées dont chaque commune associée compte 1 000 habitants et plus. 
+2° L'article L. 260 est complété par un alinéa ainsi rédigé : 
 
-Pour leur application en Polynésie française, les deuxième et troisième alinéas de l'article L. 261 sont remplacés par un
-alinéa ainsi rédigé : 
+" Dans les communes composées de communes associées, chaque liste est constituée d'autant de sections qu'il y a de communes
+associées. Le nombre de sièges à pourvoir dans la commune est réparti, par arrêté du haut-commissaire, entre les sections
+proportionnellement à la population municipale de chaque commune associée en appliquant la règle de la plus forte moyenne,
+sans que ce nombre puisse être inférieur à un. " ; 
 
-" L'article L. 255-1 est applicable. "
+3° Les trois derniers alinéas de l'article L. 261 sont supprimés ; 
+
+4° L'article L. 262 est ainsi rédigé : 
+
+" Art. L. 262.-Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages
+exprimés un nombre de sièges égal à la moitié du nombre des sièges à pourvoir, arrondi à l'entier supérieur. Dans les
+communes composées de communes associées, ces sièges sont répartis entre les sections de commune comptant au moins deux
+sièges de la façon suivante : 
+
+" 1° Un siège est attribué aux sections de communes comptant deux sièges ; 
+
+" 2° Le reste des sièges est réparti entre les autres sections proportionnellement à la population municipale de chaque
+commune associée, en appliquant la règle de la plus forte moyenne. 
+
+" Cette attribution opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle
+suivant la règle de la plus forte moyenne, sous réserve de l'application du dixième alinéa. Dans les communes composées de
+communes associées, ces sièges sont répartis par section. 
+
+" Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un deuxième
+tour. Il est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal à la moitié du nombre des sièges à
+pourvoir, arrondi à l'entier supérieur. Dans les communes composées de communes associées, ces sièges sont répartis entre les
+sections de commune comptant au moins deux sièges de la façon suivante : 
+
+" a) Un siège est attribué aux sections de communes comptant deux sièges ; 
+
+" b) Le reste des sièges est réparti entre les autres sections proportionnellement à la population municipale de chaque
+commune associée, en appliquant la règle de la plus forte moyenne. 
+
+" En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont attribués à la liste dont les candidats
+ont la moyenne d'âge la plus élevée. 
+
+" Cette attribution opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle
+suivant la règle de la plus forte moyenne, sous réserve de l'application du dixième alinéa. Dans les communes composées de
+communes associées, ces sièges sont répartis par section. 
+
+" Les listes qui n'ont pas obtenu au moins 5 % des suffrages exprimés ne sont pas admises à la répartition des sièges. 
+
+" Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste, le cas échéant par section. 
+
+" Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le
+plus grand nombre de suffrages au niveau de la commune ou, le cas échéant, de la section. En cas d'égalité de suffrages, le
+siège est attribué au plus âgé des candidats susceptibles d'être proclamés élus. " ; 
+
+5° Le premier alinéa de l'article L. 264 est complété par une phrase ainsi rédigée : 
+
+" Dans les communes composées de communes associées, la liste est composée alternativement d'un candidat de chaque sexe au
+sein de chaque section. " ; 
+
+6° L'article L. 270 est ainsi modifié : 
+
+a) Le premier alinéa est remplacé par trois alinéas ainsi rédigés : 
+
+" Dans les communes dépourvues de communes associées, le candidat venant sur une liste immédiatement après le dernier élu est
+appelé à remplacer le conseiller municipal élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit. 
+
+" Dans les communes pourvues de communes associées, le candidat venant sur une liste immédiatement après le dernier élu dans
+la même section est appelé à remplacer le conseiller municipal élu sur cette liste dont le siège devient vacant pour quelque
+cause que ce soit. 
+
+" La constatation, par la juridiction administrative, de l'inéligibilité d'un ou de plusieurs candidats n'entraîne
+l'annulation de l'élection que du ou des élus inéligibles. La juridiction saisie proclame en conséquence l'élection du ou des
+suivants de liste. " ; 
+
+b) La dernière phrase du deuxième alinéa est complétée par les mots : ", le cas échéant par section ".
 
 **Nota:**
 
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
-51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
-conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
+Conformément à l'article 13 de la loi n° 2016-1658 du 5 décembre 2016, ces dispositions s'appliquent en Polynésie française à
+compter du prochain renouvellement général des conseillers municipaux.
 
 **Liens relatifs à cet article**
 
@@ -17468,14 +18241,15 @@ conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris a
 	  - Code général des collectivités territoriales - art. L2573-5 (V)
 	  - Code électoral - art. R269 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°2014-172 du 21 février 2014 - art. 5
-
 	**Cite**:
 
-	  - Code électoral - art. L255-1 (V)
-	  - Code électoral - art. L261 (V)
+	  - Loi n°2007-224 du 21 février 2007
+	  - Loi n°2011-412 du 14 avril 2011
+	  - Code électoral - art. L261
+
+	**Modifié par**:
+
+	  - Loi n°2016-1658 du 5 décembre 2016 - art. 1
 
 
 ### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
@@ -28044,6 +28818,273 @@ jours à chaque membre du binôme de candidats et au préfet.
 	**Cite**:
 
 	  - Code électoral - art. L118-3 (VT)
+
+
+### Titre III bis : Dispositions spéciales à l'élection des conseillers métropolitains de Lyon
+
+#### Chapitre V : Déclarations de candidature 
+
+
+
+##### Section 1 : Dépôt des candidatures
+
+###### Article R117-1-1
+
+Les déclarations de candidature en vue du premier tour de scrutin sont reçues en préfecture à compter du cinquième lundi qui
+précède le jour de ce premier tour. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi
+suivant le premier tour. 
+
+Elles sont rédigées sur un imprimé et font apparaître l'ordre des candidats dans chacune des circonscriptions métropolitaines
+mentionnées à l'article L. 224-3 du code électoral.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-3
+
+
+###### Article R117-1-2
+
+Chaque déclaration doit être accompagnée de la copie des pièces nécessaires mentionnées à l'article R. 109-2. Pour
+l'application de cet article, la référence au département s'entend de la métropole de Lyon. 
+
+Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99. 
+
+En cas de second tour, les candidats sont dispensés de produire à nouveau les pièces prévues au présent article, fournies à
+l'occasion du premier tour.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+
+##### Section 2 : Enregistrement des candidatures 
+
+
+
+###### Article R117-1-3
+
+Pour chaque circonscription métropolitaine, l'état des listes de candidats au premier tour de scrutin est arrêté par le
+préfet dans l'ordre résultant du tirage au sort prévu à l'article R. 28 et publié par ses soins au plus tard le troisième
+samedi qui précède le jour de ce premier tour. 
+
+L'état des listes de candidats au second tour est, s'il y a lieu, arrêté et publié dans les mêmes conditions au plus tard le
+mercredi qui suit le premier tour. Il fait l'objet de publications supplémentaires lorsqu'il a été fait application du
+troisième alinéa de l'article L. 224-21.
+
+Pour chaque tour, l'état indique le titre de la liste, les nom et prénoms du candidat désigné tête de liste, puis les nom et
+prénoms de tous les candidats composant la liste et énumérés dans l'ordre de présentation.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-21
+
+	**Cité par**:
+
+	  - Code électoral - art. R117-1-5 (VD)
+
+
+###### Article R117-1-4
+
+Lorsque, à la suite du décès d'un candidat, il y a lieu à application du deuxième alinéa de l'article L. 224-17, le préfet
+procède immédiatement à la publication de la modification intervenue dans la composition de la liste.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-17
+
+	**Cité par**:
+
+	  - Code électoral - art. R117-1-5 (VD)
+
+
+#### Chapitre VI : Propagande 
+
+
+
+###### Article R117-1-5
+
+Les bulletins de vote comportent le titre de la liste, les nom et prénoms du candidat désigné tête de liste ainsi que les nom
+et prénoms de chacun des candidats composant la liste dans l'ordre de présentation tel qu'il résulte de la publication prévue
+aux articles R. 117-1-3 et, le cas échéant, R. 117-1-4.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. R117-1-3
+	  - Code électoral - art. R117-1-4
+
+
+#### Chapitre VIII : Opérations de vote
+
+###### Article R117-1-6
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune, à Lyon
+de chaque arrondissement ou fraction d'arrondissement, accompagné des pièces qui y sont réglementairement annexées, est
+scellé et transmis au président de la commission de recensement instituée par l'article L. 224-28.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-28
+
+
+###### Article R117-1-7
+
+La commission de recensement des votes prévue à l'article L. 224-28 est instituée par arrêté du préfet. 
+
+Elle comprend trois magistrats, dont le président de la commission, désignés par le premier président de la cour d'appel, un
+conseiller métropolitain désigné par le président de la métropole et un fonctionnaire désigné par le préfet. 
+
+Un suppléant de chaque membre est désigné dans les mêmes conditions. 
+
+Un représentant de chacune des listes peut assister aux opérations de la commission.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. L224-28
+
+
+###### Article R117-1-8
+
+Pour chaque circonscription métropolitaine, la commission effectue le recensement général des votes dès la fermeture du
+scrutin et au fur et à mesure de l'arrivée des procès-verbaux. 
+
+La commission tranche les questions que peuvent poser, en dehors de toute réclamation, la validité et le décompte des
+bulletins, et procède aux rectifications nécessaires.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+
+###### Article R117-1-9
+
+Dans chaque circonscription, les résultats du recensement général des votes et l'attribution des sièges sont constatés par un
+procès-verbal établi en double exemplaire et signé de tous les membres de la commission. 
+
+La commission rend publics les résultats du scrutin. 
+
+Le procès-verbal établi par la commission est remis au préfet.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+
+####  Chapitre X : Contentieux 
+
+
+
+
+
+
+###### Article R117-1-10
+
+Les articles R. 113 à R. 117-1 sont applicables à l'élection des conseillers métropolitains de Lyon. 
+
+Pour l'application des articles R. 113 et R. 117-1, les références au conseil départemental et au canton s'entendent
+respectivement du conseil de la métropole et de la circonscription métropolitaine. Les références au membre d'un binôme de
+candidats ou à un remplaçant s'entendent d'un candidat.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en
+vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1169 du 22 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code électoral - art. R113
 
 
 ### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris
@@ -48558,5 +49599,296 @@ dans le cadre des régions définies à l'article 1er.
 	**Modifié par**:
 
 	  - Loi n°2015-29 du 16 janvier 2015 - art. 5
+
+
+## Délimitation des circonscriptions métropolitaines
+
+###### Article Annexe tableau n° 8
+
+<table>
+    <tbody>
+      <tr>
+        <th>DÉNOMINATION 
+
+des circonscriptions 
+
+métropolitaines 
+
+</th>
+        <th>
+
+DÉLIMITATION DES CIRCONSCRIPTIONS MÉTROPOLITAINES 
+
+</th>
+        <th>
+
+NOMBRE DE SIÈGES 
+
+à pourvoir 
+
+</th>
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
+
+Lones et Coteaux 
+
+</td>
+        <td valign="middle">
+
+Charly, Givors, Grigny, Irigny, La Mulatière, Oullins, Pierre-Bénite, Saint-Genis-Laval, Vernaison 
+
+</td>
+        <td valign="middle" align="center">
+
+12 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Lyon-Ouest 
+
+</td>
+        <td valign="middle">
+
+5e et 9e arrondissements de Lyon 
+
+</td>
+        <td valign="middle" align="center">
+
+11 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Lyon-Sud 
+
+</td>
+        <td valign="middle">
+
+7e arrondissement de Lyon 
+
+</td>
+        <td align="center" valign="middle">
+
+8 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
+
+Lyon-Centre 
+
+</td>
+        <td valign="middle">
+
+1er, 2e et 4e arrondissements de Lyon 
+
+</td>
+        <td align="center" valign="middle">
+
+11 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Lyon-Est 
+
+</td>
+        <td valign="middle">
+
+3e arrondissement de Lyon : partie à l'est de la ligne de chemin de fer Paris-Lyon 
+
+</td>
+        <td align="center" valign="middle">
+
+7 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Lyon-Nord 
+
+</td>
+        <td valign="middle">
+
+6e arrondissement de Lyon 
+
+3e arrondissement de Lyon : partie à l'ouest de la ligne de chemin de fer Paris-Lyon 
+
+</td>
+        <td valign="middle" align="center">
+
+9 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Lyon-Sud-Est 
+
+</td>
+        <td valign="middle">
+
+8e arrondissement de Lyon 
+
+</td>
+        <td align="center" valign="middle">
+
+9 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Ouest 
+
+</td>
+        <td valign="middle">
+
+Charbonnières-les-Bains, Craponne, Francheville, Marcy-l'Etoile, Saint-Genis-les-Ollières, Sainte-Foy-lès-Lyon, Tassin-la-
+Demi-Lune 
+
+</td>
+        <td align="center" valign="middle">
+
+9 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Plateau Nord-Caluire 
+
+</td>
+        <td valign="middle">
+
+Caluire-et-Cuire, Rillieux-la-Pape, Sathonay-Camp 
+
+</td>
+        <td valign="middle" align="center">
+
+8 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
+
+Porte des Alpes 
+
+</td>
+        <td valign="middle">
+
+Bron, Chassieu, Mions, Saint-Priest 
+
+</td>
+        <td valign="middle" align="center">
+
+12 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Portes du Sud 
+
+</td>
+        <td valign="middle">
+
+Corbas, Feyzin, Saint-Fons, Solaize, Vénissieux 
+
+</td>
+        <td align="center" valign="middle">
+
+11 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Rhône Amont 
+
+</td>
+        <td valign="middle">
+
+Décines-Charpieu, Jonage, Meyzieu, Vaulx-en-Velin 
+
+</td>
+        <td valign="middle" align="center">
+
+12 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Val de Saône 
+
+</td>
+        <td valign="middle">
+
+Albigny-sur-Saône, Cailloux-sur-Fontaines, Champagne-au-Mont-d'Or, Collonges-au-Mont-d'Or, Couzon-au-Mont-d'Or, Curis-au-
+Mont-d'Or, Dardilly, Ecully, Fleurieu-sur-Saône, Fontaines-Saint-Martin, Fontaines-sur-Saône, Genay, Limonest, Lissieu,
+Montanay, Neuville-sur-Saône, Poleymieux-au-Mont-d'Or, Quincieux, Rochetaillée-sur-Saône, Saint-Cyr-au-Mont-d'Or, Saint-
+Didier-au-Mont-d'Or, Saint-Germain-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or, Sathonay-Village, La Tour-de-Salvagny 
+
+</td>
+        <td align="center" valign="middle">
+
+14 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Villeurbanne 
+
+</td>
+        <td valign="middle" align="left">
+
+Villeurbanne 
+
+</td>
+        <td align="center" valign="middle">
+
+17 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" colspan="2" valign="middle">
+
+Total 
+
+</td>
+        <td align="center" valign="middle">
+
+150</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-816 du 6 juillet 2015 - art. unique (V)
 
 
